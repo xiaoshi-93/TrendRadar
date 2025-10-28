@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-28T17:02:55.263491+08:00",
-  "total_titles_processed": 1369,
+  "generated_at": "2025-10-28T17:27:37.046025+08:00",
+  "total_titles_processed": 1445,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时24分 ~ 17时02分]"
+          "appearance_count": 9,
+          "time_info": "[07时24分 ~ 17时27分]"
         },
         {
           "title": "美股收盘：三大指数齐刷历史新高 高通进军AI芯片股价暴涨11%",
@@ -267,7 +267,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "【早报】证监会连续出手！出台保护中小投资者政策举措、优化QFII制度；美股再创历史新高，国际金价失守4000美元",
@@ -290,8 +290,21 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时34分 ~ 17时02分]"
+          "appearance_count": 6,
+          "time_info": "[12时34分 ~ 17时27分]"
+        },
+        {
+          "title": "金价突然杀跌原因何在",
+          "url": "https://www.toutiao.com/trending/7565674495126847531/",
+          "source": "今日头条",
+          "ranks": [
+            21,
+            22,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时42分 ~ 17时27分]"
         },
         {
           "title": "印度2025年排灯节头两天的黄金购买量超过40吨。 相比珠宝，印度消费者更青睐金币和金条。 投资动机对黄金购买行为的影响力超过消费需求。 摩根士丹利认为，印度家庭所持黄金价值大约3.8万亿美元。",
@@ -311,18 +324,6 @@
           "source": "金十数据",
           "ranks": [
             10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时42分 ~ 17时02分]"
-        },
-        {
-          "title": "金价突然杀跌原因何在",
-          "url": "https://www.toutiao.com/trending/7565674495126847531/",
-          "source": "今日头条",
-          "ranks": [
-            21,
-            22
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -352,6 +353,17 @@
           "time_info": "11时13分"
         },
         {
+          "title": "市场分析：贸易乐观情绪打压需求，金价下跌",
+          "url": "https://flash.jin10.com/detail/20251028171145842800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时27分"
+        },
+        {
           "title": "金价是由什么决定的",
           "url": "https://search.bilibili.com/all?keyword=%E9%87%91%E4%BB%B7%E6%98%AF%E7%94%B1%E4%BB%80%E4%B9%88%E5%86%B3%E5%AE%9A%E7%9A%84",
           "source": "bilibili 热搜",
@@ -366,8 +378,19 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "据AXIOS网站：OpenAI的新浏览器Atlas引发隐私和安全担忧。隐私保护人士表示，该浏览器收集的数据量远远超过市场上任何其他浏览器。",
+          "url": "https://flash.jin10.com/detail/20251028172154979800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时27分"
+        },
         {
           "title": "OpenAI公司正为印度用户提供为期一年的免费ChatGPT Go服务",
           "url": "https://flash.jin10.com/detail/20251028141734494800",

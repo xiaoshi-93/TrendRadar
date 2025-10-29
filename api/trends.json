@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-29T11:20:16.410099+08:00",
-  "total_titles_processed": 976,
+  "generated_at": "2025-10-29T12:33:29.929486+08:00",
+  "total_titles_processed": 1082,
   "failed_sources": [],
   "trends": [
     {
@@ -40,8 +40,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时25分 ~ 11时20分]"
+          "appearance_count": 6,
+          "time_info": "[06时25分 ~ 12时33分]"
         },
         {
           "title": "美股三大指数集体上涨，苹果总市值首次升破4万亿美元，现货黄金失守3900美元关口，加密货币下跌",
@@ -227,8 +227,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时56分 ~ 11时20分]"
+          "appearance_count": 4,
+          "time_info": "[09时56分 ~ 12时33分]"
         },
         {
           "title": "OpenAI首席执行官Altman：考虑到我们未来的资金需求，可以说进行IPO对我们而言是最有可能的出路。",
@@ -301,7 +301,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "跌破4000美元，金价较高点已跌9%，此前7周飙升27%，业内高管“金价需要先下跌才能走高”",
@@ -378,13 +378,24 @@
           "time_info": "07时24分"
         },
         {
+          "title": "金价暴涨暴跌后 有央行开始考虑卖黄金了……",
+          "url": "https://www.cls.cn/detail/2184251",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时33分"
+        },
+        {
           "title": "隔夜金价一度跌破3900美元，投行纷纷下调黄金价格预期；特朗普又向鲍威尔“开炮”，称其不是无能就是坏；在政府停摆、数据缺失的背景下，万众瞩目的美联储决议将于明日凌晨公布，当前黄金空头占优，白银卖出信号强烈，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
           "url": "https://flash.jin10.com/detail/20251029105537246800",
           "source": "金十数据",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时20分"
         }
@@ -405,8 +416,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[05时22分 ~ 11时20分]"
+          "appearance_count": 8,
+          "time_info": "[05时22分 ~ 12时33分]"
         },
         {
           "title": "Lucid宣布计划推出Level 4自动驾驶电动车",

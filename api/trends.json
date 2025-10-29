@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-29T20:54:40.472479+08:00",
-  "total_titles_processed": 1881,
+  "generated_at": "2025-10-29T21:37:01.415331+08:00",
+  "total_titles_processed": 1964,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "贸易缓和提振美股新高，人民币两月最大涨幅，黄金失守4000美元，伦铜收创新高",
@@ -77,17 +77,6 @@
           "time_info": "16时34分"
         },
         {
-          "title": "Fiserv美股盘前大跌35%，指引和业绩均大幅低于预期",
-          "url": "https://wallstreetcn.com/livenews/2995988",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时54分"
-        },
-        {
           "title": "美股三大指数集体上涨，苹果总市值首次升破4万亿美元，现货黄金失守3900美元关口，加密货币下跌",
           "url": "https://wallstreetcn.com/articles/3758056",
           "source": "华尔街见闻",
@@ -112,6 +101,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时30分 ~ 06时25分]"
+        },
+        {
+          "title": "Fiserv美股盘前大跌35%，指引和业绩均大幅低于预期",
+          "url": "https://wallstreetcn.com/livenews/2995988",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 21时37分]"
         },
         {
           "title": "美股三大股指续创新高 英伟达涨近5%",
@@ -186,6 +187,17 @@
           "time_info": "[05时23分 ~ 06时25分]"
         },
         {
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/2996013",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
+        },
+        {
           "title": "金十图示：2025年10月28日（周二）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20251029005409163800",
           "source": "金十数据",
@@ -247,7 +259,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时54分"
         }
@@ -255,7 +267,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "跌破4000美元，金价较高点已跌9%，此前7周飙升27%，业内高管“金价需要先下跌才能走高”",
@@ -343,8 +355,19 @@
             20
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时25分 ~ 21时37分]"
+        },
+        {
+          "title": "金价剧震如何改变了水贝",
+          "url": "https://www.toutiao.com/trending/7566505063359712822/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时25分 ~ 20时54分]"
+          "time_info": "[21时36分 ~ 21时37分]"
         },
         {
           "title": "金价暴跌有投资者打算割肉离场",
@@ -729,7 +752,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时54分"
         }

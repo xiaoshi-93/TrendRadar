@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-29T13:26:20.279279+08:00",
-  "total_titles_processed": 1183,
+  "generated_at": "2025-10-29T14:38:05.704644+08:00",
+  "total_titles_processed": 1266,
   "failed_sources": [],
   "trends": [
     {
@@ -19,6 +19,19 @@
           "time_info": "[00时45分 ~ 07时24分]"
         },
         {
+          "title": "美股收盘：三大指数再刷历史新高 英伟达大会发威涨近5%",
+          "url": "https://www.cls.cn/detail/2184098",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[06时25分 ~ 14时38分]"
+        },
+        {
           "title": "美股三大期指集体走高 黄仁勋将发表主题演讲 | 今夜看点",
           "url": "https://www.cls.cn/detail/2183910",
           "source": "财联社热门",
@@ -29,19 +42,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时45分 ~ 09时56分]"
-        },
-        {
-          "title": "美股收盘：三大指数再刷历史新高 英伟达大会发威涨近5%",
-          "url": "https://www.cls.cn/detail/2184098",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时25分 ~ 13时26分]"
         },
         {
           "title": "美股三大指数集体上涨，苹果总市值首次升破4万亿美元，现货黄金失守3900美元关口，加密货币下跌",
@@ -227,8 +227,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时56分 ~ 13时26分]"
+          "appearance_count": 7,
+          "time_info": "[09时56分 ~ 14时38分]"
         },
         {
           "title": "OpenAI首席执行官Altman：考虑到我们未来的资金需求，可以说进行IPO对我们而言是最有可能的出路。",
@@ -363,8 +363,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时33分 ~ 13时26分]"
+          "appearance_count": 4,
+          "time_info": "[12时33分 ~ 14时38分]"
         },
         {
           "title": "金价暴跌有投资者打算割肉离场",
@@ -417,8 +417,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[05时22分 ~ 13时26分]"
+          "appearance_count": 11,
+          "time_info": "[05时22分 ~ 14时38分]"
         },
         {
           "title": "Lucid宣布计划推出Level 4自动驾驶电动车",

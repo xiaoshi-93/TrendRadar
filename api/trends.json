@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-29T07:24:46.016899+08:00",
-  "total_titles_processed": 671,
+  "generated_at": "2025-10-29T09:56:53.436997+08:00",
+  "total_titles_processed": 837,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "贸易缓和提振美股新高，人民币两月最大涨幅，黄金失守4000美元，伦铜收创新高",
@@ -27,8 +27,21 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时45分 ~ 07时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时45分 ~ 09时56分]"
+        },
+        {
+          "title": "美股收盘：三大指数再刷历史新高 英伟达大会发威涨近5%",
+          "url": "https://www.cls.cn/detail/2184098",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时25分 ~ 09时56分]"
         },
         {
           "title": "美股三大指数集体上涨，苹果总市值首次升破4万亿美元，现货黄金失守3900美元关口，加密货币下跌",
@@ -55,18 +68,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时30分 ~ 06时25分]"
-        },
-        {
-          "title": "美股收盘：三大指数再刷历史新高 英伟达大会发威涨近5%",
-          "url": "https://www.cls.cn/detail/2184098",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时25分 ~ 07时24分]"
         },
         {
           "title": "费城金银指数收涨1.28%，报278.09点。 纽约证交所ARCA金矿开采商指数收涨0.30%，报1980.77点；北京时间21:30美股开盘之前维持跌势、持稳于1960点附近，之后跳空“低开”、逼近1930点，随后反弹并逐步上涨。 金银矿业股多数收涨，科尔黛伦矿业涨3.39%，赫克拉矿业涨3.16%，金田涨2.66%，金矿股ETF涨1.59%，泛美白银涨1.47%，黄金矿工因素指数ETF涨1.43%，白银ETF涨0.71%。 黄金ETF则至少收跌0.72%，B2Gold跌1.21%，Blue Gold跌7.76%。",
@@ -171,12 +172,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
+        },
+        {
+          "title": "美股三大股指续创新高 英伟达涨近5%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E8%82%A1%E6%8C%87%E7%BB%AD%E5%88%9B%E6%96%B0%E9%AB%98+%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%B6%A8%E8%BF%915%25",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时56分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "OpenAI重组落地！微软持股27% 并续签AI合作至2032年",
@@ -188,8 +200,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时45分 ~ 07时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时45分 ~ 09时56分]"
         },
         {
           "title": "PayPal成为ChatGPT首个支付钱包 盘前一度涨超15%",
@@ -215,6 +227,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时22分 ~ 04时30分]"
+        },
+        {
+          "title": "OpenAI达成重磅协议向营利组织转型，微软持股27%，AI模型授权延至2032年，Azure获2500亿订单",
+          "url": "https://wallstreetcn.com/articles/3758104",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时56分"
         },
         {
           "title": "OpenAI首席执行官萨姆·奥尔特曼：考虑到公司未来的资本需求，IPO是最有可能的途径。",
@@ -294,11 +317,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时45分 ~ 07时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时45分 ~ 09时56分]"
         },
         {
           "title": "金价跌破3900美元 未来会是什么走势",
@@ -312,8 +336,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时45分 ~ 07时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时45分 ~ 09时56分]"
         },
         {
           "title": "金价银价暴跌原因",
@@ -328,24 +352,25 @@
           "time_info": "[02时39分 ~ 03时22分]"
         },
         {
+          "title": "金价暴跌有投资者打算割肉离场",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%87%91%E4%BB%B7%E6%9A%B4%E8%B7%8C%E6%9C%89%E6%8A%95%E8%B5%84%E8%80%85%E6%89%93%E7%AE%97%E5%89%B2%E8%82%89%E7%A6%BB%E5%9C%BA&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D27%26lcate%3D5001%26realpos%3D27%26flag%3D1%26filter_type%3Drealtimehot%26q%3D%25E9%2587%2591%25E4%25BB%25B7%25E6%259A%25B4%25E8%25B7%258C%25E6%259C%2589%25E6%258A%2595%25E8%25B5%2584%25E8%2580%2585%25E6%2589%2593%25E7%25AE%2597%25E5%2589%25B2%25E8%2582%2589%25E7%25A6%25BB%25E5%259C%25BA%26cate%3D5001%26dgr%3D0%26pos%3D28%26c_type%3D31%26stream_entry_id%3D31%26display_time%3D1761693616%26pre_seqid%3D17616936161180346969155",
+          "source": "微博",
+          "ranks": [
+            27,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时24分 ~ 09时56分]"
+        },
+        {
           "title": "金价是否会重现上世纪80年代到上世纪末的最长熊市？",
           "url": "https://flash.jin10.com/detail/20251029061557323800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时24分"
-        },
-        {
-          "title": "金价暴跌有投资者打算割肉离场",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%87%91%E4%BB%B7%E6%9A%B4%E8%B7%8C%E6%9C%89%E6%8A%95%E8%B5%84%E8%80%85%E6%89%93%E7%AE%97%E5%89%B2%E8%82%89%E7%A6%BB%E5%9C%BA&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D27%26lcate%3D5001%26realpos%3D27%26flag%3D1%26filter_type%3Drealtimehot%26q%3D%25E9%2587%2591%25E4%25BB%25B7%25E6%259A%25B4%25E8%25B7%258C%25E6%259C%2589%25E6%258A%2595%25E8%25B5%2584%25E8%2580%2585%25E6%2589%2593%25E7%25AE%2597%25E5%2589%25B2%25E8%2582%2589%25E7%25A6%25BB%25E5%259C%25BA%26cate%3D5001%26dgr%3D0%26pos%3D28%26c_type%3D31%26stream_entry_id%3D31%26display_time%3D1761693616%26pre_seqid%3D17616936161180346969155",
-          "source": "微博",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
         }
@@ -362,11 +387,12 @@
           "ranks": [
             13,
             9,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时22分 ~ 07时24分]"
+          "appearance_count": 5,
+          "time_info": "[05时22分 ~ 09时56分]"
         },
         {
           "title": "Lucid宣布计划推出Level 4自动驾驶电动车",

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-30T09:56:15.116069+08:00",
-  "total_titles_processed": 617,
+  "generated_at": "2025-10-30T11:17:51.031695+08:00",
+  "total_titles_processed": 741,
   "failed_sources": [],
   "trends": [
     {
@@ -204,19 +204,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时26分 ~ 09时56分]"
-        },
-        {
-          "title": "鲍威尔一句话掀翻市场 美股盘中跳水",
-          "url": "https://www.toutiao.com/trending/7566623844883431451/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时55分 ~ 09时56分]"
+          "appearance_count": 6,
+          "time_info": "[06时26分 ~ 11时17分]"
         },
         {
           "title": "扎克伯格旗下Meta Platforms Inc.三季度营收512.4亿美元，分析师预期495.9亿美元。 三季度广告收入500.8亿美元，分析师预期485.9亿美元。 三季度运营利润205.4亿美元，同比增长18%。 因税单而一次性计提159.3亿美元非现金费用。 预计全年总体开支1160亿-1180亿美元，公司原本预计1140亿-1180亿美元。 预计四季度总体收入将介于560亿-590亿美元。 Meta美股盘后跌8.7%。",
@@ -228,6 +217,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时42分"
+        },
+        {
+          "title": "鲍威尔一句话掀翻市场 美股盘中跳水",
+          "url": "https://www.toutiao.com/trending/7566623844883431451/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时55分 ~ 11时17分]"
         },
         {
           "title": "利率决议、业绩报告在即，美股指数集体上涨，英伟达总市值突破5万亿美元，黄金突破4000美元关口",
@@ -331,11 +332,12 @@
           "url": "https://www.cls.cn/detail/2185569",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时55分 ~ 09时56分]"
+          "appearance_count": 3,
+          "time_info": "[09时55分 ~ 11时17分]"
         },
         {
           "title": "OpenAI计划于2027年上市",
@@ -345,8 +347,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时55分 ~ 09时56分]"
+          "appearance_count": 3,
+          "time_info": "[09时55分 ~ 11时17分]"
         },
         {
           "title": "马斯克的律师发誓，要通过法律手段破坏OpenAI的重组计划。",
@@ -371,11 +373,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时23分 ~ 09时56分]"
+          "appearance_count": 4,
+          "time_info": "[07时23分 ~ 11时17分]"
         },
         {
           "title": "“债券天王”比尔·格罗斯：美国10年期国债的短期目标收益率为4.25%。 10年期美债已经迎来最好的时光。",
@@ -394,11 +397,12 @@
           "url": "https://wallstreetcn.com/articles/3758225",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时55分 ~ 09时56分]"
+          "appearance_count": 3,
+          "time_info": "[09时55分 ~ 11时17分]"
         },
         {
           "title": "美债收益率全面上涨，2-10年期收益率至少涨10个基点，鲍威尔12月降息并非那么笃定的事",

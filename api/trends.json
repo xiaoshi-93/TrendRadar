@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-31T18:27:15.486477+08:00",
-  "total_titles_processed": 1621,
+  "generated_at": "2025-10-31T19:22:07.287479+08:00",
+  "total_titles_processed": 1695,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "美股延续美联储会后颓势，Meta重挫拖累科技股，加密货币大跌，亚马逊苹果绩后大涨",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时22分 ~ 18时27分]"
+          "appearance_count": 16,
+          "time_info": "[07时22分 ~ 19时22分]"
         },
         {
           "title": "美股收盘：三大指数集体下跌 科技巨头股价大起大落",
@@ -63,7 +63,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
         },
@@ -174,6 +174,17 @@
           "time_info": "01时24分"
         },
         {
+          "title": "埃克森美孚第三季度收入及其他收益852.9亿美元。 第三季度调整后每股收益1.88美元，预估1.81美元。 第三季度每股收益1.76美元。 埃克森美孚美股盘前跌近1%。",
+          "url": "https://wallstreetcn.com/livenews/2997662",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
+        },
+        {
           "title": "金十图示：2025年10月30日（周四）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20251031003044643800",
           "source": "金十数据",
@@ -196,13 +207,24 @@
           "time_info": "05时22分"
         },
         {
+          "title": "雪佛龙第三季度调整后每股收益1.85美元，预估1.66美元。 第三季度收入及其他收益497.3亿美元，预估467.3亿美元。 雪佛龙美股盘前涨近1%。",
+          "url": "https://wallstreetcn.com/livenews/2997653",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
+        },
+        {
           "title": "小马智行美股盘前涨超5%。",
           "url": "https://wallstreetcn.com/livenews/2997604",
           "source": "华尔街见闻-快讯",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
         },
@@ -314,6 +336,17 @@
           "time_info": "[00时39分 ~ 07时22分]"
         },
         {
+          "title": "谷歌前CEO：当年李鸿章访美被震了，如今外国人来华被惊了",
+          "url": "https://news.ifeng.com/c/8ntxAfWGS8b",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时31分 ~ 19时22分]"
+        },
+        {
           "title": "标普500指数初步收跌1%，可选消费板块跌2.4%，电信板块跌1.8%，科技板块跌1.3%，房地产板块涨0.8%。 纳斯达克100指数初步收跌1.4%，成分股中，Meta初步收跌约11%，MSTR跌7.1%，特斯拉跌4.4%，核电股Constellation Energy跌4.2%，亚马逊跌3%，谷歌A、MercadoLibre、VRSK、格芯至少涨超2%。 波音初步收跌6%，和VZ、联合健康、亚马逊、微软、英伟达领跌道指成分股，摩根大通、迪士尼、Salesforce、思科则至少涨1%。",
           "url": "https://wallstreetcn.com/livenews/2997111",
           "source": "华尔街见闻-快讯",
@@ -323,17 +356,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时27分"
-        },
-        {
-          "title": "谷歌前CEO：当年李鸿章访美被震了，如今外国人来华被惊了",
-          "url": "https://news.ifeng.com/c/8ntxAfWGS8b",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时31分 ~ 18时27分]"
         },
         {
           "title": "谷歌Q3业绩全面超预期，云亮眼，上调资本支出至930亿美元，盘后涨超7% | 财报见闻",
@@ -354,7 +376,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
         }
@@ -384,11 +406,12 @@
           "source": "百度热搜",
           "ranks": [
             25,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时27分 ~ 18时27分]"
+          "appearance_count": 5,
+          "time_info": "[17时27分 ~ 19时22分]"
         },
         {
           "title": "大华银行：尽管近期出现回调，但金价的长期驱动因素仍未改变",
@@ -440,8 +463,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时36分 ~ 18时27分]"
+          "appearance_count": 9,
+          "time_info": "[14时36分 ~ 19时22分]"
         },
         {
           "title": "天奇股份：与富士康新能源汽车产业发展（河南）有限公司签署《战略合作框架协议》，双方拟共同推动具身智能机器人在工业场景的深度应用与技术创新。",
@@ -562,11 +585,12 @@
             12,
             10,
             9,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时31分 ~ 18时27分]"
+          "appearance_count": 12,
+          "time_info": "[12时31分 ~ 19时22分]"
         }
       ]
     },

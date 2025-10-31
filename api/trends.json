@@ -1,22 +1,23 @@
 {
-  "generated_at": "2025-10-31T15:24:32.122991+08:00",
-  "total_titles_processed": 1289,
+  "generated_at": "2025-10-31T16:32:07.850614+08:00",
+  "total_titles_processed": 1395,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "美股延续美联储会后颓势，Meta重挫拖累科技股，加密货币大跌，亚马逊苹果绩后大涨",
           "url": "https://wallstreetcn.com/articles/3758264",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时22分 ~ 15时24分]"
+          "appearance_count": 11,
+          "time_info": "[07时22分 ~ 16时32分]"
         },
         {
           "title": "美股收盘：三大指数集体下跌 科技巨头股价大起大落",
@@ -137,6 +138,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时54分 ~ 09时55分]"
+        },
+        {
+          "title": "美股盘前，亚马逊涨约12%，苹果涨约3%",
+          "url": "https://wallstreetcn.com/livenews/2997557",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
         },
         {
           "title": "金十图示：2025年10月30日（周四）美股热门股票行情一览（美股盘中）",
@@ -263,6 +275,58 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "美股三大期指集体走低 谷歌盘前大涨8% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2186836",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时39分 ~ 07时22分]"
+        },
+        {
+          "title": "标普500指数初步收跌1%，可选消费板块跌2.4%，电信板块跌1.8%，科技板块跌1.3%，房地产板块涨0.8%。 纳斯达克100指数初步收跌1.4%，成分股中，Meta初步收跌约11%，MSTR跌7.1%，特斯拉跌4.4%，核电股Constellation Energy跌4.2%，亚马逊跌3%，谷歌A、MercadoLibre、VRSK、格芯至少涨超2%。 波音初步收跌6%，和VZ、联合健康、亚马逊、微软、英伟达领跌道指成分股，摩根大通、迪士尼、Salesforce、思科则至少涨1%。",
+          "url": "https://wallstreetcn.com/livenews/2997111",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时27分"
+        },
+        {
+          "title": "谷歌Q3业绩全面超预期，云亮眼，上调资本支出至930亿美元，盘后涨超7% | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3758229",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时27分 ~ 06时23分]"
+        },
+        {
+          "title": "谷歌前CEO：当年李鸿章访美被震了，如今外国人来华被惊了",
+          "url": "https://news.ifeng.com/c/8ntxAfWGS8b",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时31分 ~ 16时32分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
       "match_count": 4,
       "titles": [
@@ -316,43 +380,54 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "keyword_group": "具身智能",
+      "match_count": 4,
       "titles": [
         {
-          "title": "美股三大期指集体走低 谷歌盘前大涨8% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2186836",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时39分 ~ 07时22分]"
-        },
-        {
-          "title": "标普500指数初步收跌1%，可选消费板块跌2.4%，电信板块跌1.8%，科技板块跌1.3%，房地产板块涨0.8%。 纳斯达克100指数初步收跌1.4%，成分股中，Meta初步收跌约11%，MSTR跌7.1%，特斯拉跌4.4%，核电股Constellation Energy跌4.2%，亚马逊跌3%，谷歌A、MercadoLibre、VRSK、格芯至少涨超2%。 波音初步收跌6%，和VZ、联合健康、亚马逊、微软、英伟达领跌道指成分股，摩根大通、迪士尼、Salesforce、思科则至少涨1%。",
-          "url": "https://wallstreetcn.com/livenews/2997111",
+          "title": "天奇股份：与富士康新能源汽车产业发展（河南）有限公司签署《战略合作框架协议》，双方拟共同推动具身智能机器人在工业场景的深度应用与技术创新。",
+          "url": "https://wallstreetcn.com/livenews/2997574",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            1
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时27分"
+          "time_info": "16时32分"
         },
         {
-          "title": "谷歌Q3业绩全面超预期，云亮眼，上调资本支出至930亿美元，盘后涨超7% | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3758229",
-          "source": "华尔街见闻",
+          "title": "五部门：加快培育数据要素市场 推进数据产业与低空经济、无人驾驶、具身智能等数据密集型产业融合发展",
+          "url": "https://www.cls.cn/detail/2187331",
+          "source": "财联社热门",
           "ranks": [
-            10,
-            8
+            12,
+            11,
+            9
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[04时27分 ~ 06时23分]"
+          "time_info": "[14时36分 ~ 16时32分]"
+        },
+        {
+          "title": "又一开源具身智能机器人项目发布 预计明年一季度上线",
+          "url": "https://wallstreetcn.com/livenews/2997556",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        },
+        {
+          "title": "国家发改委：推进数据产业与低空经济、无人驾驶、具身智能等数据密集型产业融合发展",
+          "url": "https://wallstreetcn.com/livenews/2997329",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时16分"
         }
       ]
     },
@@ -427,35 +502,6 @@
       ]
     },
     {
-      "keyword_group": "具身智能",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "五部门：加快培育数据要素市场 推进数据产业与低空经济、无人驾驶、具身智能等数据密集型产业融合发展",
-          "url": "https://www.cls.cn/detail/2187331",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时36分 ~ 15时24分]"
-        },
-        {
-          "title": "国家发改委：推进数据产业与低空经济、无人驾驶、具身智能等数据密集型产业融合发展",
-          "url": "https://wallstreetcn.com/livenews/2997329",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时16分"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
@@ -469,8 +515,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时31分 ~ 15时24分]"
+          "appearance_count": 7,
+          "time_info": "[12时31分 ~ 16时32分]"
         }
       ]
     },

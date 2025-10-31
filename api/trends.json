@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-31T09:55:02.434683+08:00",
-  "total_titles_processed": 822,
+  "generated_at": "2025-10-31T11:16:44.931886+08:00",
+  "total_titles_processed": 933,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时23分 ~ 09时55分]"
+          "appearance_count": 5,
+          "time_info": "[06时23分 ~ 11时16分]"
         },
         {
           "title": "美股延续美联储会后颓势，Meta重挫拖累科技股，加密货币大跌，亚马逊苹果绩后大涨",
@@ -41,8 +41,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时22分 ~ 09时55分]"
+          "appearance_count": 4,
+          "time_info": "[07时22分 ~ 11时16分]"
         },
         {
           "title": "亚马逊三季度净销售1801.7亿美元，分析师预期1778.2亿美元。 三季度北美净销售1062.7亿美元，分析师预期1049.6亿美元。 三季度AWS净销售330.1亿美元，分析师预期323.9亿美元。 三季度实体店净销售55.8亿美元，分析师预期55.6亿美元。 三季度运营利润9.7%，分析师预期11.1%。 亚马逊美股盘后涨11%。",
@@ -304,6 +304,48 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "金价狂飙婚事耽搁2年女子发声",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E7%8B%82%E9%A3%99%E5%A9%9A%E4%BA%8B%E8%80%BD%E6%90%812%E5%B9%B4%E5%A5%B3%E5%AD%90%E5%8F%91%E5%A3%B0%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D0%26filter_type%3Drealtimehot%26lcate%3D5001%26c_type%3D31%26band_rank%3D28%26pos%3D28%26cate%3D5001%26realpos%3D28%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E7%258B%2582%25E9%25A3%2599%25E5%25A9%259A%25E4%25BA%258B%25E8%2580%25BD%25E6%2590%25812%25E5%25B9%25B4%25E5%25A5%25B3%25E5%25AD%2590%25E5%258F%2591%25E5%25A3%25B0%2523%26dgr%3D0%26stream_entry_id%3D31%26display_time%3D1761855005%26pre_seqid%3D17618550055790247164112",
+          "source": "微博",
+          "ranks": [
+            28,
+            15,
+            12,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[04时27分 ~ 09时55分]"
+        },
+        {
+          "title": "大华银行：尽管近期出现回调，但金价的长期驱动因素仍未改变",
+          "url": "https://flash.jin10.com/detail/20251031092806995800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时55分"
+        },
+        {
+          "title": "金十图示：2025年10月31日（周五）上海金早盘价为918.81元/克，较国际金价(917.28元/克)，高1.53元/克",
+          "url": "https://flash.jin10.com/detail/20251031101827586800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时16分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 3,
       "titles": [
@@ -344,37 +386,6 @@
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "金价狂飙婚事耽搁2年女子发声",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E7%8B%82%E9%A3%99%E5%A9%9A%E4%BA%8B%E8%80%BD%E6%90%812%E5%B9%B4%E5%A5%B3%E5%AD%90%E5%8F%91%E5%A3%B0%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D0%26filter_type%3Drealtimehot%26lcate%3D5001%26c_type%3D31%26band_rank%3D28%26pos%3D28%26cate%3D5001%26realpos%3D28%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E7%258B%2582%25E9%25A3%2599%25E5%25A9%259A%25E4%25BA%258B%25E8%2580%25BD%25E6%2590%25812%25E5%25B9%25B4%25E5%25A5%25B3%25E5%25AD%2590%25E5%258F%2591%25E5%25A3%25B0%2523%26dgr%3D0%26stream_entry_id%3D31%26display_time%3D1761855005%26pre_seqid%3D17618550055790247164112",
-          "source": "微博",
-          "ranks": [
-            28,
-            15,
-            12,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[04时27分 ~ 09时55分]"
-        },
-        {
-          "title": "大华银行：尽管近期出现回调，但金价的长期驱动因素仍未改变",
-          "url": "https://flash.jin10.com/detail/20251031092806995800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时55分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美元",
       "match_count": 2,
       "titles": [
@@ -401,6 +412,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时27分 ~ 05时22分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "具身智能",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "国家发改委：推进数据产业与低空经济、无人驾驶、具身智能等数据密集型产业融合发展",
+          "url": "https://wallstreetcn.com/livenews/2997329",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时16分"
         }
       ]
     },

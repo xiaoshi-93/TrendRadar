@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-01T17:23:16.327411+08:00",
-  "total_titles_processed": 1192,
+  "generated_at": "2025-11-01T18:23:54.823618+08:00",
+  "total_titles_processed": 1270,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时21分 ~ 17时23分]"
+          "appearance_count": 14,
+          "time_info": "[07时21分 ~ 18时23分]"
         },
         {
           "title": "美股收盘：亚马逊升近10%创新高 纳指连涨七个月",
@@ -42,8 +42,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时21分 ~ 17时23分]"
+          "appearance_count": 14,
+          "time_info": "[07时21分 ~ 18时23分]"
         },
         {
           "title": "美股三大期指集体上涨 亚马逊盘前大涨超13% | 今夜看点",
@@ -246,6 +246,20 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "刘强东称将打造“超级供应链”",
+          "url": "https://wallstreetcn.com/livenews/2997984",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            8,
+            12,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时21分 ~ 18时23分]"
+        },
+        {
           "title": "日本正进行一场稀土供应链突围",
           "url": "https://www.toutiao.com/trending/7567319193796742699/",
           "source": "今日头条",
@@ -258,19 +272,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时31分 ~ 06时23分]"
-        },
-        {
-          "title": "刘强东称将打造“超级供应链”",
-          "url": "https://wallstreetcn.com/livenews/2997984",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            8,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时21分 ~ 17时23分]"
         },
         {
           "title": "亚太经合组织联合声明：我们支持确保供应链韧性的努力。",
@@ -354,8 +355,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时22分 ~ 17时23分]"
+          "appearance_count": 3,
+          "time_info": "[17时22分 ~ 18时23分]"
         }
       ]
     },
@@ -422,8 +423,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时21分 ~ 17时23分]"
+          "appearance_count": 5,
+          "time_info": "[15时21分 ~ 18时23分]"
         }
       ]
     }

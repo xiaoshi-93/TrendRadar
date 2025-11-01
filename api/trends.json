@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-02T00:28:00.965705+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-11-02T01:20:18.616397+08:00",
+  "total_titles_processed": 336,
   "failed_sources": [],
   "trends": [
     {
@@ -12,22 +12,24 @@
           "url": "https://wallstreetcn.com/articles/3758419",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 00时28分]"
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 01时20分]"
         },
         {
           "title": "高盛交易员：美股涨势\"极端窄化\"，七巨头屡创新高但整体跑输全球市场",
           "url": "https://wallstreetcn.com/articles/3758463",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 00时28分]"
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 01时20分]"
         },
         {
           "title": "美股收盘：亚马逊升近10%创新高 纳指连涨七个月",
@@ -37,8 +39,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 00时28分]"
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 01时20分]"
         }
       ]
     },
@@ -51,22 +53,24 @@
           "url": "https://wallstreetcn.com/articles/3758470",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 00时28分]"
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 01时20分]"
         },
         {
           "title": "如何看待 OpenAI 计划上市，估值或高达 1 万亿美元？此前不是宣称「非盈利」吗？",
           "url": "https://www.zhihu.com/question/1967273703189480617",
           "source": "知乎",
           "ranks": [
-            16
+            16,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 00时28分]"
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 01时20分]"
         }
       ]
     },
@@ -82,8 +86,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 00时28分]"
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 01时20分]"
         }
       ]
     },
@@ -96,11 +100,12 @@
           "url": "https://wallstreetcn.com/articles/3758466",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 00时28分]"
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 01时20分]"
         }
       ]
     }

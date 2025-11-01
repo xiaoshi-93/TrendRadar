@@ -1,8 +1,50 @@
 {
-  "generated_at": "2025-11-02T01:20:18.616397+08:00",
-  "total_titles_processed": 336,
+  "generated_at": "2025-11-02T02:32:49.971782+08:00",
+  "total_titles_processed": 356,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "微软财报泄露了OpenAI的财务数据：单季度巨亏115亿美元",
+          "url": "https://wallstreetcn.com/articles/3758470",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 02时32分]"
+        },
+        {
+          "title": "如何看待 OpenAI 计划上市，估值或高达 1 万亿美元？此前不是宣称「非盈利」吗？",
+          "url": "https://www.zhihu.com/question/1967273703189480617",
+          "source": "知乎",
+          "ranks": [
+            16,
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 02时32分]"
+        },
+        {
+          "title": "微软和OpenAI CEO罕见同场对话：OpenAI重组、AI泡沫质疑、算力需求......",
+          "url": "https://wallstreetcn.com/articles/3758475",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时32分"
+        }
+      ]
+    },
     {
       "keyword_group": "美股",
       "match_count": 3,
@@ -16,8 +58,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 01时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 02时32分]"
         },
         {
           "title": "高盛交易员：美股涨势\"极端窄化\"，七巨头屡创新高但整体跑输全球市场",
@@ -25,11 +67,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 01时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 02时32分]"
         },
         {
           "title": "美股收盘：亚马逊升近10%创新高 纳指连涨七个月",
@@ -39,38 +82,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 01时20分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "微软财报泄露了OpenAI的财务数据：单季度巨亏115亿美元",
-          "url": "https://wallstreetcn.com/articles/3758470",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 01时20分]"
-        },
-        {
-          "title": "如何看待 OpenAI 计划上市，估值或高达 1 万亿美元？此前不是宣称「非盈利」吗？",
-          "url": "https://www.zhihu.com/question/1967273703189480617",
-          "source": "知乎",
-          "ranks": [
-            16,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 01时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 02时32分]"
         }
       ]
     },
@@ -86,8 +99,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 01时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 02时32分]"
         }
       ]
     },
@@ -104,8 +117,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 01时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 02时32分]"
         }
       ]
     }

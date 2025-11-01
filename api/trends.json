@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-01T13:25:07.491870+08:00",
-  "total_titles_processed": 947,
+  "generated_at": "2025-11-01T14:34:51.636237+08:00",
+  "total_titles_processed": 1019,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,22 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时21分 ~ 13时25分]"
+          "appearance_count": 9,
+          "time_info": "[07时21分 ~ 14时34分]"
+        },
+        {
+          "title": "美股收盘：亚马逊升近10%创新高 纳指连涨七个月",
+          "url": "https://www.cls.cn/detail/2188490",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时21分 ~ 14时34分]"
         },
         {
           "title": "美股三大期指集体上涨 亚马逊盘前大涨超13% | 今夜看点",
@@ -38,24 +52,12 @@
             7,
             9,
             11,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时31分 ~ 13时25分]"
-        },
-        {
-          "title": "美股收盘：亚马逊升近10%创新高 纳指连涨七个月",
-          "url": "https://www.cls.cn/detail/2188490",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时21分 ~ 13时25分]"
+          "appearance_count": 17,
+          "time_info": "[00时31分 ~ 14时34分]"
         },
         {
           "title": "金十图示：2025年10月31日（周五）美股热门股票行情一览（美股收盘）",
@@ -197,8 +199,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[06时22分 ~ 13时25分]"
+          "appearance_count": 11,
+          "time_info": "[06时22分 ~ 14时34分]"
         },
         {
           "title": "金价10月份涨3.7%，现货白银涨约4.3%",
@@ -242,17 +244,6 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "亚太经合组织联合声明：我们支持确保供应链韧性的努力。",
-          "url": "https://flash.jin10.com/detail/20251101124838106800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时25分"
-        },
-        {
           "title": "日本正进行一场稀土供应链突围",
           "url": "https://www.toutiao.com/trending/7567319193796742699/",
           "source": "今日头条",
@@ -265,6 +256,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时31分 ~ 06时23分]"
+        },
+        {
+          "title": "亚太经合组织联合声明：我们支持确保供应链韧性的努力。",
+          "url": "https://flash.jin10.com/detail/20251101124838106800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时25分 ~ 14时34分]"
         },
         {
           "title": "加拿大投入14亿加元布局关键矿产 加入G7供应链重塑行动",

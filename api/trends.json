@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-02T21:27:36.608051+08:00",
-  "total_titles_processed": 1230,
+  "generated_at": "2025-11-02T22:22:44.212887+08:00",
+  "total_titles_processed": 1320,
   "failed_sources": [],
   "trends": [
     {
@@ -45,8 +45,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时27分 ~ 21时27分]"
+          "appearance_count": 15,
+          "time_info": "[12时27分 ~ 22时22分]"
         },
         {
           "title": "媒体曝 OpenAI 单季度亏损 120 亿美元，具体情况如何？目前 OpenAI 发展面临哪些问题？",

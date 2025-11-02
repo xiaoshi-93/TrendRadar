@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-02T16:29:13.963213+08:00",
-  "total_titles_processed": 916,
+  "generated_at": "2025-11-02T17:22:43.640879+08:00",
+  "total_titles_processed": 972,
   "failed_sources": [],
   "trends": [
     {
@@ -31,8 +31,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[02时32分 ~ 16时29分]"
+          "appearance_count": 18,
+          "time_info": "[02时32分 ~ 17时22分]"
+        },
+        {
+          "title": "Ilya被马斯克逼进法院，曝出了Altman和OpenAI的惊人内幕",
+          "url": "https://wallstreetcn.com/articles/3758487",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时27分 ~ 17时22分]"
         },
         {
           "title": "媒体曝 OpenAI 单季度亏损 120 亿美元，具体情况如何？目前 OpenAI 发展面临哪些问题？",
@@ -48,19 +61,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[04时23分 ~ 11时21分]"
-        },
-        {
-          "title": "Ilya被马斯克逼进法院，曝出了Altman和OpenAI的惊人内幕",
-          "url": "https://wallstreetcn.com/articles/3758487",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时27分 ~ 16时29分]"
         },
         {
           "title": "OpenAI重组对AI产业链意味着什么",

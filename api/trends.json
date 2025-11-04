@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-04T15:26:18.302591+08:00",
-  "total_titles_processed": 1356,
+  "generated_at": "2025-11-04T16:35:52.163216+08:00",
+  "total_titles_processed": 1453,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时53分 ~ 15时26分]"
+          "appearance_count": 9,
+          "time_info": "[09时53分 ~ 16时35分]"
         },
         {
           "title": "美股收盘：AI巨头唱独角戏 亚马逊、英伟达市值各增千亿美元",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时22分 ~ 15时26分]"
+          "appearance_count": 11,
+          "time_info": "[07时22分 ~ 16时35分]"
         },
         {
           "title": "算力协议力撑科技股，亚马逊股价新高，美股分化加剧，加密货币大跌，以太坊重挫",
@@ -262,8 +262,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时53分 ~ 15时26分]"
+          "appearance_count": 9,
+          "time_info": "[09时53分 ~ 16时35分]"
         },
         {
           "title": "美元指数DXY突破100大关，为8月1日来首次。",
@@ -386,7 +386,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时26分"
         }
@@ -426,7 +426,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时26分"
         }
@@ -448,8 +448,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[05时22分 ~ 15时26分]"
+          "appearance_count": 13,
+          "time_info": "[05时22分 ~ 16时35分]"
         },
         {
           "title": "亚马逊领千亿大单入伙 一文盘点OpenAI签了多少“愿景支票”",
@@ -498,8 +498,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时28分 ~ 15时26分]"
+          "appearance_count": 20,
+          "time_info": "[00时28分 ~ 16时35分]"
         }
       ]
     },

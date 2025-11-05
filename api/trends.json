@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-05T19:22:18.487527+08:00",
-  "total_titles_processed": 1744,
+  "generated_at": "2025-11-05T20:52:32.654461+08:00",
+  "total_titles_processed": 1843,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 31,
+      "match_count": 34,
       "titles": [
         {
           "title": "“黑色星期二”：纳指领跌美股，英伟达跌4%，币圈连遭血洗，金银油齐跌，美元五连阳",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时24分 ~ 19时22分]"
+          "appearance_count": 13,
+          "time_info": "[07时24分 ~ 20时52分]"
         },
         {
           "title": "算力协议力挺Mag 7，亚马逊股价新高，美股分化加剧，加密货币大跌，以太坊重挫",
@@ -83,6 +83,17 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时30分 ~ 11时24分]"
+        },
+        {
+          "title": "美国银行(BAC.N)美股股价盘前跌1.9%。",
+          "url": "https://flash.jin10.com/detail/20251105204332629800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
         },
         {
           "title": "美股散户指数创特朗普关税日以来的最大跌幅",
@@ -176,6 +187,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
+        },
+        {
+          "title": "麦当劳第三季度营收70.8亿美元，预估71亿美元。 第三季度调整后每股收益3.22美元，预估3.32美元。 第三季度每股收益3.18美元，上年同期3.13美元。 麦当劳仍然预测全年资本支出30亿美元至32亿美元，市场预估30.6亿美元。 麦当劳美股盘前跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/2999898",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
         },
         {
           "title": "美联储内部分歧引发年内降息前景疑虑，美元走强致现货黄金一度跌破3920美元关口；隔夜美股大跌，投资者怀疑高估值与市场集中度过窄会否终结本轮牛市行情，当前美股纳指、标普500指数卖出信号强烈，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
@@ -288,6 +310,17 @@
           "time_info": "06时23分"
         },
         {
+          "title": "财报公布后，麦当劳(MCD.N)美股盘前下挫，现跌超1%。",
+          "url": "https://flash.jin10.com/detail/20251105200302694800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
+        },
+        {
           "title": "美股大跌都怪Palantir？CNBC名嘴：华尔街的眼光太狭隘",
           "url": "https://flash.jin10.com/detail/20251105095353867800",
           "source": "金十数据",
@@ -360,7 +393,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时22分"
         }
@@ -711,8 +744,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时30分 ~ 19时22分]"
+          "appearance_count": 3,
+          "time_info": "[18时30分 ~ 20时52分]"
         },
         {
           "title": "投资者重新估值AI市场，美债收益率普遍跌超2个基点",

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-06T22:27:20.359822+08:00",
-  "total_titles_processed": 1999,
+  "generated_at": "2025-11-06T23:28:24.792166+08:00",
+  "total_titles_processed": 2088,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 27,
+      "match_count": 32,
       "titles": [
         {
           "title": "“黑色星期二”：纳指领跌美股，英伟达跌4%，币圈连遭血洗，金银油齐跌，美元五连阳",
@@ -129,6 +129,17 @@
           "time_info": "[18时29分 ~ 19时22分]"
         },
         {
+          "title": "美股三大期指集体上涨 特斯拉股东大会来袭 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2193483",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时27分 ~ 23时28分]"
+        },
+        {
           "title": "航空业ETF收涨4.5%，和半导体ETF领跑美股行业ETF，标普电信板块涨超1.6%",
           "url": "https://wallstreetcn.com/livenews/3000125",
           "source": "华尔街见闻-快讯",
@@ -139,6 +150,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时24分 ~ 07时23分]"
+        },
+        {
+          "title": "周四美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3000606",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时27分 ~ 23时28分]"
         },
         {
           "title": "美股收盘：三大股指收涨 超微电脑跌11%",
@@ -177,6 +200,18 @@
           "time_info": "[06时24分 ~ 07时23分]"
         },
         {
+          "title": "礼来美股盘前一度涨近2%，公司新减肥药Eloralintide减重超20%，拟与白宫合作拓宽医保覆盖。",
+          "url": "https://wallstreetcn.com/livenews/3000605",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时27分 ~ 23时28分]"
+        },
+        {
           "title": "特朗普上任一年美股跑输全球大盘",
           "url": "https://www.toutiao.com/trending/7569232858510790187/",
           "source": "今日头条",
@@ -213,6 +248,18 @@
           "time_info": "[18时29分 ~ 19时22分]"
         },
         {
+          "title": "摩根大通称散户有望支撑美股直至年关 高盛认为回调不会持久",
+          "url": "https://wallstreetcn.com/livenews/3000599",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时27分 ~ 23时28分]"
+        },
+        {
           "title": "金十图示：2025年11月05日（周三）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20251106014154445800",
           "source": "金十数据",
@@ -225,37 +272,26 @@
           "time_info": "[02时35分 ~ 03时22分]"
         },
         {
-          "title": "美股三大期指集体上涨 特斯拉股东大会来袭 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2193483",
-          "source": "财联社热门",
+          "title": "美股低开低走，纳指跌幅扩大至1%，标普500指数跌0.68%，道指跌0.65%。",
+          "url": "https://flash.jin10.com/detail/20251106230312926800",
+          "source": "金十数据",
           "ranks": [
-            7
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时27分"
+          "time_info": "23时28分"
         },
         {
-          "title": "周四美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3000606",
+          "title": "Datadog美股盘初涨19%，创2022年2月份以来盘中新高。",
+          "url": "https://wallstreetcn.com/livenews/3000620",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时27分"
-        },
-        {
-          "title": "礼来美股盘前一度涨近2%，公司新减肥药Eloralintide减重超20%，拟与白宫合作拓宽医保覆盖。",
-          "url": "https://wallstreetcn.com/livenews/3000605",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时27分"
+          "time_info": "23时28分"
         },
         {
           "title": "Doordash美股盘后下跌20%，该公司业绩欠佳，预计将继续（扩大）开支。",
@@ -269,15 +305,15 @@
           "time_info": "06时24分"
         },
         {
-          "title": "摩根大通称散户有望支撑美股直至年关 高盛认为回调不会持久",
-          "url": "https://wallstreetcn.com/livenews/3000599",
+          "title": "行业ETF美股盘初涨跌各异。 网络股指数ETF跌0.61%，可选消费ETF跌0.54%，全球科技股指数ETF跌0.48%，科技行业ETF跌0.25%，半导体ETF跌0.09%。 银行业ETF则涨0.32%，能源业ETF涨0.63%",
+          "url": "https://wallstreetcn.com/livenews/3000619",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时27分"
+          "time_info": "23时28分"
         },
         {
           "title": "金十图示：2025年11月05日（周三）热门中概股行情一览（美股盘中）",
@@ -313,15 +349,37 @@
           "time_info": "02时35分"
         },
         {
+          "title": "金十图示：2025年11月06日（周四）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20251106225002023800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时28分"
+        },
+        {
           "title": "金十数据整理：每日美股市场要闻速递（2025-11-06）",
           "url": "https://flash.jin10.com/detail/20251106220221302800",
           "source": "金十数据",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时27分"
+        },
+        {
+          "title": "多邻国美股跌幅达创纪录的27%，股价跌至2024年8月以来最低水平。",
+          "url": "https://flash.jin10.com/detail/20251106223241147800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时28分"
         }
       ]
     },
@@ -449,6 +507,18 @@
           "time_info": "[11时20分 ~ 12时32分]"
         },
         {
+          "title": "谷歌正在推出其最强大的AI芯片Ironwood，未来几周将全面上市。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3000596",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时27分 ~ 23时28分]"
+        },
+        {
           "title": "德媒：谷歌计划下周公布历史最大德国投资计划 将建设基础设施和数据中心",
           "url": "https://flash.jin10.com/detail/20251106140725860800",
           "source": "金十数据",
@@ -524,17 +594,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时29分"
-        },
-        {
-          "title": "谷歌正在推出其最强大的AI芯片Ironwood，未来几周将全面上市。（CNBC）",
-          "url": "https://wallstreetcn.com/livenews/3000596",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时27分"
         },
         {
           "title": "谷歌(GOOG.O)：将于下周二宣布公司在德国的最大一笔投资。",
@@ -650,82 +709,8 @@
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "紫金黄金国际港股涨逾8%，创一周来盘中最大涨幅。摩根士丹利给予其超配的初始评级，目标价为175港元，称其当前估值隐含的黄金价格仅约为3500美元/盎司，具有吸引力。",
-          "url": "https://wallstreetcn.com/livenews/3000356",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时37分 ~ 15时25分]"
-        },
-        {
-          "title": "金价一波大涨过后，为何三四线城市金店先撑不住了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31906822",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时51分 ~ 22时27分]"
-        },
-        {
-          "title": "澳大利亚贸易顺差受金价飙升推动",
-          "url": "https://flash.jin10.com/detail/20251106125006375800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时25分"
-        },
-        {
-          "title": "非洲股市收盘播报｜南非股指收涨约1.4%，追随金价涨向3990美元的表现",
-          "url": "https://wallstreetcn.com/livenews/3000006",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
-        },
-        {
-          "title": "金十图示：2025年11月06日（周四）上海金早盘价为912.29元/克，较国际金价(911.43元/克)，高0.86元/克",
-          "url": "https://flash.jin10.com/detail/20251106101739837800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时20分"
-        },
-        {
-          "title": "金价暴涨三四线城市金店撑不住了",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E6%9A%B4%E6%B6%A8%E4%B8%89%E5%9B%9B%E7%BA%BF%E5%9F%8E%E5%B8%82%E9%87%91%E5%BA%97%E6%92%91%E4%B8%8D%E4%BD%8F%E4%BA%86%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E6%259A%25B4%25E6%25B6%25A8%25E4%25B8%2589%25E5%259B%259B%25E7%25BA%25BF%25E5%259F%258E%25E5%25B8%2582%25E9%2587%2591%25E5%25BA%2597%25E6%2592%2591%25E4%25B8%258D%25E4%25BD%258F%25E4%25BA%2586%2523%26band_rank%3D27%26stream_entry_id%3D31%26pos%3D27%26flag%3D1%26filter_type%3Drealtimehot%26lcate%3D5001%26c_type%3D31%26dgr%3D0%26realpos%3D27%26display_time%3D1762439232%26pre_seqid%3D17624392326750257096108&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时27分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "逢低买盘再现，部分科技股撑美股反弹，加密货币扭转颓势，美油跌破60美元，美债跌",
@@ -736,8 +721,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[09时54分 ~ 22时27分]"
+          "appearance_count": 19,
+          "time_info": "[09时54分 ~ 23时28分]"
         },
         {
           "title": "美股三大股指涨跌不一，美债短线下挫，加密货币反弹，以太坊涨超4%",
@@ -749,6 +734,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时33分 ~ 06时24分]"
+        },
+        {
+          "title": "美股、黄金、比特币齐跌，日元和美债上涨，投资者静候一波美联储官员的讲话",
+          "url": "https://wallstreetcn.com/livenews/3000636",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时28分"
         },
         {
           "title": "美债惨遭抛售！美国财政部暗示未来将扩大长债发行规模",
@@ -793,6 +789,82 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时33分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "紫金黄金国际港股涨逾8%，创一周来盘中最大涨幅。摩根士丹利给予其超配的初始评级，目标价为175港元，称其当前估值隐含的黄金价格仅约为3500美元/盎司，具有吸引力。",
+          "url": "https://wallstreetcn.com/livenews/3000356",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时37分 ~ 15时25分]"
+        },
+        {
+          "title": "金价一波大涨过后，为何三四线城市金店先撑不住了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31906822",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时51分 ~ 23时28分]"
+        },
+        {
+          "title": "金价暴涨三四线城市金店撑不住了",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E6%9A%B4%E6%B6%A8%E4%B8%89%E5%9B%9B%E7%BA%BF%E5%9F%8E%E5%B8%82%E9%87%91%E5%BA%97%E6%92%91%E4%B8%8D%E4%BD%8F%E4%BA%86%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E6%259A%25B4%25E6%25B6%25A8%25E4%25B8%2589%25E5%259B%259B%25E7%25BA%25BF%25E5%259F%258E%25E5%25B8%2582%25E9%2587%2591%25E5%25BA%2597%25E6%2592%2591%25E4%25B8%258D%25E4%25BD%258F%25E4%25BA%2586%2523%26band_rank%3D27%26stream_entry_id%3D31%26pos%3D27%26flag%3D1%26filter_type%3Drealtimehot%26lcate%3D5001%26c_type%3D31%26dgr%3D0%26realpos%3D27%26display_time%3D1762439232%26pre_seqid%3D17624392326750257096108&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            27,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时27分 ~ 23时28分]"
+        },
+        {
+          "title": "澳大利亚贸易顺差受金价飙升推动",
+          "url": "https://flash.jin10.com/detail/20251106125006375800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时25分"
+        },
+        {
+          "title": "非洲股市收盘播报｜南非股指收涨约1.4%，追随金价涨向3990美元的表现",
+          "url": "https://wallstreetcn.com/livenews/3000006",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时33分"
+        },
+        {
+          "title": "金十图示：2025年11月06日（周四）上海金早盘价为912.29元/克，较国际金价(911.43元/克)，高0.86元/克",
+          "url": "https://flash.jin10.com/detail/20251106101739837800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时20分"
         }
       ]
     },
@@ -859,6 +931,47 @@
       ]
     },
     {
+      "keyword_group": "供应链",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "荷兰安世半导体回应供应链恢复进展 否认张学政恢复CEO职务",
+          "url": "https://wallstreetcn.com/livenews/3000299",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            22,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时32分 ~ 14时37分]"
+        },
+        {
+          "title": "美国10月全球供应链压力指数 -0.06，前值0.03。",
+          "url": "https://flash.jin10.com/detail/20251106230212849800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时28分"
+        },
+        {
+          "title": "美国10月全球供应链压力指数将于十分钟后公布。",
+          "url": "https://flash.jin10.com/detail/20251106225000001800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时28分"
+        }
+      ]
+    },
+    {
       "keyword_group": "具身智能",
       "match_count": 2,
       "titles": [
@@ -883,25 +996,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时51分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "供应链",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "荷兰安世半导体回应供应链恢复进展 否认张学政恢复CEO职务",
-          "url": "https://wallstreetcn.com/livenews/3000299",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            22,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时32分 ~ 14时37分]"
         }
       ]
     },

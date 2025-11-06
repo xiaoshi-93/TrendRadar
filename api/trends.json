@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-06T16:33:46.429374+08:00",
-  "total_titles_processed": 1430,
+  "generated_at": "2025-11-06T17:28:15.572919+08:00",
+  "total_titles_processed": 1536,
   "failed_sources": [],
   "trends": [
     {
@@ -54,8 +54,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时54分 ~ 16时33分]"
+          "appearance_count": 11,
+          "time_info": "[09时54分 ~ 17时28分]"
         },
         {
           "title": "敏感时刻，美股警报连连！著名估值指标“史上第二次”突破红线，上一次是1999年",
@@ -494,8 +494,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时54分 ~ 16时33分]"
+          "appearance_count": 11,
+          "time_info": "[09时54分 ~ 17时28分]"
         },
         {
           "title": "美股三大股指涨跌不一，美债短线下挫，加密货币反弹，以太坊涨超4%",
@@ -515,7 +515,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时33分"
         },
@@ -678,7 +678,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时33分"
         }
@@ -719,8 +719,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时31分 ~ 16时33分]"
+          "appearance_count": 8,
+          "time_info": "[12时31分 ~ 17时28分]"
         }
       ]
     },

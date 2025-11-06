@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-06T20:51:58.042919+08:00",
-  "total_titles_processed": 1838,
+  "generated_at": "2025-11-06T21:36:25.645644+08:00",
+  "total_titles_processed": 1916,
   "failed_sources": [],
   "trends": [
     {
@@ -272,8 +272,30 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
+        {
+          "title": "据报道，谷歌正在推出其最强大的AI芯片Ironwood，未来几周将全面上市。",
+          "url": "https://wallstreetcn.com/livenews/3000596",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
+        },
+        {
+          "title": "谷歌将在未来几周全面上市其最强大的AI芯片Ironwood",
+          "url": "https://flash.jin10.com/detail/20251106211437983800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
+        },
         {
           "title": "苹果(AAPL.O)正在敲定一项协议，将每年向谷歌支付约10亿美元。苹果将采用谷歌参数规模达1.2万亿的Gemini AI模型来为将于2026年推出的Siri新功能提供支持。",
           "url": "https://flash.jin10.com/detail/20251106031453898800",
@@ -381,6 +403,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时37分"
+        },
+        {
+          "title": "据CNBC：谷歌(GOOG.O)正在推出其最强大的AI芯片Ironwood，未来几周将全面上市。",
+          "url": "https://flash.jin10.com/detail/20251106211009167800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
         },
         {
           "title": "据德国《商报》：谷歌正准备宣布在德国的有史以来最大的投资计划。",
@@ -563,8 +596,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时54分 ~ 20时51分]"
+          "appearance_count": 17,
+          "time_info": "[09时54分 ~ 21时36分]"
         },
         {
           "title": "美股三大股指涨跌不一，美债短线下挫，加密货币反弹，以太坊涨超4%",
@@ -640,6 +673,18 @@
           "time_info": "[14时37分 ~ 15时25分]"
         },
         {
+          "title": "金价一波大涨过后，为何三四线城市金店先撑不住了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31906822",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时51分 ~ 21时36分]"
+        },
+        {
           "title": "澳大利亚贸易顺差受金价飙升推动",
           "url": "https://flash.jin10.com/detail/20251106125006375800",
           "source": "金十数据",
@@ -649,17 +694,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时25分"
-        },
-        {
-          "title": "金价一波大涨过后，为何三四线城市金店先撑不住了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31906822",
-          "source": "澎湃新闻",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时51分"
         },
         {
           "title": "非洲股市收盘播报｜南非股指收涨约1.4%，追随金价涨向3990美元的表现",
@@ -769,7 +803,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时51分"
         }

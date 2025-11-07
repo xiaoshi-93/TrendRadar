@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-07T15:24:45.990166+08:00",
-  "total_titles_processed": 1344,
+  "generated_at": "2025-11-07T16:33:31.208190+08:00",
+  "total_titles_processed": 1448,
   "failed_sources": [],
   "trends": [
     {
@@ -44,8 +44,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时53分 ~ 15时24分]"
+          "appearance_count": 8,
+          "time_info": "[09时53分 ~ 16时33分]"
         },
         {
           "title": "英特尔(INTC.O)美股盘后涨2.5%。",
@@ -235,8 +235,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时53分 ~ 15时24分]"
+          "appearance_count": 8,
+          "time_info": "[09时53分 ~ 16时33分]"
         },
         {
           "title": "AI投资须政府兜底? OpenAI奥尔特曼紧急“灭火”：2030年营收达数千亿美元",
@@ -245,11 +245,12 @@
           "ranks": [
             9,
             8,
-            10
+            10,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时17分 ~ 15时24分]"
+          "appearance_count": 7,
+          "time_info": "[11时17分 ~ 16时33分]"
         },
         {
           "title": "OpenAI高管言论引风暴 纳指跌近2%",
@@ -340,8 +341,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时33分 ~ 15时24分]"
+          "appearance_count": 17,
+          "time_info": "[00时33分 ~ 16时33分]"
         },
         {
           "title": "金价暴涨三四线城市金店撑不住了",
@@ -434,6 +435,17 @@
           "time_info": "[00时33分 ~ 07时22分]"
         },
         {
+          "title": "美国裁员数创20年新高，Mag7重挫领跌美股，美债大涨，加密货币重回跌势",
+          "url": "https://wallstreetcn.com/articles/3758806",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时53分 ~ 16时33分]"
+        },
+        {
           "title": "美国就业形势严峻引发降息预期，美股指数集体低开低走，美元承压，黄金短线下挫，美债走高",
           "url": "https://wallstreetcn.com/articles/3758806",
           "source": "华尔街见闻",
@@ -444,17 +456,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时33分 ~ 06时45分]"
-        },
-        {
-          "title": "美国裁员数创20年新高，Mag7重挫领跌美股，美债大涨，加密货币重回跌势",
-          "url": "https://wallstreetcn.com/articles/3758806",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时53分 ~ 15时24分]"
         },
         {
           "title": "美国裁员数创20年新高，Mag7重挫领跌美股，美债大涨，加密货币黄金齐跌",
@@ -516,8 +517,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[06时44分 ~ 15时24分]"
+          "appearance_count": 11,
+          "time_info": "[06时44分 ~ 16时33分]"
         },
         {
           "title": "Google LLC.（谷歌公司）请求美国加州北区法院法官判定，其电池节能功能并没有违反Headwater Research LLC.的专利。 该公司申诉称，Battery Savers和Doze Mode等功能并没有侵犯美国专利法 Nos. 8,589,541和9,215,613。",

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-07T07:22:50.906579+08:00",
-  "total_titles_processed": 678,
+  "generated_at": "2025-11-07T09:53:32.430108+08:00",
+  "total_titles_processed": 842,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "美股三大期指集体上涨 特斯拉股东大会来袭 | 今夜看点",
@@ -14,11 +14,25 @@
           "ranks": [
             6,
             4,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时33分 ~ 07时22分]"
+          "appearance_count": 10,
+          "time_info": "[00时33分 ~ 09时53分]"
+        },
+        {
+          "title": "铜、银、铀入选美国新版关键矿产清单，美股概念股巨幅震荡",
+          "url": "https://www.cls.cn/detail/2193592",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时44分 ~ 09时53分]"
         },
         {
           "title": "英特尔(INTC.O)美股盘后涨2.5%。",
@@ -30,18 +44,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时45分"
-        },
-        {
-          "title": "铜、银、铀入选美国新版关键矿产清单，美股概念股巨幅震荡",
-          "url": "https://www.cls.cn/detail/2193592",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时44分 ~ 07时22分]"
         },
         {
           "title": "特斯拉股价美股盘后转跌，此前一度上涨3.4%。",
@@ -87,6 +89,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时22分"
+        },
+        {
+          "title": "不止AI有“闭环”，美股也“闭环”了：企业裁员推高股价，股市走高刺激消费，消费强劲支撑业绩",
+          "url": "https://wallstreetcn.com/articles/3758813",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
         },
         {
           "title": "特斯拉(TSLA.O)美股盘后涨1.2%。",
@@ -158,7 +171,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "机器人工业场景加速推进，测量机“卖爆了” 王兴兴现身谈具身智能的“ChatGPT”时刻",
@@ -169,11 +182,12 @@
             10,
             9,
             8,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时33分 ~ 07时22分]"
+          "appearance_count": 10,
+          "time_info": "[00时33分 ~ 09时53分]"
         },
         {
           "title": "美股收盘：OpenAI高管言论引发风暴 纳指跌近2%",
@@ -181,11 +195,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时44分 ~ 07时22分]"
+          "appearance_count": 4,
+          "time_info": "[06时44分 ~ 09时53分]"
         },
         {
           "title": "OpenAI的CEO Sam Altman：在OpenAI数据中心问题上，并没有获得美国政府的（资金）担保。 讨论过通过（寻求）贷款担保来支持美国半导体晶圆（的可行性）。",
@@ -236,6 +251,17 @@
           "time_info": "[04时38分 ~ 05时22分]"
         },
         {
+          "title": "OpenAI“大而不能倒”？，Altman“不寻求财政支持”，“AI沙皇”：AI公司倒了就倒了，美国政府不会救",
+          "url": "https://wallstreetcn.com/articles/3758853",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
+        },
+        {
           "title": "AI泡沫担忧隐现，OpenAI创始人谈营收和投资承诺",
           "url": "https://flash.jin10.com/detail/20251107043817547800",
           "source": "金十数据",
@@ -245,12 +271,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时22分"
+        },
+        {
+          "title": "OpenAI高管言论引风暴 纳指跌近2%",
+          "url": "https://www.baidu.com/s?wd=OpenAI%E9%AB%98%E7%AE%A1%E8%A8%80%E8%AE%BA%E5%BC%95%E9%A3%8E%E6%9A%B4+%E7%BA%B3%E6%8C%87%E8%B7%8C%E8%BF%912%25",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "逢低买盘再现，部分科技股撑美股反弹，加密货币扭转颓势，美油跌破60美元，美债跌",
@@ -277,13 +314,24 @@
           "time_info": "[00时33分 ~ 06时45分]"
         },
         {
+          "title": "美国裁员数创20年新高，Mag7重挫领跌美股，美债大涨，加密货币重回跌势",
+          "url": "https://wallstreetcn.com/articles/3758806",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
+        },
+        {
           "title": "美国裁员数创20年新高，Mag7重挫领跌美股，美债大涨，加密货币黄金齐跌",
           "url": "https://wallstreetcn.com/articles/3758806",
           "source": "华尔街见闻",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         },
@@ -336,8 +384,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时33分 ~ 07时22分]"
+          "appearance_count": 10,
+          "time_info": "[00时33分 ~ 09时53分]"
         },
         {
           "title": "金价暴涨三四线城市金店撑不住了",
@@ -351,8 +399,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时26分 ~ 07时22分]"
+          "appearance_count": 9,
+          "time_info": "[01时26分 ~ 09时53分]"
         },
         {
           "title": "金价暴涨三四线城市金店撑不住了",
@@ -413,11 +461,12 @@
           "url": "https://wallstreetcn.com/articles/3758839",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时44分 ~ 07时22分]"
+          "appearance_count": 4,
+          "time_info": "[06时44分 ~ 09时53分]"
         },
         {
           "title": "Meta、谷歌母公司Alphabet、Snap等避免美国审查年轻人对社交媒体成瘾的尝试失败。",

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-07T13:26:34.383244+08:00",
-  "total_titles_processed": 1145,
+  "generated_at": "2025-11-07T14:36:51.208741+08:00",
+  "total_titles_processed": 1234,
   "failed_sources": [],
   "trends": [
     {
@@ -28,11 +28,24 @@
           "ranks": [
             8,
             4,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时44分 ~ 13时26分]"
+          "appearance_count": 9,
+          "time_info": "[06时44分 ~ 14时36分]"
+        },
+        {
+          "title": "不止AI有“闭环”，美股也“闭环”了：企业裁员推高股价，股市走高刺激消费，消费强劲支撑业绩",
+          "url": "https://wallstreetcn.com/articles/3758813",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时53分 ~ 14时36分]"
         },
         {
           "title": "英特尔(INTC.O)美股盘后涨2.5%。",
@@ -44,18 +57,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时45分"
-        },
-        {
-          "title": "不止AI有“闭环”，美股也“闭环”了：企业裁员推高股价，股市走高刺激消费，消费强劲支撑业绩",
-          "url": "https://wallstreetcn.com/articles/3758813",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时53分 ~ 13时26分]"
         },
         {
           "title": "特斯拉股价美股盘后转跌，此前一度上涨3.4%。",
@@ -206,8 +207,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时44分 ~ 13时26分]"
+          "appearance_count": 9,
+          "time_info": "[06时44分 ~ 14时36分]"
         },
         {
           "title": "机器人工业场景加速推进，测量机“卖爆了” 王兴兴现身谈具身智能的“ChatGPT”时刻",
@@ -222,8 +223,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时33分 ~ 13时26分]"
+          "appearance_count": 15,
+          "time_info": "[00时33分 ~ 14时36分]"
         },
         {
           "title": "OpenAI“大而不能倒”？，Altman“不寻求财政支持”，“AI沙皇”：AI公司倒了就倒了，美国政府不会救",
@@ -234,8 +235,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时53分 ~ 13时26分]"
+          "appearance_count": 6,
+          "time_info": "[09时53分 ~ 14时36分]"
         },
         {
           "title": "AI投资须政府兜底? OpenAI奥尔特曼紧急“灭火”：2030年营收达数千亿美元",
@@ -243,11 +244,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时17分 ~ 13时26分]"
+          "appearance_count": 5,
+          "time_info": "[11时17分 ~ 14时36分]"
         },
         {
           "title": "OpenAI高管言论引风暴 纳指跌近2%",
@@ -333,11 +335,12 @@
           "ranks": [
             5,
             6,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时33分 ~ 13时26分]"
+          "appearance_count": 15,
+          "time_info": "[00时33分 ~ 14时36分]"
         },
         {
           "title": "金价暴涨三四线城市金店撑不住了",
@@ -449,8 +452,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时53分 ~ 13时26分]"
+          "appearance_count": 6,
+          "time_info": "[09时53分 ~ 14时36分]"
         },
         {
           "title": "美国裁员数创20年新高，Mag7重挫领跌美股，美债大涨，加密货币黄金齐跌",
@@ -512,19 +515,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时44分 ~ 13时26分]"
-        },
-        {
-          "title": "市场消息：谷歌将在澳大利亚位于印度洋的一个小前哨基地建设新的人工智能数据中心。",
-          "url": "https://flash.jin10.com/detail/20251107130634244800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时26分"
+          "appearance_count": 9,
+          "time_info": "[06时44分 ~ 14时36分]"
         },
         {
           "title": "Google LLC.（谷歌公司）请求美国加州北区法院法官判定，其电池节能功能并没有违反Headwater Research LLC.的专利。 该公司申诉称，Battery Savers和Doze Mode等功能并没有侵犯美国专利法 Nos. 8,589,541和9,215,613。",
@@ -538,6 +530,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时21分 ~ 05时22分]"
+        },
+        {
+          "title": "市场消息：谷歌将在澳大利亚位于印度洋的一个小前哨基地建设新的人工智能数据中心。",
+          "url": "https://flash.jin10.com/detail/20251107130634244800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时26分 ~ 14时36分]"
         },
         {
           "title": "如何评价 gemini-3-pro-preview-11-2025？",

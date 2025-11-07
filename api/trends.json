@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-07T20:52:23.117987+08:00",
-  "total_titles_processed": 1820,
+  "generated_at": "2025-11-07T21:33:10.859916+08:00",
+  "total_titles_processed": 1884,
   "failed_sources": [],
   "trends": [
     {
@@ -261,11 +261,12 @@
           "ranks": [
             9,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时53分 ~ 20时52分]"
+          "appearance_count": 16,
+          "time_info": "[09时53分 ~ 21时33分]"
         },
         {
           "title": "机器人工业场景加速推进，测量机“卖爆了” 王兴兴现身谈具身智能的“ChatGPT”时刻",
@@ -376,7 +377,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时52分"
         }
@@ -487,8 +488,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时53分 ~ 20时52分]"
+          "appearance_count": 16,
+          "time_info": "[09时53分 ~ 21时33分]"
         },
         {
           "title": "逢低买盘再现，部分科技股撑美股反弹，加密货币扭转颓势，美油跌破60美元，美债跌",
@@ -572,11 +573,12 @@
           "ranks": [
             10,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[06时44分 ~ 20时52分]"
+          "appearance_count": 19,
+          "time_info": "[06时44分 ~ 21时33分]"
         },
         {
           "title": "Google LLC.（谷歌公司）请求美国加州北区法院法官判定，其电池节能功能并没有违反Headwater Research LLC.的专利。 该公司申诉称，Battery Savers和Doze Mode等功能并没有侵犯美国专利法 Nos. 8,589,541和9,215,613。",

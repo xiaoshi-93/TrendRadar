@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-07T19:21:11.805817+08:00",
-  "total_titles_processed": 1709,
+  "generated_at": "2025-11-07T20:52:23.117987+08:00",
+  "total_titles_processed": 1820,
   "failed_sources": [],
   "trends": [
     {
@@ -239,7 +239,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "美股收盘：OpenAI高管言论引发风暴 纳指跌近2%",
@@ -264,8 +264,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时53分 ~ 19时21分]"
+          "appearance_count": 14,
+          "time_info": "[09时53分 ~ 20时52分]"
         },
         {
           "title": "机器人工业场景加速推进，测量机“卖爆了” 王兴兴现身谈具身智能的“ChatGPT”时刻",
@@ -368,6 +368,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时22分"
+        },
+        {
+          "title": "OpenAI CFO 表达希望美国政府对当前的 AI 算力基础设施投资提供担保，如何评价这一表述？",
+          "url": "https://www.zhihu.com/question/1970068977905525926",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
         }
       ]
     },
@@ -476,8 +487,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时53分 ~ 19时21分]"
+          "appearance_count": 14,
+          "time_info": "[09时53分 ~ 20时52分]"
         },
         {
           "title": "逢低买盘再现，部分科技股撑美股反弹，加密货币扭转颓势，美油跌破60美元，美债跌",
@@ -564,8 +575,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[06时44分 ~ 19时21分]"
+          "appearance_count": 17,
+          "time_info": "[06时44分 ~ 20时52分]"
         },
         {
           "title": "Google LLC.（谷歌公司）请求美国加州北区法院法官判定，其电池节能功能并没有违反Headwater Research LLC.的专利。 该公司申诉称，Battery Savers和Doze Mode等功能并没有侵犯美国专利法 Nos. 8,589,541和9,215,613。",

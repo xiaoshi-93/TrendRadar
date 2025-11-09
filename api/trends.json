@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-10T00:27:43.297690+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2025-11-10T01:19:33.532219+08:00",
+  "total_titles_processed": 340,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/articles/3758990",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 01时19分]"
         },
         {
           "title": "商务部：造成当前全球半导体供应链混乱的源头和责任在荷方",
@@ -26,8 +27,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 01时19分]"
         },
         {
           "title": "商务部：造成当前全球半导体供应链混乱的源头和责任在荷方",
@@ -37,8 +38,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 01时19分]"
         }
       ]
     },
@@ -54,8 +55,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 01时19分]"
         }
       ]
     },
@@ -68,11 +69,12 @@
           "url": "https://wallstreetcn.com/articles/3758989",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 01时19分]"
         }
       ]
     }

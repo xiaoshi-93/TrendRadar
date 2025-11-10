@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-10T13:26:02.113205+08:00",
-  "total_titles_processed": 935,
+  "generated_at": "2025-11-10T14:39:09.661844+08:00",
+  "total_titles_processed": 1023,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时27分 ~ 13时26分]"
+          "appearance_count": 17,
+          "time_info": "[00时27分 ~ 14时39分]"
         },
         {
           "title": "一口气看清美股AI泡沫",
@@ -28,11 +28,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             3,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时00分 ~ 13时26分]"
+          "appearance_count": 7,
+          "time_info": "[10时00分 ~ 14时39分]"
         },
         {
           "title": "欧美股指期货走高 纳指期货涨1%",
@@ -73,11 +74,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时32分 ~ 13时26分]"
+          "appearance_count": 5,
+          "time_info": "[12时32分 ~ 14时39分]"
         }
       ]
     },
@@ -94,8 +96,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时27分 ~ 13时26分]"
+          "appearance_count": 17,
+          "time_info": "[00时27分 ~ 14时39分]"
         },
         {
           "title": "商务部：造成当前全球半导体供应链混乱的源头和责任在荷方",
@@ -159,11 +161,12 @@
           "source": "微博",
           "ranks": [
             22,
-            25
+            25,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时25分 ~ 13时26分]"
+          "appearance_count": 6,
+          "time_info": "[11时25分 ~ 14时39分]"
         }
       ]
     }

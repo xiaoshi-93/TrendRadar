@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-10T14:39:09.661844+08:00",
-  "total_titles_processed": 1023,
+  "generated_at": "2025-11-10T15:24:16.144543+08:00",
+  "total_titles_processed": 1101,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时27分 ~ 14时39分]"
+          "appearance_count": 19,
+          "time_info": "[00时27分 ~ 15时24分]"
         },
         {
           "title": "一口气看清美股AI泡沫",
@@ -29,11 +29,25 @@
           "ranks": [
             3,
             10,
-            9
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时00分 ~ 15时24分]"
+        },
+        {
+          "title": "美政府关门有望结束，美股期货、加密货币、黄金白银全线走高",
+          "url": "https://wallstreetcn.com/articles/3759018",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            6
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[10时00分 ~ 14时39分]"
+          "time_info": "[12时32分 ~ 15时24分]"
         },
         {
           "title": "欧美股指期货走高 纳指期货涨1%",
@@ -67,19 +81,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
-        },
-        {
-          "title": "美政府关门有望结束，美股期货、加密货币、黄金白银全线走高",
-          "url": "https://wallstreetcn.com/articles/3759018",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时32分 ~ 14时39分]"
         }
       ]
     },
@@ -96,8 +97,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时27分 ~ 14时39分]"
+          "appearance_count": 19,
+          "time_info": "[00时27分 ~ 15时24分]"
         },
         {
           "title": "商务部：造成当前全球半导体供应链混乱的源头和责任在荷方",
@@ -162,11 +163,12 @@
           "ranks": [
             22,
             25,
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时25分 ~ 14时39分]"
+          "appearance_count": 8,
+          "time_info": "[11时25分 ~ 15时24分]"
         }
       ]
     }

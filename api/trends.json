@@ -1,362 +1,83 @@
 {
-  "generated_at": "2025-11-10T23:29:38.805747+08:00",
-  "total_titles_processed": 1850,
+  "generated_at": "2025-11-11T00:36:07.314363+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 4,
       "titles": [
         {
-          "title": "懂王胜选一周年，“川普2.0”与“1.0”市场走势高度相似，坏消息是第二年美股走势通常最差",
-          "url": "https://wallstreetcn.com/articles/3758989",
+          "title": "美政府停摆危机化解在即，美股史诗级逼空行情一触即发？",
+          "url": "https://wallstreetcn.com/articles/3759034",
           "source": "华尔街见闻",
           "ranks": [
-            7,
-            6,
-            5,
-            4,
-            3
+            8
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时27分 ~ 17时30分]"
+          "appearance_count": 2,
+          "time_info": "[00时35分 ~ 00时36分]"
         },
         {
           "title": "一口气看清美股AI泡沫",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E5%8F%A3%E6%B0%94%E7%9C%8B%E6%B8%85%E7%BE%8E%E8%82%A1AI%E6%B3%A1%E6%B2%AB",
           "source": "bilibili 热搜",
           "ranks": [
-            3,
-            10,
-            9,
-            5,
-            4,
-            7,
-            15,
-            18
+            16
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[10时00分 ~ 23时29分]"
-        },
-        {
-          "title": "美政府关门有望结束，美股期货、加密货币、黄金白银全线走高",
-          "url": "https://wallstreetcn.com/articles/3759018",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时32分 ~ 16时35分]"
+          "appearance_count": 2,
+          "time_info": "[00时35分 ~ 00时36分]"
         },
         {
           "title": "大摩策略师Wilson：2026年企业盈利将推动美股稳健上涨",
           "url": "https://wallstreetcn.com/livenews/3002226",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时29分"
-        },
-        {
-          "title": "欧美股指期货走高 纳指期货涨1%",
-          "url": "https://flash.jin10.com/detail/20251110095530831800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时00分"
-        },
-        {
-          "title": "美股股指期货周一高开，纳指期货涨0.7%。",
-          "url": "https://flash.jin10.com/detail/20251110070112567800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时22分"
-        },
-        {
-          "title": "周一亚太盘初，美股三大指数期货高开，纳指期货涨0.7%。 现货黄金报4005美元/盎司，日内涨0.1%。 WTI原油、布伦特原油周一小幅高开。",
-          "url": "https://wallstreetcn.com/livenews/3001751",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时22分"
-        },
-        {
-          "title": "美政府停摆危机化解在即，美股史诗级逼空行情一触即发？",
-          "url": "https://wallstreetcn.com/articles/3759034",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时52分 ~ 23时29分]"
-        },
-        {
-          "title": "周一美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3002194",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时25分 ~ 23时29分]"
-        },
-        {
-          "title": "美股盘前，明星科技股普涨，英伟达涨超3%，英特尔涨超1.8%，甲骨文涨超2%，台积电涨近3%。",
-          "url": "https://wallstreetcn.com/livenews/3002065",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时30分 ~ 18时30分]"
-        },
-        {
-          "title": "现货黄金此前触及两周高点，美股黄金矿业股盘前上涨。金罗斯黄金(KGC.N)涨3.5%，哈莫尼黄金(HMY.N)涨5.5%，金田(GFI.N)涨5.8%。",
-          "url": "https://flash.jin10.com/detail/20251110175803111800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时30分"
-        },
-        {
-          "title": "美股无惧停摆与美联储指引 华尔街高呼“暂时性逆风”不改大局",
-          "url": "https://flash.jin10.com/detail/20251110175802667800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时30分"
+          "time_info": "00时36分"
         },
         {
           "title": "行业ETF美股盘初多数上涨，半导体ETF、全球科技股指数ETF、科技行业ETF至多涨2.69%。",
           "url": "https://wallstreetcn.com/livenews/3002213",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            26
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时29分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "供应链",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "高盛调研三花等“中国机器人供应链”：为2026年下半年“人形机器人”量产做准备，产能规划已达每年10万至100万台",
-          "url": "https://wallstreetcn.com/articles/3758990",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时27分 ~ 17时30分]"
-        },
-        {
-          "title": "商务部：造成当前全球半导体供应链混乱的源头和责任在荷方",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31928609",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时27分 ~ 05时20分]"
-        },
-        {
-          "title": "商务部：造成当前全球半导体供应链混乱的源头和责任在荷方",
-          "url": "https://wallstreetcn.com/livenews/3001669",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 03时18分]"
-        },
-        {
-          "title": "美财长警告：政府“停摆”或致供应链短缺",
-          "url": "https://flash.jin10.com/detail/20251110061537398800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "超级AI临界点逼近：OpenAI发出警告",
-          "url": "https://www.toutiao.com/trending/7571055203147845126/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时52分"
-        },
-        {
-          "title": "OpenAI：美国现役军人及退伍军人在退役或离职前12个月内，可免费获得一年的ChatGPT Plus服务。",
-          "url": "https://flash.jin10.com/detail/20251110183752790800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时21分"
-        },
-        {
-          "title": "据Business Insider：OpenAI正在考虑进军消费者健康应用领域。",
-          "url": "https://flash.jin10.com/detail/20251110183215863800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时21分"
+          "time_info": "00时36分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 3,
+      "match_count": 2,
       "titles": [
         {
-          "title": "金价",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%87%91%E4%BB%B7&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%25E9%2587%2591%25E4%25BB%25B7%26pos%3D22%26filter_type%3Drealtimehot%26dgr%3D0%26lcate%3D5001%26cate%3D5001%26realpos%3D22%26c_type%3D31%26band_rank%3D22%26stream_entry_id%3D31%26flag%3D1%26display_time%3D1762745050%26pre_seqid%3D17627450499980182356446&launchid=10000360-page_H5",
-          "source": "微博",
+          "title": "金价大涨但黄金首饰难卖了",
+          "url": "https://www.toutiao.com/trending/7571079598381731371/",
+          "source": "今日头条",
           "ranks": [
-            22,
-            25,
-            21,
-            23
+            28
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时25分 ~ 15时24分]"
+          "appearance_count": 2,
+          "time_info": "[00时35分 ~ 00时36分]"
         },
         {
-          "title": "金价再次直线上涨",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E5%86%8D%E6%AC%A1%E7%9B%B4%E7%BA%BF%E4%B8%8A%E6%B6%A8",
-          "source": "百度热搜",
+          "title": "非洲股市收盘播报｜南非股指收涨约2%，兰特涨超0.8%，追随金价一度涨穿4100美元的表现",
+          "url": "https://wallstreetcn.com/livenews/3002234",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            21,
-            23
+            9
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时29分 ~ 22时25分]"
-        },
-        {
-          "title": "经济疲软助推降息预期 黄金价格跳涨至两周高点",
-          "url": "https://flash.jin10.com/detail/20251110164825040800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时30分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "因美国政府停摆有望结束 英国国债收益率随美债走高",
-          "url": "https://flash.jin10.com/detail/20251110165833127800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时30分"
-        },
-        {
-          "title": "欧美债券收益率同步上涨，市场寄望美国政府结束停摆",
-          "url": "https://flash.jin10.com/detail/20251110160650766800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时35分"
-        },
-        {
-          "title": "瑞银：预测美联储降息将使十年期美债收益率跌至3.50%",
-          "url": "https://flash.jin10.com/detail/20251110182455008800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "DeepSeek罕见公开发声，资深研究员陈德里：长期看，AI可能会取代绝大部分人类工作，这不是危言耸听",
-          "url": "https://wallstreetcn.com/articles/3758988",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 07时22分]"
+          "time_info": "00时36分"
         }
       ]
     },
@@ -369,11 +90,11 @@
           "url": "https://wallstreetcn.com/livenews/3002225",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            22
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时29分"
+          "time_info": "00时36分"
         }
       ]
     },
@@ -386,30 +107,11 @@
           "url": "https://wallstreetcn.com/livenews/3002210",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            29
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时29分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "自动驾驶",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "港股自动驾驶IPO热潮再起！有企业已拿下10亿订单 专家：服务业也需向“两化”加速升级",
-          "url": "https://wallstreetcn.com/livenews/3002162",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            16,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时52分 ~ 22时25分]"
+          "time_info": "00时36分"
         }
       ]
     }

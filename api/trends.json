@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-11-11T13:25:53.450621+08:00",
-  "total_titles_processed": 1107,
+  "generated_at": "2025-11-11T14:38:04.950370+08:00",
+  "total_titles_processed": 1188,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
       "match_count": 21,
       "titles": [
+        {
+          "title": "【早报】闪存龙头大涨12%，美股科技巨头集体反攻；促进民间投资，国办重磅发文",
+          "url": "https://www.cls.cn/detail/2196579",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时55分 ~ 14时38分]"
+        },
         {
           "title": "美政府停摆危机化解在即，美股史诗级逼空行情一触即发？",
           "url": "https://wallstreetcn.com/articles/3759034",
@@ -17,8 +28,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时35分 ~ 13时25分]"
+          "appearance_count": 16,
+          "time_info": "[00时35分 ~ 14时38分]"
         },
         {
           "title": "一口气看清美股AI泡沫",
@@ -35,17 +46,6 @@
           "time_info": "[00时35分 ~ 07时23分]"
         },
         {
-          "title": "【早报】闪存龙头大涨12%，美股科技巨头集体反攻；促进民间投资，国办重磅发文",
-          "url": "https://www.cls.cn/detail/2196579",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时55分 ~ 13时25分]"
-        },
-        {
           "title": "美股收盘：美国政府有望结束停摆 纳指反弹2.3% 英伟达涨超5%",
           "url": "https://www.cls.cn/detail/2196552",
           "source": "财联社热门",
@@ -55,8 +55,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时23分 ~ 13时25分]"
+          "appearance_count": 7,
+          "time_info": "[07时23分 ~ 14时38分]"
         },
         {
           "title": "美政府关门有望结束，科技股引领美股强劲反弹，英伟达涨超5%，金银大涨",
@@ -74,11 +74,12 @@
           "url": "https://www.cls.cn/detail/2196635",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时18分 ~ 13时25分]"
+          "appearance_count": 5,
+          "time_info": "[11时18分 ~ 14时38分]"
         },
         {
           "title": "加密货币与加密货币关联指数收跌0.77%，报82.51点，美股盘初呈现出高开低走状态。 周一（11月10日）纽约尾盘，CME比特币期货BTC主力合约较上周五纽约尾盘涨1.73%，至接近10.6万美元的水平。 CME以太币期货DCR主力合约涨1.86%，报3540美元。 北京时间05:54，现货比特币涨0.82%，以太坊跌1.14%，Solana跌0.34%，狗狗币跌0.39%，XRP涨7.46%。",

@@ -1,8 +1,180 @@
 {
-  "generated_at": "2025-11-12T05:23:02.443463+08:00",
-  "total_titles_processed": 555,
+  "generated_at": "2025-11-12T06:24:56.277971+08:00",
+  "total_titles_processed": 600,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "美股",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "金十图示：2025年11月11日（周二）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251112050821592800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时23分 ~ 06时24分]"
+        },
+        {
+          "title": "金十图示：2025年11月11日（周二）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251112050514200800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时23分 ~ 06时24分]"
+        },
+        {
+          "title": "美股收盘：三大股指涨跌不一 英伟达跌近3%",
+          "url": "https://flash.jin10.com/detail/20251112050055390800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时23分 ~ 06时24分]"
+        },
+        {
+          "title": "美股七巨头收盘播报｜周二（11月11日），美国科技股七巨头（Magnificent 7）指数跌0.21%，报210.01点。 “超级”市值科技股跌0.53%，报405.79点。",
+          "url": "https://wallstreetcn.com/livenews/3002988",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时24分"
+        },
+        {
+          "title": "AMD股价美股盘后涨4.5%。",
+          "url": "https://wallstreetcn.com/livenews/3002982",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时24分"
+        },
+        {
+          "title": "金十图示：2025年11月11日（周二）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251112013235058800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时35分"
+        },
+        {
+          "title": "金十图示：2025年11月11日（周二）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251112013227930800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时35分"
+        },
+        {
+          "title": "生物科技ETF收涨将近2.9%，和医疗业ETF领跑美股行业ETF，半导体ETF跌超2.1%",
+          "url": "https://wallstreetcn.com/livenews/3002976",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "重注AI股大赚！软银Q3净利润翻番，愿景基金收益190亿美元，清仓英伟达、追投OpenAI",
+          "url": "https://wallstreetcn.com/articles/3759120",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时32分 ~ 06时24分]"
+        },
+        {
+          "title": "AMD(AMD.O)CEO：（谈OpenAI）我不会押注他们失败。",
+          "url": "https://flash.jin10.com/detail/20251112060435250800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时24分"
+        },
+        {
+          "title": "AMD(AMD.O)CEO：公司与OpenAI的合作非常谨慎。与OpenAI的交易包含具体的部署计划。",
+          "url": "https://flash.jin10.com/detail/20251112054804540800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时24分"
+        },
+        {
+          "title": "OpenAI用德国音乐人创作歌词训练模型被判侵权",
+          "url": "https://flash.jin10.com/detail/20251112020238925800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时35分 ~ 03时20分]"
+        },
+        {
+          "title": "OpenAI用德国音乐人创作歌词训练模型被判侵权",
+          "url": "https://wallstreetcn.com/livenews/3002934",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            15,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时35分 ~ 04时28分]"
+        },
+        {
+          "title": "AMD：预计毛利润率将介于55%-58%。 预计未来三年EPS将超过20美元。 预计数据中心增速将在短期内加快。 将为了支持增长目标而获得足够的供应。 在与OpenAI合作时非常“训练有素/遵守纪律”。 与OpenAI的协议包括具体的生产计划。 公司CEO不会对赌OpenAI。 云客户有非常清晰的预测。",
+          "url": "https://wallstreetcn.com/livenews/3002981",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时24分"
+        }
+      ]
+    },
     {
       "keyword_group": "谷歌 google gemini",
       "match_count": 5,
@@ -68,122 +240,31 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "金十图示：2025年11月11日（周二）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251112050821592800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时23分"
-        },
-        {
-          "title": "金十图示：2025年11月11日（周二）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251112050514200800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时23分"
-        },
-        {
-          "title": "美股收盘：三大股指涨跌不一 英伟达跌近3%",
-          "url": "https://flash.jin10.com/detail/20251112050055390800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时23分"
-        },
-        {
-          "title": "金十图示：2025年11月11日（周二）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20251112013235058800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时35分"
-        },
-        {
-          "title": "金十图示：2025年11月11日（周二）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20251112013227930800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时35分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "重注AI股大赚！软银Q3净利润翻番，愿景基金收益190亿美元，清仓英伟达、追投OpenAI",
-          "url": "https://wallstreetcn.com/articles/3759120",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时32分 ~ 05时23分]"
-        },
-        {
-          "title": "OpenAI用德国音乐人创作歌词训练模型被判侵权",
-          "url": "https://flash.jin10.com/detail/20251112020238925800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时35分 ~ 03时20分]"
-        },
-        {
-          "title": "OpenAI用德国音乐人创作歌词训练模型被判侵权",
-          "url": "https://wallstreetcn.com/livenews/3002934",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            15,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时35分 ~ 04时28分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "美元",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "周二（11月11日）纽约尾盘，ICE美元指数跌0.16%，报99.428点，日内交投区间为99.738-99.287点，北京时间21:19开启一波加速下跌的短线跳水行情。 彭博美元指数跌0.09%，报1217.60点，日内交投区间为1220.78-1216.52点，也从21:19转跌、并短线跳水。",
           "url": "https://wallstreetcn.com/livenews/3002962",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时23分 ~ 06时24分]"
+        },
+        {
+          "title": "加密货币与加密货币关联指数跌5.85%，报77.69点，跳空低开之后，全天持续震荡下行。 周二（11月11日）纽约尾盘，CME比特币期货BTC主力合约较周一纽约尾盘跌3.46%，至10.3万美元下方。 CME以太币期货DCR主力合约跌4.48%，报3419美元。 北京时间05:52，现货比特币跌3.4%，报102449.62美元；以太坊跌4.54%，报3409.50美元；Solana跌7.16%，狗狗币跌4.62%，XRP跌6.85%。",
+          "url": "https://wallstreetcn.com/livenews/3002993",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时23分"
+          "time_info": "06时24分"
         },
         {
           "title": "美元指数11日下跌",
@@ -192,7 +273,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
         }
@@ -200,7 +281,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "金价跌穿4100美元",
@@ -213,6 +294,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时32分 ~ 01时23分]"
+        },
+        {
+          "title": "金价在美国就业数据发布后出现一波V形反转，纽约期银涨1.5%，钯金涨超2.2%",
+          "url": "https://wallstreetcn.com/livenews/3002992",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时24分"
         }
       ]
     }

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-12T11:18:11.633834+08:00",
-  "total_titles_processed": 935,
+  "generated_at": "2025-11-12T12:30:43.688763+08:00",
+  "total_titles_processed": 1028,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时22分 ~ 11时18分]"
+          "appearance_count": 5,
+          "time_info": "[07时22分 ~ 12时30分]"
         },
         {
           "title": "金十图示：2025年11月11日（周二）美股热门股票行情一览（美股收盘）",
@@ -127,11 +127,12 @@
             6,
             7,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时32分 ~ 11时18分]"
+          "appearance_count": 16,
+          "time_info": "[00时32分 ~ 12时30分]"
         },
         {
           "title": "AMD(AMD.O)CEO：（谈OpenAI）我不会押注他们失败。",
@@ -170,6 +171,18 @@
           "time_info": "[06时24分 ~ 07时22分]"
         },
         {
+          "title": "俄罗斯推出首款国产人形机器人 OpenAI被判侵权 | 环球市场",
+          "url": "https://www.cls.cn/detail/2197744",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时54分 ~ 12时30分]"
+        },
+        {
           "title": "OpenAI用德国音乐人创作歌词训练模型被判侵权",
           "url": "https://wallstreetcn.com/livenews/3002934",
           "source": "华尔街见闻-快讯",
@@ -181,18 +194,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时35分 ~ 04时28分]"
-        },
-        {
-          "title": "俄罗斯推出首款国产人形机器人 OpenAI被判侵权 | 环球市场",
-          "url": "https://www.cls.cn/detail/2197744",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时54分 ~ 11时18分]"
         },
         {
           "title": "AMD：预计毛利润率将介于55%-58%。 预计未来三年EPS将超过20美元。 预计数据中心增速将在短期内加快。 将为了支持增长目标而获得足够的供应。 在与OpenAI合作时非常“训练有素/遵守纪律”。 与OpenAI的协议包括具体的生产计划。 公司CEO不会对赌OpenAI。 云客户有非常清晰的预测。",
@@ -329,6 +330,18 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "金价",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%87%91%E4%BB%B7&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D22%26cate%3D5001%26dgr%3D0%26q%3D%25E9%2587%2591%25E4%25BB%25B7%26stream_entry_id%3D31%26pos%3D23%26realpos%3D22%26flag%3D1%26filter_type%3Drealtimehot%26lcate%3D5001%26c_type%3D31%26display_time%3D1762917395%26pre_seqid%3D1762917395497032075159&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            22,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时17分 ~ 12时30分]"
+        },
+        {
           "title": "金价在美国就业数据发布后出现一波V形反转，纽约期银涨1.5%，钯金涨超2.2%",
           "url": "https://wallstreetcn.com/livenews/3002992",
           "source": "华尔街见闻-快讯",
@@ -351,17 +364,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时32分 ~ 01时23分]"
-        },
-        {
-          "title": "金价",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%87%91%E4%BB%B7&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D22%26cate%3D5001%26dgr%3D0%26q%3D%25E9%2587%2591%25E4%25BB%25B7%26stream_entry_id%3D31%26pos%3D23%26realpos%3D22%26flag%3D1%26filter_type%3Drealtimehot%26lcate%3D5001%26c_type%3D31%26display_time%3D1762917395%26pre_seqid%3D1762917395497032075159&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时17分 ~ 11时18分]"
         }
       ]
     },
@@ -375,11 +377,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时22分 ~ 11时18分]"
+          "appearance_count": 5,
+          "time_info": "[07时22分 ~ 12时30分]"
         }
       ]
     }

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-13T12:31:04.910910+08:00",
-  "total_titles_processed": 1057,
+  "generated_at": "2025-11-13T13:25:54.298294+08:00",
+  "total_titles_processed": 1117,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时23分 ~ 12时31分]"
+          "appearance_count": 7,
+          "time_info": "[07时23分 ~ 13时25分]"
         },
         {
           "title": "金十图示：2025年11月12日（周三）美股热门股票行情一览（美股收盘）",
@@ -145,11 +145,12 @@
           "source": "知乎",
           "ranks": [
             20,
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时19分 ~ 12时31分]"
+          "appearance_count": 4,
+          "time_info": "[11时19分 ~ 13时25分]"
         },
         {
           "title": "微软将利用OpenAI定制芯片技术助力内部研发工作",
@@ -360,11 +361,12 @@
             19,
             15,
             17,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时35分 ~ 12时31分]"
+          "appearance_count": 16,
+          "time_info": "[00时35分 ~ 13时25分]"
         },
         {
           "title": "前DeepSeek研究员罗福莉已加入小米",

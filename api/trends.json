@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-16T20:44:37.452834+08:00",
-  "total_titles_processed": 1175,
+  "generated_at": "2025-11-16T21:28:29.508120+08:00",
+  "total_titles_processed": 1211,
   "failed_sources": [],
   "trends": [
     {
@@ -33,8 +33,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时27分 ~ 20时44分]"
+          "appearance_count": 25,
+          "time_info": "[00时27分 ~ 21时28分]"
         },
         {
           "title": "高瓴HHLR三季度美股持仓：持股总市值暴增70亿 持续加大中国资产配置",
@@ -104,8 +104,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时30分 ~ 20时44分]"
+          "appearance_count": 7,
+          "time_info": "[16时30分 ~ 21时28分]"
         }
       ]
     },

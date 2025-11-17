@@ -1,22 +1,23 @@
 {
-  "generated_at": "2025-11-18T00:34:18.708233+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-11-18T01:24:21.186277+08:00",
+  "total_titles_processed": 371,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "“表现极其惊艳”，谷歌大模型罕见发布前“造势”，Gemini 3.0本周登场？",
           "url": "https://wallstreetcn.com/articles/3759493",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时34分"
+          "appearance_count": 2,
+          "time_info": "[00时34分 ~ 01时24分]"
         },
         {
           "title": "美股三大期指盘前涨跌不一 获巴菲特建仓谷歌涨近4% | 今夜看点",
@@ -26,8 +27,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时34分"
+          "appearance_count": 2,
+          "time_info": "[00时34分 ~ 01时24分]"
         },
         {
           "title": "谷歌：将投资建设两个面向跨印度洋地区的全新连接枢纽。",
@@ -39,6 +40,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时34分"
+        },
+        {
+          "title": "市场消息：美国最高法院拒绝受理针对苹果、谷歌和LG的专利上诉案。",
+          "url": "https://flash.jin10.com/detail/20251118002000418800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时24分"
         },
         {
           "title": "谷歌A(GOOGL.O)：WeatherNext 2的预报速度提升了8倍。",
@@ -104,8 +116,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时34分"
+          "appearance_count": 2,
+          "time_info": "[00时34分 ~ 01时24分]"
         }
       ]
     }

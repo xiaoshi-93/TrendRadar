@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-20T03:21:02.683498+08:00",
-  "total_titles_processed": 504,
+  "generated_at": "2025-11-20T04:25:32.985083+08:00",
+  "total_titles_processed": 537,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时35分 ~ 03时21分]"
+          "appearance_count": 7,
+          "time_info": "[00时35分 ~ 04时25分]"
         },
         {
           "title": "Gemini3是目前最强AI吗",
           "url": "https://search.bilibili.com/all?keyword=Gemini3%E6%98%AF%E7%9B%AE%E5%89%8D%E6%9C%80%E5%BC%BAAI%E5%90%97",
           "source": "bilibili 热搜",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时35分 ~ 03时21分]"
+          "appearance_count": 7,
+          "time_info": "[00时35分 ~ 04时25分]"
         },
         {
           "title": "英伟达财报前夕，美股集体上涨，谷歌新高，日本股债汇三杀，现货黄金逼近4120美元",
@@ -37,8 +38,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时35分 ~ 03时21分]"
+          "appearance_count": 7,
+          "time_info": "[00时35分 ~ 04时25分]"
         },
         {
           "title": "Gemini3有哪些新功能",
@@ -47,22 +48,24 @@
           "ranks": [
             5,
             8,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时35分 ~ 03时21分]"
+          "appearance_count": 7,
+          "time_info": "[00时35分 ~ 04时25分]"
         },
         {
           "title": "段永平Q3持仓：大幅增持伯克希尔，英伟达持仓砍掉38%，减持苹果、拼多多、谷歌，建仓阿斯麦",
           "url": "https://wallstreetcn.com/articles/3759713",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时36分 ~ 03时21分]"
+          "appearance_count": 5,
+          "time_info": "[02时36分 ~ 04时25分]"
         },
         {
           "title": "谷歌公司：与迈凯伦车队（McLaren Formulate 1）扩大合作伙伴关系。",
@@ -108,11 +111,12 @@
           "url": "https://wallstreetcn.com/articles/3759654",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时35分 ~ 03时21分]"
+          "appearance_count": 7,
+          "time_info": "[00时35分 ~ 04时25分]"
         },
         {
           "title": "OpenAI：推出面向教师的ChatGPT，并将其免费开放至2027年6月。2027年6月之后可能会调整定价，但目标是让面向教师的ChatGPT对教育工作者来说仍然负担得起。",
@@ -142,11 +146,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            16
+            16,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时37分 ~ 03时21分]"
+          "appearance_count": 3,
+          "time_info": "[02时37分 ~ 04时25分]"
         }
       ]
     },
@@ -154,17 +159,6 @@
       "keyword_group": "美股",
       "match_count": 4,
       "titles": [
-        {
-          "title": "美股三大指数再次转涨，道琼斯指数涨0.03%，标普500指数涨0.35%，纳斯达克综合指数涨0.47%。",
-          "url": "https://flash.jin10.com/detail/20251120021502092800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时37分"
-        },
         {
           "title": "美股三大期指小幅走高 市场紧盯英伟达盘后业绩 | 今夜看点",
           "url": "https://www.cls.cn/detail/2205477",
@@ -175,8 +169,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时35分 ~ 03时21分]"
+          "appearance_count": 7,
+          "time_info": "[00时35分 ~ 04时25分]"
+        },
+        {
+          "title": "美股三大指数再次转涨，道琼斯指数涨0.03%，标普500指数涨0.35%，纳斯达克综合指数涨0.47%。",
+          "url": "https://flash.jin10.com/detail/20251120021502092800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时37分"
         },
         {
           "title": "摩根大通交易台：抄底美股正当其时，技术性洗盘可能已结束",
@@ -211,11 +216,12 @@
           "url": "https://wallstreetcn.com/livenews/3007390",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时21分 ~ 04时25分]"
         },
         {
           "title": "东方汇理：美联储独立性受损对美元和美债构成重大风险",

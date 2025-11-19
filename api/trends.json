@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-19T17:28:34.777817+08:00",
-  "total_titles_processed": 1369,
+  "generated_at": "2025-11-19T18:28:56.619964+08:00",
+  "total_titles_processed": 1452,
   "failed_sources": [],
   "trends": [
     {
@@ -104,6 +104,18 @@
           "time_info": "[11时16分 ~ 12时30分]"
         },
         {
+          "title": "美股AI牛市年末何去何从？黄仁勋和鲍威尔成“关键先生”……",
+          "url": "https://www.cls.cn/detail/2204885",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时28分 ~ 18时28分]"
+        },
+        {
           "title": "美股银行股濒临跌破关键支撑位 将对整体股市发出严重警告",
           "url": "https://flash.jin10.com/detail/20251119025030602800",
           "source": "金十数据",
@@ -125,17 +137,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
-        },
-        {
-          "title": "美股AI牛市年末何去何从？黄仁勋和鲍威尔成“关键先生”……",
-          "url": "https://www.cls.cn/detail/2204885",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时28分"
         },
         {
           "title": "美股科技股遭抛售 英伟达跌近3%",
@@ -251,8 +252,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时54分 ~ 17时28分]"
+          "appearance_count": 11,
+          "time_info": "[09时54分 ~ 18时28分]"
         },
         {
           "title": "谷歌正式发布Gemini3",
@@ -270,6 +271,19 @@
           "time_info": "[02时36分 ~ 09时54分]"
         },
         {
+          "title": "Gemini 3的意义：AI已超越“幻觉阶段”，逼近人类，“人机协作”将从“人对AI纠错”走向“人指导AI工作”",
+          "url": "https://wallstreetcn.com/articles/3759673",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时16分 ~ 18时28分]"
+        },
+        {
           "title": "Gemini3为何是目前最强AI",
           "url": "https://search.bilibili.com/all?keyword=Gemini3%E4%B8%BA%E4%BD%95%E6%98%AF%E7%9B%AE%E5%89%8D%E6%9C%80%E5%BC%BAAI",
           "source": "bilibili 热搜",
@@ -280,11 +294,12 @@
             13,
             16,
             7,
-            20
+            20,
+            28
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时54分 ~ 17时28分]"
+          "appearance_count": 11,
+          "time_info": "[09时54分 ~ 18时28分]"
         },
         {
           "title": "AI大模型“新王”加冕 奥尔特曼发来贺电 谷歌做对了什么？",
@@ -300,19 +315,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[09时54分 ~ 16时33分]"
-        },
-        {
-          "title": "Gemini 3的意义：AI已超越“幻觉阶段”，逼近人类，“人机协作”将从“人对AI纠错”走向“人指导AI工作”",
-          "url": "https://wallstreetcn.com/articles/3759673",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时16分 ~ 17时28分]"
         },
         {
           "title": "谷歌CEO：如果AI泡沫破裂 没有一家公司能够毫发无损",
@@ -338,6 +340,20 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时54分 ~ 13时26分]"
+        },
+        {
+          "title": "王自如深度体验谷歌AI",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%87%AA%E5%A6%82%E6%B7%B1%E5%BA%A6%E4%BD%93%E9%AA%8C%E8%B0%B7%E6%AD%8CAI",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            9,
+            24,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时36分 ~ 18时28分]"
         },
         {
           "title": "谷歌DeepMind在新加坡设立人工智能研究实验室。",
@@ -371,20 +387,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
-        },
-        {
-          "title": "王自如深度体验谷歌AI",
-          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%87%AA%E5%A6%82%E6%B7%B1%E5%BA%A6%E4%BD%93%E9%AA%8C%E8%B0%B7%E6%AD%8CAI",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8,
-            9,
-            24,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时36分 ~ 17时28分]"
         },
         {
           "title": "【谷歌推出最新一代AI模型Gemini 3，强调立即投入盈利产品】Alphabet旗下的谷歌推出其最新版本的人工智能模型Gemini 3，并强调这些新功能将立即在多个盈利产品中投入使用，例如其搜索引擎。 Gemini 3是在第二代模型发布11个月后推出的。从表面上看，它似乎将谷歌保持在人工智能竞赛的前沿。在一次新闻发布会上，高管们强调，在衡量人工智能模型性能的几个热门行业排行榜上，Gemini 3处于领先地位。 首席执行官桑达尔·皮查伊（Sundar Pichai）在一篇公司博客文章中将其描述为“我们最智能的模型”。",
@@ -509,6 +511,34 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "英国在9月份减持近400亿美元美债 日本增持",
+          "url": "https://flash.jin10.com/detail/20251119062808557800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时23分"
+        },
+        {
+          "title": "中方再抛5亿美债传递出怎样的信号",
+          "url": "https://www.toutiao.com/trending/7574330336398544425/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
+        }
+      ]
+    },
+    {
       "keyword_group": "供应链",
       "match_count": 2,
       "titles": [
@@ -519,7 +549,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
         },
@@ -549,8 +579,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时54分 ~ 17时28分]"
+          "appearance_count": 10,
+          "time_info": "[09时54分 ~ 18时28分]"
         }
       ]
     },
@@ -568,23 +598,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "英国在9月份减持近400亿美元美债 日本增持",
-          "url": "https://flash.jin10.com/detail/20251119062808557800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时23分"
         }
       ]
     },

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-20T20:51:07.992573+08:00",
-  "total_titles_processed": 1774,
+  "generated_at": "2025-11-20T21:34:33.684833+08:00",
+  "total_titles_processed": 1866,
   "failed_sources": [],
   "trends": [
     {
@@ -120,6 +120,18 @@
           "time_info": "[17时27分 ~ 18时27分]"
         },
         {
+          "title": "Gemini3有哪些新鲜玩法",
+          "url": "https://search.bilibili.com/all?keyword=Gemini3%E6%9C%89%E5%93%AA%E4%BA%9B%E6%96%B0%E9%B2%9C%E7%8E%A9%E6%B3%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时50分 ~ 21时34分]"
+        },
+        {
           "title": "如何评价谷歌新发布的软件开发平台 Antigravity?",
           "url": "https://www.zhihu.com/question/1974483598263476355",
           "source": "知乎",
@@ -143,17 +155,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时34分 ~ 17时27分]"
-        },
-        {
-          "title": "Gemini3有哪些新鲜玩法",
-          "url": "https://search.bilibili.com/all?keyword=Gemini3%E6%9C%89%E5%93%AA%E4%BA%9B%E6%96%B0%E9%B2%9C%E7%8E%A9%E6%B3%95",
-          "source": "bilibili 热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时50分 ~ 20时51分]"
         },
         {
           "title": "王自如深度体验谷歌AI",
@@ -237,7 +238,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "科技股力撑美股反弹，英伟达绩后一度大涨6%，美元涨回100，加密货币盘中大跌",
@@ -249,8 +250,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时23分 ~ 20时51分]"
+          "appearance_count": 15,
+          "time_info": "[07时23分 ~ 21时34分]"
         },
         {
           "title": "美股收盘：三大指数集体收涨 英伟达财报再超预期",
@@ -290,6 +291,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时37分"
+        },
+        {
+          "title": "多只美股QDII基金“闭门谢客”",
+          "url": "https://wallstreetcn.com/livenews/3007980",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
         },
         {
           "title": "美股核电股盘前普涨，Oklo涨超5%，纳米核能涨超6%。",
@@ -525,8 +537,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时27分 ~ 20时51分]"
+          "appearance_count": 5,
+          "time_info": "[18时27分 ~ 21时34分]"
         },
         {
           "title": "伦敦金属交易所：2026年中起将停止管理LBMA铂金和钯金价格",
@@ -600,6 +612,67 @@
       ]
     },
     {
+      "keyword_group": "美元",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "美元指数升至六个月高位，最高至100.35。",
+          "url": "https://wallstreetcn.com/livenews/3007975",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
+        },
+        {
+          "title": "美元指数涨穿100关口，为11月6日以来首次，日内当前涨超0.4%。",
+          "url": "https://wallstreetcn.com/livenews/3007307",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时35分"
+        },
+        {
+          "title": "美元指数19日上涨",
+          "url": "https://flash.jin10.com/detail/20251120052754830800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时24分"
+        },
+        {
+          "title": "周三（11月19日）纽约尾盘，ICE美元指数涨0.67%，报100.243点，日内交投区间为99.494-100.243点，北京时间22:00之前大致持稳于99.600点附近，之后持续、平滑地加速上扬。 彭博美元指数涨0.49%，报1225.34点，日内交投区间为1218.92-1225.87点。",
+          "url": "https://wallstreetcn.com/livenews/3007400",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时19分"
+        },
+        {
+          "title": "现货黄金涨至4130美元/盎司上方，日内涨1.57％。 标普500指数涨超1%，道指涨193点涨幅0.42%，纳指涨1.7%，半导体指数涨超3%。",
+          "url": "https://wallstreetcn.com/livenews/3007293",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时35分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 4,
       "titles": [
@@ -643,56 +716,6 @@
           "title": "东方汇理：美联储独立性受损对美元和美债构成重大风险。",
           "url": "https://flash.jin10.com/detail/20251119234834627800",
           "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时35分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "美元指数涨穿100关口，为11月6日以来首次，日内当前涨超0.4%。",
-          "url": "https://wallstreetcn.com/livenews/3007307",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时35分"
-        },
-        {
-          "title": "美元指数19日上涨",
-          "url": "https://flash.jin10.com/detail/20251120052754830800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时24分"
-        },
-        {
-          "title": "周三（11月19日）纽约尾盘，ICE美元指数涨0.67%，报100.243点，日内交投区间为99.494-100.243点，北京时间22:00之前大致持稳于99.600点附近，之后持续、平滑地加速上扬。 彭博美元指数涨0.49%，报1225.34点，日内交投区间为1218.92-1225.87点。",
-          "url": "https://wallstreetcn.com/livenews/3007400",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时19分"
-        },
-        {
-          "title": "现货黄金涨至4130美元/盎司上方，日内涨1.57％。 标普500指数涨超1%，道指涨193点涨幅0.42%，纳指涨1.7%，半导体指数涨超3%。",
-          "url": "https://wallstreetcn.com/livenews/3007293",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             26
           ],

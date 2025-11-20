@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-20T17:27:06.858501+08:00",
-  "total_titles_processed": 1446,
+  "generated_at": "2025-11-20T18:27:46.885934+08:00",
+  "total_titles_processed": 1551,
   "failed_sources": [],
   "trends": [
     {
@@ -32,6 +32,23 @@
           "time_info": "[00时35分 ~ 06时24分]"
         },
         {
+          "title": "Gemini3有哪些新功能",
+          "url": "https://search.bilibili.com/all?keyword=Gemini3%E6%9C%89%E5%93%AA%E4%BA%9B%E6%96%B0%E5%8A%9F%E8%83%BD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            8,
+            9,
+            6,
+            12,
+            10,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 20,
+          "time_info": "[00时35分 ~ 18时27分]"
+        },
+        {
           "title": "Gemini3是目前最强AI吗",
           "url": "https://search.bilibili.com/all?keyword=Gemini3%E6%98%AF%E7%9B%AE%E5%89%8D%E6%9C%80%E5%BC%BAAI%E5%90%97",
           "source": "bilibili 热搜",
@@ -47,24 +64,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时35分 ~ 17时27分]"
-        },
-        {
-          "title": "Gemini3有哪些新功能",
-          "url": "https://search.bilibili.com/all?keyword=Gemini3%E6%9C%89%E5%93%AA%E4%BA%9B%E6%96%B0%E5%8A%9F%E8%83%BD",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            8,
-            9,
-            6,
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时35分 ~ 17时27分]"
+          "appearance_count": 20,
+          "time_info": "[00时35分 ~ 18时27分]"
         },
         {
           "title": "段永平Q3持仓：大幅增持伯克希尔，英伟达持仓砍掉38%，减持苹果、拼多多、谷歌，建仓阿斯麦",
@@ -78,19 +79,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[02时36分 ~ 17时27分]"
-        },
-        {
-          "title": "美股盘前，英伟达延续此前涨势，现上涨超5%；AMD涨超5%；特斯拉、谷歌A涨超2%，Meta、亚马逊、微软涨1%。",
-          "url": "https://wallstreetcn.com/livenews/3007835",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时27分"
+          "appearance_count": 18,
+          "time_info": "[02时36分 ~ 18时27分]"
         },
         {
           "title": "美股七巨头收盘播报｜谷歌A冲高回落，收涨3%，英伟达在业绩报告发布前收涨超2.8%",
@@ -115,6 +105,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时36分 ~ 15时24分]"
+        },
+        {
+          "title": "美股盘前，英伟达延续此前涨势，现上涨超5%；AMD涨超5%；特斯拉、谷歌A涨超2%，Meta、亚马逊、微软涨1%。",
+          "url": "https://wallstreetcn.com/livenews/3007835",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时27分 ~ 18时27分]"
         },
         {
           "title": "如何评价谷歌新发布的软件开发平台 Antigravity?",
@@ -215,7 +217,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时27分"
         }
@@ -235,8 +237,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时23分 ~ 17时27分]"
+          "appearance_count": 11,
+          "time_info": "[07时23分 ~ 18时27分]"
         },
         {
           "title": "美股收盘：三大指数集体收涨 英伟达财报再超预期",
@@ -282,11 +284,12 @@
           "url": "https://wallstreetcn.com/livenews/3007836",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时27分 ~ 18时27分]"
         },
         {
           "title": "英伟达(NVDA.O)涨势带动美股芯片股盘后行情，AMD(AMD.O)、台积电(TSM.N)和美光科技(MU.O)均涨于3%一线。",
@@ -500,8 +503,19 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "伦敦金属交易所：2026年中起将停止管理LBMA铂金和钯金价格",
+          "url": "https://wallstreetcn.com/livenews/3007872",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时27分"
+        },
         {
           "title": "英伟达业绩提振全球市场情绪，日经225涨超3%，纳指100期货涨1.9%，比特币升至9.2万美元，金价跌至4070美元",
           "url": "https://wallstreetcn.com/articles/3759753",
@@ -514,6 +528,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[15时24分 ~ 17时27分]"
+        },
+        {
+          "title": "英伟达业绩驱散悲观情绪，纳指100期货涨1.9%，日经225涨超3%，比特币反弹至9.2万美元，金价跌破4100美元",
+          "url": "https://wallstreetcn.com/articles/3759753",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时27分"
         },
         {
           "title": "卖空者浑水创始人Carson Block：现在喜欢做多股票。 看涨加拿大初级金矿公司Snowline Gold Corp.（SGD）。 相比黄金价格，该公司参与的潜在项目的价值被低估了。",
@@ -536,6 +561,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时24分"
+        },
+        {
+          "title": "伦敦金属交易所（LME）：自2026年年中起，将停止管理伦敦金银市场协会（LBMA）的铂金和钯金价格，以便专注于核心的基本金属业务。",
+          "url": "https://flash.jin10.com/detail/20251120180241595800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时27分"
         },
         {
           "title": "美联储纪要公布后金价回吐涨幅 市场聚焦利率路径线索",

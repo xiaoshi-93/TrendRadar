@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-21T15:25:27.401411+08:00",
-  "total_titles_processed": 1380,
+  "generated_at": "2025-11-21T16:35:14.155162+08:00",
+  "total_titles_processed": 1500,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 32,
+      "match_count": 33,
       "titles": [
         {
           "title": "科技股力撑美股反弹，英伟达绩后一度大涨6%，美元涨回100，加密货币盘中大跌",
@@ -21,6 +21,31 @@
           "time_info": "[00时32分 ~ 07时23分]"
         },
         {
+          "title": "【早报】美股上演“过山车式”大跳水；磷酸铁锂行业推进反内卷",
+          "url": "https://www.cls.cn/detail/2206823",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[07时22分 ~ 16时35分]"
+        },
+        {
+          "title": "纳指日内暴跌5%！4月以来最惨烈波动，美股怎么了？",
+          "url": "https://wallstreetcn.com/articles/3759840",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时53分 ~ 16时35分]"
+        },
+        {
           "title": "美股收盘：英伟达财报未能稳住市场 三大指数集体收跌 纳指大跌逾2%",
           "url": "https://www.cls.cn/detail/2206810",
           "source": "财联社热门",
@@ -34,52 +59,29 @@
           "time_info": "[06时22分 ~ 15时25分]"
         },
         {
-          "title": "【早报】美股上演“过山车式”大跳水；磷酸铁锂行业推进反内卷",
-          "url": "https://www.cls.cn/detail/2206823",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时22分 ~ 15时25分]"
-        },
-        {
-          "title": "纳指日内暴跌5%！4月以来最惨烈波动，美股怎么了？",
-          "url": "https://wallstreetcn.com/articles/3759840",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时53分 ~ 15时25分]"
-        },
-        {
           "title": "英伟达光环消失！美股惨烈高台跳水 华尔街全在问：为什么？",
           "url": "https://www.cls.cn/detail/2206908",
           "source": "财联社热门",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时15分 ~ 15时25分]"
+          "appearance_count": 7,
+          "time_info": "[11时15分 ~ 16时35分]"
         },
         {
           "title": "美股为何巨震暴跌",
           "url": "https://www.toutiao.com/trending/7574979338739650091/",
           "source": "今日头条",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时30分 ~ 15时25分]"
+          "appearance_count": 6,
+          "time_info": "[12时30分 ~ 16时35分]"
         },
         {
           "title": "隔夜，美股为何巨震暴跌？高盛给出九大理由",
@@ -92,8 +94,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时53分 ~ 15时25分]"
+          "appearance_count": 8,
+          "time_info": "[09时53分 ~ 16时35分]"
         },
         {
           "title": "降息前景存疑！亚太市场追随美股下挫 科技股成重灾区",
@@ -101,11 +103,12 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时30分 ~ 15时25分]"
+          "appearance_count": 6,
+          "time_info": "[12时30分 ~ 16时35分]"
         },
         {
           "title": "9月非农就业岗位增长超预期，而失业率则升至4.4%，为四年来最高水平。市场押注美联储将在12月会议上按兵不动。美股周四大跌，欧股小幅收涨，现货黄金收跌0.1%，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
@@ -119,6 +122,19 @@
           "time_info": "11时15分"
         },
         {
+          "title": "美股为何巨震暴跌",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%BA%E4%BD%95%E5%B7%A8%E9%9C%87%E6%9A%B4%E8%B7%8C",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            23,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时25分 ~ 16时35分]"
+        },
+        {
           "title": "金十图示：2025年11月20日（周四）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20251121050621300800",
           "source": "金十数据",
@@ -129,6 +145,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时23分 ~ 06时22分]"
+        },
+        {
+          "title": "美股大跌的“罪魁祸首”！英伟达日内惨跌7%，“大空头”财报后密集“放炮”",
+          "url": "https://wallstreetcn.com/articles/3759849",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时38分 ~ 16时35分]"
         },
         {
           "title": "金十图示：2025年11月20日（周四）热门中概股行情一览（美股收盘）",
@@ -168,19 +196,6 @@
           "time_info": "[00时32分 ~ 02时36分]"
         },
         {
-          "title": "美股为何巨震暴跌",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%BA%E4%BD%95%E5%B7%A8%E9%9C%87%E6%9A%B4%E8%B7%8C",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            23,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时25分 ~ 15时25分]"
-        },
-        {
           "title": "美股",
           "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=8&Refer=top",
           "source": "微博",
@@ -190,18 +205,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时22分 ~ 07时23分]"
-        },
-        {
-          "title": "美股大跌的“罪魁祸首”！英伟达日内惨跌7%，“大空头”财报后密集“放炮”",
-          "url": "https://wallstreetcn.com/articles/3759849",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时38分 ~ 15时25分]"
         },
         {
           "title": "周四（11月20日）纽约尾盘，CME比特币期货BTC主力合约较周三纽约尾盘跌2.20%，报87605美元，北京时间22:00之前维持上涨状态——持稳于92000美元附近，之后开始下行，03:04刷新日低至86075美元。 CME以太币期货DCR主力合约跌1.82%，报2891.50美元，日内交投于3065.50-2792.50美元区间。 美股加密货币与加密货币关联指数跌5.49%，报58.79点。 MarketVector数字资产100小盘指数最近24小时跌3.59%，暂报18187.16点。 北京时间05:58，现货比特币跌2.23%，报87199.85美元；以太坊跌1.41%，Solana涨1.08%，狗狗币涨0.90%，XRP跌0.91%。",
@@ -238,6 +241,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时22分 ~ 07时23分]"
+        },
+        {
+          "title": "美国消费“凉了”？美股45年来首次出现这一幕……",
+          "url": "https://www.cls.cn/detail/2207216",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时34分 ~ 16时35分]"
         },
         {
           "title": "半导体ETF收跌超4.2%，领跌美股行业ETF",
@@ -357,7 +371,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
         },
@@ -469,7 +483,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
         },
@@ -695,11 +709,12 @@
           "url": "https://wallstreetcn.com/articles/3759753",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时53分 ~ 15时25分]"
+          "appearance_count": 8,
+          "time_info": "[09时53分 ~ 16时35分]"
         },
         {
           "title": "英伟达业绩驱散悲观情绪，“悲喜交织”就业数据后，美股指数高开高走，美债上扬",

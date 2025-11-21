@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-21T11:15:26.690464+08:00",
-  "total_titles_processed": 1009,
+  "generated_at": "2025-11-21T12:30:35.979834+08:00",
+  "total_titles_processed": 1113,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 26,
+      "match_count": 28,
       "titles": [
         {
           "title": "科技股力撑美股反弹，英伟达绩后一度大涨6%，美元涨回100，加密货币盘中大跌",
@@ -30,8 +30,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时22分 ~ 11时15分]"
+          "appearance_count": 6,
+          "time_info": "[06时22分 ~ 12时30分]"
         },
         {
           "title": "【早报】美股上演“过山车式”大跳水；磷酸铁锂行业推进反内卷",
@@ -42,8 +42,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时22分 ~ 11时15分]"
+          "appearance_count": 5,
+          "time_info": "[07时22分 ~ 12时30分]"
         },
         {
           "title": "纳指日内暴跌5%！4月以来最惨烈波动，美股怎么了？",
@@ -51,22 +51,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时53分 ~ 11时15分]"
-        },
-        {
-          "title": "9月非农就业岗位增长超预期，而失业率则升至4.4%，为四年来最高水平。市场押注美联储将在12月会议上按兵不动。美股周四大跌，欧股小幅收涨，现货黄金收跌0.1%，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
-          "url": "https://flash.jin10.com/detail/20251121111212865800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时15分"
+          "appearance_count": 3,
+          "time_info": "[09时53分 ~ 12时30分]"
         },
         {
           "title": "英伟达光环消失！美股惨烈高台跳水 华尔街全在问：为什么？",
@@ -75,9 +65,55 @@
           "ranks": [
             4
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时15分 ~ 12时30分]"
+        },
+        {
+          "title": "美股为何巨震暴跌",
+          "url": "https://www.toutiao.com/trending/7574979338739650091/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
           "is_new": true,
           "appearance_count": 1,
+          "time_info": "12时30分"
+        },
+        {
+          "title": "9月非农就业岗位增长超预期，而失业率则升至4.4%，为四年来最高水平。市场押注美联储将在12月会议上按兵不动。美股周四大跌，欧股小幅收涨，现货黄金收跌0.1%，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20251121111212865800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
           "time_info": "11时15分"
+        },
+        {
+          "title": "降息前景存疑！亚太市场追随美股下挫 科技股成重灾区",
+          "url": "https://www.cls.cn/detail/2206941",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时30分"
+        },
+        {
+          "title": "隔夜，美股为何巨震暴跌？高盛给出九大理由",
+          "url": "https://wallstreetcn.com/articles/3759847",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时53分 ~ 12时30分]"
         },
         {
           "title": "金十图示：2025年11月20日（周四）美股热门股票行情一览（美股收盘）",
@@ -127,18 +163,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时32分 ~ 02时36分]"
-        },
-        {
-          "title": "隔夜，美股为何巨震暴跌？高盛给出九大理由",
-          "url": "https://wallstreetcn.com/articles/3759847",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时53分 ~ 11时15分]"
         },
         {
           "title": "美股",
@@ -417,11 +441,12 @@
           "url": "https://www.douyin.com/hot/2312679",
           "source": "抖音",
           "ranks": [
-            6
+            6,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时15分 ~ 12时30分]"
         },
         {
           "title": "谷歌：从Pixel 10系列开始，Quick Share已实现与Air Drop的互操作性。",
@@ -469,7 +494,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时15分"
         },
@@ -495,6 +520,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时22分 ~ 07时23分]"
+        },
+        {
+          "title": "OpenAI正式推出ChatGPT群聊功能",
+          "url": "https://wallstreetcn.com/livenews/3008363",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时15分 ~ 12时30分]"
         },
         {
           "title": "富士康：OpenAI将可提前访问以评估富士康的系统，并拥有购买这些系统的选项。",
@@ -530,17 +567,6 @@
           "time_info": "09时53分"
         },
         {
-          "title": "OpenAI正式推出ChatGPT群聊功能",
-          "url": "https://wallstreetcn.com/livenews/3008363",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时15分"
-        },
-        {
           "title": "OpenAI被数字实验室APP开发商OverDrive起诉，自称“Sora”商标被Sam Altman公司的视频大模型Sora侵权。",
           "url": "https://wallstreetcn.com/livenews/3008088",
           "source": "华尔街见闻-快讯",
@@ -571,6 +597,17 @@
           "time_info": "[00时32分 ~ 03时20分]"
         },
         {
+          "title": "美股上演四月关税风暴来最大盘中逆转，英伟达跌超3%，美债走强，比特币七个月新低",
+          "url": "https://wallstreetcn.com/articles/3759753",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时53分 ~ 12时30分]"
+        },
+        {
           "title": "英伟达财报提振效果昙花一现，标普500指数转跌，美债上扬，比特币跌破9万关口",
           "url": "https://wallstreetcn.com/articles/3759753",
           "source": "华尔街见闻",
@@ -580,17 +617,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时29分 ~ 06时22分]"
-        },
-        {
-          "title": "美股上演四月关税风暴来最大盘中逆转，英伟达跌超3%，美债走强，比特币七个月新低",
-          "url": "https://wallstreetcn.com/articles/3759753",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时53分 ~ 11时15分]"
         },
         {
           "title": "美股上演“史诗级”高开低走，英伟达跌超3%，美债走强，比特币跌破9万关口",
@@ -639,7 +665,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时15分"
         }

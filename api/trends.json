@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-22T18:24:07.878504+08:00",
-  "total_titles_processed": 1245,
+  "generated_at": "2025-11-22T19:18:57.516469+08:00",
+  "total_titles_processed": 1298,
   "failed_sources": [],
   "trends": [
     {
@@ -53,8 +53,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[07时22分 ~ 18时24分]"
+          "appearance_count": 16,
+          "time_info": "[07时22分 ~ 19时18分]"
         },
         {
           "title": "风险资产迎来多空激战 美股三大期指盘前翻红 | 今夜看点",
@@ -129,6 +129,17 @@
           "time_info": "[06时24分 ~ 11时09分]"
         },
         {
+          "title": "美股惊魂一周，纳指创4月来最大三周跌幅，华尔街现在很焦虑！",
+          "url": "https://wallstreetcn.com/articles/3759920",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时23分 ~ 19时18分]"
+        },
+        {
           "title": "英伟达股价短线拉升，日内整体上涨1.9%，美股早盘一度下跌超4%。 标普500指数上涨1.75%，道指涨811点涨幅1.77%，纳指涨399点涨幅1.81%，纳斯达克100指数涨406点涨幅1.66%，半导体指数涨1.99%。",
           "url": "https://wallstreetcn.com/livenews/3008862",
           "source": "华尔街见闻-快讯",
@@ -151,17 +162,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时22分 ~ 02时32分]"
-        },
-        {
-          "title": "美股惊魂一周，纳指创4月来最大三周跌幅，华尔街现在很焦虑！",
-          "url": "https://wallstreetcn.com/articles/3759920",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时23分 ~ 18时24分]"
         },
         {
           "title": "美股半导体ETF跌约3.9%，英伟达大跌4.2%",
@@ -282,8 +282,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时49分 ~ 18时24分]"
+          "appearance_count": 14,
+          "time_info": "[09时49分 ~ 19时18分]"
         },
         {
           "title": "承认谷歌超越！奥特曼内部信曝光：OpenAI领先优势缩小，预警“艰难时刻”到来",
@@ -296,8 +296,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时08分 ~ 18时24分]"
+          "appearance_count": 13,
+          "time_info": "[11时08分 ~ 19时18分]"
         },
         {
           "title": "“王者归来”之后 谷歌再下重注：世界模型将迎来“ChatGPT时刻”",
@@ -309,8 +309,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时23分 ~ 18时24分]"
+          "appearance_count": 9,
+          "time_info": "[13时23分 ~ 19时18分]"
         },
         {
           "title": "Gemini3玩法大全",
@@ -350,6 +350,18 @@
           "time_info": "[04时28分 ~ 05时22分]"
         },
         {
+          "title": "Gemini3适合用来编程吗",
+          "url": "https://www.douyin.com/hot/2314319",
+          "source": "抖音",
+          "ranks": [
+            26,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时23分 ~ 19时18分]"
+        },
+        {
           "title": "谷歌：将向美国大学生免费提供一年的Google AI Pro服务。",
           "url": "https://flash.jin10.com/detail/20251122020035429800",
           "source": "金十数据",
@@ -360,17 +372,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时32分 ~ 03时21分]"
-        },
-        {
-          "title": "Gemini3适合用来编程吗",
-          "url": "https://www.douyin.com/hot/2314319",
-          "source": "抖音",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时23分 ~ 18时24分]"
         },
         {
           "title": "谷歌推出BigQuery AI",

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-22T15:22:22.868078+08:00",
-  "total_titles_processed": 1049,
+  "generated_at": "2025-11-22T16:30:47.381386+08:00",
+  "total_titles_processed": 1114,
   "failed_sources": [],
   "trends": [
     {
@@ -53,8 +53,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时22分 ~ 15时22分]"
+          "appearance_count": 11,
+          "time_info": "[07时22分 ~ 16时30分]"
         },
         {
           "title": "风险资产迎来多空激战 美股三大期指盘前翻红 | 今夜看点",
@@ -266,11 +266,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时49分 ~ 15时22分]"
+          "appearance_count": 9,
+          "time_info": "[09时49分 ~ 16时30分]"
         },
         {
           "title": "承认谷歌超越！奥特曼内部信曝光：OpenAI领先优势缩小，预警“艰难时刻”到来",
@@ -281,8 +282,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时08分 ~ 15时22分]"
+          "appearance_count": 8,
+          "time_info": "[11时08分 ~ 16时30分]"
         },
         {
           "title": "Gemini3玩法大全",
@@ -331,8 +332,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时23分 ~ 15时22分]"
+          "appearance_count": 4,
+          "time_info": "[13时23分 ~ 16时30分]"
         },
         {
           "title": "谷歌：将向美国大学生免费提供一年的Google AI Pro服务。",

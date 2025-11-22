@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-22T19:18:57.516469+08:00",
-  "total_titles_processed": 1298,
+  "generated_at": "2025-11-22T20:43:19.269869+08:00",
+  "total_titles_processed": 1367,
   "failed_sources": [],
   "trends": [
     {
@@ -53,8 +53,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[07时22分 ~ 19时18分]"
+          "appearance_count": 17,
+          "time_info": "[07时22分 ~ 20时43分]"
         },
         {
           "title": "风险资产迎来多空激战 美股三大期指盘前翻红 | 今夜看点",
@@ -136,8 +136,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时23分 ~ 19时18分]"
+          "appearance_count": 4,
+          "time_info": "[18时23分 ~ 20时43分]"
         },
         {
           "title": "英伟达股价短线拉升，日内整体上涨1.9%，美股早盘一度下跌超4%。 标普500指数上涨1.75%，道指涨811点涨幅1.77%，纳指涨399点涨幅1.81%，纳斯达克100指数涨406点涨幅1.66%，半导体指数涨1.99%。",
@@ -269,7 +269,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "一文读懂大跌逻辑--高盛交易员“复盘”：美联储转鹰“拉开帷幕”，谷歌而非英伟达重塑“AI交易”，币圈重创散户，最终是“系统性抛售”",
@@ -282,8 +282,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时49分 ~ 19时18分]"
+          "appearance_count": 15,
+          "time_info": "[09时49分 ~ 20时43分]"
         },
         {
           "title": "承认谷歌超越！奥特曼内部信曝光：OpenAI领先优势缩小，预警“艰难时刻”到来",
@@ -355,11 +355,12 @@
           "source": "抖音",
           "ranks": [
             26,
-            25
+            25,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时23分 ~ 19时18分]"
+          "appearance_count": 4,
+          "time_info": "[18时23分 ~ 20时43分]"
         },
         {
           "title": "谷歌：将向美国大学生免费提供一年的Google AI Pro服务。",
@@ -372,6 +373,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时32分 ~ 03时21分]"
+        },
+        {
+          "title": "谷歌、微软“双杀”逼近，OpenAI陷入空前危机！",
+          "url": "https://wallstreetcn.com/articles/3759931",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时43分"
+        },
+        {
+          "title": "伯克希尔“买入谷歌”不像是巴菲特的决策？",
+          "url": "https://wallstreetcn.com/articles/3759917",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时43分"
         },
         {
           "title": "谷歌推出BigQuery AI",

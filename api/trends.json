@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-22T14:33:55.790940+08:00",
-  "total_titles_processed": 998,
+  "generated_at": "2025-11-22T15:22:22.868078+08:00",
+  "total_titles_processed": 1049,
   "failed_sources": [],
   "trends": [
     {
@@ -53,8 +53,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时22分 ~ 14时33分]"
+          "appearance_count": 10,
+          "time_info": "[07时22分 ~ 15时22分]"
         },
         {
           "title": "风险资产迎来多空激战 美股三大期指盘前翻红 | 今夜看点",
@@ -92,11 +92,12 @@
             17,
             21,
             23,
-            28
+            28,
+            30
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时23分 ~ 14时33分]"
+          "appearance_count": 7,
+          "time_info": "[07时23分 ~ 15时22分]"
         },
         {
           "title": "全球航空业ETF收涨3.5%，和银行业ETF领跑美股行业ETF，本周半导体ETF跌超5.4%、科技行业ETF累跌超5%",
@@ -176,6 +177,18 @@
           "time_info": "[00时30分 ~ 01时22分]"
         },
         {
+          "title": "美股深夜反弹 中国资产爆发",
+          "url": "https://www.toutiao.com/trending/7575388560119827987/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时33分 ~ 15时22分]"
+        },
+        {
           "title": "美股泡沫离破裂还有多久",
           "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%82%A1%E6%B3%A1%E6%B2%AB%E7%A6%BB%E7%A0%B4%E8%A3%82%E8%BF%98%E6%9C%89%E5%A4%9A%E4%B9%85",
           "source": "bilibili 热搜",
@@ -207,17 +220,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时22分"
-        },
-        {
-          "title": "美股深夜反弹 中国资产爆发",
-          "url": "https://www.toutiao.com/trending/7575388560119827987/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时33分"
         },
         {
           "title": "金十图示：2025年11月21日（周五）美股热门股票行情一览（美股盘中）",
@@ -267,8 +269,34 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时49分 ~ 15时22分]"
+        },
+        {
+          "title": "承认谷歌超越！奥特曼内部信曝光：OpenAI领先优势缩小，预警“艰难时刻”到来",
+          "url": "https://wallstreetcn.com/articles/3759885",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
           "appearance_count": 7,
-          "time_info": "[09时49分 ~ 14时33分]"
+          "time_info": "[11时08分 ~ 15时22分]"
+        },
+        {
+          "title": "Gemini3玩法大全",
+          "url": "https://www.douyin.com/hot/2314134",
+          "source": "抖音",
+          "ranks": [
+            10,
+            11,
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时08分 ~ 15时22分]"
         },
         {
           "title": "谷歌公司推出BigQuery AI。",
@@ -280,31 +308,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时22分"
-        },
-        {
-          "title": "承认谷歌超越！奥特曼内部信曝光：OpenAI领先优势缩小，预警“艰难时刻”到来",
-          "url": "https://wallstreetcn.com/articles/3759885",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时08分 ~ 14时33分]"
-        },
-        {
-          "title": "Gemini3玩法大全",
-          "url": "https://www.douyin.com/hot/2314134",
-          "source": "抖音",
-          "ranks": [
-            10,
-            11,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时08分 ~ 14时33分]"
         },
         {
           "title": "谷歌反垄断案：美国法官询问拆分广告技术业务的补救措施生效时间，称“时间至关重要”",
@@ -319,6 +322,19 @@
           "time_info": "[04时28分 ~ 05时22分]"
         },
         {
+          "title": "“王者归来”之后 谷歌再下重注：世界模型将迎来“ChatGPT时刻”",
+          "url": "https://www.cls.cn/detail/2207169",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时23分 ~ 15时22分]"
+        },
+        {
           "title": "谷歌：将向美国大学生免费提供一年的Google AI Pro服务。",
           "url": "https://flash.jin10.com/detail/20251122020035429800",
           "source": "金十数据",
@@ -329,18 +345,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时32分 ~ 03时21分]"
-        },
-        {
-          "title": "“王者归来”之后 谷歌再下重注：世界模型将迎来“ChatGPT时刻”",
-          "url": "https://www.cls.cn/detail/2207169",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时23分 ~ 14时33分]"
         },
         {
           "title": "谷歌推出BigQuery AI",

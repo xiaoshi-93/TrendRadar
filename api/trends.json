@@ -1,204 +1,22 @@
 {
-  "generated_at": "2025-11-23T23:22:42.343759+08:00",
-  "total_titles_processed": 1292,
+  "generated_at": "2025-11-24T00:28:42.595962+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "谷歌、微软“双杀”逼近，OpenAI陷入空前危机！",
-          "url": "https://wallstreetcn.com/articles/3759931",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时28分 ~ 15时22分]"
-        },
-        {
-          "title": "伯克希尔“买入谷歌”不像是巴菲特的决策？",
-          "url": "https://wallstreetcn.com/articles/3759917",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            8,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时28分 ~ 10时08分]"
-        },
-        {
-          "title": "Gemini-3-pro 为什么提升那么大?",
-          "url": "https://www.zhihu.com/question/1974915118199509365",
-          "source": "知乎",
-          "ranks": [
-            10,
-            9,
-            12,
-            16,
-            15,
-            14,
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[02时32分 ~ 13时24分]"
-        },
-        {
-          "title": "Gemini3适合用来编程吗",
-          "url": "https://www.douyin.com/hot/2314319",
-          "source": "抖音",
-          "ranks": [
-            23,
-            18,
-            29,
-            26,
-            22,
-            24,
-            19,
-            14,
-            9,
-            21,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时28分 ~ 17时24分]"
-        },
         {
           "title": "Gemini3.0炸裂玩法合集",
           "url": "https://search.bilibili.com/all?keyword=Gemini3.0%E7%82%B8%E8%A3%82%E7%8E%A9%E6%B3%95%E5%90%88%E9%9B%86",
           "source": "bilibili 热搜",
           "ranks": [
-            20,
-            30,
-            10,
-            13,
-            26
+            22
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[18时24分 ~ 23时22分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "美股收盘：美联储“鸽声”提振市场 三大指数集体反弹 道指涨超1%",
-          "url": "https://www.cls.cn/detail/2207916",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时28分 ~ 18时24分]"
-        },
-        {
-          "title": "美股惊魂一周，纳指创4月来最大三周跌幅，华尔街现在很焦虑！",
-          "url": "https://wallstreetcn.com/articles/3759920",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时28分 ~ 11时59分]"
-        },
-        {
-          "title": "“疫苗之王”科兴或从美股退市",
-          "url": "https://www.toutiao.com/trending/7575693927517261318/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时07分 ~ 10时08分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "澳新银行：金价回落但基本面稳固，白银表现仍亮眼",
-          "url": "https://flash.jin10.com/detail/20251122223006926800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时28分 ~ 10时08分]"
-        },
-        {
-          "title": "俄央行抛售黄金 金价会大跌吗",
-          "url": "https://www.toutiao.com/trending/7575692966363139638/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时07分 ~ 10时08分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "具身智能",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "本周机构调研热度维持高位 锂电池与具身智能受重点关注",
-          "url": "https://flash.jin10.com/detail/20251123132402674800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            16,
-            22,
-            23,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时35分 ~ 18时24分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "VLA",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "理想汽车范皓宇：VLA大模型可视化是理想聚焦用户价值的体现",
-          "url": "https://wallstreetcn.com/livenews/3009069",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            21,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时19分 ~ 21时27分]"
+          "appearance_count": 1,
+          "time_info": "00时28分"
         }
       ]
     }

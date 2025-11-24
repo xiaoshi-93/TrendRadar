@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-24T17:31:14.720144+08:00",
-  "total_titles_processed": 1297,
+  "generated_at": "2025-11-24T18:29:52.023252+08:00",
+  "total_titles_processed": 1385,
   "failed_sources": [],
   "trends": [
     {
@@ -47,7 +47,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时31分"
         },
@@ -96,11 +96,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时38分 ~ 17时31分]"
+          "appearance_count": 6,
+          "time_info": "[14时38分 ~ 18时29分]"
         },
         {
           "title": "本周重要事件与数据预告：美国数据密集补发、美股假期休市及阿里财报",
@@ -136,17 +137,6 @@
           "time_info": "07时22分"
         },
         {
-          "title": "美股盘前：中概股、科技股普涨",
-          "url": "https://wallstreetcn.com/livenews/3009505",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时31分"
-        },
-        {
           "title": "美股期货涨幅扩大，纳斯达克100指数期货涨1%，标普500指数期货涨0.7%，道指期货涨0.4%。",
           "url": "https://wallstreetcn.com/livenews/3009473",
           "source": "华尔街见闻-快讯",
@@ -157,6 +147,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时36分 ~ 17时31分]"
+        },
+        {
+          "title": "美股盘前：中概股、科技股普涨",
+          "url": "https://wallstreetcn.com/livenews/3009505",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时31分 ~ 18时29分]"
         }
       ]
     },
@@ -171,7 +173,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时31分"
         },
@@ -211,7 +213,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时31分"
         },
@@ -220,11 +222,12 @@
           "url": "https://wallstreetcn.com/livenews/3009510",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时31分 ~ 18时29分]"
         }
       ]
     },
@@ -237,11 +240,12 @@
           "url": "https://wallstreetcn.com/livenews/3009517",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时31分 ~ 18时29分]"
         },
         {
           "title": "小马智行与阳光出行建立战略合作，全面推进自动驾驶出行业务发展",
@@ -250,7 +254,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时31分"
         }
@@ -266,11 +270,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            10
+            10,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时36分 ~ 17时31分]"
+          "appearance_count": 4,
+          "time_info": "[16时36分 ~ 18时29分]"
         }
       ]
     }

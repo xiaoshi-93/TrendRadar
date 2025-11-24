@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-24T16:36:27.157999+08:00",
-  "total_titles_processed": 1189,
+  "generated_at": "2025-11-24T17:31:14.720144+08:00",
+  "total_titles_processed": 1297,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "Gemini3.0炸裂玩法合集",
@@ -41,13 +41,24 @@
           "time_info": "[11时59分 ~ 13时27分]"
         },
         {
+          "title": "谷歌(GOOG.O)母公司Alphabet股价盘前涨2.9%，此前一交易日已上涨3.5%。",
+          "url": "https://flash.jin10.com/detail/20251124170908032800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
+        },
+        {
           "title": "谷歌称必须每6个月将AI算力翻倍 谷歌算力供应链有望站上风口",
           "url": "https://www.cls.cn/detail/2208396",
           "source": "财联社热门",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时36分"
         },
@@ -77,7 +88,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "“币圈-AI-美股”铁索连江，“免费钱”时代终结，所有人都盯着“币圈何时企稳”",
@@ -88,8 +99,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时38分 ~ 16时36分]"
+          "appearance_count": 5,
+          "time_info": "[14时38分 ~ 17时31分]"
         },
         {
           "title": "本周重要事件与数据预告：美国数据密集补发、美股假期休市及阿里财报",
@@ -114,17 +125,6 @@
           "time_info": "07时22分"
         },
         {
-          "title": "美股期货涨幅扩大，纳斯达克100指数期货涨1%，标普500指数期货涨0.7%，道指期货涨0.4%。",
-          "url": "https://wallstreetcn.com/livenews/3009473",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时36分"
-        },
-        {
           "title": "美股股指期货周一高开，纳指期货涨近1%。",
           "url": "https://flash.jin10.com/detail/20251124070025048800",
           "source": "金十数据",
@@ -134,13 +134,47 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
+        },
+        {
+          "title": "美股盘前：中概股、科技股普涨",
+          "url": "https://wallstreetcn.com/livenews/3009505",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
+        },
+        {
+          "title": "美股期货涨幅扩大，纳斯达克100指数期货涨1%，标普500指数期货涨0.7%，道指期货涨0.4%。",
+          "url": "https://wallstreetcn.com/livenews/3009473",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时36分 ~ 17时31分]"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "机构：美联储降息预期抵消部分美元涨势 金价继续保持稳定",
+          "url": "https://flash.jin10.com/detail/20251124171817495800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
+        },
         {
           "title": "金十图示：2025年11月24日（周一）上海金早盘价为924.85元/克，较国际金价(924.38元/克)，高0.47元/克",
           "url": "https://flash.jin10.com/detail/20251124110330638800",
@@ -167,6 +201,62 @@
       ]
     },
     {
+      "keyword_group": "供应链",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "市场消息：印度尼西亚规模达520亿美元的国有社会保障基金的董事表示，该基金正在关注为人工智能产业提供基础设施的公司，作为其首批海外投资目标。该基金正在等待政府批准，以便将其总资产的最高5%投资于海外。该机构可以投资于美国、日本、韩国市场，用于购买AI供应链相关股票。",
+          "url": "https://flash.jin10.com/detail/20251124172037714800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
+        },
+        {
+          "title": "小鹏X9超级增程订单爆发，供应链紧急加产5000台",
+          "url": "https://wallstreetcn.com/livenews/3009510",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "自动驾驶",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "文远知行：第三季度自动驾驶出租车收入同比增长761.0%",
+          "url": "https://wallstreetcn.com/livenews/3009517",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
+        },
+        {
+          "title": "小马智行与阳光出行建立战略合作，全面推进自动驾驶出行业务发展",
+          "url": "https://wallstreetcn.com/livenews/3009479",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
@@ -175,11 +265,12 @@
           "url": "https://www.cls.cn/detail/2208933",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时36分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时36分 ~ 17时31分]"
         }
       ]
     }

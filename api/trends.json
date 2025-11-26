@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-11-26T18:29:21.141849+08:00",
-  "total_titles_processed": 1608,
+  "generated_at": "2025-11-26T19:22:45.961489+08:00",
+  "total_titles_processed": 1692,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
+        {
+          "title": "宽松预期与俄乌协议利好，道指8月来最大单日涨幅，“谷歌涨、英伟达跌”分化AI交易，10年期美债跌破4%",
+          "url": "https://wallstreetcn.com/articles/3760086",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时55分 ~ 19时22分]"
+        },
         {
           "title": "AI芯片开启第二战场：谷歌TPU引爆博通股价 硅谷巨头集体“造铲”",
           "url": "https://www.cls.cn/detail/2210485",
@@ -31,17 +42,6 @@
           "time_info": "[00时34分 ~ 06时25分]"
         },
         {
-          "title": "宽松预期与俄乌协议利好，道指8月来最大单日涨幅，“谷歌涨、英伟达跌”分化AI交易，10年期美债跌破4%",
-          "url": "https://wallstreetcn.com/articles/3760086",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时55分 ~ 18时29分]"
-        },
-        {
           "title": "英伟达大跌后罕见安抚市场：我司GPU比谷歌AI芯片领先一代",
           "url": "https://wallstreetcn.com/articles/3760117",
           "source": "华尔街见闻",
@@ -50,8 +50,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时55分 ~ 18时29分]"
+          "appearance_count": 10,
+          "time_info": "[09时55分 ~ 19时22分]"
         },
         {
           "title": "趁Gemini 3“东风”，“谷歌链”挑战“英伟达链”，颠覆AI交易格局",
@@ -117,6 +117,21 @@
           "time_info": "[09时55分 ~ 15时24分]"
         },
         {
+          "title": "AI争霸格局突变？五大“东风”将谷歌送上王座！",
+          "url": "https://www.cls.cn/detail/2211188",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            7,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时38分 ~ 19时22分]"
+        },
+        {
           "title": "一文读懂“谷歌链”：AI全栈式创新，TPU+OCS共塑下一代智算网络",
           "url": "https://wallstreetcn.com/articles/3760084",
           "source": "华尔街见闻",
@@ -130,18 +145,18 @@
           "time_info": "[09时55分 ~ 15时24分]"
         },
         {
-          "title": "AI争霸格局突变？五大“东风”将谷歌送上王座！",
-          "url": "https://www.cls.cn/detail/2211188",
+          "title": "Gemini+TPU双线破局！顶级科技投资人“火上浇油”：七巨头中Alphabet最值得持有",
+          "url": "https://www.cls.cn/detail/2211111",
           "source": "财联社热门",
           "ranks": [
-            11,
+            13,
             10,
-            7,
-            8
+            12,
+            9
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[14时38分 ~ 18时29分]"
+          "time_info": "[13时25分 ~ 19时22分]"
         },
         {
           "title": "英伟达：我们的GPU比谷歌的AI芯片领先一代",
@@ -181,19 +196,6 @@
           "time_info": "[03时22分 ~ 04时29分]"
         },
         {
-          "title": "Gemini+TPU双线破局！顶级科技投资人“火上浇油”：七巨头中Alphabet最值得持有",
-          "url": "https://www.cls.cn/detail/2211111",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时25分 ~ 18时29分]"
-        },
-        {
           "title": "一则消息引爆市场，AI竞争格局生变！英伟达盘中重挫7%，谷歌再创新高",
           "url": "https://wallstreetcn.com/articles/3760114",
           "source": "华尔街见闻",
@@ -201,8 +203,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时34分 ~ 18时29分]"
+          "appearance_count": 4,
+          "time_info": "[16时34分 ~ 19时22分]"
         },
         {
           "title": "谷歌股价飙升，两位创始人分别成为世界第二、第三富豪",
@@ -265,13 +267,24 @@
           "time_info": "[12时31分 ~ 13时25分]"
         },
         {
+          "title": "金十整理：谷歌11月狂炸英伟达，巴菲特谢幕押注精准，软银躺枪",
+          "url": "https://flash.jin10.com/detail/20251126182610952800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
+        },
+        {
           "title": "Gemini 3 发布是否预示着程序员真正可以被替代？",
           "url": "https://www.zhihu.com/theater/73901?drama_id=1977055301153857730&source=isuda",
           "source": "知乎",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时29分"
         },
@@ -285,6 +298,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时34分"
+        },
+        {
+          "title": "阿里千问霸榜空间智能榜单前二，性能超越Gemini3、GPT5.1",
+          "url": "https://wallstreetcn.com/livenews/3010815",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
         },
         {
           "title": "如何评价谷歌 TPU 业务？",
@@ -301,7 +325,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "“矛盾”数据加剧降息分歧，美股指涨跌不一，英伟达跌超5%，原油走低，加密货币跳水",
@@ -468,6 +492,17 @@
           "time_info": "05时23分"
         },
         {
+          "title": "理想汽车美股盘前跌幅收窄至不足1%，此前一度跌超4%。",
+          "url": "https://wallstreetcn.com/livenews/3010820",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
+        },
+        {
           "title": "行业ETF美股盘初多数走高，银行业ETF涨1.54%，区域银行ETF涨1.51%，网络股指数ETF涨0.34%，科技行业ETF跌0.91%，全球科技股指数ETF跌1.26%，半导体ETF跌1.52%。",
           "url": "https://wallstreetcn.com/livenews/3010287",
           "source": "华尔街见闻-快讯",
@@ -485,6 +520,18 @@
       "match_count": 6,
       "titles": [
         {
+          "title": "“AI投资潮”应刹车？OpenAI联合创始人：规模化到头了，应回归研究！",
+          "url": "https://www.cls.cn/detail/2211503",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时29分 ~ 19时22分]"
+        },
+        {
           "title": "OpenAI：法院已经对诉讼有全面的掌握，这很重要。 回应包括Adam精神健康方面的事实。",
           "url": "https://wallstreetcn.com/livenews/3010381",
           "source": "华尔街见闻-快讯",
@@ -496,17 +543,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时29分 ~ 06时25分]"
-        },
-        {
-          "title": "“AI投资潮”应刹车？OpenAI联合创始人：规模化到头了，应回归研究！",
-          "url": "https://www.cls.cn/detail/2211503",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时29分"
         },
         {
           "title": "据The Information：截至7月，约有3500万人支付了ChatGPT Plus或Pro订阅费用，通常每月花费20美元和200美元。",

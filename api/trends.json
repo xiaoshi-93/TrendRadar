@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-26T16:34:29.838604+08:00",
-  "total_titles_processed": 1421,
+  "generated_at": "2025-11-26T17:29:47.927409+08:00",
+  "total_titles_processed": 1519,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "AI芯片开启第二战场：谷歌TPU引爆博通股价 硅谷巨头集体“造铲”",
@@ -38,8 +38,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时55分 ~ 16时34分]"
+          "appearance_count": 8,
+          "time_info": "[09时55分 ~ 17时29分]"
+        },
+        {
+          "title": "英伟达大跌后罕见安抚市场：我司GPU比谷歌AI芯片领先一代",
+          "url": "https://wallstreetcn.com/articles/3760117",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时55分 ~ 17时29分]"
         },
         {
           "title": "趁Gemini 3“东风”，“谷歌链”挑战“英伟达链”，颠覆AI交易格局",
@@ -91,18 +103,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[07时23分 ~ 15时24分]"
-        },
-        {
-          "title": "英伟达大跌后罕见安抚市场：我司GPU比谷歌AI芯片领先一代",
-          "url": "https://wallstreetcn.com/articles/3760117",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时55分 ~ 16时34分]"
         },
         {
           "title": "性能硬刚Blackwell、能效吊打GPU，一文深度拆解谷歌TPU“真实战力”",
@@ -173,11 +173,25 @@
           "ranks": [
             11,
             10,
-            7
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时38分 ~ 17时29分]"
+        },
+        {
+          "title": "Gemini+TPU双线破局！顶级科技投资人“火上浇油”：七巨头中Alphabet最值得持有",
+          "url": "https://www.cls.cn/detail/2211111",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            12
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[14时38分 ~ 16时34分]"
+          "time_info": "[13时25分 ~ 17时29分]"
         },
         {
           "title": "谷歌股价飙升，两位创始人分别成为世界第二、第三富豪",
@@ -192,16 +206,15 @@
           "time_info": "[00时34分 ~ 01时24分]"
         },
         {
-          "title": "Gemini+TPU双线破局！顶级科技投资人“火上浇油”：七巨头中Alphabet最值得持有",
-          "url": "https://www.cls.cn/detail/2211111",
-          "source": "财联社热门",
+          "title": "一则消息引爆市场，AI竞争格局生变！英伟达盘中重挫7%，谷歌再创新高",
+          "url": "https://wallstreetcn.com/articles/3760114",
+          "source": "华尔街见闻",
           "ranks": [
-            13,
             10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时25分 ~ 16时34分]"
+          "time_info": "[16时34分 ~ 17时29分]"
         },
         {
           "title": "美股收盘：谷歌市值逼近4万亿美元",
@@ -228,15 +241,15 @@
           "time_info": "[12时31分 ~ 13时25分]"
         },
         {
-          "title": "一则消息引爆市场，AI竞争格局生变！英伟达盘中重挫7%，谷歌再创新高",
-          "url": "https://wallstreetcn.com/articles/3760114",
-          "source": "华尔街见闻",
+          "title": "美股盘前，戴尔科技涨超4%，公司三季度营收不及预期但AI订单激增，全年AI服务器出货目标上调至250亿美元。博通涨约1%，谷歌A涨约1%，甲骨文涨0.1%，英伟达跌0.5%。",
+          "url": "https://wallstreetcn.com/livenews/3010785",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时34分"
+          "time_info": "17时29分"
         },
         {
           "title": "谷歌状态页面显示亚洲地区谷歌会议（Google Meet）服务出现问题。",
@@ -245,9 +258,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时34分"
+        },
+        {
+          "title": "【供货谷歌？中际旭创股价创历史新高，公司回应】11月26日，中际旭创大涨13.25%，报收543.22元/股，成交额达329.8亿元居A股第一，总市值破6000亿元大关，年内涨幅超342%。盘面上，CPO板块集体异动，“易中天”携手走强。有市场消息称，中际旭创是谷歌光模块供应商。中际旭创相关人士表示，公司本次股价上涨受综合因素影响，至于公司的“具体合作包括订单都不方便透露”。（21财经）",
+          "url": "https://wallstreetcn.com/livenews/3010775",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时29分"
         },
         {
           "title": "如何评价谷歌 TPU 业务？",
@@ -264,7 +288,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "“矛盾”数据加剧降息分歧，美股指涨跌不一，英伟达跌超5%，原油走低，加密货币跳水",
@@ -408,6 +432,17 @@
           "time_info": "05时23分"
         },
         {
+          "title": "理想汽车美股盘前跌超4%，公司对第四季度营收指引低于市场预估。",
+          "url": "https://wallstreetcn.com/livenews/3010788",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时29分"
+        },
+        {
           "title": "美股收盘：三大股指低开高收 英伟达跌超2%",
           "url": "https://flash.jin10.com/detail/20251126050102870800",
           "source": "金十数据",
@@ -488,7 +523,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时34分"
         }
@@ -580,7 +615,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时34分"
         },

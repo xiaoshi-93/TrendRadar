@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-28T03:19:52.574687+08:00",
-  "total_titles_processed": 449,
+  "generated_at": "2025-11-28T04:25:33.776231+08:00",
+  "total_titles_processed": 472,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 03时19分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 04时25分]"
         },
         {
           "title": "一图看懂 | 谷歌TPU搅动AI“江湖”，它与英伟达GPU有何区别？",
@@ -28,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 03时19分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 04时25分]"
         }
       ]
     },
@@ -47,8 +47,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 03时19分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 04时25分]"
         },
         {
           "title": "甲骨文股价反弹！华尔街\"抄底派\"料股价涨超90%，“现有估值几乎没考虑OpenAI业务”",
@@ -58,8 +58,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 03时19分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 04时25分]"
         }
       ]
     },
@@ -75,8 +75,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 03时19分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 04时25分]"
         }
       ]
     },
@@ -108,11 +108,12 @@
           "ranks": [
             3,
             13,
-            22
+            22,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时21分 ~ 03时19分]"
+          "appearance_count": 4,
+          "time_info": "[01时21分 ~ 04时25分]"
         }
       ]
     }

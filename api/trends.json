@@ -1,12 +1,26 @@
 {
-  "generated_at": "2025-11-29T16:31:51.764925+08:00",
-  "total_titles_processed": 1058,
+  "generated_at": "2025-11-29T17:25:04.860437+08:00",
+  "total_titles_processed": 1126,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
       "match_count": 16,
       "titles": [
+        {
+          "title": "美股收盘：三大指数连涨五个交易日 英特尔股价暴升10%",
+          "url": "https://www.cls.cn/detail/2214656",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[07时22分 ~ 17时25分]"
+        },
         {
           "title": "美股三大期指小幅走高 CME交易中断引发关注 | 今夜看点",
           "url": "https://www.cls.cn/detail/2214556",
@@ -44,20 +58,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时30分 ~ 06时23分]"
-        },
-        {
-          "title": "美股收盘：三大指数连涨五个交易日 英特尔股价暴升10%",
-          "url": "https://www.cls.cn/detail/2214656",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时22分 ~ 16时31分]"
         },
         {
           "title": "美股三大股指收涨 英特尔涨超10%",
@@ -239,8 +239,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时52分 ~ 16时31分]"
+          "appearance_count": 10,
+          "time_info": "[09时52分 ~ 17时25分]"
         },
         {
           "title": "但斌发声：国内能对标谷歌的公司，我觉得可能只有两家",
@@ -248,11 +248,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时24分 ~ 16时31分]"
+          "appearance_count": 6,
+          "time_info": "[13时24分 ~ 17时25分]"
         }
       ]
     },
@@ -270,8 +271,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时24分 ~ 16时31分]"
+          "appearance_count": 6,
+          "time_info": "[13时24分 ~ 17时25分]"
         },
         {
           "title": "金价",
@@ -389,8 +390,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时22分 ~ 16时31分]"
+          "appearance_count": 11,
+          "time_info": "[07时22分 ~ 17时25分]"
         }
       ]
     }

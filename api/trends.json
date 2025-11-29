@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-29T14:35:54.095382+08:00",
-  "total_titles_processed": 948,
+  "generated_at": "2025-11-29T15:23:27.681465+08:00",
+  "total_titles_processed": 992,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时30分 ~ 14时35分]"
+          "appearance_count": 12,
+          "time_info": "[00时30分 ~ 15时23分]"
         },
         {
           "title": "感恩节美股休市，美股指期货走平，欧股交投清淡，原油盘中闪跌",
@@ -56,8 +56,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时22分 ~ 14时35分]"
+          "appearance_count": 8,
+          "time_info": "[07时22分 ~ 15时23分]"
         },
         {
           "title": "美股三大股指收涨 英特尔涨超10%",
@@ -239,8 +239,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时52分 ~ 14时35分]"
+          "appearance_count": 7,
+          "time_info": "[09时52分 ~ 15时23分]"
         },
         {
           "title": "但斌发声：国内能对标谷歌的公司，我觉得可能只有两家",
@@ -251,8 +251,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时24分 ~ 14时35分]"
+          "appearance_count": 3,
+          "time_info": "[13时24分 ~ 15时23分]"
         }
       ]
     },
@@ -266,11 +266,12 @@
           "source": "抖音",
           "ranks": [
             14,
-            11
+            11,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时24分 ~ 14时35分]"
+          "appearance_count": 3,
+          "time_info": "[13时24分 ~ 15时23分]"
         },
         {
           "title": "金价",
@@ -388,8 +389,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时22分 ~ 14时35分]"
+          "appearance_count": 8,
+          "time_info": "[07时22分 ~ 15时23分]"
         }
       ]
     }

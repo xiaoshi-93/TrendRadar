@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-29T20:47:22.141831+08:00",
-  "total_titles_processed": 1340,
+  "generated_at": "2025-11-29T21:31:19.408111+08:00",
+  "total_titles_processed": 1383,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             12,
             11,
             10,
-            8
+            8,
+            13
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[07时22分 ~ 20时47分]"
+          "appearance_count": 17,
+          "time_info": "[07时22分 ~ 21时31分]"
         },
         {
           "title": "美股三大期指小幅走高 CME交易中断引发关注 | 今夜看点",
@@ -238,8 +239,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时24分 ~ 20时47分]"
+          "appearance_count": 12,
+          "time_info": "[13时24分 ~ 21时31分]"
         },
         {
           "title": "TPU直通决赛圈！十年磨一芯 谷歌做对了什么？",
@@ -254,8 +255,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时52分 ~ 20时47分]"
+          "appearance_count": 16,
+          "time_info": "[09时52分 ~ 21时31分]"
         },
         {
           "title": "SemiAnalysis深度解读TPU--谷歌冲击“英伟达帝国”",
@@ -263,11 +264,42 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时19分 ~ 20时47分]"
+          "appearance_count": 5,
+          "time_info": "[19时19分 ~ 21时31分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "第1个获得数学奥赛金牌的开源模型！DeepSeek新模型获网友盛赞：公开技术文件，了不起！",
+          "url": "https://wallstreetcn.com/articles/3760294",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时30分 ~ 07时22分]"
+        },
+        {
+          "title": "大摩中国CIO调查：B端对千问和阿里云兴趣显著增加，预计三年内千问超越DeepSeek",
+          "url": "https://wallstreetcn.com/articles/3760369",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时30分 ~ 21时31分]"
         }
       ]
     },
@@ -287,8 +319,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时24分 ~ 20时47分]"
+          "appearance_count": 12,
+          "time_info": "[13时24分 ~ 21时31分]"
         },
         {
           "title": "金价",
@@ -331,25 +363,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时22分 ~ 09时53分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "第1个获得数学奥赛金牌的开源模型！DeepSeek新模型获网友盛赞：公开技术文件，了不起！",
-          "url": "https://wallstreetcn.com/articles/3760294",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时30分 ~ 07时22分]"
         }
       ]
     },
@@ -402,11 +415,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时20分 ~ 20时47分]"
+          "appearance_count": 3,
+          "time_info": "[19时20分 ~ 21时31分]"
         }
       ]
     },

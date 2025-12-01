@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-02T02:41:08.450293+08:00",
-  "total_titles_processed": 406,
+  "generated_at": "2025-12-02T03:26:25.930805+08:00",
+  "total_titles_processed": 439,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时35分 ~ 02时41分]"
+          "appearance_count": 7,
+          "time_info": "[00时35分 ~ 03时26分]"
         },
         {
           "title": "开源最强！“拳打GPT 5”，“脚踢Gemini-3.0”，DeepSeek V3.2为何提升这么多？",
@@ -28,8 +28,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时35分 ~ 02时41分]"
+          "appearance_count": 7,
+          "time_info": "[00时35分 ~ 03时26分]"
         },
         {
           "title": "DeepSeek 更新两个 v3.2 新模型，这次有哪些亮点？",
@@ -41,8 +41,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时35分 ~ 02时41分]"
+          "appearance_count": 7,
+          "time_info": "[00时35分 ~ 03时26分]"
         },
         {
           "title": "DeepSeek同时发布两个正式版模型",
@@ -53,8 +53,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时35分 ~ 02时41分]"
+          "appearance_count": 7,
+          "time_info": "[00时35分 ~ 03时26分]"
         }
       ]
     },
@@ -70,8 +70,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时35分 ~ 02时41分]"
+          "appearance_count": 7,
+          "time_info": "[00时35分 ~ 03时26分]"
         },
         {
           "title": "美股三大期指集体下跌 比特币一度跌超7% | 今夜看点",
@@ -82,54 +82,50 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时35分 ~ 02时41分]"
+          "appearance_count": 7,
+          "time_info": "[00时35分 ~ 03时26分]"
         },
         {
           "title": "金十图示：2025年12月01日（周一）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20251202013128346800",
           "source": "金十数据",
           "ranks": [
-            11
+            11,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时41分 ~ 03时26分]"
         },
         {
           "title": "金十图示：2025年12月01日（周一）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20251202013125562800",
           "source": "金十数据",
           "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时41分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "大摩大幅上调谷歌TPU产量预测：2027年达500万块，每50万块“外销”或增收130亿美元",
-          "url": "https://wallstreetcn.com/articles/3760440",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
+            12,
+            28
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时35分 ~ 02时41分]"
+          "appearance_count": 2,
+          "time_info": "[02时41分 ~ 03时26分]"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "用户报告称，OpenAI出现诸多故障。（DownDetector）",
+          "url": "https://wallstreetcn.com/livenews/3013184",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时26分"
+        },
         {
           "title": "OpenAI持股Thrive Holdings，后者是由Thrive Capital在2025年稍早成立的投资工具。",
           "url": "https://wallstreetcn.com/livenews/3013130",
@@ -144,6 +140,24 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "大摩大幅上调谷歌TPU产量预测：2027年达500万块，每50万块“外销”或增收130亿美元",
+          "url": "https://wallstreetcn.com/articles/3760440",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时35分 ~ 03时26分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "供应链",
       "match_count": 1,
       "titles": [
@@ -154,7 +168,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时41分"
         }

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-03T03:23:33.668334+08:00",
-  "total_titles_processed": 456,
+  "generated_at": "2025-12-03T04:31:22.970588+08:00",
+  "total_titles_processed": 480,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时06分 ~ 03时23分]"
+          "appearance_count": 5,
+          "time_info": "[01时06分 ~ 04时31分]"
         },
         {
           "title": "美股三大指数小幅高开 英伟达涨超1%",
@@ -27,8 +27,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时06分 ~ 03时23分]"
+          "appearance_count": 5,
+          "time_info": "[01时06分 ~ 04时31分]"
         },
         {
           "title": "美股三大期指集体走高 波音盘前涨超3% | 今夜看点",
@@ -38,8 +38,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时40分 ~ 03时23分]"
+          "appearance_count": 3,
+          "time_info": "[02时40分 ~ 04时31分]"
         },
         {
           "title": "金十图示：2025年12月02日（周二）美股热门股票行情一览（美股盘中）",
@@ -87,11 +87,12 @@
           "ranks": [
             10,
             11,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时06分 ~ 03时23分]"
+          "appearance_count": 5,
+          "time_info": "[01时06分 ~ 04时31分]"
         },
         {
           "title": "OpenAI拉响最高警报：谷歌模型威胁巨大 全力改进ChatGPT",
@@ -101,8 +102,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时40分 ~ 03时23分]"
+          "appearance_count": 3,
+          "time_info": "[02时40分 ~ 04时31分]"
         },
         {
           "title": "亚马逊急推最新AI芯片，挑战英伟达和谷歌",
@@ -151,11 +152,12 @@
           "ranks": [
             10,
             9,
-            5
+            5,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时06分 ~ 03时23分]"
+          "appearance_count": 5,
+          "time_info": "[01时06分 ~ 04时31分]"
         },
         {
           "title": "从DeepSeek“上新”看AI演进 大模型将成“全能管家”？",
@@ -166,8 +168,22 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时06分 ~ 03时23分]"
+          "appearance_count": 5,
+          "time_info": "[01时06分 ~ 04时31分]"
+        },
+        {
+          "title": "DeepSeek新模型追平Gemini",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B%E8%BF%BD%E5%B9%B3Gemini",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            8,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时06分 ~ 04时31分]"
         },
         {
           "title": "V3.2逼近Gemini 3，DeepSeek硬气喊话：接下来我要堆算力了",
@@ -178,21 +194,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时06分 ~ 03时23分]"
-        },
-        {
-          "title": "DeepSeek新模型追平Gemini",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B%E8%BF%BD%E5%B9%B3Gemini",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时06分 ~ 03时23分]"
+          "appearance_count": 5,
+          "time_info": "[01时06分 ~ 04时31分]"
         }
       ]
     },
@@ -209,8 +212,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时06分 ~ 03时23分]"
+          "appearance_count": 5,
+          "time_info": "[01时06分 ~ 04时31分]"
         },
         {
           "title": "英伟达：还没有与OpenAI达成关于AI芯片的最终协议",

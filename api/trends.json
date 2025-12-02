@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-02T15:27:13.821191+08:00",
-  "total_titles_processed": 1204,
+  "generated_at": "2025-12-02T16:37:06.159374+08:00",
+  "total_titles_processed": 1305,
   "failed_sources": [],
   "trends": [
     {
@@ -181,6 +181,19 @@
       "match_count": 9,
       "titles": [
         {
+          "title": "剑指AI芯片市场！大摩上调谷歌TPU产量预期：2027年或达500万块",
+          "url": "https://www.cls.cn/detail/2216587",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[09时57分 ~ 16时37分]"
+        },
+        {
           "title": "大摩大幅上调谷歌TPU产量预测：2027年达500万块，每50万块“外销”或增收130亿美元",
           "url": "https://wallstreetcn.com/articles/3760440",
           "source": "华尔街见闻",
@@ -195,16 +208,18 @@
           "time_info": "[00时35分 ~ 14时39分]"
         },
         {
-          "title": "剑指AI芯片市场！大摩上调谷歌TPU产量预期：2027年或达500万块",
-          "url": "https://www.cls.cn/detail/2216587",
-          "source": "财联社热门",
+          "title": "谷歌揭秘了AI竞赛的底牌",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32067068",
+          "source": "澎湃新闻",
           "ranks": [
-            9,
-            6
+            17,
+            15,
+            16,
+            14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时57分 ~ 15时27分]"
+          "appearance_count": 6,
+          "time_info": "[13时25分 ~ 16时37分]"
         },
         {
           "title": "谷歌将Gemini 3人工智能模式引入谷歌搜索，覆盖近120个国家和地区。",
@@ -230,19 +245,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时21分 ~ 06时24分]"
-        },
-        {
-          "title": "谷歌揭秘了AI竞赛的底牌",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32067068",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时25分 ~ 15时27分]"
         },
         {
           "title": "谷歌：今日起，面向谷歌AI Pro和Ultra订阅用户，在更多国家推出Nano Banana Pro的AI模式，支持英语。",
@@ -306,6 +308,21 @@
           "time_info": "[09时57分 ~ 15时27分]"
         },
         {
+          "title": "实测DeepSeekV3.2正式版",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8BDeepSeekV3.2%E6%AD%A3%E5%BC%8F%E7%89%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            4,
+            12,
+            10,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[09时57分 ~ 16时37分]"
+        },
+        {
           "title": "开源最强！“拳打GPT 5”，“脚踢Gemini-3.0”，DeepSeek V3.2为何提升这么多？",
           "url": "https://wallstreetcn.com/articles/3760468",
           "source": "华尔街见闻",
@@ -318,8 +335,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时35分 ~ 15时27分]"
+          "appearance_count": 22,
+          "time_info": "[00时35分 ~ 16时37分]"
         },
         {
           "title": "DeepSeek发布V3.2系列模型，强化Agent能力，推理能力追平GPT-5",
@@ -332,22 +349,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时35分 ~ 15时27分]"
-        },
-        {
-          "title": "实测DeepSeekV3.2正式版",
-          "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8BDeepSeekV3.2%E6%AD%A3%E5%BC%8F%E7%89%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            4,
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时57分 ~ 15时27分]"
+          "appearance_count": 22,
+          "time_info": "[00时35分 ~ 16时37分]"
         },
         {
           "title": "DeepSeek 更新两个 v3.2 新模型，这次有哪些亮点？",
@@ -365,6 +368,20 @@
           "time_info": "[00时35分 ~ 06时24分]"
         },
         {
+          "title": "DeepSeek新模型追平Gemini",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B%E8%BF%BD%E5%B9%B3Gemini",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            9,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[09时57分 ~ 16时37分]"
+        },
+        {
           "title": "DeepSeek同时发布两个正式版模型",
           "url": "https://www.baidu.com/s?wd=DeepSeek%E5%90%8C%E6%97%B6%E5%8F%91%E5%B8%83%E4%B8%A4%E4%B8%AA%E6%AD%A3%E5%BC%8F%E7%89%88%E6%A8%A1%E5%9E%8B",
           "source": "百度热搜",
@@ -377,29 +394,16 @@
           "time_info": "[00时35分 ~ 07时24分]"
         },
         {
-          "title": "DeepSeek新模型追平Gemini",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B%E8%BF%BD%E5%B9%B3Gemini",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            9,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时57分 ~ 15时27分]"
-        },
-        {
           "title": "2025 年 12 月 1 日，DeepSeek 正式发布 V3.2 和 V3.2-Speciale，如何评价该模型？",
           "url": "https://www.zhihu.com/question/1978907565543945170",
           "source": "知乎",
           "ranks": [
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时39分 ~ 15时27分]"
+          "appearance_count": 5,
+          "time_info": "[14时39分 ~ 16时37分]"
         }
       ]
     },
@@ -416,8 +420,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时24分 ~ 15时27分]"
+          "appearance_count": 9,
+          "time_info": "[11时24分 ~ 16时37分]"
         },
         {
           "title": "据The Information：OpenAI创始人奥尔特曼表示，OpenAI计划推迟其他举措，比如广告业务。",
@@ -525,11 +529,12 @@
           "ranks": [
             12,
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时25分 ~ 15时27分]"
+          "appearance_count": 6,
+          "time_info": "[13时25分 ~ 16时37分]"
         },
         {
           "title": "美国国务院：美国担任G20主席国期间，将聚焦“其推动经济增长与繁荣的核心使命，以取得实效”；将优先关注限制监管负担、能源供应链以及新技术和创新。",
@@ -559,6 +564,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时21分 ~ 06时24分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "具身智能",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "2025 年十大流行语发布，「具身智能、苏超、活人感、预制 xx」等词入选，你对哪些词印象深刻？",
+          "url": "https://www.zhihu.com/question/1979191309995635858",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时36分 ~ 16时37分]"
         }
       ]
     }

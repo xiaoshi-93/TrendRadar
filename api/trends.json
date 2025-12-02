@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-02T18:29:51.938740+08:00",
-  "total_titles_processed": 1470,
+  "generated_at": "2025-12-02T19:25:53.494636+08:00",
+  "total_titles_processed": 1579,
   "failed_sources": [],
   "trends": [
     {
@@ -254,8 +254,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时25分 ~ 18时29分]"
+          "appearance_count": 10,
+          "time_info": "[13时25分 ~ 19时25分]"
         },
         {
           "title": "谷歌将Gemini 3人工智能模式引入谷歌搜索，覆盖近120个国家和地区。",
@@ -344,21 +344,6 @@
           "time_info": "[09时57分 ~ 15时27分]"
         },
         {
-          "title": "实测DeepSeekV3.2正式版",
-          "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8BDeepSeekV3.2%E6%AD%A3%E5%BC%8F%E7%89%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            4,
-            12,
-            10,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时57分 ~ 18时29分]"
-        },
-        {
           "title": "开源最强！“拳打GPT 5”，“脚踢Gemini-3.0”，DeepSeek V3.2为何提升这么多？",
           "url": "https://wallstreetcn.com/articles/3760468",
           "source": "华尔街见闻",
@@ -371,8 +356,24 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时35分 ~ 18时29分]"
+          "appearance_count": 26,
+          "time_info": "[00时35分 ~ 19时25分]"
+        },
+        {
+          "title": "实测DeepSeekV3.2正式版",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8BDeepSeekV3.2%E6%AD%A3%E5%BC%8F%E7%89%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            4,
+            12,
+            10,
+            3,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[09时57分 ~ 19时25分]"
         },
         {
           "title": "DeepSeek发布V3.2系列模型，强化Agent能力，推理能力追平GPT-5",
@@ -382,11 +383,12 @@
             7,
             8,
             5,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时35分 ~ 18时29分]"
+          "appearance_count": 26,
+          "time_info": "[00时35分 ~ 19时25分]"
         },
         {
           "title": "DeepSeek 更新两个 v3.2 新模型，这次有哪些亮点？",
@@ -415,8 +417,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时57分 ~ 18时29分]"
+          "appearance_count": 15,
+          "time_info": "[09时57分 ~ 19时25分]"
         },
         {
           "title": "DeepSeek同时发布两个正式版模型",
@@ -457,8 +459,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时24分 ~ 18时29分]"
+          "appearance_count": 13,
+          "time_info": "[11时24分 ~ 19时25分]"
         },
         {
           "title": "据The Information：OpenAI创始人奥尔特曼表示，OpenAI计划推迟其他举措，比如广告业务。",
@@ -531,7 +533,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时29分"
         }
@@ -580,11 +582,12 @@
             9,
             7,
             6,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时25分 ~ 18时29分]"
+          "appearance_count": 10,
+          "time_info": "[13时25分 ~ 19时25分]"
         },
         {
           "title": "美国国务院：美国担任G20主席国期间，将聚焦“其推动经济增长与繁荣的核心使命，以取得实效”；将优先关注限制监管负担、能源供应链以及新技术和创新。",

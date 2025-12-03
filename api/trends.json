@@ -1,24 +1,12 @@
 {
-  "generated_at": "2025-12-03T12:34:13.257674+08:00",
-  "total_titles_processed": 1038,
+  "generated_at": "2025-12-03T13:26:05.470300+08:00",
+  "total_titles_processed": 1109,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
       "match_count": 17,
       "titles": [
-        {
-          "title": "美日政策预期分化，美股指集体高开，金银油回落，加密货币止跌反弹，拍卖需求强劲推高日债",
-          "url": "https://wallstreetcn.com/articles/3760523",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时06分 ~ 06时22分]"
-        },
         {
           "title": "美股涨，数字货币大体收复周一暴跌失地，离岸人民币迈向14个月高位，白银V形反转",
           "url": "https://wallstreetcn.com/articles/3760523",
@@ -28,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时57分 ~ 12时34分]"
+          "appearance_count": 7,
+          "time_info": "[09时57分 ~ 13时26分]"
         },
         {
           "title": "美股收盘：三大指数震荡收高 光通信牛股再创新高",
@@ -41,8 +29,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时23分 ~ 12时34分]"
+          "appearance_count": 8,
+          "time_info": "[07时23分 ~ 13时26分]"
+        },
+        {
+          "title": "美日政策预期分化，美股指集体高开，金银油回落，加密货币止跌反弹，拍卖需求强劲推高日债",
+          "url": "https://wallstreetcn.com/articles/3760523",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时06分 ~ 06时22分]"
         },
         {
           "title": "美股三大期指集体走高 波音盘前涨超3% | 今夜看点",
@@ -218,8 +218,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时57分 ~ 12时34分]"
+          "appearance_count": 7,
+          "time_info": "[09时57分 ~ 13时26分]"
         },
         {
           "title": "谷歌揭秘了AI竞赛的底牌",
@@ -248,6 +248,18 @@
           "time_info": "[02时40分 ~ 05时25分]"
         },
         {
+          "title": "谷歌 VS OpenAI：短短三年 “红色警报”发布方悄然互换！",
+          "url": "https://www.cls.cn/detail/2218001",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时33分 ~ 13时26分]"
+        },
+        {
           "title": "面对谷歌的挑战，英伟达和OpenAI谁更脆弱",
           "url": "https://wallstreetcn.com/articles/3760498",
           "source": "华尔街见闻",
@@ -257,17 +269,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时23分 ~ 09时57分]"
-        },
-        {
-          "title": "谷歌 VS OpenAI：短短三年 “红色警报”发布方悄然互换！",
-          "url": "https://www.cls.cn/detail/2218001",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时33分 ~ 12时34分]"
         },
         {
           "title": "亚马逊急推最新AI芯片，挑战英伟达和谷歌",
@@ -466,7 +467,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时34分"
         }
@@ -497,6 +498,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "具身智能",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "清华大学成立具身智能与机器人研究院",
+          "url": "https://wallstreetcn.com/livenews/3014176",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时26分"
         }
       ]
     }

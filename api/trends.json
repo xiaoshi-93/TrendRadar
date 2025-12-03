@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-03T15:27:21.511569+08:00",
-  "total_titles_processed": 1266,
+  "generated_at": "2025-12-03T16:35:47.735011+08:00",
+  "total_titles_processed": 1386,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时57分 ~ 15时27分]"
+          "appearance_count": 10,
+          "time_info": "[09时57分 ~ 16时35分]"
         },
         {
           "title": "美股收盘：三大指数震荡收高 光通信牛股再创新高",
@@ -218,8 +218,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时57分 ~ 15时27分]"
+          "appearance_count": 10,
+          "time_info": "[09时57分 ~ 16时35分]"
         },
         {
           "title": "谷歌揭秘了AI竞赛的底牌",
@@ -243,11 +243,12 @@
           "ranks": [
             12,
             9,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时33分 ~ 15时27分]"
+          "appearance_count": 7,
+          "time_info": "[12时33分 ~ 16时35分]"
         },
         {
           "title": "OpenAI拉响最高警报：谷歌模型威胁巨大 全力改进ChatGPT",
@@ -483,11 +484,12 @@
           "url": "https://wallstreetcn.com/articles/3760553",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时33分 ~ 15时27分]"
+          "appearance_count": 4,
+          "time_info": "[12时33分 ~ 16时35分]"
         },
         {
           "title": "金十图示：2025年12月03日（周三）上海金早盘价为955.55元/克，较国际金价(959.05元/克)，低3.5元/克",
@@ -513,7 +515,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时27分"
         }

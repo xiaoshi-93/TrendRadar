@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-03T21:40:13.013709+08:00",
-  "total_titles_processed": 1861,
+  "generated_at": "2025-12-03T22:28:30.261810+08:00",
+  "total_titles_processed": 1957,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 20,
+      "match_count": 25,
       "titles": [
         {
           "title": "美股涨，数字货币大体收复周一暴跌失地，离岸人民币迈向14个月高位，白银V形反转",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[09时57分 ~ 21时40分]"
+          "appearance_count": 20,
+          "time_info": "[09时57分 ~ 22时28分]"
         },
         {
           "title": "美股收盘：三大指数震荡收高 光通信牛股再创新高",
@@ -162,6 +162,28 @@
           "time_info": "[20时55分 ~ 21时40分]"
         },
         {
+          "title": "小非农超预期降温，美股期货上扬，美元短线跳水，伦铜涨破纪录，白银高位震荡，离岸人民币创14个月来高点",
+          "url": "https://wallstreetcn.com/articles/3760624",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
+        },
+        {
+          "title": "纳斯达克100股指期货美股盘前转跌，英伟达（盘前）转跌。",
+          "url": "https://wallstreetcn.com/livenews/3014503",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
+        },
+        {
           "title": "美股收盘：三大股指收涨 小鹏跌近8%",
           "url": "https://flash.jin10.com/detail/20251203050114408800",
           "source": "金十数据",
@@ -195,6 +217,28 @@
           "time_info": "02时40分"
         },
         {
+          "title": "美国11月ADP就业减少3.2万 美股三大期指集体上涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2218814",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
+        },
+        {
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3014495",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
+        },
+        {
           "title": "能源业ETF收跌约1.3%，领跌美股行业ETF，半导体ETF涨超1.8%",
           "url": "https://wallstreetcn.com/livenews/3013921",
           "source": "华尔街见闻-快讯",
@@ -204,6 +248,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
+        },
+        {
+          "title": "微软(MSFT.O)美股盘前跌近2%。",
+          "url": "https://flash.jin10.com/detail/20251203220751256800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
         },
         {
           "title": "美股七巨头收盘播报｜苹果收涨约1.1%，Meta、英伟达等涨幅不到1%",
@@ -234,7 +289,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时40分"
         }
@@ -371,7 +426,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "亚马逊重磅发布挑战谷歌英伟达：AI芯片Trainium 3更快更节能，四款Nova 2模型，首创“开放式训练”",
@@ -382,8 +437,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[09时57分 ~ 21时40分]"
+          "appearance_count": 20,
+          "time_info": "[09时57分 ~ 22时28分]"
         },
         {
           "title": "谷歌 VS OpenAI：短短三年 “红色警报”发布方悄然互换！",
@@ -460,6 +515,17 @@
           "time_info": "[01时06分 ~ 01时27分]"
         },
         {
+          "title": "谷歌母公司Alphabet旗下无人驾驶汽车部门Waymo宣布，无人驾驶汽车出行服务扩张至巴尔的摩、圣路易斯、匹兹堡、费城等四个美国城市。",
+          "url": "https://wallstreetcn.com/livenews/3014500",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
+        },
+        {
           "title": "市场消息：亚马逊紧急推出最新人工智能芯片，迎战英伟达和谷歌。",
           "url": "https://flash.jin10.com/detail/20251203000100879800",
           "source": "金十数据",
@@ -485,7 +551,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "V3.2逼近Gemini 3，DeepSeek硬气喊话：接下来我要堆算力了",
@@ -545,12 +611,23 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时06分 ~ 07时23分]"
+        },
+        {
+          "title": "Deepseek 团队为什么把大量精力花在 IMO 这种对普通人和商业应用都没有用途的地方？",
+          "url": "https://www.zhihu.com/question/1979307622185341611",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
         }
       ]
     },
     {
       "keyword_group": "美元",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "非洲股市收盘播报｜周二（12月2日），南非富时/JSE非洲领先40可交易指数收跌1.13%，报10.3万点。 南非兰特兑美元跌0.21%，暂报17.1273兰特。 南非10年期国债收益率一度下跌5个基点，至8.45%，创2017年9月份以来新低。",
@@ -596,6 +673,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时34分"
+        },
+        {
+          "title": "美国11月ADP就业人数公布后，美元指数短线小幅走低，现货黄金短线拉升约10美元",
+          "url": "https://wallstreetcn.com/livenews/3014475",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
         }
       ]
     },

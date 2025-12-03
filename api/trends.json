@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-03T13:26:05.470300+08:00",
-  "total_titles_processed": 1109,
+  "generated_at": "2025-12-03T14:39:23.955995+08:00",
+  "total_titles_processed": 1200,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时57分 ~ 13时26分]"
+          "appearance_count": 8,
+          "time_info": "[09时57分 ~ 14时39分]"
         },
         {
           "title": "美股收盘：三大指数震荡收高 光通信牛股再创新高",
@@ -29,8 +29,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时23分 ~ 13时26分]"
+          "appearance_count": 9,
+          "time_info": "[07时23分 ~ 14时39分]"
         },
         {
           "title": "美日政策预期分化，美股指集体高开，金银油回落，加密货币止跌反弹，拍卖需求强劲推高日债",
@@ -218,8 +218,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时57分 ~ 13时26分]"
+          "appearance_count": 8,
+          "time_info": "[09时57分 ~ 14时39分]"
         },
         {
           "title": "谷歌揭秘了AI竞赛的底牌",
@@ -237,6 +237,19 @@
           "time_info": "[01时06分 ~ 07时23分]"
         },
         {
+          "title": "谷歌 VS OpenAI：短短三年 “红色警报”发布方悄然互换！",
+          "url": "https://www.cls.cn/detail/2218001",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时33分 ~ 14时39分]"
+        },
+        {
           "title": "OpenAI拉响最高警报：谷歌模型威胁巨大 全力改进ChatGPT",
           "url": "https://www.cls.cn/detail/2217188",
           "source": "财联社热门",
@@ -246,18 +259,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时40分 ~ 05时25分]"
-        },
-        {
-          "title": "谷歌 VS OpenAI：短短三年 “红色警报”发布方悄然互换！",
-          "url": "https://www.cls.cn/detail/2218001",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时33分 ~ 13时26分]"
         },
         {
           "title": "面对谷歌的挑战，英伟达和OpenAI谁更脆弱",
@@ -512,7 +513,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时26分"
         }

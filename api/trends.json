@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-04T12:35:25.754590+08:00",
-  "total_titles_processed": 1026,
+  "generated_at": "2025-12-04T13:26:24.111441+08:00",
+  "total_titles_processed": 1086,
   "failed_sources": [],
   "trends": [
     {
@@ -42,8 +42,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时58分 ~ 12时35分]"
+          "appearance_count": 5,
+          "time_info": "[09时58分 ~ 13时26分]"
         },
         {
           "title": "美股收盘：三大指数艰难冲刺新高 有色、机器人板块走强",
@@ -55,8 +55,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时22分 ~ 12时35分]"
+          "appearance_count": 6,
+          "time_info": "[07时22分 ~ 13时26分]"
         },
         {
           "title": "美国11月ADP就业减少3.2万 美股三大期指集体上涨 | 今夜看点",
@@ -374,8 +374,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时25分 ~ 12时35分]"
+          "appearance_count": 4,
+          "time_info": "[11时25分 ~ 13时26分]"
         }
       ]
     },
@@ -475,11 +475,12 @@
           "ranks": [
             20,
             16,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时22分 ~ 12时35分]"
+          "appearance_count": 6,
+          "time_info": "[07时22分 ~ 13时26分]"
         }
       ]
     }

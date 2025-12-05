@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-05T12:34:56.445356+08:00",
-  "total_titles_processed": 973,
+  "generated_at": "2025-12-05T13:26:39.145113+08:00",
+  "total_titles_processed": 1074,
   "failed_sources": [],
   "trends": [
     {
@@ -33,8 +33,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时24分 ~ 12时34分]"
+          "appearance_count": 7,
+          "time_info": "[07时24分 ~ 13时26分]"
         },
         {
           "title": "金十图示：2025年12月04日（周四）美股热门股票行情一览（美股收盘）",
@@ -213,8 +213,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时37分 ~ 12时34分]"
+          "appearance_count": 17,
+          "time_info": "[00时37分 ~ 13时26分]"
         },
         {
           "title": "美股涨势消减，小盘股指逼近历史高点，美债比特币下挫，铜价回落",
@@ -225,8 +225,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时58分 ~ 12时34分]"
+          "appearance_count": 5,
+          "time_info": "[09时58分 ~ 13时26分]"
         },
         {
           "title": "美股徘徊历史高点边缘，小盘股指逼近历史高点，美债比特币下挫，铜价回落",
@@ -318,11 +318,12 @@
             4,
             5,
             9,
-            12
+            12,
+            16
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时37分 ~ 12时34分]"
+          "appearance_count": 17,
+          "time_info": "[00时37分 ~ 13时26分]"
         },
         {
           "title": "摩根大通：DeepSeek V3.2为中国AI市场带来第二波冲击 利好多数相关方",

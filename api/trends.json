@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-06T09:52:12.041948+08:00",
-  "total_titles_processed": 700,
+  "generated_at": "2025-12-06T11:14:35.544196+08:00",
+  "total_titles_processed": 798,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时51分 ~ 09时52分]"
+          "appearance_count": 3,
+          "time_info": "[09时51分 ~ 11时14分]"
+        },
+        {
+          "title": "大空头Burry警告美股将重演“2000年”熊市：资本开支逼近顶峰，两年足够AI泡沫破灭！",
+          "url": "https://wallstreetcn.com/articles/3760810",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时23分 ~ 11时14分]"
         },
         {
           "title": "美股指小幅收高，纳指四连涨，白银盘中新高，黄金与比特币承压",
@@ -30,16 +42,17 @@
           "time_info": "[07时23分 ~ 07时24分]"
         },
         {
-          "title": "大空头Burry警告美股将重演“2000年”熊市：资本开支逼近顶峰，两年足够AI泡沫破灭！",
-          "url": "https://wallstreetcn.com/articles/3760810",
-          "source": "华尔街见闻",
+          "title": "美股收盘：标普四连涨距新高咫尺之遥 中概明星股普涨",
+          "url": "https://www.cls.cn/detail/2221625",
+          "source": "财联社热门",
           "ranks": [
-            9,
-            5
+            13,
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时23分 ~ 09时52分]"
+          "appearance_count": 5,
+          "time_info": "[07时23分 ~ 11时14分]"
         },
         {
           "title": "（美股）费城金银指数收跌0.26%，报318.46点，本周累计下跌1.89%。 （全球时段）纽约证交所ARCA金矿开采商指数收涨0.02%，报2284.96点，美股开盘之前持续微幅上涨，随后出现尖锐的冲高回落行情——北京时间23:00披露美国PCE通胀数据之后刷新日高，本周累计下跌1.41%。",
@@ -64,18 +77,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时24分 ~ 09时52分]"
-        },
-        {
-          "title": "美股收盘：标普四连涨距新高咫尺之遥 中概明星股普涨",
-          "url": "https://www.cls.cn/detail/2221625",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时23分 ~ 09时52分]"
         },
         {
           "title": "瑞银(UBS.N)美股跳涨2.8%，因波动性较大暂停交易。",
@@ -179,7 +180,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时52分"
         },
@@ -190,7 +191,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时52分"
         }
@@ -315,7 +316,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "SpaceX估值超越OpenAI，成为美国第一大非上市公司",
@@ -335,11 +336,23 @@
           "url": "https://flash.jin10.com/detail/20251206082425729800",
           "source": "金十数据",
           "ranks": [
-            9
+            9,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时52分 ~ 11时14分]"
+        },
+        {
+          "title": "ChatGPT产品负责人回应广告传闻",
+          "url": "https://flash.jin10.com/detail/20251206101132584800",
+          "source": "金十数据",
+          "ranks": [
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时52分"
+          "time_info": "11时14分"
         }
       ]
     },

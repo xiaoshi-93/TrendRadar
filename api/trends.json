@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-07T14:35:07.063851+08:00",
-  "total_titles_processed": 791,
+  "generated_at": "2025-12-07T15:23:24.472225+08:00",
+  "total_titles_processed": 836,
   "failed_sources": [],
   "trends": [
     {
@@ -71,8 +71,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时29分 ~ 14时35分]"
+          "appearance_count": 18,
+          "time_info": "[00时29分 ~ 15时23分]"
         },
         {
           "title": "美股三大指数小幅收涨",
@@ -111,8 +111,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时34分 ~ 14时35分]"
+          "appearance_count": 3,
+          "time_info": "[14时34分 ~ 15时23分]"
         }
       ]
     },
@@ -126,11 +126,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时23分 ~ 14时35分]"
+          "appearance_count": 3,
+          "time_info": "[13时23分 ~ 15时23分]"
         },
         {
           "title": "加快发展新质生产力 上海自动驾驶测试道路总里程超5200公里",
@@ -138,11 +139,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            8
+            8,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时23分 ~ 14时35分]"
+          "appearance_count": 3,
+          "time_info": "[13时23分 ~ 15时23分]"
         }
       ]
     },
@@ -162,8 +164,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时29分 ~ 14时35分]"
+          "appearance_count": 18,
+          "time_info": "[00时29分 ~ 15时23分]"
         }
       ]
     },

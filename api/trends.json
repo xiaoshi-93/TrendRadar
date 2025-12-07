@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-07T18:24:11.793883+08:00",
-  "total_titles_processed": 1048,
+  "generated_at": "2025-12-07T19:19:38.063940+08:00",
+  "total_titles_processed": 1103,
   "failed_sources": [],
   "trends": [
     {
@@ -101,11 +101,12 @@
             5,
             6,
             9,
-            10
+            10,
+            21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时23分 ~ 18时24分]"
+          "appearance_count": 7,
+          "time_info": "[13时23分 ~ 19时19分]"
         },
         {
           "title": "加快发展新质生产力 上海自动驾驶测试道路总里程超5200公里",
@@ -127,11 +128,12 @@
           "url": "https://www.toutiao.com/trending/7580866387980222514/",
           "source": "今日头条",
           "ranks": [
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时23分 ~ 18时24分]"
+          "appearance_count": 3,
+          "time_info": "[18时23分 ~ 19时19分]"
         }
       ]
     },
@@ -139,6 +141,20 @@
       "keyword_group": "chatgpt openai",
       "match_count": 2,
       "titles": [
+        {
+          "title": "OpenAI的“治理大修”：一场资本重组修缺的大戏​",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32074253",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时34分 ~ 19时19分]"
+        },
         {
           "title": "SpaceX估值超越OpenAI，或翻倍至8000亿美元，计划明年下半年上市",
           "url": "https://wallstreetcn.com/articles/3760830",
@@ -150,19 +166,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时29分 ~ 05时21分]"
-        },
-        {
-          "title": "OpenAI的“治理大修”：一场资本重组修缺的大戏​",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32074253",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时34分 ~ 18时24分]"
         }
       ]
     },

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-10T17:31:25.040897+08:00",
-  "total_titles_processed": 1605,
+  "generated_at": "2025-12-10T18:31:35.257703+08:00",
+  "total_titles_processed": 1692,
   "failed_sources": [],
   "trends": [
     {
@@ -357,8 +357,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时00分 ~ 17时31分]"
+          "appearance_count": 14,
+          "time_info": "[10时00分 ~ 18时31分]"
         },
         {
           "title": "三大美股指跌，H200消息刺激英伟达反弹，美债收益率两个月来新高，伦铜续创新高",
@@ -419,7 +419,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时31分"
         },

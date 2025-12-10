@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-10T12:38:04.856421+08:00",
-  "total_titles_processed": 1134,
+  "generated_at": "2025-12-10T13:27:30.061638+08:00",
+  "total_titles_processed": 1204,
   "failed_sources": [],
   "trends": [
     {
@@ -19,6 +19,19 @@
           "time_info": "[00时34分 ~ 04时26分]"
         },
         {
+          "title": "美股收盘：三大股指涨跌不一 摩根大通成本预警施压大盘",
+          "url": "https://www.cls.cn/detail/2224722",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时28分 ~ 13时27分]"
+        },
+        {
           "title": "英伟达盘前冲高2%后回落 美股三大期指涨跌不一 | 今夜看点",
           "url": "https://www.cls.cn/detail/2224567",
           "source": "财联社热门",
@@ -30,19 +43,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时34分 ~ 10时01分]"
-        },
-        {
-          "title": "美股收盘：三大股指涨跌不一 摩根大通成本预警施压大盘",
-          "url": "https://www.cls.cn/detail/2224722",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时28分 ~ 12时38分]"
         },
         {
           "title": "金十图示：2025年12月09日（周二）热门中概股行情一览（美股收盘）",
@@ -291,11 +291,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时00分 ~ 12时38分]"
+          "appearance_count": 7,
+          "time_info": "[10时00分 ~ 13时27分]"
         },
         {
           "title": "谷歌云：推出由Gemini驱动的编码智能体AlphaEvolve，可用于设计高级算法，现已开启私密预览。",
@@ -367,8 +368,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时00分 ~ 12时38分]"
+          "appearance_count": 7,
+          "time_info": "[10时00分 ~ 13时27分]"
         },
         {
           "title": "美债价格在美国职位空缺数据发布后显著下挫",

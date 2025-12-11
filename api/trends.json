@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-11T15:29:16.900538+08:00",
-  "total_titles_processed": 1407,
+  "generated_at": "2025-12-11T16:36:36.201366+08:00",
+  "total_titles_processed": 1513,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时02分 ~ 15时29分]"
+          "appearance_count": 9,
+          "time_info": "[10时02分 ~ 16时36分]"
         },
         {
           "title": "美股收盘：标普500逼近历史新高 市场对未来更多宽松寄予希望",
@@ -365,7 +365,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时29分"
         },
@@ -376,7 +376,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时29分"
         }

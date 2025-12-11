@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-11T12:42:12.846255+08:00",
-  "total_titles_processed": 1116,
+  "generated_at": "2025-12-11T13:28:30.070182+08:00",
+  "total_titles_processed": 1203,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时02分 ~ 12时42分]"
+          "appearance_count": 5,
+          "time_info": "[10时02分 ~ 13时28分]"
+        },
+        {
+          "title": "美股收盘：标普500逼近历史新高 市场对未来更多宽松寄予希望",
+          "url": "https://www.cls.cn/detail/2225967",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时23分 ~ 13时28分]"
         },
         {
           "title": "决议前夕美股期指窄幅震荡 华尔街等待鲍威尔亮出底牌 | 今夜看点",
@@ -29,18 +41,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时28分 ~ 07时23分]"
-        },
-        {
-          "title": "美股收盘：标普500逼近历史新高 市场对未来更多宽松寄予希望",
-          "url": "https://www.cls.cn/detail/2225967",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时23分 ~ 12时42分]"
         },
         {
           "title": "金十图示：2025年12月10日（周三）美股热门股票行情一览（美股收盘）",
@@ -440,11 +440,29 @@
           "source": "微博",
           "ranks": [
             22,
-            28
+            28,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时59分 ~ 12时42分]"
+          "appearance_count": 4,
+          "time_info": "[11时59分 ~ 13时28分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "供应链",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "中国互联网金融协会召开供应链金融业务会员座谈会",
+          "url": "https://wallstreetcn.com/livenews/3018934",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时28分"
         }
       ]
     }

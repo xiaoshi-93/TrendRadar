@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-12T19:25:35.144269+08:00",
-  "total_titles_processed": 1803,
+  "generated_at": "2025-12-12T20:54:43.873072+08:00",
+  "total_titles_processed": 1922,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时38分 ~ 19时25分]"
+          "appearance_count": 11,
+          "time_info": "[12时38分 ~ 20时54分]"
         },
         {
           "title": "美联储重新任命11位地区联储主席 OpenAI发布更先进模型GPT-5.2 | 环球市场",
@@ -508,8 +508,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时39分 ~ 19时25分]"
+          "appearance_count": 13,
+          "time_info": "[11时39分 ~ 20时54分]"
         },
         {
           "title": "摩根大通：将谷歌母公司Alphabet目标价由340美元上调至385美元。",
@@ -571,6 +571,18 @@
           "time_info": "[03时24分 ~ 04时29分]"
         },
         {
+          "title": "UP主解读OpenAI和谷歌的AI大战",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBOpenAI%E5%92%8C%E8%B0%B7%E6%AD%8C%E7%9A%84AI%E5%A4%A7%E6%88%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时25分 ~ 20时54分]"
+        },
+        {
           "title": "谷歌(GOOG.O)：推出交互API，为与我们的模型、Gemini 3 Pro以及Gemini深度研究等智能体进行交互提供统一接口。",
           "url": "https://flash.jin10.com/detail/20251212010409601800",
           "source": "金十数据",
@@ -624,17 +636,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时28分"
-        },
-        {
-          "title": "UP主解读OpenAI和谷歌的AI大战",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBOpenAI%E5%92%8C%E8%B0%B7%E6%AD%8C%E7%9A%84AI%E5%A4%A7%E6%88%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时25分"
         },
         {
           "title": "消息人士：谷歌(GOOG.O)为遵守具有里程碑意义的欧盟新规所做的努力仍显不足，其明年将因偏袒自家服务而面临欧盟罚款。",
@@ -796,11 +797,12 @@
           "url": "https://news.ifeng.com/c/8p1fbVPzCOI",
           "source": "凤凰网",
           "ranks": [
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时36分 ~ 19时25分]"
+          "appearance_count": 7,
+          "time_info": "[16时36分 ~ 20时54分]"
         },
         {
           "title": "美国与日韩澳等8国就加强稀土供应链签署协议，外交部回应",
@@ -808,11 +810,12 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时31分 ~ 19时25分]"
+          "appearance_count": 5,
+          "time_info": "[17时31分 ~ 20时54分]"
         },
         {
           "title": "美国与日、韩、澳等八国签署加强稀土供应链协议，外交部回应",

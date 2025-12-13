@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-13T22:23:04.357829+08:00",
-  "total_titles_processed": 1492,
+  "generated_at": "2025-12-13T23:24:42.407132+08:00",
+  "total_titles_processed": 1558,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "AI交易再遭重挫！甲骨文据悉将部分OpenAI数据中心项目推迟至2028年",
@@ -18,11 +18,12 @@
             8,
             10,
             9,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[07时24分 ~ 22时23分]"
+          "appearance_count": 19,
+          "time_info": "[07时24分 ~ 23时24分]"
         },
         {
           "title": "ChatGPT5.2有哪些新升级",
@@ -60,6 +61,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时39分"
+        },
+        {
+          "title": "迪士尼与OpenAI合作施压日本内容产业，本土企业面临AI转型抉择",
+          "url": "https://flash.jin10.com/detail/20251213225118795800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时24分"
         },
         {
           "title": "AI基础设施概念股普遍下跌，报道称甲骨文与OpenAI相关的某些数据中心完工时间被延后一年。 博通跌12%，甲骨文跌6.5%，英伟达跌2.4%。 费城半导体指数跌4.56%，Astera Labs跌13%，相干公司Coherent跌10%，Rambus跌8.5%，美光科技跌7%。",
@@ -146,8 +158,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[06时25分 ~ 22时23分]"
+          "appearance_count": 20,
+          "time_info": "[06时25分 ~ 23时24分]"
         },
         {
           "title": "AI担忧加剧压垮美股，纳指跌超2%，博通跌超10%，白银创新高后跳水，期银跌超5%",

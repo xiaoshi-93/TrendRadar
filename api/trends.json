@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-13T11:20:24.234240+08:00",
-  "total_titles_processed": 802,
+  "generated_at": "2025-12-13T12:31:32.206737+08:00",
+  "total_titles_processed": 892,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时32分 ~ 11时20分]"
+          "appearance_count": 15,
+          "time_info": "[00时32分 ~ 12时31分]"
         },
         {
           "title": "甲骨文发言人声明：对OpenAI的（数据中心）“合同承诺”并没有推迟。 公司对承诺与项目扩建仍然有信心。",
@@ -39,11 +39,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时24分 ~ 11时20分]"
+          "appearance_count": 5,
+          "time_info": "[07时24分 ~ 12时31分]"
         },
         {
           "title": "甲骨文(ORCL.N)：在协议签署后，与OpenAI密切协调确定了选址及交付时间表，并达成一致意见。为履行合同义务所需的所有站点均未出现延误，所有里程碑均按计划推进。",
@@ -142,17 +143,6 @@
           "time_info": "[02时39分 ~ 06时25分]"
         },
         {
-          "title": "美股盘中跌幅扩大，纳指跌超1.5%，博通跌超10%，铜银续创新高，现货黄金重新站上4300美元",
-          "url": "https://wallstreetcn.com/articles/3761271",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 01时25分]"
-        },
-        {
           "title": "美股收盘：AI交易连遭打击 三大指数集体收跌 博通重挫逾11%",
           "url": "https://www.cls.cn/detail/2228565",
           "source": "财联社热门",
@@ -162,8 +152,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时25分 ~ 11时20分]"
+          "appearance_count": 6,
+          "time_info": "[06时25分 ~ 12时31分]"
+        },
+        {
+          "title": "美股盘中跌幅扩大，纳指跌超1.5%，博通跌超10%，铜银续创新高，现货黄金重新站上4300美元",
+          "url": "https://wallstreetcn.com/articles/3761271",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 01时25分]"
         },
         {
           "title": "（美股）费城金银指数收跌1.07%，报337.73点，本周累涨6.05%。 （全球时段）纽约证交所ARCA金矿开采商指数收跌0.27%，报2404.74点，本周累涨5.24%。",
@@ -260,11 +261,12 @@
           "ranks": [
             8,
             7,
-            17
+            17,
+            10
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时32分 ~ 11时20分]"
+          "appearance_count": 15,
+          "time_info": "[00时32分 ~ 12时31分]"
         },
         {
           "title": "OpenAI发布GPT-5.2迎战Gemini，号称智能体编码最强，赶超人类专家，Altman料1月解除红色警报",
@@ -391,7 +393,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时20分"
         }

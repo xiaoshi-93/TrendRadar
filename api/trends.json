@@ -1,23 +1,12 @@
 {
-  "generated_at": "2025-12-16T02:39:50.705715+08:00",
-  "total_titles_processed": 433,
+  "generated_at": "2025-12-16T03:24:33.423559+08:00",
+  "total_titles_processed": 479,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "自动驾驶",
       "match_count": 7,
       "titles": [
-        {
-          "title": "首批 L3 级有条件自动驾驶车型「长安深蓝 SL03 和极狐阿尔法 S6」获准入许可，对行业发展有哪些影响？",
-          "url": "https://www.zhihu.com/question/1983929548224554609",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时38分 ~ 02时39分]"
-        },
         {
           "title": "L3来了！深蓝、极狐首批入围 中汽协：自动驾驶加速迈向“量产应用”",
           "url": "https://www.cls.cn/detail/2230081",
@@ -27,8 +16,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时38分 ~ 02时39分]"
+          "appearance_count": 4,
+          "time_info": "[00时38分 ~ 03时24分]"
+        },
+        {
+          "title": "首批 L3 级有条件自动驾驶车型「长安深蓝 SL03 和极狐阿尔法 S6」获准入许可，对行业发展有哪些影响？",
+          "url": "https://www.zhihu.com/question/1983929548224554609",
+          "source": "知乎",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时38分 ~ 03时24分]"
         },
         {
           "title": "一图看懂 | L0-L5自动驾驶有何区别，驾驶责任如何划分",
@@ -39,8 +40,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时38分 ~ 02时39分]"
+          "appearance_count": 4,
+          "time_info": "[00时38分 ~ 03时24分]"
         },
         {
           "title": "我国首批L3自动驾驶车型获准入许可",
@@ -49,7 +50,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时39分"
         },
@@ -104,8 +105,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时38分 ~ 02时39分]"
+          "appearance_count": 4,
+          "time_info": "[00时38分 ~ 03时24分]"
         },
         {
           "title": "现货黄金、白银逼近历史高位 美股三大期指温和走高 | 今夜看点",
@@ -117,8 +118,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时38分 ~ 02时39分]"
+          "appearance_count": 4,
+          "time_info": "[00时38分 ~ 03时24分]"
         },
         {
           "title": "金十图示：2025年12月15日（周一）热门中概股行情一览（美股盘中）",
@@ -149,7 +150,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时39分"
         }
@@ -165,11 +166,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             8,
-            19
+            19,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时39分 ~ 02时39分]"
+          "appearance_count": 3,
+          "time_info": "[01时39分 ~ 03时24分]"
         },
         {
           "title": "OpenAI：从谷歌挖来Albert Lee。",
@@ -178,7 +180,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时39分"
         },
@@ -196,6 +198,23 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI： Albert Lee将于周二出任企业发展副总裁，并向首席财务官Sarah Friar汇报。",
+          "url": "https://flash.jin10.com/detail/20251216023339316800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时24分"
+        }
+      ]
+    },
+    {
       "keyword_group": "具身智能",
       "match_count": 1,
       "titles": [
@@ -209,8 +228,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时38分 ~ 02时39分]"
+          "appearance_count": 4,
+          "time_info": "[00时38分 ~ 03时24分]"
         }
       ]
     },

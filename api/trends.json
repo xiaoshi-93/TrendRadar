@@ -1,23 +1,12 @@
 {
-  "generated_at": "2025-12-15T18:33:32.125600+08:00",
-  "total_titles_processed": 1422,
+  "generated_at": "2025-12-15T19:25:36.804196+08:00",
+  "total_titles_processed": 1495,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "自动驾驶",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
-        {
-          "title": "首批L3自动驾驶车型获批",
-          "url": "https://www.baidu.com/s?wd=%E9%A6%96%E6%89%B9L3%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E8%BD%A6%E5%9E%8B%E8%8E%B7%E6%89%B9",
-          "source": "百度热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时39分 ~ 18时33分]"
-        },
         {
           "title": "我国首批L3自动驾驶车型获准入许可",
           "url": "https://www.toutiao.com/trending/7583985792616238638/",
@@ -25,9 +14,21 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时33分 ~ 19时25分]"
+        },
+        {
+          "title": "首批L3自动驾驶车型获批",
+          "url": "https://www.baidu.com/s?wd=%E9%A6%96%E6%89%B9L3%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E8%BD%A6%E5%9E%8B%E8%8E%B7%E6%89%B9",
+          "source": "百度热搜",
+          "ranks": [
+            4,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时39分 ~ 19时25分]"
         },
         {
           "title": "L3级自动驾驶落地关键一步！工信部公布首批准入许可车型",
@@ -38,8 +39,20 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时38分 ~ 19时25分]"
+        },
+        {
+          "title": "首批 L3 级有条件自动驾驶车型「长安深蓝 SL03 和极狐阿尔法 S6」获准入许可，对行业发展有哪些影响？",
+          "url": "https://www.zhihu.com/question/1983929548224554609",
+          "source": "知乎",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时38分 ~ 18时33分]"
+          "time_info": "[18时33分 ~ 19时25分]"
         },
         {
           "title": "我国首批L3级自动驾驶车型产品获得准入许可",
@@ -50,8 +63,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时39分 ~ 18时33分]"
+          "appearance_count": 4,
+          "time_info": "[16时39分 ~ 19时25分]"
         },
         {
           "title": "我国首批L3自动驾驶车型获准入许可",
@@ -66,26 +79,38 @@
           "time_info": "[17时38分 ~ 18时33分]"
         },
         {
-          "title": "首批 L3 级有条件自动驾驶车型「长安深蓝 SL03 和极狐阿尔法 S6」获准入许可，对行业发展有哪些影响？",
-          "url": "https://www.zhihu.com/question/1983929548224554609",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时33分"
-        },
-        {
           "title": "一图看懂 | L0-L5自动驾驶有何区别，驾驶责任如何划分",
           "url": "https://www.cls.cn/detail/2229922",
           "source": "财联社热门",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时33分 ~ 19时25分]"
+        },
+        {
+          "title": "中汽协付炳锋：L3级自动驾驶车型产品获得许可，智能网联汽车迈入量产应用新阶段",
+          "url": "https://wallstreetcn.com/livenews/3020931",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时33分"
+          "time_info": "19时25分"
+        },
+        {
+          "title": "紫光国微：成立中央研究院，主要的研究发展方向为开展面向自动驾驶、具身机器人、低空飞行器等应用的端侧AI芯片新架构、新模型和高效算法研究；开展基于二维材料器件的新型存储器和特种芯片研究；开展高性能特种传感器芯片研究",
+          "url": "https://wallstreetcn.com/livenews/3020928",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时25分"
         },
         {
           "title": "中国工信部许可两款L3级自动驾驶车型产品，两款产品分别来自长安汽车和北汽蓝谷。",
@@ -123,11 +148,12 @@
             10,
             8,
             7,
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时05分 ~ 18时33分]"
+          "appearance_count": 11,
+          "time_info": "[10时05分 ~ 19时25分]"
         },
         {
           "title": "12月15日投资避雷针：美股AI龙头遭市场抛售 博通跌超11%",
@@ -162,11 +188,12 @@
           "ranks": [
             10,
             8,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时42分 ~ 18时33分]"
+          "appearance_count": 7,
+          "time_info": "[14时42分 ~ 19时25分]"
         },
         {
           "title": "iRobot股价美股盘前暴跌超80%，至0.76美元，此前公司已申请破产，并寻求收购制造商。",

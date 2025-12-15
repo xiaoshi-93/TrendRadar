@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-16T05:26:21.931592+08:00",
-  "total_titles_processed": 591,
+  "generated_at": "2025-12-16T06:36:32.104893+08:00",
+  "total_titles_processed": 658,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 12,
       "titles": [
         {
           "title": "科技股抛压暂歇，美股指数期货小幅回血，贵金属集体大涨，黄金逼近历史新高，白银铂金大涨3%",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时38分 ~ 05时26分]"
+          "appearance_count": 8,
+          "time_info": "[00时38分 ~ 06时36分]"
         },
         {
           "title": "现货黄金、白银逼近历史高位 美股三大期指温和走高 | 今夜看点",
@@ -28,22 +28,24 @@
             9,
             8,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时38分 ~ 05时26分]"
+          "appearance_count": 8,
+          "time_info": "[00时38分 ~ 06时36分]"
         },
         {
           "title": "金十图示：2025年12月15日（周一）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20251216050520167800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时26分 ~ 06时36分]"
         },
         {
           "title": "美股收盘：三大股指收跌 特斯拉涨3.5%",
@@ -52,7 +54,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
         },
@@ -66,6 +68,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时39分"
+        },
+        {
+          "title": "美股收盘：AI概念股继续承压 三大指数集体收跌 特斯拉涨超3%",
+          "url": "https://www.cls.cn/detail/2230375",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时36分"
+        },
+        {
+          "title": "（美股）费城金银指数收跌0.41%，报336.35点。 （全球时段）纽约证交所ARCA金矿开采商指数收跌0.27%，报2398.34点。",
+          "url": "https://wallstreetcn.com/livenews/3021185",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时36分"
         },
         {
           "title": "化肥概念股美股早盘下跌，特朗普政府上周末撤销对白俄罗斯钾肥的制裁，美国财政部周一对该国钾肥公司发放通用许可证。 Nutrien跌4.1%, Mosaic跌3.1%，Intrepid Potash跌1.0%，FMC跌5.5%, CF Industries Holdings跌2.0%。",
@@ -88,6 +112,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时39分"
+        },
+        {
+          "title": "科技行业ETF收跌将近1%，领跌美股行业ETF",
+          "url": "https://wallstreetcn.com/livenews/3021176",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时36分"
+        },
+        {
+          "title": "金十图示：2025年12月15日（周一）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251216050605553800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时36分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜特斯拉收涨超3.5%，苹果、亚马逊至少跌1.5%",
+          "url": "https://wallstreetcn.com/livenews/3021172",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时36分"
         }
       ]
     },
@@ -104,8 +161,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时38分 ~ 05时26分]"
+          "appearance_count": 8,
+          "time_info": "[00时38分 ~ 06时36分]"
         },
         {
           "title": "首批 L3 级有条件自动驾驶车型「长安深蓝 SL03 和极狐阿尔法 S6」获准入许可，对行业发展有哪些影响？",
@@ -152,11 +209,12 @@
           "ranks": [
             28,
             24,
-            23
+            23,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时38分 ~ 02时39分]"
+          "appearance_count": 4,
+          "time_info": "[00时38分 ~ 06时36分]"
         },
         {
           "title": "专家分析L3级自动驾驶车型获附条件准入许可：从“技术验证”迈向“量产应用”新阶段",
@@ -229,9 +287,38 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "周一（12月15日）纽约尾盘，ICE美元指数跌0.10%，报98.305点，日内交投区间为98.477-98.136点，一度呈现出V形走势。 彭博美元指数跌0.10%，报1206.05点，日内交投区间为1207.71-1204.43点。",
+          "url": "https://wallstreetcn.com/livenews/3021162",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时40分 ~ 05时26分]"
+        },
+        {
+          "title": "美元指数15日下跌",
+          "url": "https://flash.jin10.com/detail/20251216060244493800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时36分"
         }
       ]
     },
@@ -271,24 +358,6 @@
       ]
     },
     {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "周一（12月15日）纽约尾盘，ICE美元指数跌0.10%，报98.305点，日内交投区间为98.477-98.136点，一度呈现出V形走势。 彭博美元指数跌0.10%，报1206.05点，日内交投区间为1207.71-1204.43点。",
-          "url": "https://wallstreetcn.com/livenews/3021162",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时40分 ~ 05时26分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "具身智能",
       "match_count": 1,
       "titles": [
@@ -300,11 +369,12 @@
             10,
             9,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时38分 ~ 05时26分]"
+          "appearance_count": 8,
+          "time_info": "[00时38分 ~ 06时36分]"
         }
       ]
     },

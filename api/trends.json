@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-16T15:28:27.820873+08:00",
-  "total_titles_processed": 1343,
+  "generated_at": "2025-12-16T16:38:03.978364+08:00",
+  "total_titles_processed": 1473,
   "failed_sources": [],
   "trends": [
     {
@@ -154,7 +154,7 @@
     },
     {
       "keyword_group": "自动驾驶",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "L3来了！深蓝、极狐首批入围 中汽协：自动驾驶加速迈向“量产应用”",
@@ -206,8 +206,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时25分 ~ 15时28分]"
+          "appearance_count": 11,
+          "time_info": "[07时25分 ~ 16时38分]"
         },
         {
           "title": "我国首批L3自动驾驶车型获准入许可",
@@ -236,6 +236,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时38分 ~ 07时25分]"
+        },
+        {
+          "title": "我国公布首批L3级自动驾驶车型准入许可 高阶智驾渗透率或持续提升",
+          "url": "https://www.cls.cn/detail/2230415",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时37分 ~ 16时38分]"
         },
         {
           "title": "专家分析L3级自动驾驶车型获附条件准入许可：从“技术验证”迈向“量产应用”新阶段",
@@ -278,7 +289,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时28分"
         },
@@ -289,7 +300,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时28分"
         }
@@ -381,7 +392,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时28分"
         },

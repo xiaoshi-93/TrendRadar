@@ -1,8 +1,173 @@
 {
-  "generated_at": "2025-12-16T16:38:03.978364+08:00",
-  "total_titles_processed": 1473,
+  "generated_at": "2025-12-16T17:32:35.740347+08:00",
+  "total_titles_processed": 1570,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "自动驾驶",
+      "match_count": 13,
+      "titles": [
+        {
+          "title": "L3来了！深蓝、极狐首批入围 中汽协：自动驾驶加速迈向“量产应用”",
+          "url": "https://www.cls.cn/detail/2230081",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时38分 ~ 07时25分]"
+        },
+        {
+          "title": "首批 L3 级有条件自动驾驶车型「长安深蓝 SL03 和极狐阿尔法 S6」获准入许可，对行业发展有哪些影响？",
+          "url": "https://www.zhihu.com/question/1983929548224554609",
+          "source": "知乎",
+          "ranks": [
+            1,
+            2,
+            4,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时38分 ~ 05时26分]"
+        },
+        {
+          "title": "一图看懂 | L0-L5自动驾驶有何区别，驾驶责任如何划分",
+          "url": "https://www.cls.cn/detail/2229922",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时38分 ~ 04时40分]"
+        },
+        {
+          "title": "首批L3自动驾驶获准入许可，中国无人驾驶进入“商业化应用”新纪元",
+          "url": "https://wallstreetcn.com/articles/3761426",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[07时25分 ~ 17时32分]"
+        },
+        {
+          "title": "我国首批L3自动驾驶车型获准入许可",
+          "url": "https://www.toutiao.com/trending/7583985792616238638/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            29,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时39分 ~ 07时25分]"
+        },
+        {
+          "title": "首批L3自动驾驶车型获批",
+          "url": "https://www.baidu.com/s?wd=%E9%A6%96%E6%89%B9L3%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E8%BD%A6%E5%9E%8B%E8%8E%B7%E6%89%B9",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            24,
+            23,
+            20,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时38分 ~ 07时25分]"
+        },
+        {
+          "title": "我国公布首批L3级自动驾驶车型准入许可 高阶智驾渗透率或持续提升",
+          "url": "https://www.cls.cn/detail/2230415",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时37分 ~ 16时38分]"
+        },
+        {
+          "title": "专家分析L3级自动驾驶车型获附条件准入许可：从“技术验证”迈向“量产应用”新阶段",
+          "url": "https://wallstreetcn.com/livenews/3021093",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时38分 ~ 01时39分]"
+        },
+        {
+          "title": "商业航天热度不减，利好催化下自动驾驶有望成为新热点",
+          "url": "https://www.cls.cn/detail/2230520",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时32分"
+        },
+        {
+          "title": "工信部官员谈L3级自动驾驶车型获附条件准入许可：筑牢安全发展“防护栏”",
+          "url": "https://wallstreetcn.com/livenews/3021092",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时38分"
+        },
+        {
+          "title": "A股智能驾驶概念开盘活跃，北汽蓝谷、浙江世宝竞价涨停，云意电气、万集科技、莱赛激光涨超10%，索菱股份、经纬恒润、豪恩汽电、中海达、锦江在线等涨幅靠前，消息面上，我国首批L3级自动驾驶车型产品获得准入许可，两款分别适配城市拥堵、高速路段的车型将在北京、重庆指定区域开展上路试点。",
+          "url": "https://wallstreetcn.com/livenews/3021283",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
+          "title": "小鹏汽车港股跌幅快速收窄至2%。据报道，小鹏获L3级自动驾驶道路测试牌照。",
+          "url": "https://wallstreetcn.com/livenews/3021473",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时28分"
+        },
+        {
+          "title": "小鹏获L3级自动驾驶道路测试牌照",
+          "url": "https://wallstreetcn.com/livenews/3021472",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时28分"
+        }
+      ]
+    },
     {
       "keyword_group": "美股",
       "match_count": 12,
@@ -153,162 +318,8 @@
       ]
     },
     {
-      "keyword_group": "自动驾驶",
-      "match_count": 12,
-      "titles": [
-        {
-          "title": "L3来了！深蓝、极狐首批入围 中汽协：自动驾驶加速迈向“量产应用”",
-          "url": "https://www.cls.cn/detail/2230081",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时38分 ~ 07时25分]"
-        },
-        {
-          "title": "首批 L3 级有条件自动驾驶车型「长安深蓝 SL03 和极狐阿尔法 S6」获准入许可，对行业发展有哪些影响？",
-          "url": "https://www.zhihu.com/question/1983929548224554609",
-          "source": "知乎",
-          "ranks": [
-            1,
-            2,
-            4,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时38分 ~ 05时26分]"
-        },
-        {
-          "title": "一图看懂 | L0-L5自动驾驶有何区别，驾驶责任如何划分",
-          "url": "https://www.cls.cn/detail/2229922",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时38分 ~ 04时40分]"
-        },
-        {
-          "title": "首批L3自动驾驶获准入许可，中国无人驾驶进入“商业化应用”新纪元",
-          "url": "https://wallstreetcn.com/articles/3761426",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时25分 ~ 16时38分]"
-        },
-        {
-          "title": "我国首批L3自动驾驶车型获准入许可",
-          "url": "https://www.toutiao.com/trending/7583985792616238638/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            29,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时39分 ~ 07时25分]"
-        },
-        {
-          "title": "首批L3自动驾驶车型获批",
-          "url": "https://www.baidu.com/s?wd=%E9%A6%96%E6%89%B9L3%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E8%BD%A6%E5%9E%8B%E8%8E%B7%E6%89%B9",
-          "source": "百度热搜",
-          "ranks": [
-            28,
-            24,
-            23,
-            20,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时38分 ~ 07时25分]"
-        },
-        {
-          "title": "我国公布首批L3级自动驾驶车型准入许可 高阶智驾渗透率或持续提升",
-          "url": "https://www.cls.cn/detail/2230415",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时37分 ~ 16时38分]"
-        },
-        {
-          "title": "专家分析L3级自动驾驶车型获附条件准入许可：从“技术验证”迈向“量产应用”新阶段",
-          "url": "https://wallstreetcn.com/livenews/3021093",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时38分 ~ 01时39分]"
-        },
-        {
-          "title": "工信部官员谈L3级自动驾驶车型获附条件准入许可：筑牢安全发展“防护栏”",
-          "url": "https://wallstreetcn.com/livenews/3021092",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时38分"
-        },
-        {
-          "title": "A股智能驾驶概念开盘活跃，北汽蓝谷、浙江世宝竞价涨停，云意电气、万集科技、莱赛激光涨超10%，索菱股份、经纬恒润、豪恩汽电、中海达、锦江在线等涨幅靠前，消息面上，我国首批L3级自动驾驶车型产品获得准入许可，两款分别适配城市拥堵、高速路段的车型将在北京、重庆指定区域开展上路试点。",
-          "url": "https://wallstreetcn.com/livenews/3021283",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时02分"
-        },
-        {
-          "title": "小鹏汽车港股跌幅快速收窄至2%。据报道，小鹏获L3级自动驾驶道路测试牌照。",
-          "url": "https://wallstreetcn.com/livenews/3021473",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时28分"
-        },
-        {
-          "title": "小鹏获L3级自动驾驶道路测试牌照",
-          "url": "https://wallstreetcn.com/livenews/3021472",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时28分"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "OpenAI聘请谷歌高管Alberta Lee，负责主导并购业务（M&A）。（The Information）",
@@ -333,6 +344,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时40分 ~ 15时28分]"
+        },
+        {
+          "title": "博通三天重挫17.7%，“谷歌链”核心遭遇2020年来最惨暴击",
+          "url": "https://wallstreetcn.com/articles/3761453",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时32分"
         },
         {
           "title": "OpenAI：从谷歌挖来Albert Lee。",
@@ -371,8 +393,19 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "摩根士丹利：预计降息将持续，美元指数将重新走弱，黄金有望继续获得宏观层面的支持，到2026年第四季度金价或将达到每盎司4,800美元。 白银的投资需求预计将继续主导市场，且在库存偏低的情况下，可能出现实物短缺。",
+          "url": "https://wallstreetcn.com/livenews/3021590",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时32分"
+        },
         {
           "title": "金价",
           "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=21&Refer=top",
@@ -421,6 +454,34 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "年初 DeepSeek R1 的发布，给整个 AI 行业带来了什么影响？",
+          "url": "https://www.zhihu.com/question/1974950875228308388",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时42分"
+        },
+        {
+          "title": "DeepSeek崩了",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B4%A9%E4%BA%86&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时32分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 2,
       "titles": [
@@ -447,23 +508,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时36分 ~ 07时25分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "年初 DeepSeek R1 的发布，给整个 AI 行业带来了什么影响？",
-          "url": "https://www.zhihu.com/question/1974950875228308388",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时42分"
         }
       ]
     },

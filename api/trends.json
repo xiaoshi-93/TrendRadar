@@ -1,12 +1,25 @@
 {
-  "generated_at": "2025-12-17T14:40:40.143556+08:00",
-  "total_titles_processed": 1237,
+  "generated_at": "2025-12-17T15:27:57.280209+08:00",
+  "total_titles_processed": 1340,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
       "match_count": 13,
       "titles": [
+        {
+          "title": "美股收盘：三大指数涨跌不一 特斯拉创历史新高",
+          "url": "https://www.cls.cn/detail/2231583",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时25分 ~ 15时27分]"
+        },
         {
           "title": "非农超预期，美股低开，现货黄金小幅上涨，布油跌破60美元",
           "url": "https://wallstreetcn.com/articles/3761475",
@@ -18,19 +31,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时36分 ~ 06时24分]"
-        },
-        {
-          "title": "美股收盘：三大指数涨跌不一 特斯拉创历史新高",
-          "url": "https://www.cls.cn/detail/2231583",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时25分 ~ 14时40分]"
         },
         {
           "title": "彭博援引知情人士报道称，已经申请破产的航空公司Spirit Airlines Holdings Inc.考虑与Frontier Group Holdings合并。 Frontier美股盘后涨16%。",
@@ -423,7 +423,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时40分"
         }
@@ -440,7 +440,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时40分"
         }

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-18T17:33:36.286526+08:00",
-  "total_titles_processed": 1546,
+  "generated_at": "2025-12-18T18:30:20.885275+08:00",
+  "total_titles_processed": 1648,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[06时25分 ~ 17时33分]"
+          "appearance_count": 15,
+          "time_info": "[06时25分 ~ 18时30分]"
         },
         {
           "title": "美股收盘：甲骨文带崩大盘 三大指数齐跌 纳指跌近2%",
@@ -180,7 +180,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时33分"
         },
@@ -318,7 +318,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时33分"
         },
@@ -351,24 +351,24 @@
       "match_count": 8,
       "titles": [
         {
-          "title": "腾讯大模型团队架构调整，前 OpenAI 研究员姚顺雨任要职，这对腾讯 AI 发展意味着什么？",
-          "url": "https://www.zhihu.com/question/1984670354627651255",
-          "source": "知乎",
-          "ranks": [
-            5,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时40分 ~ 17时33分]"
-        },
-        {
           "title": "AI新子弹要来了！报道称OpenAI正探讨“数百亿甚至1000亿美元融资”",
           "url": "https://wallstreetcn.com/articles/3761607",
           "source": "华尔街见闻",
           "ranks": [
             8,
             6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时40分 ~ 18时30分]"
+        },
+        {
+          "title": "腾讯大模型团队架构调整，前 OpenAI 研究员姚顺雨任要职，这对腾讯 AI 发展意味着什么？",
+          "url": "https://www.zhihu.com/question/1984670354627651255",
+          "source": "知乎",
+          "ranks": [
+            5,
+            9
           ],
           "is_new": false,
           "appearance_count": 4,

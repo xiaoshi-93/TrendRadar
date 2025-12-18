@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-18T19:25:12.267981+08:00",
-  "total_titles_processed": 1734,
+  "generated_at": "2025-12-18T20:54:39.125177+08:00",
+  "total_titles_processed": 1860,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[06时25分 ~ 19时25分]"
+          "appearance_count": 18,
+          "time_info": "[06时25分 ~ 20时54分]"
         },
         {
           "title": "美股收盘：甲骨文带崩大盘 三大指数齐跌 纳指跌近2%",
@@ -296,8 +296,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时33分 ~ 19时25分]"
+          "appearance_count": 4,
+          "time_info": "[17时33分 ~ 20时54分]"
         },
         {
           "title": "谷歌据悉联手Meta 强化TPU对PyTorch的支持 以挑战英伟达",
@@ -360,8 +360,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时40分 ~ 19时25分]"
+          "appearance_count": 9,
+          "time_info": "[14时40分 ~ 20时54分]"
         },
         {
           "title": "腾讯大模型团队架构调整，前 OpenAI 研究员姚顺雨任要职，这对腾讯 AI 发展意味着什么？",
@@ -524,8 +524,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时24分 ~ 19时25分]"
+          "appearance_count": 3,
+          "time_info": "[19时24分 ~ 20时54分]"
         },
         {
           "title": "长端美债收益率涨超1个基点，2/10年期美债收益率曲线于20年期国债拍卖后趋陡",

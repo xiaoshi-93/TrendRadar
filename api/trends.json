@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-18T12:38:37.275107+08:00",
-  "total_titles_processed": 1084,
+  "generated_at": "2025-12-18T13:29:07.145751+08:00",
+  "total_titles_processed": 1141,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时25分 ~ 12时38分]"
+          "appearance_count": 9,
+          "time_info": "[06时25分 ~ 13时29分]"
+        },
+        {
+          "title": "美股收盘：甲骨文带崩大盘 三大指数齐跌 纳指跌近2%",
+          "url": "https://www.cls.cn/detail/2232828",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[06时25分 ~ 13时29分]"
         },
         {
           "title": "市场静待更多数据，美股早盘震荡下挫，地缘政治扰动，原油重新站上60美元，金银铜铂钯齐涨，白银飙涨近4%再创新高",
@@ -31,19 +44,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时28分 ~ 05时27分]"
-        },
-        {
-          "title": "美股收盘：甲骨文带崩大盘 三大指数齐跌 纳指跌近2%",
-          "url": "https://www.cls.cn/detail/2232828",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时25分 ~ 12时38分]"
         },
         {
           "title": "半导体ETF收跌3.6%，领跌美股行业ETF，标普能源板块反弹2.2%",
@@ -222,8 +222,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时57分 ~ 12时38分]"
+          "appearance_count": 7,
+          "time_info": "[09时57分 ~ 13时29分]"
         },
         {
           "title": "谷歌搜索产品副总裁Robby Stein介绍，在谷歌搜索中，新的Gemini Flash模型将帮助用户进行带有多个条件的更精细搜索。例如，用户可以使用它来查找适合带幼儿的父母参加的最佳晚间活动。",

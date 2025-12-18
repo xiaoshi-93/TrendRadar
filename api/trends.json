@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-18T16:36:57.815564+08:00",
-  "total_titles_processed": 1448,
+  "generated_at": "2025-12-18T17:33:36.286526+08:00",
+  "total_titles_processed": 1546,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "甲骨文重燃AI担忧压垮美股，纳指跌近2%，地缘风险下原油反弹，期银盘中涨超6%创新高",
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[06时25分 ~ 16时36分]"
+          "appearance_count": 13,
+          "time_info": "[06时25分 ~ 17时33分]"
         },
         {
           "title": "美股收盘：甲骨文带崩大盘 三大指数齐跌 纳指跌近2%",
@@ -174,6 +174,17 @@
           "time_info": "00时36分"
         },
         {
+          "title": "美光科技美股盘前涨超9%，芯片需求旺盛，美光业绩与指引双双“爆表”。",
+          "url": "https://wallstreetcn.com/livenews/3023017",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时33分"
+        },
+        {
           "title": "美股收盘：三大股指齐跌 英伟达跌近4%",
           "url": "https://flash.jin10.com/detail/20251218050114407800",
           "source": "金十数据",
@@ -210,7 +221,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "12月18日投资避雷针：AI龙头抛售潮持续 英伟达、谷歌跌超3%",
@@ -301,6 +312,17 @@
           "time_info": "[14时40分 ~ 15时27分]"
         },
         {
+          "title": "连月挑战OpenAI！谷歌发布更高效Gemini 3 Flash，App默认模型，上线即加持搜索",
+          "url": "https://wallstreetcn.com/articles/3761592",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时33分"
+        },
+        {
           "title": "白银成全球第四大资产 市值超越谷歌",
           "url": "https://flash.jin10.com/detail/20251218105307391800",
           "source": "金十数据",
@@ -333,11 +355,12 @@
           "url": "https://www.zhihu.com/question/1984670354627651255",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时40分 ~ 16时36分]"
+          "appearance_count": 4,
+          "time_info": "[14时40分 ~ 17时33分]"
         },
         {
           "title": "AI新子弹要来了！报道称OpenAI正探讨“数百亿甚至1000亿美元融资”",
@@ -348,8 +371,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时40分 ~ 16时36分]"
+          "appearance_count": 4,
+          "time_info": "[14时40分 ~ 17时33分]"
         },
         {
           "title": "OpenAI董事长布雷特·泰勒表示，该公司的发展受限于算力资源的获取。",
@@ -454,7 +477,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时36分"
         }

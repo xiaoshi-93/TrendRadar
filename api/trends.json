@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-20T15:23:07.335625+08:00",
-  "total_titles_processed": 1121,
+  "generated_at": "2025-12-20T16:31:59.209846+08:00",
+  "total_titles_processed": 1185,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,22 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时54分 ~ 15时23分]"
+          "appearance_count": 11,
+          "time_info": "[09时54分 ~ 16时31分]"
+        },
+        {
+          "title": "美股收盘：三大指数集体收涨 纳指涨逾1% 英伟达涨约4%",
+          "url": "https://www.cls.cn/detail/2235346",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[09时54分 ~ 16时31分]"
         },
         {
           "title": "美股三大指数集体高开，甲骨文涨超6%，日元跌破157关口，白银再涨逼近66美元，黄金回落至4330美元",
@@ -31,19 +45,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时33分 ~ 06时26分]"
-        },
-        {
-          "title": "美股收盘：三大指数集体收涨 纳指涨逾1% 英伟达涨约4%",
-          "url": "https://www.cls.cn/detail/2235346",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时54分 ~ 15时23分]"
         },
         {
           "title": "就在今天！史上最大规模期权到期，美股将迎来“疯狂一日”？",
@@ -67,8 +68,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时31分 ~ 15时23分]"
+          "appearance_count": 7,
+          "time_info": "[12时31分 ~ 16时31分]"
         },
         {
           "title": "Clocktower首席策略师王凯文：美股步入周期尾段，盈利驱动与估值压力并存",
@@ -79,11 +80,12 @@
             11,
             18,
             21,
-            22
+            22,
+            28
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时20分 ~ 15时23分]"
+          "appearance_count": 6,
+          "time_info": "[11时20分 ~ 16时31分]"
         },
         {
           "title": "（美股）费城金银指数收涨2.79%，报347.80点，本周累计上涨2.98%，周五美股盘初短线拉升的涨幅突出。 （全球时段）纽约证交所ARCA金矿开采商指数收涨2.07%，报2460.91点，本周累涨2.34%。",
@@ -191,11 +193,12 @@
             13,
             16,
             18,
-            23
+            23,
+            27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时20分 ~ 15时23分]"
+          "appearance_count": 6,
+          "time_info": "[11时20分 ~ 16时31分]"
         },
         {
           "title": "美股七巨头收盘播报｜英伟达收涨超3.9%，谷歌A涨超1.5%，Meta跌超0.8%",
@@ -234,11 +237,12 @@
             10,
             8,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[06时26分 ~ 15时23分]"
+          "appearance_count": 13,
+          "time_info": "[06时26分 ~ 16时31分]"
         },
         {
           "title": "Altman谈OpenAI：算力成收入最大瓶颈，只要算力翻倍，收入就能翻倍",
@@ -344,8 +348,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时19分 ~ 15时23分]"
+          "appearance_count": 9,
+          "time_info": "[11时19分 ~ 16时31分]"
         }
       ]
     }

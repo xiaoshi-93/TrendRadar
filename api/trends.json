@@ -1,12 +1,25 @@
 {
-  "generated_at": "2025-12-21T06:24:05.872756+08:00",
-  "total_titles_processed": 439,
+  "generated_at": "2025-12-21T07:23:40.450421+08:00",
+  "total_titles_processed": 445,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
       "match_count": 4,
       "titles": [
+        {
+          "title": "Altman直面1.4万亿美元质疑：只要算力还短缺，OpenAI就必须继续烧钱",
+          "url": "https://wallstreetcn.com/articles/3761764",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时30分 ~ 07时23分]"
+        },
         {
           "title": "卖光英伟达、抵押Arm加杠杆！软银“孤注一掷”OpenAI，力争年底前资金到位",
           "url": "https://wallstreetcn.com/articles/3761763",
@@ -16,20 +29,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时30分 ~ 06时24分]"
-        },
-        {
-          "title": "Altman直面1.4万亿美元质疑：只要算力还短缺，OpenAI就必须继续烧钱",
-          "url": "https://wallstreetcn.com/articles/3761764",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时30分 ~ 06时24分]"
+          "appearance_count": 12,
+          "time_info": "[00时30分 ~ 07时23分]"
         },
         {
           "title": "火线解析智谱AI招股书：年营收3亿增速130%，“中国版OpenAI”率先冲刺全球大模型第一股",
@@ -37,22 +38,24 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时30分 ~ 06时24分]"
+          "appearance_count": 12,
+          "time_info": "[00时30分 ~ 07时23分]"
         },
         {
           "title": "OpenAI融资成败，将决定整个数据中心行业的命运",
           "url": "https://wallstreetcn.com/articles/3761757",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时30分 ~ 06时24分]"
+          "appearance_count": 12,
+          "time_info": "[00时30分 ~ 07时23分]"
         }
       ]
     },
@@ -76,11 +79,12 @@
           "url": "https://www.cls.cn/detail/2235346",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时30分 ~ 06时24分]"
+          "appearance_count": 12,
+          "time_info": "[00时30分 ~ 07时23分]"
         },
         {
           "title": "美股连涨两天后 华尔街又“神气”了：今年圣诞行情有戏？",
@@ -91,8 +95,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时30分 ~ 01时21分]"
+          "appearance_count": 4,
+          "time_info": "[00时30分 ~ 07时23分]"
         }
       ]
     },
@@ -105,11 +109,12 @@
           "url": "https://www.cls.cn/detail/2234730",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时30分 ~ 06时24分]"
+          "appearance_count": 12,
+          "time_info": "[00时30分 ~ 07时23分]"
         },
         {
           "title": "长安汽车获得首块L3级自动驾驶专用正式号牌，天枢智能开启L3时代",
@@ -131,8 +136,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时21分 ~ 06时24分]"
+          "appearance_count": 3,
+          "time_info": "[05时21分 ~ 07时23分]"
         }
       ]
     },

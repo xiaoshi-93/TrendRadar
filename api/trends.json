@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-21T01:21:18.722325+08:00",
-  "total_titles_processed": 354,
+  "generated_at": "2025-12-21T02:33:01.090638+08:00",
+  "total_titles_processed": 369,
   "failed_sources": [],
   "trends": [
     {
@@ -12,22 +12,24 @@
           "url": "https://wallstreetcn.com/articles/3761763",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时30分 ~ 01时21分]"
+          "appearance_count": 5,
+          "time_info": "[00时30分 ~ 02时33分]"
         },
         {
           "title": "Altman直面1.4万亿美元质疑：只要算力还短缺，OpenAI就必须继续烧钱",
           "url": "https://wallstreetcn.com/articles/3761764",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时30分 ~ 01时21分]"
+          "appearance_count": 5,
+          "time_info": "[00时30分 ~ 02时33分]"
         },
         {
           "title": "火线解析智谱AI招股书：年营收3亿增速130%，“中国版OpenAI”率先冲刺全球大模型第一股",
@@ -37,8 +39,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时30分 ~ 01时21分]"
+          "appearance_count": 5,
+          "time_info": "[00时30分 ~ 02时33分]"
         },
         {
           "title": "OpenAI融资成败，将决定整个数据中心行业的命运",
@@ -48,8 +50,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时30分 ~ 01时21分]"
+          "appearance_count": 5,
+          "time_info": "[00时30分 ~ 02时33分]"
         }
       ]
     },
@@ -65,8 +67,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时30分 ~ 01时21分]"
+          "appearance_count": 5,
+          "time_info": "[00时30分 ~ 02时33分]"
         },
         {
           "title": "美股收盘：三大指数集体收涨 纳指涨逾1% 英伟达涨约4%",
@@ -76,8 +78,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时30分 ~ 01时21分]"
+          "appearance_count": 5,
+          "time_info": "[00时30分 ~ 02时33分]"
         },
         {
           "title": "美股连涨两天后 华尔街又“神气”了：今年圣诞行情有戏？",
@@ -105,8 +107,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 01时21分]"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 02时33分]"
         },
         {
           "title": "Robotaxi为特斯拉注入新叙事 但自动驾驶技术路线仍未收敛",
@@ -116,8 +118,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时30分 ~ 01时21分]"
+          "appearance_count": 5,
+          "time_info": "[00时30分 ~ 02时33分]"
         }
       ]
     },
@@ -133,8 +135,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 01时21分]"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 02时33分]"
         }
       ]
     }

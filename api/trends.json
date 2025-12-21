@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-22T04:28:03.866869+08:00",
-  "total_titles_processed": 408,
+  "generated_at": "2025-12-22T05:22:59.155657+08:00",
+  "total_titles_processed": 420,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时29分 ~ 04时28分]"
+          "appearance_count": 9,
+          "time_info": "[00时29分 ~ 05时22分]"
         },
         {
           "title": "报道：OpenAI业务利润率至10月已提升至70%",
@@ -29,8 +29,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时35分 ~ 04时28分]"
+          "appearance_count": 4,
+          "time_info": "[02时35分 ~ 05时22分]"
         }
       ]
     },
@@ -46,8 +46,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时29分 ~ 04时28分]"
+          "appearance_count": 9,
+          "time_info": "[00时29分 ~ 05时22分]"
         }
       ]
     },
@@ -64,8 +64,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时29分 ~ 04时28分]"
+          "appearance_count": 9,
+          "time_info": "[00时29分 ~ 05时22分]"
         }
       ]
     },
@@ -82,8 +82,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时29分 ~ 04时28分]"
+          "appearance_count": 9,
+          "time_info": "[00时29分 ~ 05时22分]"
         }
       ]
     },
@@ -101,8 +101,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时29分 ~ 04时28分]"
+          "appearance_count": 9,
+          "time_info": "[00时29分 ~ 05时22分]"
         }
       ]
     },
@@ -118,8 +118,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时29分 ~ 04时28分]"
+          "appearance_count": 9,
+          "time_info": "[00时29分 ~ 05时22分]"
         }
       ]
     }

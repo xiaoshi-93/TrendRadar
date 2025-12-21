@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-21T22:23:38.949520+08:00",
-  "total_titles_processed": 1291,
+  "generated_at": "2025-12-21T23:24:22.129378+08:00",
+  "total_titles_processed": 1338,
   "failed_sources": [],
   "trends": [
     {
@@ -62,9 +62,9 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时23分 ~ 23时24分]"
         },
         {
           "title": "Gemini数学实力测试",
@@ -73,7 +73,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时23分"
         }
@@ -148,9 +148,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时23分 ~ 23时24分]"
         },
         {
           "title": "OpenAI 被曝正寻求千亿美元融资，单季亏损超 120 美元，公司进入「红色代码」紧急状态，透露哪些信息？",
@@ -181,8 +181,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时25分 ~ 22时23分]"
+          "appearance_count": 8,
+          "time_info": "[18时25分 ~ 23时24分]"
         },
         {
           "title": "Robotaxi为特斯拉注入新叙事 但自动驾驶技术路线仍未收敛",
@@ -274,8 +274,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时37分 ~ 22时23分]"
+          "appearance_count": 12,
+          "time_info": "[14时37分 ~ 23时24分]"
         },
         {
           "title": "美股收盘：三大指数集体收涨 纳指涨逾1% 英伟达涨约4%",
@@ -378,8 +378,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时49分 ~ 22时23分]"
+          "appearance_count": 5,
+          "time_info": "[20时49分 ~ 23时24分]"
         }
       ]
     }

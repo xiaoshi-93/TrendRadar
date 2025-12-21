@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-21T18:26:10.640586+08:00",
-  "total_titles_processed": 1078,
+  "generated_at": "2025-12-21T19:20:59.060629+08:00",
+  "total_titles_processed": 1136,
   "failed_sources": [],
   "trends": [
     {
@@ -51,22 +51,24 @@
           "ranks": [
             7,
             10,
-            25
+            25,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时32分 ~ 18时26分]"
+          "appearance_count": 5,
+          "time_info": "[16时32分 ~ 19时20分]"
         },
         {
           "title": "周末要闻汇总：首块L3级自动驾驶牌照诞生；摩尔线程发布新一代GPU架构",
           "url": "https://www.cls.cn/detail/2235638",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时25分 ~ 18时26分]"
+          "appearance_count": 3,
+          "time_info": "[18时25分 ~ 19时20分]"
         },
         {
           "title": "重庆发布首块L3级自动驾驶专用号牌",
@@ -108,8 +110,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时30分 ~ 18时26分]"
+          "appearance_count": 23,
+          "time_info": "[00时30分 ~ 19时20分]"
         },
         {
           "title": "通胀降温令美股回暖，交易员希望利用2025年剩余时间喘口气",
@@ -121,11 +123,12 @@
             11,
             16,
             19,
-            23
+            23,
+            27
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时27分 ~ 18时26分]"
+          "appearance_count": 7,
+          "time_info": "[13时27分 ~ 19时20分]"
         },
         {
           "title": "美银Hartnett：市场聚焦美股大涨“迎新”可能性，唯一风险是“市场过于乐观”",
@@ -134,11 +137,12 @@
           "ranks": [
             9,
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时37分 ~ 18时26分]"
+          "appearance_count": 7,
+          "time_info": "[14时37分 ~ 19时20分]"
         },
         {
           "title": "美股连涨两天后 华尔街又“神气”了：今年圣诞行情有戏？",

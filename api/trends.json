@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-23T21:39:58.267256+08:00",
-  "total_titles_processed": 1834,
+  "generated_at": "2025-12-23T22:27:26.123260+08:00",
+  "total_titles_processed": 1937,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "科技股反弹引领市场！美股高开，“Mag7”普涨，特斯拉创盘中历史高位，油价反弹超2%",
@@ -170,6 +170,17 @@
           "time_info": "07时25分"
         },
         {
+          "title": "金十数据整理：每日美股市场要闻速递（2025-12-23）",
+          "url": "https://flash.jin10.com/detail/20251223215707947800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时27分"
+        },
+        {
           "title": "周一（12月22日），彭博电动汽车价格回报指数涨0.82%，报3462.47点，亚太早盘显著上涨——北京时间09:29出现一波跳空上涨行情，后续高位震荡，美股开盘后，随着特斯拉股价创盘中历史最高、逼近500美元。 成分股EVgo、Lucid集团、微宏控股（MVST）涨超3领跑，小马智行涨约2.1%，特斯拉和沃尔沃涨超1%表现靠前。 “特斯拉劲敌”Rivian、禾赛科技、普拉格动力公司则跌超3%。",
           "url": "https://wallstreetcn.com/livenews/3025129",
           "source": "华尔街见闻-快讯",
@@ -241,11 +252,24 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时29分 ~ 21时39分]"
+          "appearance_count": 8,
+          "time_info": "[18时29分 ~ 22时27分]"
+        },
+        {
+          "title": "金价彻底爆了 有人拖行李箱抢购",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E5%BD%BB%E5%BA%95%E7%88%86%E4%BA%86+%E6%9C%89%E4%BA%BA%E6%8B%96%E8%A1%8C%E6%9D%8E%E7%AE%B1%E6%8A%A2%E8%B4%AD",
+          "source": "百度热搜",
+          "ranks": [
+            22,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时23分 ~ 22时27分]"
         },
         {
           "title": "金价突破1400元",
@@ -261,18 +285,6 @@
           "time_info": "[14时41分 ~ 17时31分]"
         },
         {
-          "title": "金价彻底爆了 有人拖行李箱抢购",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E5%BD%BB%E5%BA%95%E7%88%86%E4%BA%86+%E6%9C%89%E4%BA%BA%E6%8B%96%E8%A1%8C%E6%9D%8E%E7%AE%B1%E6%8A%A2%E8%B4%AD",
-          "source": "百度热搜",
-          "ranks": [
-            22,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时23分 ~ 21时39分]"
-        },
-        {
           "title": "机构：金价创历史新高 降息预期与地缘风险成双引擎",
           "url": "https://flash.jin10.com/detail/20251223020756394800",
           "source": "金十数据",
@@ -286,6 +298,18 @@
           "time_info": "[02时38分 ~ 04时29分]"
         },
         {
+          "title": "黄金再创新高, 现货黄金首次站上 4400 美元 / 盎司，今年以来累涨近 68%，金价后续怎么走？",
+          "url": "https://www.zhihu.com/question/1986492553160311276",
+          "source": "知乎",
+          "ranks": [
+            14,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时39分 ~ 22时27分]"
+        },
+        {
           "title": "金价大涨的背后原因是什么",
           "url": "https://search.bilibili.com/all?keyword=%E9%87%91%E4%BB%B7%E5%A4%A7%E6%B6%A8%E7%9A%84%E8%83%8C%E5%90%8E%E5%8E%9F%E5%9B%A0%E6%98%AF%E4%BB%80%E4%B9%88",
           "source": "bilibili 热搜",
@@ -295,17 +319,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时29分"
-        },
-        {
-          "title": "黄金再创新高, 现货黄金首次站上 4400 美元 / 盎司，今年以来累涨近 68%，金价后续怎么走？",
-          "url": "https://www.zhihu.com/question/1986492553160311276",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时39分"
         },
         {
           "title": "金十图示：2025年12月23日（周二）上海金午盘价为1007.57元/克，较国际金价(1010.96元/克)，低3.39元/克",
@@ -344,7 +357,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "最近24小时，MarketVector数字资产100小盘指数涨3.67%，暂报3623.80点，整体持续走高。 Solana目前涨1.39%，狗狗币涨3.09%，XRP涨1.15%。 MarketVector数字资产100涨1.56%，报18392.00点。 比特币涨1.55%，暂报89627.99美元；以太坊涨1.80%，报3043.51美元。",
@@ -371,6 +384,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时36分 ~ 17时31分]"
+        },
+        {
+          "title": "美国三季度GDP数据公布后，美元指数短线拉升",
+          "url": "https://wallstreetcn.com/livenews/3025632",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时27分"
         },
         {
           "title": "美元指数22日下跌",
@@ -415,6 +439,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时55分"
+        },
+        {
+          "title": "美国GDP数据公布后，美元指数DXY小幅走高10点，最新报97.96。欧元兑美元EUR/USD小幅下跌，现报1.18。",
+          "url": "https://flash.jin10.com/detail/20251223213404675800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时27分"
         }
       ]
     },
@@ -508,7 +543,7 @@
     },
     {
       "keyword_group": "自动驾驶",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "北京发放首批L3级高速公路自动驾驶车辆专用号牌 三个路段可开启",
@@ -521,8 +556,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时31分 ~ 21时39分]"
+          "appearance_count": 9,
+          "time_info": "[17时31分 ~ 22时27分]"
         },
         {
           "title": "北京发放首批L3级高速公路自动驾驶车辆专用号牌 三个路段可开启",
@@ -535,6 +570,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时36分 ~ 17时31分]"
+        },
+        {
+          "title": "“木头姐”凯西・伍德旗下ETF每日交易披露，周一其ARK创新ETF、ARK下一代互联网ETF和ARK自动驾驶技术ETF合计出售60,715股特斯拉(TSLA.O)股票，价值约2967万美元。",
+          "url": "https://flash.jin10.com/detail/20251223214511095800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时27分"
         }
       ]
     },

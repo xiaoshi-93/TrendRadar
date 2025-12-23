@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-24T00:34:57.455575+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-12-24T01:25:42.174716+08:00",
+  "total_titles_processed": 359,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时34分"
+          "appearance_count": 2,
+          "time_info": "[00时34分 ~ 01时25分]"
         },
         {
           "title": "黄金再创新高, 现货黄金首次站上 4400 美元 / 盎司，今年以来累涨近 68%，金价后续怎么走？",
           "url": "https://www.zhihu.com/question/1986492553160311276",
           "source": "知乎",
           "ranks": [
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时34分"
+          "appearance_count": 2,
+          "time_info": "[00时34分 ~ 01时25分]"
         },
         {
           "title": "金价彻底爆了 有人拖行李箱抢购",
@@ -65,8 +66,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时34分"
+          "appearance_count": 2,
+          "time_info": "[00时34分 ~ 01时25分]"
         }
       ]
     },
@@ -82,8 +83,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时34分"
+          "appearance_count": 2,
+          "time_info": "[00时34分 ~ 01时25分]"
         }
       ]
     }

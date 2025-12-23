@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-23T18:30:15.619300+08:00",
-  "total_titles_processed": 1594,
+  "generated_at": "2025-12-23T19:24:14.805661+08:00",
+  "total_titles_processed": 1668,
   "failed_sources": [],
   "trends": [
     {
@@ -217,7 +217,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "金价飙涨 有新人快被“三金”愁哭了",
@@ -269,8 +269,19 @@
             11
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时29分 ~ 19时24分]"
+        },
+        {
+          "title": "金价彻底爆了 有人拖行李箱抢购",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E5%BD%BB%E5%BA%95%E7%88%86%E4%BA%86+%E6%9C%89%E4%BA%BA%E6%8B%96%E8%A1%8C%E6%9D%8E%E7%AE%B1%E6%8A%A2%E8%B4%AD",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时29分 ~ 18时30分]"
+          "time_info": "[19时23分 ~ 19时24分]"
         },
         {
           "title": "金价大涨的背后原因是什么",
@@ -301,7 +312,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时30分"
         },
@@ -399,8 +410,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[01时23分 ~ 18时30分]"
+          "appearance_count": 23,
+          "time_info": "[01时23分 ~ 19时24分]"
         },
         {
           "title": "第一太阳能涨7.1%，创2024年6月份以来盘中新高，投资者关注谷歌母公司Alphabet达成的清洁能源交易。",
@@ -481,11 +492,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时31分 ~ 18时30分]"
+          "appearance_count": 5,
+          "time_info": "[17时31分 ~ 19时24分]"
         },
         {
           "title": "北京发放首批L3级高速公路自动驾驶车辆专用号牌 三个路段可开启",

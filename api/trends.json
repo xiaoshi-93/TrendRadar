@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-24T02:38:36.817008+08:00",
-  "total_titles_processed": 424,
+  "generated_at": "2025-12-24T03:21:56.507844+08:00",
+  "total_titles_processed": 454,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 02时38分]"
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 03时21分]"
         },
         {
           "title": "黄金再创新高, 现货黄金首次站上 4400 美元 / 盎司，今年以来累涨近 68%，金价后续怎么走？",
@@ -27,8 +27,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 02时38分]"
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 03时21分]"
         },
         {
           "title": "金价彻底爆了 有人拖行李箱抢购",
@@ -67,8 +67,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 02时38分]"
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 03时21分]"
         },
         {
           "title": "金十图示：2025年12月23日（周二）美股热门股票行情一览（美股盘中）",
@@ -77,7 +77,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时38分"
         },
@@ -88,9 +88,26 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时38分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI、Anthropic、xAI 遭作家起诉版权侵权",
+          "url": "https://wallstreetcn.com/livenews/3025735",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时21分"
         }
       ]
     },
@@ -103,11 +120,12 @@
           "url": "https://wallstreetcn.com/livenews/3025706",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            16,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时38分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时38分 ~ 03时21分]"
         }
       ]
     },
@@ -124,8 +142,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 02时38分]"
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 03时21分]"
         }
       ]
     }

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-24T12:40:23.668760+08:00",
-  "total_titles_processed": 999,
+  "generated_at": "2025-12-24T13:29:55.665366+08:00",
+  "total_titles_processed": 1074,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时24分 ~ 12时40分]"
+          "appearance_count": 6,
+          "time_info": "[07时24分 ~ 13时29分]"
         },
         {
           "title": "金银铜携手创新高 强势GDP数据压制美股期指 | 今夜看点",
@@ -318,8 +318,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时00分 ~ 12时40分]"
+          "appearance_count": 5,
+          "time_info": "[10时00分 ~ 13时29分]"
         },
         {
           "title": "L3级自动驾驶专用正式号牌来了",
@@ -357,8 +357,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时00分 ~ 12时40分]"
+          "appearance_count": 5,
+          "time_info": "[10时00分 ~ 13时29分]"
         },
         {
           "title": "两年期美债收益率涨超2个基点，美国GDP等数据带来一波低位反弹行情",
@@ -407,6 +407,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时21分 ~ 05时24分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "数据分析公司Crisil Coalition Greenwich的数据显示，在黄金和白银价格飙升的背景下，今年前九个月，主要银行贵金属交易部门的收入比2024年同期增长了50%。",
+          "url": "https://flash.jin10.com/detail/20251224130812700800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时29分"
         }
       ]
     },

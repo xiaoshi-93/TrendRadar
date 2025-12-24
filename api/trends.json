@@ -1,12 +1,25 @@
 {
-  "generated_at": "2025-12-24T13:29:55.665366+08:00",
-  "total_titles_processed": 1074,
+  "generated_at": "2025-12-24T14:41:13.952221+08:00",
+  "total_titles_processed": 1149,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
       "match_count": 12,
       "titles": [
+        {
+          "title": "美股收盘：日线四连涨标普收新高 英伟达升3%领涨七巨头",
+          "url": "https://www.cls.cn/detail/2238248",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时24分 ~ 14时41分]"
+        },
         {
           "title": "强劲GDP打击降息预期，美股低开，金银铜再创新高，伦铜突破1.2万美元，日元两日反弹",
           "url": "https://wallstreetcn.com/articles/3761906",
@@ -18,19 +31,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时34分 ~ 06时25分]"
-        },
-        {
-          "title": "美股收盘：日线四连涨标普收新高 英伟达升3%领涨七巨头",
-          "url": "https://www.cls.cn/detail/2238248",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时24分 ~ 13时29分]"
         },
         {
           "title": "金银铜携手创新高 强势GDP数据压制美股期指 | 今夜看点",
@@ -296,7 +296,7 @@
     },
     {
       "keyword_group": "自动驾驶",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "北京发放首批L3级高速公路自动驾驶车辆专用号牌 三个路段可开启",
@@ -318,8 +318,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时00分 ~ 13时29分]"
+          "appearance_count": 7,
+          "time_info": "[10时00分 ~ 14时41分]"
+        },
+        {
+          "title": "北京发放首批L3级高速公路自动驾驶号牌 智驾产业拐点加速到来",
+          "url": "https://www.cls.cn/detail/2238276",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时40分 ~ 14时41分]"
         },
         {
           "title": "L3级自动驾驶专用正式号牌来了",
@@ -357,8 +368,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时00分 ~ 13时29分]"
+          "appearance_count": 7,
+          "time_info": "[10时00分 ~ 14时41分]"
         },
         {
           "title": "两年期美债收益率涨超2个基点，美国GDP等数据带来一波低位反弹行情",
@@ -419,11 +430,12 @@
           "url": "https://flash.jin10.com/detail/20251224130812700800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时29分 ~ 14时41分]"
         }
       ]
     },

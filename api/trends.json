@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-25T15:27:09.115647+08:00",
-  "total_titles_processed": 1195,
+  "generated_at": "2025-12-25T16:35:33.140504+08:00",
+  "total_titles_processed": 1285,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时02分 ~ 15时27分]"
+          "appearance_count": 7,
+          "time_info": "[10时02分 ~ 16时35分]"
         },
         {
           "title": "美股收盘：三大指数连涨五日 道指、标普双双收新高",
@@ -120,8 +120,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时40分 ~ 15时27分]"
+          "appearance_count": 4,
+          "time_info": "[14时40分 ~ 16时35分]"
         },
         {
           "title": "（美股）费城金银指数收跌0.68%，报358.01点，脱离收盘历史最高位，连续两个交易日撤离盘中历史最高位。 （全球时段）纽约证交所ARCA金矿开采商指数收跌0.37%，报2545.80点。",
@@ -182,7 +182,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时27分"
         },

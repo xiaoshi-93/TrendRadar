@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-26T01:23:17.504446+08:00",
-  "total_titles_processed": 354,
+  "generated_at": "2025-12-26T02:36:34.521508+08:00",
+  "total_titles_processed": 384,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.zhihu.com/question/1987171318681068732",
           "source": "知乎",
           "ranks": [
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 01时23分]"
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 02时36分]"
         },
         {
           "title": "加拿大皇家银行BlueBay资管公司首席投资官马克·道丁：新任美联储主席不会简单迎合特朗普，金价或难重现2025年强劲涨幅。（每经网）",
@@ -24,11 +25,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             15,
-            21
+            21,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时32分 ~ 01时23分]"
+          "appearance_count": 3,
+          "time_info": "[00时32分 ~ 02时36分]"
         }
       ]
     },
@@ -44,8 +46,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 01时23分]"
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 02时36分]"
         }
       ]
     },
@@ -61,8 +63,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 01时23分]"
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 02时36分]"
         }
       ]
     },
@@ -79,8 +81,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 01时23分]"
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 02时36分]"
         }
       ]
     }

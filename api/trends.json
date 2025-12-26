@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-26T15:27:25.861968+08:00",
-  "total_titles_processed": 1097,
+  "generated_at": "2025-12-26T16:35:04.392829+08:00",
+  "total_titles_processed": 1204,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             10,
             8,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时01分 ~ 15时27分]"
+          "appearance_count": 12,
+          "time_info": "[10时01分 ~ 16时35分]"
         },
         {
           "title": "金价、银价、铜价，均创历史新高，发生了什么？后市怎么走？",
@@ -44,9 +45,22 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时27分"
+        },
+        {
+          "title": "金价疯涨一年突破4500美元，银行理财相关产品却在大幅收缩，头部公司二元看涨策略全面退场",
+          "url": "https://www.cls.cn/detail/2240558",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时39分 ~ 16时35分]"
         },
         {
           "title": "加拿大皇家银行BlueBay资管公司首席投资官马克·道丁：新任美联储主席不会简单迎合特朗普，金价或难重现2025年强劲涨幅。（每经网）",
@@ -61,18 +75,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时32分 ~ 04时29分]"
-        },
-        {
-          "title": "金价疯涨一年突破4500美元，银行理财相关产品却在大幅收缩，头部公司二元看涨策略全面退场",
-          "url": "https://www.cls.cn/detail/2240558",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时39分 ~ 15时27分]"
         },
         {
           "title": "铂金价格飙升至每盎司2390美元以上，创历史新高。",
@@ -145,8 +147,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时32分 ~ 15时27分]"
+          "appearance_count": 24,
+          "time_info": "[00时32分 ~ 16时35分]"
         }
       ]
     },
@@ -178,7 +180,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时27分"
         }

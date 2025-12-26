@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-26T18:28:31.018901+08:00",
-  "total_titles_processed": 1390,
+  "generated_at": "2025-12-26T19:23:58.925493+08:00",
+  "total_titles_processed": 1462,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时01分 ~ 18时28分]"
+          "appearance_count": 15,
+          "time_info": "[10时01分 ~ 19时23分]"
         },
         {
           "title": "金价、银价、铜价，均创历史新高，发生了什么？后市怎么走？",
@@ -138,7 +138,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
         }
@@ -264,7 +264,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
         }

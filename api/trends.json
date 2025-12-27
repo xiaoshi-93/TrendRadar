@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-27T18:26:24.533281+08:00",
-  "total_titles_processed": 1195,
+  "generated_at": "2025-12-27T19:21:08.544209+08:00",
+  "total_titles_processed": 1257,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时59分 ~ 18时26分]"
+          "appearance_count": 14,
+          "time_info": "[09时59分 ~ 19时21分]"
         },
         {
           "title": "霸王茶姬美股跌超 14%，创上市以来新低，其咖啡因争议影响有多大？现在做什么才能挽回声誉？",
@@ -27,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时59分 ~ 18时26分]"
+          "appearance_count": 14,
+          "time_info": "[09时59分 ~ 19时21分]"
         },
         {
           "title": "美股指开盘涨跌不一，霸王茶姬股价创新低，金属再度狂飙，金银铜齐创新高，沪铜首次站上十万关口",
@@ -44,20 +44,6 @@
           "time_info": "[00时31分 ~ 05时23分]"
         },
         {
-          "title": "美股收盘：三大指数集体微跌 金银铜铝板块涨幅居前",
-          "url": "https://www.cls.cn/detail/2241688",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时59分 ~ 18时26分]"
-        },
-        {
           "title": "美股三大期指涨跌不一 市场静待“圣诞老人行情” | 今夜看点",
           "url": "https://www.cls.cn/detail/2241565",
           "source": "财联社热门",
@@ -71,6 +57,21 @@
           "is_new": false,
           "appearance_count": 18,
           "time_info": "[00时31分 ~ 18时26分]"
+        },
+        {
+          "title": "美股收盘：三大指数集体微跌 金银铜铝板块涨幅居前",
+          "url": "https://www.cls.cn/detail/2241688",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10,
+            12,
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[09时59分 ~ 19时21分]"
         },
         {
           "title": "节后首日美股走低，贵金属“疯狂”，白银暴涨10%，和平曙光重挫油价，比特币遭冷落",
@@ -215,6 +216,38 @@
       ]
     },
     {
+      "keyword_group": "具身智能",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "工信部人形机器人与具身智能标准化技术委员会成立",
+          "url": "https://wallstreetcn.com/livenews/3027534",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            7,
+            12,
+            21,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时38分 ~ 19时21分]"
+        },
+        {
+          "title": "具身智能迎来“奠基时刻” 人形机器人标委会成立 “放量”或成2026行业关键词",
+          "url": "https://www.cls.cn/detail/2241816",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时20分 ~ 19时21分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "自动驾驶",
       "match_count": 2,
       "titles": [
@@ -314,26 +347,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时23分 ~ 07时25分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "具身智能",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "工信部人形机器人与具身智能标准化技术委员会成立",
-          "url": "https://wallstreetcn.com/livenews/3027534",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            7,
-            12,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时38分 ~ 18时26分]"
         }
       ]
     },

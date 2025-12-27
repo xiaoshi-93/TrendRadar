@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-27T19:21:08.544209+08:00",
-  "total_titles_processed": 1257,
+  "generated_at": "2025-12-27T20:50:37.862940+08:00",
+  "total_titles_processed": 1353,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时59分 ~ 19时21分]"
+          "appearance_count": 15,
+          "time_info": "[09时59分 ~ 20时50分]"
         },
         {
           "title": "霸王茶姬美股跌超 14%，创上市以来新低，其咖啡因争议影响有多大？现在做什么才能挽回声誉？",
@@ -242,8 +242,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时20分 ~ 19时21分]"
+          "appearance_count": 3,
+          "time_info": "[19时20分 ~ 20时50分]"
         }
       ]
     },

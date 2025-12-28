@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-28T19:21:34.213977+08:00",
-  "total_titles_processed": 1057,
+  "generated_at": "2025-12-28T20:51:14.869806+08:00",
+  "total_titles_processed": 1156,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时25分 ~ 19时21分]"
+          "appearance_count": 6,
+          "time_info": "[15时25分 ~ 20时51分]"
         },
         {
           "title": "铂金价格一周涨了超20% 黄金白银铂金价格都爆了什么原因?",
@@ -86,8 +87,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时31分 ~ 19时21分]"
+          "appearance_count": 21,
+          "time_info": "[00时31分 ~ 20时51分]"
         }
       ]
     },
@@ -103,11 +104,12 @@
             3,
             6,
             12,
-            18
+            18,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时33分 ~ 19时21分]"
+          "appearance_count": 5,
+          "time_info": "[16时33分 ~ 20时51分]"
         }
       ]
     }

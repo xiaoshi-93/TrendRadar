@@ -1,8 +1,65 @@
 {
-  "generated_at": "2025-12-29T10:11:30.031866+08:00",
-  "total_titles_processed": 688,
+  "generated_at": "2025-12-29T12:14:11.644822+08:00",
+  "total_titles_processed": 849,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "Ed Yardeni 2026展望：美国不衰退，标普7700，美债收益率超4%，金价6000美元",
+          "url": "https://wallstreetcn.com/articles/3762200",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时31分 ~ 12时14分]"
+        },
+        {
+          "title": "金十图示：2025年12月29日（周一）上海金早盘价为1010.41元/克，较国际金价(1016.45元/克)，低6.04元/克",
+          "url": "https://flash.jin10.com/detail/20251229105826518800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时14分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "现货黄金亚盘下跌 但价格可能维持高位",
+          "url": "https://flash.jin10.com/detail/20251229093859229800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
+          "title": "现货白银周一开盘暴力拉升至83.8美元/盎司后迅速回吐涨幅，日内宽幅震荡；现货黄金亚盘走低，但价格得以维持在4500美元上方，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20251229104659948800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时14分"
+        }
+      ]
+    },
     {
       "keyword_group": "美股",
       "match_count": 2,
@@ -46,42 +103,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时24分 ~ 10时11分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "Ed Yardeni 2026展望：美国不衰退，标普7700，美债收益率超4%，金价6000美元",
-          "url": "https://wallstreetcn.com/articles/3762200",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时31分 ~ 10时11分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "现货黄金亚盘下跌 但价格可能维持高位",
-          "url": "https://flash.jin10.com/detail/20251229093859229800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时11分"
+          "appearance_count": 5,
+          "time_info": "[07时24分 ~ 12时14分]"
         }
       ]
     },

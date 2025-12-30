@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-30T20:55:28.191439+08:00",
-  "total_titles_processed": 1650,
+  "generated_at": "2025-12-30T21:41:07.290344+08:00",
+  "total_titles_processed": 1719,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时03分 ~ 20时55分]"
+          "appearance_count": 13,
+          "time_info": "[10时03分 ~ 21时41分]"
         },
         {
           "title": "美股指集体低开，纳指跌超0.7%，现货黄金单日跌超100美元，白银暴跌8%，伦铜逼近13000美元",
@@ -53,8 +53,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时27分 ~ 20时55分]"
+          "appearance_count": 8,
+          "time_info": "[15时27分 ~ 21时41分]"
         },
         {
           "title": "美股收盘：贵金属风暴冲击市场情绪 三大指数集体收跌",
@@ -314,6 +314,34 @@
       ]
     },
     {
+      "keyword_group": "黄金",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "如何看待黄金白银价格波动",
+          "url": "https://www.douyin.com/hot/2351661",
+          "source": "抖音",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时40分 ~ 14时41分]"
+        },
+        {
+          "title": "金银价格走高，美股矿业股盘前普涨，泛美白银(PAAS.O)涨3.8%，金田(GFI.N)涨3.7%，哈莫尼黄金(HMY.N)涨3.6%，科尔黛伦矿业(CDE.N)涨3.3%，纽蒙特矿业(NEM.N)涨2.6%。",
+          "url": "https://flash.jin10.com/detail/20251230211122714800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        }
+      ]
+    },
+    {
       "keyword_group": "供应链",
       "match_count": 2,
       "titles": [
@@ -343,23 +371,6 @@
       ]
     },
     {
-      "keyword_group": "黄金",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "如何看待黄金白银价格波动",
-          "url": "https://www.douyin.com/hot/2351661",
-          "source": "抖音",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时40分 ~ 14时41分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "美元",
       "match_count": 1,
       "titles": [
@@ -375,6 +386,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时31分 ~ 06时26分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "自动驾驶",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "知情人士：仰望汽车自动驾驶解决方案供应商是Momenta，不是卓驭",
+          "url": "https://wallstreetcn.com/livenews/3028801",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
         }
       ]
     }

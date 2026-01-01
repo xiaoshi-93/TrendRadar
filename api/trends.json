@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-02T04:31:05.014335+08:00",
-  "total_titles_processed": 431,
+  "generated_at": "2026-01-02T05:25:06.572369+08:00",
+  "total_titles_processed": 441,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时33分 ~ 04时31分]"
+          "appearance_count": 10,
+          "time_info": "[00时33分 ~ 05时25分]"
         },
         {
           "title": "DeepSeek梁文锋又发论文了",
@@ -29,8 +29,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时33分 ~ 04时31分]"
+          "appearance_count": 10,
+          "time_info": "[00时33分 ~ 05时25分]"
         },
         {
           "title": "DeepSeek开年发布新论文",
@@ -43,8 +43,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时33分 ~ 04时31分]"
+          "appearance_count": 10,
+          "time_info": "[00时33分 ~ 05时25分]"
         }
       ]
     },
@@ -63,8 +63,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时34分 ~ 04时31分]"
+          "appearance_count": 6,
+          "time_info": "[00时34分 ~ 05时25分]"
         },
         {
           "title": "据The Information：OpenAI整合团队以提升音频AI模型性能，为即将推出的设备做准备。",
@@ -108,8 +108,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时33分 ~ 04时31分]"
+          "appearance_count": 10,
+          "time_info": "[00时33分 ~ 05时25分]"
         }
       ]
     },
@@ -125,8 +125,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时33分 ~ 04时31分]"
+          "appearance_count": 10,
+          "time_info": "[00时33分 ~ 05时25分]"
         }
       ]
     }

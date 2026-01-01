@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-02T02:37:10.525653+08:00",
-  "total_titles_processed": 391,
+  "generated_at": "2026-01-02T03:21:31.662342+08:00",
+  "total_titles_processed": 406,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/articles/3762429",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时33分 ~ 02时37分]"
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 03时21分]"
         },
         {
           "title": "DeepSeek梁文锋又发论文了",
@@ -27,8 +28,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时33分 ~ 02时37分]"
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 03时21分]"
         },
         {
           "title": "DeepSeek开年发布新论文",
@@ -36,11 +37,12 @@
           "source": "百度热搜",
           "ranks": [
             20,
-            17
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时33分 ~ 02时37分]"
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 03时21分]"
         }
       ]
     },
@@ -48,19 +50,6 @@
       "keyword_group": "chatgpt openai",
       "match_count": 3,
       "titles": [
-        {
-          "title": "据The Information：OpenAI整合团队以提升音频AI模型性能，为即将推出的设备做准备。",
-          "url": "https://flash.jin10.com/detail/20260101230819093800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            20,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 02时37分]"
-        },
         {
           "title": "报道：OpenAI整合团队开发音频AI模型，为发布AI个人设备铺路",
           "url": "https://wallstreetcn.com/livenews/3029628",
@@ -71,8 +60,22 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 02时37分]"
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 03时21分]"
+        },
+        {
+          "title": "据The Information：OpenAI整合团队以提升音频AI模型性能，为即将推出的设备做准备。",
+          "url": "https://flash.jin10.com/detail/20260101230819093800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            20,
+            25,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 03时21分]"
         },
         {
           "title": "据The Information：OpenAI采取措施改进语音AI模型。",
@@ -81,11 +84,12 @@
           "ranks": [
             9,
             21,
-            26
+            26,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 02时37分]"
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 03时21分]"
         }
       ]
     },
@@ -101,8 +105,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时33分 ~ 02时37分]"
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 03时21分]"
         }
       ]
     },
@@ -118,8 +122,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时33分 ~ 02时37分]"
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 03时21分]"
         }
       ]
     }

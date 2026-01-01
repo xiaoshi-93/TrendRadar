@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-01T12:13:00.721430+08:00",
-  "total_titles_processed": 895,
+  "generated_at": "2026-01-01T13:33:09.310622+08:00",
+  "total_titles_processed": 979,
   "failed_sources": [],
   "trends": [
     {
@@ -39,8 +39,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时13分 ~ 12时13分]"
+          "appearance_count": 6,
+          "time_info": "[10时13分 ~ 13时33分]"
         },
         {
           "title": "金十图示：2025年12月31日（周三）美股热门股票行情一览（美股收盘）",
@@ -184,8 +184,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时13分 ~ 12时13分]"
+          "appearance_count": 6,
+          "time_info": "[10时13分 ~ 13时33分]"
         }
       ]
     },
@@ -241,6 +241,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时29分 ~ 05时24分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "自动驾驶",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "特斯拉车主首度实现“全程自动驾驶横穿美国” 马斯克：酷",
+          "url": "https://www.cls.cn/detail/2245979",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时32分 ~ 13时33分]"
         }
       ]
     }

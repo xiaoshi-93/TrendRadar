@@ -1,8 +1,96 @@
 {
-  "generated_at": "2026-01-02T16:36:29.058889+08:00",
-  "total_titles_processed": 1080,
+  "generated_at": "2026-01-02T17:31:22.058404+08:00",
+  "total_titles_processed": 1184,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "美股",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "美股收盘：三大指数低调收官 中国金龙指数全年累计上涨11.33%",
+          "url": "https://www.cls.cn/detail/2246008",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            11,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 22,
+          "time_info": "[00时33分 ~ 17时31分]"
+        },
+        {
+          "title": "美股三大股指期货周五开盘微涨。",
+          "url": "https://flash.jin10.com/detail/20260102070027378800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时26分"
+        },
+        {
+          "title": "美股期货上涨，金银领衔贵金属反弹，美元疲软",
+          "url": "https://wallstreetcn.com/articles/3762449",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时29分 ~ 16时36分]"
+        },
+        {
+          "title": "美股期货上涨，纳斯达克指数期货上涨0.58%，标普500指数期货上涨0.39%。",
+          "url": "https://wallstreetcn.com/livenews/3029712",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时06分 ~ 13时31分]"
+        },
+        {
+          "title": "美股盘前，中概股大涨，百度涨约12%",
+          "url": "https://wallstreetcn.com/livenews/3029794",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
+        },
+        {
+          "title": "美股三大股指期货走高，纳斯达克100指数期货涨超1%，标普500指数期货涨0.55%，道指期货涨0.23%。",
+          "url": "https://wallstreetcn.com/livenews/3029787",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
+        },
+        {
+          "title": "美股三大股指期货走高，纳指期货涨超1%，标普500指数期货涨0.55%，道指期货涨0.23%。",
+          "url": "https://flash.jin10.com/detail/20260102165416378800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
+        }
+      ]
+    },
     {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 5,
@@ -25,11 +113,27 @@
           "source": "知乎",
           "ranks": [
             5,
-            3
+            3,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时05分 ~ 16时36分]"
+          "appearance_count": 8,
+          "time_info": "[10时05分 ~ 17时31分]"
+        },
+        {
+          "title": "UP主解读DeepSeek梁文锋新论文",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBDeepSeek%E6%A2%81%E6%96%87%E9%94%8B%E6%96%B0%E8%AE%BA%E6%96%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            2,
+            3,
+            6,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时06分 ~ 17时31分]"
         },
         {
           "title": "DeepSeek梁文锋又发论文了",
@@ -45,8 +149,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时33分 ~ 16时36分]"
+          "appearance_count": 22,
+          "time_info": "[00时33分 ~ 17时31分]"
         },
         {
           "title": "DeepSeek开年发布新论文",
@@ -63,26 +167,12 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时33分 ~ 07时26分]"
-        },
-        {
-          "title": "UP主解读DeepSeek梁文锋新论文",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBDeepSeek%E6%A2%81%E6%96%87%E9%94%8B%E6%96%B0%E8%AE%BA%E6%96%87",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            2,
-            3,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时06分 ~ 16时36分]"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "报道：OpenAI整合团队开发音频AI模型，为发布AI个人设备铺路",
@@ -132,65 +222,23 @@
           "url": "https://wallstreetcn.com/articles/3762439",
           "source": "华尔街见闻",
           "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时36分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "美股收盘：三大指数低调收官 中国金龙指数全年累计上涨11.33%",
-          "url": "https://www.cls.cn/detail/2246008",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时33分 ~ 16时36分]"
-        },
-        {
-          "title": "美股三大股指期货周五开盘微涨。",
-          "url": "https://flash.jin10.com/detail/20260102070027378800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时26分"
-        },
-        {
-          "title": "美股期货上涨，金银领衔贵金属反弹，美元疲软",
-          "url": "https://wallstreetcn.com/articles/3762449",
-          "source": "华尔街见闻",
-          "ranks": [
             10,
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时29分 ~ 16时36分]"
+          "appearance_count": 3,
+          "time_info": "[16时36分 ~ 17时31分]"
         },
         {
-          "title": "美股期货上涨，纳斯达克指数期货上涨0.58%，标普500指数期货上涨0.39%。",
-          "url": "https://wallstreetcn.com/livenews/3029712",
-          "source": "华尔街见闻-快讯",
+          "title": "OpenAI、Space X和Anthropic，三大“超级IPO”或齐聚今年，单笔募资额预计超过2025年200家IPO总和",
+          "url": "https://wallstreetcn.com/articles/3762451",
+          "source": "华尔街见闻",
           "ranks": [
-            12,
-            29
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时06分 ~ 13时31分]"
+          "time_info": "[17时30分 ~ 17时31分]"
         }
       ]
     },
@@ -238,6 +286,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美债于2026年首个交易日下跌，就业市场韧性引关注",
+          "url": "https://flash.jin10.com/detail/20260102170712304800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
         }
       ]
     },

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-03T03:18:14.947632+08:00",
-  "total_titles_processed": 409,
+  "generated_at": "2026-01-03T04:29:23.932391+08:00",
+  "total_titles_processed": 438,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时32分 ~ 03时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时32分 ~ 04时29分]"
         },
         {
           "title": "美股中概股大涨 百度涨超10%",
@@ -26,19 +26,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时32分 ~ 03时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时32分 ~ 04时29分]"
         },
         {
           "title": "美股三大期指集体走强 科技、贵金属板块开局强劲 | 今夜看点",
           "url": "https://www.cls.cn/detail/2246465",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时32分 ~ 03时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时32分 ~ 04时29分]"
         },
         {
           "title": "金十图示：2026年01月02日（周五）美股热门股票行情一览（美股盘中）",
@@ -46,11 +47,12 @@
           "source": "金十数据",
           "ranks": [
             4,
-            8
+            8,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时37分 ~ 03时18分]"
+          "appearance_count": 3,
+          "time_info": "[02时37分 ~ 04时29分]"
         },
         {
           "title": "金十图示：2026年01月02日（周五）热门中概股行情一览（美股盘中）",
@@ -58,11 +60,12 @@
           "source": "金十数据",
           "ranks": [
             5,
-            9
+            9,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时37分 ~ 03时18分]"
+          "appearance_count": 3,
+          "time_info": "[02时37分 ~ 04时29分]"
         },
         {
           "title": "高盛对冲基金负责人：2025美股“非常好”，2026市场将更加“狂野”",
@@ -72,8 +75,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时37分 ~ 03时18分]"
+          "appearance_count": 4,
+          "time_info": "[02时37分 ~ 04时29分]"
         },
         {
           "title": "美股高开低走，道指、标普500指数相继转跌。",
@@ -135,8 +138,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时32分 ~ 03时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时32分 ~ 04时29分]"
         },
         {
           "title": "金价过山车有人变现近9斤黄金",
@@ -148,8 +151,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 03时18分]"
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 04时29分]"
         },
         {
           "title": "金价飙升原因找到了",
@@ -157,11 +160,12 @@
           "source": "微博",
           "ranks": [
             29,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 03时18分]"
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 04时29分]"
         },
         {
           "title": "元旦购金热爆棚 金价还能涨到哪",
@@ -188,8 +192,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时32分 ~ 03时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时32分 ~ 04时29分]"
         },
         {
           "title": "AI入口之战！OpenAI下重注：音频会是未来的交互界面",
@@ -199,8 +203,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时32分 ~ 03时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时32分 ~ 04时29分]"
         },
         {
           "title": "报道：OpenAI首款“AI硬件”是“智能笔”或“音频设备”，由鸿海独家代工，预计今年或明年推出",
@@ -210,8 +214,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时32分 ~ 03时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时32分 ~ 04时29分]"
         }
       ]
     },
@@ -219,6 +223,22 @@
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 2,
       "titles": [
+        {
+          "title": "DeepSeek梁文锋又发论文了",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%A2%81%E6%96%87%E9%94%8B%E5%8F%88%E5%8F%91%E8%AE%BA%E6%96%87%E4%BA%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11,
+            20,
+            23,
+            14,
+            12,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时32分 ~ 04时29分]"
+        },
         {
           "title": "UP主解读DeepSeek梁文锋新论文",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBDeepSeek%E6%A2%81%E6%96%87%E9%94%8B%E6%96%B0%E8%AE%BA%E6%96%87",
@@ -229,21 +249,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
-        },
-        {
-          "title": "DeepSeek梁文锋又发论文了",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%A2%81%E6%96%87%E9%94%8B%E5%8F%88%E5%8F%91%E8%AE%BA%E6%96%87%E4%BA%86",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11,
-            20,
-            23,
-            14,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时32分 ~ 03时18分]"
         }
       ]
     }

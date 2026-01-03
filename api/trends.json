@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-03T18:27:04.202670+08:00",
-  "total_titles_processed": 1194,
+  "generated_at": "2026-01-03T19:21:39.331180+08:00",
+  "total_titles_processed": 1265,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时25分 ~ 18时27分]"
+          "appearance_count": 13,
+          "time_info": "[07时25分 ~ 19时21分]"
         },
         {
           "title": "2026欧亚股市开门红，美股早盘涨势消退，中概大涨，百度早盘涨超10%，白银领衔贵金属反弹",
@@ -43,8 +43,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[02时37分 ~ 18时27分]"
+          "appearance_count": 19,
+          "time_info": "[02时37分 ~ 19时21分]"
         },
         {
           "title": "美股收盘：科技题材开年大狂欢！中概股化身“金龙傲天”",
@@ -56,8 +56,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时58分 ~ 18时27分]"
+          "appearance_count": 12,
+          "time_info": "[09时58分 ~ 19时21分]"
         },
         {
           "title": "美股三大期指集体走强 科技、贵金属板块开局强劲 | 今夜看点",
@@ -68,11 +68,12 @@
             9,
             7,
             6,
-            8
+            8,
+            11
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时32分 ~ 18时27分]"
+          "appearance_count": 21,
+          "time_info": "[00时32分 ~ 19时21分]"
         },
         {
           "title": "明晟公司MSCI发展中国家股票指数涨1.7%，连续第六个交易日走高，创2021年2月份以来收盘新高。 科技板块涨2.7%，壁仞科技香港IPO首日上涨，宣布AI芯片部门秘密递交香港IPO申请的百度也上涨。 MSCI拉美股票指数涨0.5%。 新兴市场货币涨跌各异。",
@@ -187,11 +188,12 @@
           "url": "https://wallstreetcn.com/articles/3762474",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时26分 ~ 18时27分]"
+          "appearance_count": 4,
+          "time_info": "[17时26分 ~ 19时21分]"
         },
         {
           "title": "金十图示：2026年01月02日（周五）美股热门股票行情一览（美股收盘）",
@@ -412,11 +414,12 @@
             19,
             8,
             13,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时32分 ~ 18时27分]"
+          "appearance_count": 21,
+          "time_info": "[00时32分 ~ 19时21分]"
         },
         {
           "title": "UP主解读DeepSeek梁文锋新论文",

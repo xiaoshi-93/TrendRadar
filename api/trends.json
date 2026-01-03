@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-01-03T15:23:58.193294+08:00",
-  "total_titles_processed": 922,
+  "generated_at": "2026-01-03T16:34:06.794114+08:00",
+  "total_titles_processed": 1024,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
       "match_count": 19,
       "titles": [
+        {
+          "title": "2026欧股开门红，美股反弹艰难，芯片股力撑但特斯拉拖累，百度大涨15%，人民币两年多新高",
+          "url": "https://wallstreetcn.com/articles/3762449",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时25分 ~ 16时34分]"
+        },
         {
           "title": "2026欧亚股市开门红，美股早盘涨势消退，中概大涨，百度早盘涨超10%，白银领衔贵金属反弹",
           "url": "https://wallstreetcn.com/articles/3762449",
@@ -31,19 +42,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[02时37分 ~ 15时23分]"
-        },
-        {
-          "title": "2026欧股开门红，美股反弹艰难，芯片股力撑但特斯拉拖累，百度大涨15%，人民币两年多新高",
-          "url": "https://wallstreetcn.com/articles/3762449",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时25分 ~ 15时23分]"
+          "appearance_count": 15,
+          "time_info": "[02时37分 ~ 16时34分]"
         },
         {
           "title": "美股三大期指集体走强 科技、贵金属板块开局强劲 | 今夜看点",
@@ -53,11 +53,12 @@
             10,
             9,
             7,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时32分 ~ 15时23分]"
+          "appearance_count": 17,
+          "time_info": "[00时32分 ~ 16时34分]"
         },
         {
           "title": "美股中概股大涨 百度涨超10%",
@@ -82,11 +83,12 @@
             16,
             17,
             19,
-            24
+            24,
+            30
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时26分 ~ 15时23分]"
+          "appearance_count": 9,
+          "time_info": "[06时26分 ~ 16时34分]"
         },
         {
           "title": "明晟公司MSCI发展中国家股票指数涨1.7%，连续第六个交易日走高，创2021年2月份以来收盘新高。 科技板块涨2.7%，壁仞科技香港IPO首日上涨，宣布AI芯片部门秘密递交香港IPO申请的百度也上涨。 MSCI拉美股票指数涨0.5%。 新兴市场货币涨跌各异。",
@@ -99,11 +101,25 @@
             10,
             11,
             13,
-            18
+            18,
+            24
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时25分 ~ 15时23分]"
+          "appearance_count": 8,
+          "time_info": "[07时25分 ~ 16时34分]"
+        },
+        {
+          "title": "美股收盘：科技题材开年大狂欢！中概股化身“金龙傲天”",
+          "url": "https://www.cls.cn/detail/2246526",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时58分 ~ 16时34分]"
         },
         {
           "title": "金十图示：2026年01月02日（周五）美股热门股票行情一览（美股盘中）",
@@ -147,19 +163,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[06时26分 ~ 14时38分]"
-        },
-        {
-          "title": "美股收盘：科技题材开年大狂欢！中概股化身“金龙傲天”",
-          "url": "https://www.cls.cn/detail/2246526",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时58分 ~ 15时23分]"
         },
         {
           "title": "半导体概念股美股新年首日普遍收涨",
@@ -398,8 +401,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时32分 ~ 15时23分]"
+          "appearance_count": 17,
+          "time_info": "[00时32分 ~ 16时34分]"
         },
         {
           "title": "UP主解读DeepSeek梁文锋新论文",
@@ -430,11 +433,12 @@
             14,
             15,
             17,
-            22
+            22,
+            28
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时26分 ~ 15时23分]"
+          "appearance_count": 9,
+          "time_info": "[06时26分 ~ 16时34分]"
         }
       ]
     },

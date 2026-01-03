@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-03T12:37:19.004242+08:00",
-  "total_titles_processed": 767,
+  "generated_at": "2026-01-03T13:27:24.352035+08:00",
+  "total_titles_processed": 803,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[02时37分 ~ 12时37分]"
+          "appearance_count": 11,
+          "time_info": "[02时37分 ~ 13时27分]"
         },
         {
           "title": "美股三大期指集体走强 科技、贵金属板块开局强劲 | 今夜看点",
@@ -43,8 +43,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时32分 ~ 12时37分]"
+          "appearance_count": 13,
+          "time_info": "[00时32分 ~ 13时27分]"
+        },
+        {
+          "title": "2026欧股开门红，美股反弹艰难，芯片股力撑但特斯拉拖累，百度大涨15%，人民币两年多新高",
+          "url": "https://wallstreetcn.com/articles/3762449",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时25分 ~ 13时27分]"
         },
         {
           "title": "美股中概股大涨 百度涨超10%",
@@ -56,17 +67,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时32分 ~ 07时25分]"
-        },
-        {
-          "title": "2026欧股开门红，美股反弹艰难，芯片股力撑但特斯拉拖累，百度大涨15%，人民币两年多新高",
-          "url": "https://wallstreetcn.com/articles/3762449",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时25分 ~ 12时37分]"
         },
         {
           "title": "金十图示：2026年01月02日（周五）美股热门股票行情一览（美股盘中）",
@@ -103,11 +103,12 @@
             7,
             13,
             15,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时26分 ~ 12时37分]"
+          "appearance_count": 6,
+          "time_info": "[06时26分 ~ 13时27分]"
         },
         {
           "title": "明晟公司MSCI发展中国家股票指数涨1.7%，连续第六个交易日走高，创2021年2月份以来收盘新高。 科技板块涨2.7%，壁仞科技香港IPO首日上涨，宣布AI芯片部门秘密递交香港IPO申请的百度也上涨。 MSCI拉美股票指数涨0.5%。 新兴市场货币涨跌各异。",
@@ -117,11 +118,12 @@
             1,
             7,
             9,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时25分 ~ 12时37分]"
+          "appearance_count": 5,
+          "time_info": "[07时25分 ~ 13时27分]"
         },
         {
           "title": "美股七巨头收盘播报｜特斯拉收跌2.6%，连跌七天",
@@ -132,11 +134,12 @@
             13,
             20,
             22,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时26分 ~ 12时37分]"
+          "appearance_count": 6,
+          "time_info": "[06时26分 ~ 13时27分]"
         },
         {
           "title": "美股收盘：科技题材开年大狂欢！中概股化身“金龙傲天”",
@@ -148,8 +151,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时58分 ~ 12时37分]"
+          "appearance_count": 4,
+          "time_info": "[09时58分 ~ 13时27分]"
         },
         {
           "title": "半导体概念股美股新年首日普遍收涨",
@@ -158,11 +161,12 @@
           "ranks": [
             15,
             17,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时58分 ~ 12时37分]"
+          "appearance_count": 4,
+          "time_info": "[09时58分 ~ 13时27分]"
         },
         {
           "title": "金十图示：2026年01月02日（周五）美股热门股票行情一览（美股收盘）",
@@ -252,7 +256,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "金价飙升原因找到了",
@@ -305,6 +309,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
+        },
+        {
+          "title": "新年第一个交易日国际金价小幅下跌",
+          "url": "https://www.toutiao.com/trending/7590598928639279158/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时27分"
         }
       ]
     },
@@ -322,8 +337,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时32分 ~ 12时37分]"
+          "appearance_count": 13,
+          "time_info": "[00时32分 ~ 13时27分]"
         },
         {
           "title": "报道：OpenAI首款“AI硬件”是“智能笔”或“音频设备”，由鸿海独家代工，预计今年或明年推出",
@@ -335,8 +350,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时32分 ~ 12时37分]"
+          "appearance_count": 13,
+          "time_info": "[00时32分 ~ 13时27分]"
         },
         {
           "title": "AI入口之战！OpenAI下重注：音频会是未来的交互界面",
@@ -373,8 +388,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时32分 ~ 12时37分]"
+          "appearance_count": 13,
+          "time_info": "[00时32分 ~ 13时27分]"
         },
         {
           "title": "UP主解读DeepSeek梁文锋新论文",
@@ -402,11 +417,12 @@
             5,
             11,
             13,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时26分 ~ 12时37分]"
+          "appearance_count": 6,
+          "time_info": "[06时26分 ~ 13时27分]"
         }
       ]
     },

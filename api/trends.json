@@ -1,697 +1,78 @@
 {
-  "generated_at": "2026-01-06T23:29:51.458985+08:00",
-  "total_titles_processed": 2052,
+  "generated_at": "2026-01-07T00:36:40.698050+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 3,
       "titles": [
         {
           "title": "地缘紧张但未失控，美股债同涨，道指新高，疲软美元撑商品走强，原油转涨，白银暴涨",
           "url": "https://wallstreetcn.com/articles/3762559",
           "source": "华尔街见闻",
           "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[07时26分 ~ 23时29分]"
-        },
-        {
-          "title": "美股指集体高开，台积电涨超3%再创新高，伦铜触及1.3万美元创新高，现货白银涨6%，现货黄金突破4450美元，原油转涨",
-          "url": "https://wallstreetcn.com/articles/3762559",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时33分 ~ 06时27分]"
-        },
-        {
-          "title": "美股收盘：道指创历史新高 美委局势提振能源板块",
-          "url": "https://www.cls.cn/detail/2248624",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            2,
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时26分 ~ 16时38分]"
+          "appearance_count": 1,
+          "time_info": "00时36分"
         },
         {
-          "title": "美股三大期指涨跌不一 科技巨头、能源股整体走强 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2248463",
-          "source": "财联社热门",
+          "title": "美股指涨跌互现，纳指涨0.3%，闪迪股价创新高，全球股指触及历史高位，现货白银日内涨4%，伦铜再创新高，油价震荡",
+          "url": "https://wallstreetcn.com/articles/3762631",
+          "source": "华尔街见闻",
           "ranks": [
-            10,
-            9,
-            11,
-            12
+            7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时33分 ~ 13时31分]"
-        },
-        {
-          "title": "金十图示：2026年01月05日（周一）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260106050521518800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时27分 ~ 06时27分]"
-        },
-        {
-          "title": "美股七巨头收盘播报｜特斯拉涨3.1%，苹果跌约1.4%",
-          "url": "https://wallstreetcn.com/livenews/3031100",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时27分 ~ 06时27分]"
-        },
-        {
-          "title": "金十图示：2026年01月05日（周一）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260106050512402800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时27分 ~ 06时27分]"
-        },
-        {
-          "title": "周二美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3031726",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时29分 ~ 23时29分]"
+          "appearance_count": 1,
+          "time_info": "00时36分"
         },
         {
           "title": "美股三大期指涨跌不一 存储概念股持续走强 | 今夜看点",
           "url": "https://www.cls.cn/detail/2249754",
           "source": "财联社热门",
           "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时28分 ~ 23时29分]"
-        },
-        {
-          "title": "美股收盘：道指创新高 雪佛龙涨5%",
-          "url": "https://flash.jin10.com/detail/20260106050116385800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时27分 ~ 06时27分]"
-        },
-        {
-          "title": "美股网约车股上涨，此前英伟达(NVDA.O)宣布自动驾驶技术平台。Uber(UBER.N)涨5.6%，Lyft(LYFT.O)涨3%，特斯拉(TSLA.O)跌3.2%。",
-          "url": "https://flash.jin10.com/detail/20260106231547408800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时29分"
-        },
-        {
-          "title": "（美股）费城金银指数收涨3.29%，报353.86点，美股盘初持续、平滑地上涨，后续逐步回吐涨幅。 （全球时段）纽约证交所ARCA金矿开采商指数收涨2.71%，报2505.23点。 （美股）原材料指数涨1.75%，报234.90点。 （美股）金属与矿业指数涨2.08%，报228.54点。",
-          "url": "https://wallstreetcn.com/livenews/3031115",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时27分"
-        },
-        {
-          "title": "美股指期货小幅走低，全球股指触及历史高位，现货白银日内涨超3%，伦铜再创新高，油价震荡",
-          "url": "https://wallstreetcn.com/articles/3762631",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时29分"
-        },
-        {
-          "title": "微芯科技(MCHP.O)美股盘后上涨2.5%，此前公司更新三季度业绩指引。",
-          "url": "https://flash.jin10.com/detail/20260106055631330800",
-          "source": "金十数据",
-          "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时27分"
-        },
-        {
-          "title": "美股费城银行指数涨超3%，创8月22日以来最佳盘中表现。",
-          "url": "https://wallstreetcn.com/livenews/3030982",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时34分"
-        },
-        {
-          "title": "金十图示：2026年01月05日（周一）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260106013941390800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时40分"
-        },
-        {
-          "title": "金十图示：2026年01月05日（周一）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260106013939190800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时40分"
-        },
-        {
-          "title": "半导体ETF涨1.57%，在盘初领跑美股行业ETF，科技行业ETF、全球科技股指数ETF至多涨0.46%，银行业ETF跌0.19%，可选消费ETF跌0.59%。",
-          "url": "https://wallstreetcn.com/livenews/3031741",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时29分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "自动驾驶",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "黄仁勋：未来十年很多汽车是自动驾驶",
-          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E4%BB%81%E5%8B%8B%EF%BC%9A%E6%9C%AA%E6%9D%A5%E5%8D%81%E5%B9%B4%E5%BE%88%E5%A4%9A%E6%B1%BD%E8%BD%A6%E6%98%AF%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6",
-          "source": "百度热搜",
-          "ranks": [
-            21,
-            18,
-            29,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时04分 ~ 19时24分]"
-        },
-        {
-          "title": "Uber(UBER.N)：在2026年国际消费电子展上，Lucid、Nuro与Uber将推出量产意向型车辆，这些车辆将用于其全球的自动驾驶出租车服务。",
-          "url": "https://flash.jin10.com/detail/20260106070228836800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时26分"
-        },
-        {
-          "title": "牵手英伟达 梅赛德斯-奔驰首推新一代自动驾驶系统",
-          "url": "https://flash.jin10.com/detail/20260106182225810800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时31分"
-        },
-        {
-          "title": "英伟达发布首个专为自动驾驶汽车设计的“推理”AI",
-          "url": "https://wallstreetcn.com/livenews/3031121",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时27分 ~ 07时26分]"
-        },
-        {
-          "title": "英伟达CEO黄仁勋：英伟达将为2025款梅赛德斯-奔驰CLA车型提供全栈式自动驾驶解决方案。",
-          "url": "https://flash.jin10.com/detail/20260106060202898800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时27分 ~ 07时26分]"
-        },
-        {
-          "title": "花旗：英伟达AI生态将助推自动驾驶出租车增长",
-          "url": "https://flash.jin10.com/detail/20260106142326249800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时42分 ~ 15时31分]"
-        },
-        {
-          "title": "英伟达发布推理型自动驾驶AI模型Alpamayo 剑指6万亿美元市值",
-          "url": "https://flash.jin10.com/detail/20260106203551409800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时56分"
-        },
-        {
-          "title": "英伟达推出适用于自动驾驶汽车和机器人的全新AI工具",
-          "url": "https://flash.jin10.com/detail/20260106063939900800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时26分"
-        },
-        {
-          "title": "英伟达推出Alpamayo系列开源AI模型与工具，加速安全及基于推理的自动驾驶汽车开发",
-          "url": "https://wallstreetcn.com/livenews/3031109",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时27分"
-        },
-        {
-          "title": "据CNBC：英伟达计划在2027年测试自动驾驶出租车服务，以推动自动驾驶发展。",
-          "url": "https://flash.jin10.com/detail/20260106062020826800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时26分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "工行开年上调积存金风险评级，下周起C3及以上客户才可买，金价走强更多银行不断入局",
-          "url": "https://www.cls.cn/detail/2248953",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时31分 ~ 20时56分]"
-        },
-        {
-          "title": "金十图示：2026年01月06日（周二）上海金午盘价为1002.84元/克，较国际金价(1001.81元/克)，高1.03元/克",
-          "url": "https://flash.jin10.com/detail/20260106150838647800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时31分"
-        },
-        {
-          "title": "金价大涨 黄金珠宝行业面临分化",
-          "url": "https://www.toutiao.com/trending/7592189155237789750/",
-          "source": "今日头条",
-          "ranks": [
-            22,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时28分 ~ 23时29分]"
-        },
-        {
-          "title": "金价银价又涨了",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E5%8F%88%E6%B6%A8%E4%BA%86%23&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时04分 ~ 10时05分]"
-        },
-        {
-          "title": "阿塞拜疆总统坚信金价上涨 国家基金大赚超100亿美元",
-          "url": "https://flash.jin10.com/detail/20260106052744835800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时27分"
-        },
-        {
-          "title": "瑞银上调金价目标至5000美元",
-          "url": "https://www.toutiao.com/trending/7592024699937230379/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时04分"
-        },
-        {
-          "title": "分析师：降息预期与避险需求推升金价 本周关注关键非农数据",
-          "url": "https://flash.jin10.com/detail/20260106134723251800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时42分"
-        },
-        {
-          "title": "银行家表示，土耳其央行上周的外汇储备预计减少了55亿美元至1885亿美元；土耳其央行上周出售了40亿美元，其中近20亿美元的降幅源于金价变动。",
-          "url": "https://flash.jin10.com/detail/20260106134420710800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时42分"
-        },
-        {
-          "title": "阿塞拜疆总统坚信金价上涨，国家基金大赚超100亿美元",
-          "url": "https://wallstreetcn.com/livenews/3031092",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时27分"
+          "time_info": "00时36分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 1,
       "titles": [
         {
           "title": "物理AI的ChatGPT时刻！英伟达“内驱”无人驾驶汽车将至，将于一季度在美国上路",
           "url": "https://wallstreetcn.com/articles/3762605",
           "source": "华尔街见闻",
           "ranks": [
-            8,
-            9,
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[10时04分 ~ 23时29分]"
-        },
-        {
-          "title": "OpenAI家务机器人售价2万美元",
-          "url": "https://wallstreetcn.com/livenews/3031066",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            13,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时25分 ~ 05时27分]"
-        },
-        {
-          "title": "OpenAI支持的公司推家务机器人 售价2万美元",
-          "url": "https://flash.jin10.com/detail/20260106063634804800",
-          "source": "金十数据",
-          "ranks": [
-            14
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时26分"
-        },
-        {
-          "title": "Zeta Global与OpenAI组团，双方将交付由答案驱动的市场。 Zeta美股盘后涨6%。",
-          "url": "https://wallstreetcn.com/livenews/3031108",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时27分"
-        },
-        {
-          "title": "亚马逊开放部分用户网页端对话 Alexa+，剑指ChatGPT",
-          "url": "https://wallstreetcn.com/livenews/3031031",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时40分"
+          "time_info": "00时36分"
         }
       ]
     },
     {
-      "keyword_group": "美债",
-      "match_count": 5,
+      "keyword_group": "金价",
+      "match_count": 1,
       "titles": [
         {
-          "title": "美债价格在ISM数据不及预期后上涨，交易员布局看涨期权",
-          "url": "https://wallstreetcn.com/livenews/3031120",
-          "source": "华尔街见闻-快讯",
+          "title": "金价大涨 黄金珠宝行业面临分化",
+          "url": "https://www.toutiao.com/trending/7592189155237789750/",
+          "source": "今日头条",
           "ranks": [
-            2,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时27分 ~ 07时26分]"
-        },
-        {
-          "title": "摩根大通美债客户调查显示多头占比降至2024年以来新低",
-          "url": "https://wallstreetcn.com/livenews/3031699",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
             25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时42分 ~ 22时29分]"
-        },
-        {
-          "title": "美债收益率普遍跌超2个基点",
-          "url": "https://wallstreetcn.com/livenews/3031089",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时27分 ~ 06时27分]"
-        },
-        {
-          "title": "美债收益率走高 分析师称曲线有趋陡的空间",
-          "url": "https://flash.jin10.com/detail/20260106144320434800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时31分"
-        },
-        {
-          "title": "美债收益率震荡回升 市场紧盯经济走软信号",
-          "url": "https://flash.jin10.com/detail/20260106185806265800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时24分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "三星今年将为8亿设备配备谷歌AI",
-          "url": "https://wallstreetcn.com/livenews/3031083",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时27分"
-        },
-        {
-          "title": "英伟达(NVDA.O)：亚马逊云服务(AWS)、谷歌云、微软、OCI将于2026年部署基于Vera Rubin的实例。",
-          "url": "https://flash.jin10.com/detail/20260106062451748800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时26分"
-        },
-        {
-          "title": "Snowflake在Snowflake Cortex AI中提供谷歌公司Gemini 3。",
-          "url": "https://wallstreetcn.com/livenews/3031737",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时29分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌0.30%，暂报4152.79点，整体呈现出W形走势。 MarketVectorTM数字资产100中盘指数涨0.13%，报3917.91点，也呈现出W形走势。 MarketVector数字资产100指数涨2.20%，报19397.47点，北京时间08:00和22:36先后出现一波上涨行情。 目前，Solana涨1%，狗狗币涨0.2%，XRP涨4.8%。 比特币涨2.68%，暂报93706美元；以太坊涨1.37%，报3181.60美元。",
-          "url": "https://wallstreetcn.com/livenews/3031019",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时28分 ~ 02时40分]"
-        },
-        {
-          "title": "周一（1月5日）纽约尾盘，ICE美元指数跌0.17%，刷新日低至98.259点，日内稍早一度持续走高，北京时间21:42刷新日高至98.861点，之后快速回落。 彭博美元指数跌0.13%，报1202.93点，日内交投区间为1209.04-1202.58点。",
-          "url": "https://wallstreetcn.com/livenews/3031082",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时27分"
-        },
-        {
-          "title": "美元指数5日下跌",
-          "url": "https://flash.jin10.com/detail/20260106042022412800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时27分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "黄仁勋新年第一场演讲提了DeepSeek",
-          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E4%BB%81%E5%8B%8B%E6%96%B0%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%9C%BA%E6%BC%94%E8%AE%B2%E6%8F%90%E4%BA%86DeepSeek",
-          "source": "百度热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时04分 ~ 12时04分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "【桥水创始人达利欧：AI热潮正处于泡沫初期阶段，美联储会进一步吹大泡沫】对冲基金经理雷伊・达利欧发文警告，曾推动华尔街科技股走高的人工智能（AI）热潮目前已进入泡沫初期阶段。他指出，2025年美国股市表现显著落后于非美股市及黄金资产。“显然，相较于美国股票，投资者更愿意配置非美股票；同理，他们也更倾向于持有非美债券，而非美国债券与美元现金。”“当然，未来美联储的政策走向以及生产力增速，都存在巨大的不确定性。” 达利欧表示。“种种迹象表明，新任美联储主席及联邦公开市场委员会，大概率会倾向于压低名义利率与实际利率。这一举措虽会对资产价格形成支撑，但也会进一步吹大泡沫。”",
-          "url": "https://wallstreetcn.com/livenews/3031028",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时40分"
+          "time_info": "00时36分"
         }
       ]
     },
@@ -700,17 +81,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "进入全面生产阶段！黄仁勋CES上带货Rubin平台 A股供应链谁能分羹？",
-          "url": "https://www.cls.cn/detail/2248740",
-          "source": "财联社热门",
+          "title": "英伟达(NVDA.O)首席财务官：在Vera Rubin芯片投入生产之际，我们对供应链感到非常稳固。",
+          "url": "https://flash.jin10.com/detail/20260107002259513800",
+          "source": "金十数据",
           "ranks": [
-            8,
-            7,
-            4
+            18
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时31分 ~ 18时31分]"
+          "appearance_count": 1,
+          "time_info": "00时36分"
         }
       ]
     }

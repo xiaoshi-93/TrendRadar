@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-07T18:31:52.703852+08:00",
-  "total_titles_processed": 1635,
+  "generated_at": "2026-01-07T19:25:59.679725+08:00",
+  "total_titles_processed": 1738,
   "failed_sources": [],
   "trends": [
     {
@@ -246,7 +246,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "金价大涨 黄金珠宝行业面临分化",
@@ -302,7 +302,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时31分"
         },
@@ -338,6 +338,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时28分"
+        },
+        {
+          "title": "大摩看多金价：今年将冲刺4800美元",
+          "url": "https://www.toutiao.com/trending/7592535670967504403/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时25分"
         }
       ]
     },

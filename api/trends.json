@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-07T17:34:11.652814+08:00",
-  "total_titles_processed": 1542,
+  "generated_at": "2026-01-07T18:31:52.703852+08:00",
+  "total_titles_processed": 1635,
   "failed_sources": [],
   "trends": [
     {
@@ -92,17 +92,6 @@
           "time_info": "16时38分"
         },
         {
-          "title": "美股稀土概念盘前走强，Critical Metals涨超10%，MP Materials涨超3%，USA Rare Earth涨超2%。",
-          "url": "https://wallstreetcn.com/livenews/3032318",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时34分"
-        },
-        {
           "title": "Strategy美股盘后涨超6%。",
           "url": "https://wallstreetcn.com/livenews/3031899",
           "source": "华尔街见闻-快讯",
@@ -161,6 +150,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时27分 ~ 06时27分]"
+        },
+        {
+          "title": "美股稀土概念盘前走强，Critical Metals涨超10%，MP Materials涨超3%，USA Rare Earth涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3032318",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时34分 ~ 18时31分]"
         },
         {
           "title": "周二（1月6日）纽约尾盘，CME比特币期货BTC主力合约较周一纽约尾盘跌0.81%，报93815美元，北京时间02:00刷新日低至91460美元。 CME以太币期货DCR主力合约涨1.23%，报3296.50美元。 美股加密货币与加密货币关联指数收跌2.09%，报66.31点，整体呈现出V形走势——北京时间02:00刷新日低至63.68点。 最近24小时，MarketVectorTM数字资产100小盘指数涨1.11%，暂报4269.69点。 MarketVectorTM数字资产100中盘指数涨0.21%，报3964.13点。 MarketVector数字资产100指数涨0.46%，报19504.12点。",
@@ -245,7 +246,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "金价大涨 黄金珠宝行业面临分化",
@@ -290,9 +291,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时34分"
+        },
+        {
+          "title": "现货金重新站上4500美元！桥水达里奥：金价暴涨释放警示信号",
+          "url": "https://www.cls.cn/detail/2250158",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
         },
         {
           "title": "金价涨超1%，上探4500美元关口",
@@ -312,7 +324,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时34分"
         },

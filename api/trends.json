@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-08T19:26:19.383161+08:00",
-  "total_titles_processed": 1752,
+  "generated_at": "2026-01-08T20:57:08.329993+08:00",
+  "total_titles_processed": 1871,
   "failed_sources": [],
   "trends": [
     {
@@ -148,7 +148,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时26分"
         }
@@ -167,8 +167,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时04分 ~ 19时26分]"
+          "appearance_count": 15,
+          "time_info": "[10时04分 ~ 20时57分]"
         },
         {
           "title": "美经济数据喜忧参半，美股涨势暂歇，美债受捧，贵金属回落",

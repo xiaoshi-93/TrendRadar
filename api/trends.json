@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-01-09T15:32:02.803008+08:00",
-  "total_titles_processed": 1336,
+  "generated_at": "2026-01-09T16:38:19.637808+08:00",
+  "total_titles_processed": 1448,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
       "match_count": 13,
       "titles": [
+        {
+          "title": "临近周五，美股轮动加剧，芯片股两连阴、小盘股指新高，地缘风险撑原油强劲反弹",
+          "url": "https://wallstreetcn.com/articles/3762848",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时06分 ~ 16时38分]"
+        },
         {
           "title": "美股收盘：三大指数涨跌不一 军工股全线走强 阿里巴巴涨超5%",
           "url": "https://www.cls.cn/detail/2252454",
@@ -18,17 +29,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[07时23分 ~ 15时32分]"
-        },
-        {
-          "title": "临近周五，美股轮动加剧，芯片股两连阴、小盘股指新高，地缘风险撑原油强劲反弹",
-          "url": "https://wallstreetcn.com/articles/3762848",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时06分 ~ 15时32分]"
         },
         {
           "title": "美股三大期指集体走低 特朗普提高军费防务板块大涨 | 今夜看点",
@@ -275,8 +275,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时06分 ~ 15时32分]"
+          "appearance_count": 8,
+          "time_info": "[10时06分 ~ 16时38分]"
         },
         {
           "title": "黄金成全球最大储备资产，30年来首次超越美债！",
@@ -286,8 +286,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时31分 ~ 15时32分]"
+          "appearance_count": 6,
+          "time_info": "[13时31分 ~ 16时38分]"
         },
         {
           "title": "10年期美债收益率涨超3个基点",
@@ -325,7 +325,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
         },
@@ -336,7 +336,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
         },
@@ -386,7 +386,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
         }

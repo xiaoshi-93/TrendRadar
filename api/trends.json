@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-10T17:26:55.156931+08:00",
-  "total_titles_processed": 1310,
+  "generated_at": "2026-01-10T18:27:07.045156+08:00",
+  "total_titles_processed": 1365,
   "failed_sources": [],
   "trends": [
     {
@@ -36,8 +36,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时01分 ~ 17时26分]"
+          "appearance_count": 12,
+          "time_info": "[10时01分 ~ 18时27分]"
         },
         {
           "title": "报道：DeepSeek将于2月发布下一代AI模型V4，具备“强大”的编程能力",
@@ -47,11 +47,12 @@
             9,
             7,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时26分 ~ 17时26分]"
+          "appearance_count": 13,
+          "time_info": "[07时26分 ~ 18时27分]"
         },
         {
           "title": "DeepSeek能否第二次震惊全世界",
@@ -63,8 +64,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时37分 ~ 17时26分]"
+          "appearance_count": 7,
+          "time_info": "[14时37分 ~ 18时27分]"
         },
         {
           "title": "DeepSeek能第二次震惊世界吗",
@@ -73,11 +74,12 @@
           "ranks": [
             6,
             7,
-            23
+            23,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时37分 ~ 16时33分]"
+          "appearance_count": 6,
+          "time_info": "[14时37分 ~ 18时27分]"
         },
         {
           "title": "UP主解读DeepSeek进化史",
@@ -89,8 +91,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时24分 ~ 17时26分]"
+          "appearance_count": 5,
+          "time_info": "[15时24分 ~ 18时27分]"
         },
         {
           "title": "DeepSeek准备第二次震惊全世界",
@@ -226,8 +228,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时01分 ~ 17时26分]"
+          "appearance_count": 12,
+          "time_info": "[10时01分 ~ 18时27分]"
         },
         {
           "title": "（美股）费城金银指数收涨1.97%，报374.53点，本周累计上涨9.32%，整体震荡上行。 （全球时段）纽约证交所ARCA金矿开采商指数收涨1.38%，报2619.57点，美股盘初显著拉升，本周累涨7.39%。 （美股）原材料指数涨2.38%，报245.15点，本周累涨6.19%。 （美股）金属与矿业指数涨1.34%，报231.57点，本周累涨3.44%。",
@@ -337,8 +339,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时01分 ~ 17时26分]"
+          "appearance_count": 12,
+          "time_info": "[10时01分 ~ 18时27分]"
         },
         {
           "title": "非农数据”温和“，标普新高，美元指数四连涨，黄金重回4500关口",

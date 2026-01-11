@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-11T16:34:27.529336+08:00",
-  "total_titles_processed": 910,
+  "generated_at": "2026-01-11T17:27:36.049418+08:00",
+  "total_titles_processed": 963,
   "failed_sources": [],
   "trends": [
     {
@@ -45,8 +45,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时31分 ~ 16时34分]"
+          "appearance_count": 20,
+          "time_info": "[00时31分 ~ 17时27分]"
         },
         {
           "title": "有新论文暗示 DeepSeekV4 已完成训练，这对未来 AI 大模型发展意味着什么？",
@@ -100,11 +100,12 @@
           "url": "https://www.toutiao.com/trending/7593981430330297862/",
           "source": "今日头条",
           "ranks": [
-            5
+            5,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时33分 ~ 16时34分]"
+          "appearance_count": 3,
+          "time_info": "[16时33分 ~ 17时27分]"
         },
         {
           "title": "金价飙升银行紧急提示",
@@ -114,8 +115,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时33分 ~ 16时34分]"
+          "appearance_count": 3,
+          "time_info": "[16时33分 ~ 17时27分]"
         },
         {
           "title": "金价新高不断 还能上车吗",

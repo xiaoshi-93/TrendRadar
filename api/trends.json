@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-12T15:33:08.588779+08:00",
-  "total_titles_processed": 1077,
+  "generated_at": "2026-01-12T16:40:06.651701+08:00",
+  "total_titles_processed": 1174,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时14分 ~ 15时33分]"
+          "appearance_count": 8,
+          "time_info": "[12时14分 ~ 16时40分]"
         },
         {
           "title": "金价飙升 多家银行公告提醒",
@@ -60,7 +61,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时33分"
         },
@@ -114,8 +115,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时11分 ~ 15时33分]"
+          "appearance_count": 9,
+          "time_info": "[10时11分 ~ 16时40分]"
         },
         {
           "title": "伊朗局势微妙，鲍威尔被诉，金银再创新高，油价连续走高、美股期货下跌",
@@ -128,8 +129,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时11分 ~ 15时33分]"
+          "appearance_count": 9,
+          "time_info": "[10时11分 ~ 16时40分]"
         },
         {
           "title": "美股三大股指期货小幅低开，纳指期货下跌0.2%。",
@@ -149,7 +150,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时33分"
         }
@@ -195,8 +196,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时32分 ~ 15时33分]"
+          "appearance_count": 4,
+          "time_info": "[15时32分 ~ 16时40分]"
         },
         {
           "title": "谷歌联合沃尔玛等零售商扩展AI模型购物功能",
@@ -235,7 +236,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时33分"
         }

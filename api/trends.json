@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-13T12:05:05.869763+08:00",
-  "total_titles_processed": 991,
+  "generated_at": "2026-01-13T13:31:55.388033+08:00",
+  "total_titles_processed": 1075,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时02分 ~ 12时05分]"
+          "appearance_count": 4,
+          "time_info": "[10时02分 ~ 13时31分]"
         },
         {
           "title": "美股走V新高，谷歌破4万亿，中概大涨，人民币创2023年5月来最高，金银大涨创新高",
@@ -70,11 +70,12 @@
           "url": "https://wallstreetcn.com/articles/3763115",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时02分 ~ 12时05分]"
+          "appearance_count": 4,
+          "time_info": "[10时02分 ~ 13时31分]"
         },
         {
           "title": "金银再创历史新高 谷歌市值首破4万亿美元 | 环球市场",
@@ -85,8 +86,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时02分 ~ 12时05分]"
+          "appearance_count": 4,
+          "time_info": "[10时02分 ~ 13时31分]"
         },
         {
           "title": "Alphabet旗下谷歌公司：与苹果进入一份多年合作协议。 新款苹果基础模型将建立在谷歌Gemini基础之上。 模型将有助于支持未来的苹果智能功能。",
@@ -221,8 +222,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时21分 ~ 12时05分]"
+          "appearance_count": 6,
+          "time_info": "[07时21分 ~ 13时31分]"
         },
         {
           "title": "美股收盘：金龙指数涨逾4% 阿里巴巴大涨10%",
@@ -316,11 +317,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E6%A2%81%E6%96%87%E9%94%8B%E6%96%B0%E8%AE%BA%E6%96%87%E5%89%A7%E9%80%8F%E4%B8%8B%E4%B8%80%E4%BB%A3%E6%A8%A1%E5%9E%8B",
           "source": "bilibili 热搜",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时04分 ~ 12时05分]"
+          "appearance_count": 3,
+          "time_info": "[12时04分 ~ 13时31分]"
         },
         {
           "title": "DeepSeek发布梁文锋署名新论文",
@@ -328,11 +330,12 @@
           "source": "百度热搜",
           "ranks": [
             18,
-            17
+            17,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时02分 ~ 12时05分]"
+          "appearance_count": 4,
+          "time_info": "[10时02分 ~ 13时31分]"
         },
         {
           "title": "DeepSeek开源大模型记忆模块！梁文锋署名新论文，下一代稀疏模型提前剧透",
@@ -466,7 +469,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时05分"
         }

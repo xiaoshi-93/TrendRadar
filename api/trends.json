@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-14T07:25:03.500021+08:00",
-  "total_titles_processed": 713,
+  "generated_at": "2026-01-14T10:10:11.134045+08:00",
+  "total_titles_processed": 879,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "核心通胀降温，美股指集体高开，日元跌至159，现货白银逼近89美元，伊朗局势提振油价",
@@ -26,11 +26,23 @@
           "url": "https://www.cls.cn/detail/2256863",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时24分 ~ 10时10分]"
+        },
+        {
+          "title": "CPI降温未改降息预期，银行股拖累美股，摩根大通跌超4%，金银新高但黄金转跌",
+          "url": "https://wallstreetcn.com/articles/3763167",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时24分 ~ 07时25分]"
+          "time_info": "[10时09分 ~ 10时10分]"
         },
         {
           "title": "金十图示：2026年01月13日（周二）美股热门股票行情一览（美股收盘）",
@@ -169,11 +181,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             9,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时38分 ~ 07时25分]"
+          "appearance_count": 14,
+          "time_info": "[00时38分 ~ 10时10分]"
         },
         {
           "title": "gemini3pro 真那么好用吗？",
@@ -294,8 +307,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时38分 ~ 07时25分]"
+          "appearance_count": 14,
+          "time_info": "[00时38分 ~ 10时10分]"
         },
         {
           "title": "梁文锋新论文剧透下一代模型",
@@ -307,8 +320,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时38分 ~ 07时25分]"
+          "appearance_count": 14,
+          "time_info": "[00时38分 ~ 10时10分]"
         }
       ]
     },

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-14T18:32:36.849840+08:00",
-  "total_titles_processed": 1646,
+  "generated_at": "2026-01-14T19:27:21.725248+08:00",
+  "total_titles_processed": 1746,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时09分 ~ 18时32分]"
+          "appearance_count": 12,
+          "time_info": "[10时09分 ~ 19时27分]"
         },
         {
           "title": "美股收盘：三大股指自历史高位回落 摩根大通拉开财报季序幕",
@@ -235,11 +235,12 @@
           "ranks": [
             19,
             20,
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时38分 ~ 18时32分]"
+          "appearance_count": 5,
+          "time_info": "[16时38分 ~ 19时27分]"
         },
         {
           "title": "Apple 芯片设计全球领先，为何大模型训练却认输外包给 Google？",

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-14T14:42:20.797281+08:00",
-  "total_titles_processed": 1241,
+  "generated_at": "2026-01-14T15:31:50.279281+08:00",
+  "total_titles_processed": 1336,
   "failed_sources": [],
   "trends": [
     {
@@ -42,8 +42,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时09分 ~ 14时42分]"
+          "appearance_count": 7,
+          "time_info": "[10时09分 ~ 15时31分]"
         },
         {
           "title": "金十图示：2026年01月13日（周二）美股热门股票行情一览（美股收盘）",
@@ -184,11 +184,12 @@
             9,
             6,
             8,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时38分 ~ 14时42分]"
+          "appearance_count": 19,
+          "time_info": "[00时38分 ~ 15时31分]"
         },
         {
           "title": "gemini3pro 真那么好用吗？",
@@ -229,7 +230,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "花旗预测三个月内金价达5000美元",
@@ -274,6 +275,17 @@
           "time_info": "[07时24分 ~ 07时25分]"
         },
         {
+          "title": "金价暴涨下谁在赚钱",
+          "url": "https://www.toutiao.com/trending/7595070385364667930/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时31分"
+        },
+        {
           "title": "金十图示：2026年01月14日（周三）上海金早盘价为1033.73元/克，较国际金价（1036.81元/克）低3.08元/克",
           "url": "https://flash.jin10.com/detail/20260114110243081800",
           "source": "金十数据",
@@ -291,9 +303,60 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "自动驾驶",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "工信部：加快突破全固态电池、高级别自动驾驶等技术 进一步扩大汽车消费",
+          "url": "https://www.cls.cn/detail/2257032",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时12分 ~ 15时31分]"
+        },
+        {
+          "title": "马斯克：FSD（全自动驾驶）将在2月14日后仅以月度订阅形式提供。",
+          "url": "https://wallstreetcn.com/livenews/3036720",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时42分"
+        },
+        {
+          "title": "中汽信息公司：建议扩大L3级及以上自动驾驶在典型城市群和特定场景下的试点范围",
+          "url": "https://wallstreetcn.com/livenews/3036740",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时31分"
+        },
+        {
+          "title": "2030年城市NOA将成为辅助驾驶和自动驾驶主流功能",
+          "url": "https://wallstreetcn.com/livenews/3036738",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时31分"
         }
       ]
     },
@@ -366,39 +429,43 @@
             9,
             15,
             19,
-            28
+            28,
+            22
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时38分 ~ 14时42分]"
+          "appearance_count": 19,
+          "time_info": "[00时38分 ~ 15时31分]"
         }
       ]
     },
     {
-      "keyword_group": "自动驾驶",
+      "keyword_group": "具身智能",
       "match_count": 2,
       "titles": [
         {
-          "title": "工信部：加快突破全固态电池、高级别自动驾驶等技术 进一步扩大汽车消费",
-          "url": "https://www.cls.cn/detail/2257032",
+          "title": "2026开年公募扎堆调研商业航天股，脑机接口、具身智能同受关注",
+          "url": "https://www.cls.cn/detail/2256508",
           "source": "财联社热门",
           "ranks": [
-            3
+            13,
+            12,
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时12分 ~ 14时42分]"
+          "appearance_count": 12,
+          "time_info": "[00时38分 ~ 07时25分]"
         },
         {
-          "title": "马斯克：FSD（全自动驾驶）将在2月14日后仅以月度订阅形式提供。",
-          "url": "https://wallstreetcn.com/livenews/3036720",
+          "title": "蓝思科技：已构建起具身智能核心部件到整机组装的垂直整合制造平台",
+          "url": "https://wallstreetcn.com/livenews/3036773",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时42分"
+          "time_info": "15时31分"
         }
       ]
     },
@@ -416,26 +483,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "具身智能",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "2026开年公募扎堆调研商业航天股，脑机接口、具身智能同受关注",
-          "url": "https://www.cls.cn/detail/2256508",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时38分 ~ 07时25分]"
         }
       ]
     }

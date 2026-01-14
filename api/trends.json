@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-14T21:47:30.815818+08:00",
-  "total_titles_processed": 2000,
+  "generated_at": "2026-01-14T22:31:51.257878+08:00",
+  "total_titles_processed": 2090,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "CPI降温未改降息预期，银行股拖累美股，摩根大通跌超4%，金银新高但黄金转跌",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时09分 ~ 21时47分]"
+          "appearance_count": 15,
+          "time_info": "[10时09分 ~ 22时31分]"
         },
         {
           "title": "美股收盘：三大股指自历史高位回落 摩根大通拉开财报季序幕",
@@ -138,6 +138,17 @@
           "time_info": "17时35分"
         },
         {
+          "title": "伊朗局势担忧加剧，美股指期货跌幅扩大，金属狂飙，现货白银站上92美元，锡铜新高",
+          "url": "https://wallstreetcn.com/articles/3763270",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时31分"
+        },
+        {
           "title": "携程(TCOM.O)美股盘前跌幅扩大至13.3%。",
           "url": "https://flash.jin10.com/detail/20260114202836391800",
           "source": "金十数据",
@@ -171,6 +182,17 @@
           "time_info": "02时42分"
         },
         {
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3037104",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时31分"
+        },
+        {
           "title": "金十图示：2026年01月13日（周二）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260114013023358800",
           "source": "金十数据",
@@ -199,7 +221,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时47分"
         }
@@ -485,11 +507,12 @@
           "url": "https://www.zhihu.com/question/1994233409871050526",
           "source": "知乎",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时58分 ~ 21时47分]"
+          "appearance_count": 3,
+          "time_info": "[20时58分 ~ 22时31分]"
         },
         {
           "title": "摩根资产管理认为中国科技领域将迎来“更多DeepSeek时刻”",
@@ -506,7 +529,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美元指数涨约0.3%，美国CPI数据发布后强势V型反转",
@@ -531,6 +554,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时32分 ~ 02时42分]"
+        },
+        {
+          "title": "韩元兑美元涨幅扩大至1%，新兴市场外汇指数刷新日高。美国财长贝森特声称，韩元贬值与基本面不符。",
+          "url": "https://wallstreetcn.com/livenews/3037121",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时31分"
         },
         {
           "title": "美元指数13日上涨",
@@ -590,6 +624,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "VLA",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "理想调整基座模型业务：詹锟接手，VLA 研发整合",
+          "url": "https://wallstreetcn.com/livenews/3037114",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时31分"
         }
       ]
     }

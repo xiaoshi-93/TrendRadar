@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-14T12:12:34.421396+08:00",
-  "total_titles_processed": 1021,
+  "generated_at": "2026-01-14T13:31:28.424680+08:00",
+  "total_titles_processed": 1129,
   "failed_sources": [],
   "trends": [
     {
@@ -27,11 +27,12 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时24分 ~ 12时12分]"
+          "appearance_count": 6,
+          "time_info": "[07时24分 ~ 13时31分]"
         },
         {
           "title": "CPI降温未改降息预期，银行股拖累美股，摩根大通跌超4%，金银新高但黄金转跌",
@@ -41,8 +42,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时09分 ~ 12时12分]"
+          "appearance_count": 4,
+          "time_info": "[10时09分 ~ 13时31分]"
         },
         {
           "title": "金十图示：2026年01月13日（周二）美股热门股票行情一览（美股收盘）",
@@ -185,8 +186,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时38分 ~ 12时12分]"
+          "appearance_count": 16,
+          "time_info": "[00时38分 ~ 13时31分]"
         },
         {
           "title": "gemini3pro 真那么好用吗？",
@@ -208,7 +209,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
         }
@@ -267,7 +268,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
         }
@@ -340,11 +341,12 @@
             10,
             6,
             9,
-            15
+            15,
+            19
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时38分 ~ 12时12分]"
+          "appearance_count": 16,
+          "time_info": "[00时38分 ~ 13时31分]"
         }
       ]
     },
@@ -396,9 +398,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时12分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时12分 ~ 13时31分]"
         }
       ]
     }

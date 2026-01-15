@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-15T13:31:50.880499+08:00",
-  "total_titles_processed": 1171,
+  "generated_at": "2026-01-15T14:41:52.542983+08:00",
+  "total_titles_processed": 1282,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "CPI降温未改降息预期，银行股拖累美股，摩根大通跌超4%，金银新高但黄金转跌",
@@ -51,8 +51,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时04分 ~ 13时31分]"
+          "appearance_count": 4,
+          "time_info": "[10时04分 ~ 14时41分]"
+        },
+        {
+          "title": "美股收盘：三大指数集体收跌 七巨头全军覆没 银行股持续回落",
+          "url": "https://www.cls.cn/detail/2258154",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时23分 ~ 14时41分]"
         },
         {
           "title": "伊朗局势担忧加剧，美股指集体下挫，纳指跌近0.8%，金属狂飙，现货白银站上92美元，锡铜新高",
@@ -67,19 +80,6 @@
           "time_info": "[00时38分 ~ 01时32分]"
         },
         {
-          "title": "美股收盘：三大指数集体收跌 七巨头全军覆没 银行股持续回落",
-          "url": "https://www.cls.cn/detail/2258154",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时23分 ~ 13时31分]"
-        },
-        {
           "title": "科技股重挫拖累美股，美小盘股指跑赢大盘，白银突破93美元，金银比跌破50",
           "url": "https://wallstreetcn.com/articles/3763270",
           "source": "华尔街见闻",
@@ -89,6 +89,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
+        },
+        {
+          "title": "美股半导体设备股夜盘拉升，阿斯麦(ASML.O)涨超5%，台积电(TSM.N)涨超4%。此前台积电表示未来三年资本支出将更高。",
+          "url": "https://flash.jin10.com/detail/20260115142957597800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时41分"
         },
         {
           "title": "网络股指数ETF收跌约1.7%，领跌美股行业ETF，标普能源板块涨超2.2%",
@@ -258,11 +269,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             12,
-            15
+            15,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时07分 ~ 13时31分]"
+          "appearance_count": 3,
+          "time_info": "[12时07分 ~ 14时41分]"
         },
         {
           "title": "谷歌：在Gemini推出个人智能。 用户可以通过APPs将Gemini个性化。 让Gemini更加个性化，更加主动，更加强大。",
@@ -296,6 +308,46 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时38分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "中长期美债收益率跌约4个基点",
+          "url": "https://wallstreetcn.com/livenews/3037290",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时28分 ~ 06时29分]"
+        },
+        {
+          "title": "道明证券：2/10年期美债收益率曲线或长期趋平",
+          "url": "https://flash.jin10.com/detail/20260115142900623800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时41分"
+        },
+        {
+          "title": "避险情绪升温推低美债收益率 30年期国债创年内新低",
+          "url": "https://flash.jin10.com/detail/20260115013842934800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时41分"
         }
       ]
     },
@@ -340,7 +392,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时31分"
         },
@@ -354,35 +406,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时07分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "中长期美债收益率跌约4个基点",
-          "url": "https://wallstreetcn.com/livenews/3037290",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时28分 ~ 06时29分]"
-        },
-        {
-          "title": "避险情绪升温推低美债收益率 30年期国债创年内新低",
-          "url": "https://flash.jin10.com/detail/20260115013842934800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时41分"
         }
       ]
     },
@@ -427,7 +450,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时31分"
         },
@@ -441,6 +464,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "具身智能",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "蚂蚁数科与杭州具身智能中试基地达成合作意向 推动具身智能商业化落地",
+          "url": "https://wallstreetcn.com/livenews/3037578",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时41分"
         }
       ]
     },

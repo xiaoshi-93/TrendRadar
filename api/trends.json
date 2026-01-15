@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-15T15:31:41.427405+08:00",
-  "total_titles_processed": 1384,
+  "generated_at": "2026-01-15T16:38:19.692750+08:00",
+  "total_titles_processed": 1494,
   "failed_sources": [],
   "trends": [
     {
@@ -40,8 +40,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时04分 ~ 15时31分]"
+          "appearance_count": 6,
+          "time_info": "[10时04分 ~ 16时38分]"
         },
         {
           "title": "美股集体低开 携程跌近17%",
@@ -274,8 +274,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时07分 ~ 15时31分]"
+          "appearance_count": 5,
+          "time_info": "[12时07分 ~ 16时38分]"
         },
         {
           "title": "谷歌：在Gemini推出个人智能。 用户可以通过APPs将Gemini个性化。 让Gemini更加个性化，更加主动，更加强大。",
@@ -334,7 +334,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时31分"
         },
@@ -356,7 +356,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时31分"
         }

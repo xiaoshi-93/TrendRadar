@@ -1,422 +1,11 @@
 {
-  "generated_at": "2026-01-15T23:32:31.988498+08:00",
-  "total_titles_processed": 2200,
+  "generated_at": "2026-01-16T00:41:35.105690+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美股",
-      "match_count": 27,
-      "titles": [
-        {
-          "title": "科技股下挫拖累美股，金银铜锡盘中齐创新高，金银比跌破50，原油重挫",
-          "url": "https://wallstreetcn.com/articles/3763270",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[10时04分 ~ 23时32分]"
-        },
-        {
-          "title": "CPI降温未改降息预期，银行股拖累美股，摩根大通跌超4%，金银新高但黄金转跌",
-          "url": "https://wallstreetcn.com/articles/3763167",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时38分 ~ 07时23分]"
-        },
-        {
-          "title": "科技股暴跌，美股指跌幅扩大，纳指跌1.5%，金属狂飙，现货白银站上92美元，锡铜新高",
-          "url": "https://wallstreetcn.com/articles/3763270",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时40分 ~ 06时29分]"
-        },
-        {
-          "title": "美股集体低开 携程跌近17%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E9%9B%86%E4%BD%93%E4%BD%8E%E5%BC%80+%E6%90%BA%E7%A8%8B%E8%B7%8C%E8%BF%9117%25",
-          "source": "百度热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时38分 ~ 07时23分]"
-        },
-        {
-          "title": "美股收盘：三大指数集体收跌 七巨头全军覆没 银行股持续回落",
-          "url": "https://www.cls.cn/detail/2258154",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时23分 ~ 14时41分]"
-        },
-        {
-          "title": "伊朗局势担忧加剧，美股指集体下挫，纳指跌近0.8%，金属狂飙，现货白银站上92美元，锡铜新高",
-          "url": "https://wallstreetcn.com/articles/3763270",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时38分 ~ 01时32分]"
-        },
-        {
-          "title": "科技股重挫拖累美股，美小盘股指跑赢大盘，白银突破93美元，金银比跌破50",
-          "url": "https://wallstreetcn.com/articles/3763270",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时23分"
-        },
-        {
-          "title": "台积电财报点燃市场情绪，美股指集体高开，台积电涨超4%，伊朗局势暂时降温，原油跌5%，白银一度跌7%",
-          "url": "https://wallstreetcn.com/articles/3763348",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时32分"
-        },
-        {
-          "title": "美股半导体设备股夜盘拉升，阿斯麦(ASML.O)涨超5%，台积电(TSM.N)涨超4%。此前台积电表示未来三年资本支出将更高。",
-          "url": "https://flash.jin10.com/detail/20260115142957597800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时41分"
-        },
-        {
-          "title": "网络股指数ETF收跌约1.7%，领跌美股行业ETF，标普能源板块涨超2.2%",
-          "url": "https://wallstreetcn.com/livenews/3037301",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时28分 ~ 06时29分]"
-        },
-        {
-          "title": "金十图示：2026年01月14日（周三）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260115050531249800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时28分 ~ 06时29分]"
-        },
-        {
-          "title": "金十图示：2026年01月14日（周三）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260115050517521800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时28分 ~ 06时29分]"
-        },
-        {
-          "title": "美股收盘：纳指跌1% 携程跌17%",
-          "url": "https://flash.jin10.com/detail/20260115050258501800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时28分 ~ 06时29分]"
-        },
-        {
-          "title": "（美股）费城金银指数收涨0.30%，报393.33点，继续创收盘历史新高。 （全球时段）纽约证交所ARCA金矿开采商指数涨0.43%，报2757.16点，也创历史新高，北京时间22:30美股开盘以来V形反转。 （美股）原材料指数收涨1.10%，报252.44点。 （美股）金属与矿业指数涨2.48%，报242.99点。",
-          "url": "https://wallstreetcn.com/livenews/3037317",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时29分 ~ 07时23分]"
-        },
-        {
-          "title": "贝莱德第四财季管理资产总额14.04万亿美元，同比增长22%，市场预期13.94万亿美元。 第四财季调整后每股收益（EPS）13.16美元，去年同期为11.93美元，市场预期12.28美元。 第四财季营收70.1亿美元，同比增长23%，市场预期67.8亿美元。 第四财季股票类净流入1260.5亿美元，固定收益类净流入837.7亿美元。 贝莱德美股盘前涨超1.6%。",
-          "url": "https://wallstreetcn.com/livenews/3037945",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时26分"
-        },
-        {
-          "title": "美股盘前，明星科技股走强，阿斯麦(ASML.O)涨超5%、台积电(TSM.N)涨超3%、美光科技(MU.O)涨超2%。",
-          "url": "https://flash.jin10.com/detail/20260115170737038800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时34分"
-        },
-        {
-          "title": "摩根士丹利：第四季度净营收178.9亿美元，市场预估176.2亿美元。 第四季度每股收益2.68美元。 第四季度财富管理净营收84.3亿美元，同比增长13%，市场预估83.4亿美元。 第四季度股票销售和交易业务营收36.7亿美元，同比增长10%，市场预估35.5亿美元。 第四季度FICC业务销售和交易营收17.6亿美元，市场预估19.2亿美元。 摩根士丹利美股盘前涨近1.4%。",
-          "url": "https://wallstreetcn.com/livenews/3037995",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时57分"
-        },
-        {
-          "title": "美股盘前，明星科技股普涨，台积电涨超4%，台积电业绩指引全线超预期，未来三年资本支出将显著增加；阿斯麦涨超5%，英特尔涨超1%，美光科技涨超2%。SanDisk涨超3%，伯恩斯坦将其目标价从300调整到580美元。",
-          "url": "https://wallstreetcn.com/livenews/3037834",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时34分"
-        },
-        {
-          "title": "高盛：第四季度净营收134.5亿美元，同比下降3%。 第四季度投资银行业务营收25.8亿美元，同比+25%。 第四季度每股收益14.01美元。 第四季度FICC业务销售和交易营收 31.1亿美元，市场预估29.5亿美元。 第四季度股票销售和交易业务营收43.1亿美元，市场预估36.5亿美元。 高盛美股盘前涨0.7%。",
-          "url": "https://wallstreetcn.com/livenews/3037993",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时57分"
-        },
-        {
-          "title": "台积电涨超6%，美股盘中总市值突破1.8万亿美元",
-          "url": "https://wallstreetcn.com/livenews/3038101",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时32分"
-        },
-        {
-          "title": "周四美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3038052",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时31分"
-        },
-        {
-          "title": "美股集体高开 半导体板块领涨",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E9%9B%86%E4%BD%93%E9%AB%98%E5%BC%80+%E5%8D%8A%E5%AF%BC%E4%BD%93%E6%9D%BF%E5%9D%97%E9%A2%86%E6%B6%A8",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时32分"
-        },
-        {
-          "title": "金十图示：2026年01月14日（周三）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260115013113108800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时41分"
-        },
-        {
-          "title": "台积电美股盘前涨超6%。",
-          "url": "https://wallstreetcn.com/livenews/3037925",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时26分"
-        },
-        {
-          "title": "金十图示：2026年01月14日（周三）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260115013047739800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时41分"
-        },
-        {
-          "title": "金十数据整理：每日美股市场要闻速递（2026-01-15）",
-          "url": "https://flash.jin10.com/detail/20260115215848815800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时31分"
-        },
-        {
-          "title": "中概指数美股盘初跌超1%，世纪互联跌7%，万国数据跌约3%，小马智行涨约3%，富时A50回吐涨幅",
-          "url": "https://wallstreetcn.com/livenews/3038083",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时32分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "金价彻底杀疯了",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%BD%BB%E5%BA%95%E6%9D%80%E7%96%AF%E4%BA%86%23&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时56分 ~ 23时32分]"
-        },
-        {
-          "title": "金价上涨 银行保管箱“一箱难求”",
-          "url": "https://www.toutiao.com/trending/7595232648327495722/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时31分"
-        },
-        {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11,
-            21,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时46分 ~ 23时32分]"
-        },
-        {
-          "title": "金十图示：2026年01月15日（周四）上海金午盘价为1032.73元/克，较国际金价（1032.72元/克）高0.01元/克",
-          "url": "https://flash.jin10.com/detail/20260115150320133800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时31分"
-        },
-        {
-          "title": "投资者获利了结及地缘政治担忧缓解推动金价回落",
-          "url": "https://flash.jin10.com/detail/20260115170324188800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时34分"
-        },
-        {
-          "title": "世界黄金协会：2025年金价共计53次刷新历史记录",
-          "url": "https://wallstreetcn.com/livenews/3038024",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时46分"
-        },
-        {
-          "title": "金十图示：2026年01月15日（周四）上海金早盘价为1033.61元/克，较国际金价（1031.08元/克）高2.53元/克",
-          "url": "https://flash.jin10.com/detail/20260115110344751800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时07分"
-        },
-        {
-          "title": "金价再创历史新高 牛市还能走多远",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E5%86%8D%E5%88%9B%E5%8E%86%E5%8F%B2%E6%96%B0%E9%AB%98+%E7%89%9B%E5%B8%82%E8%BF%98%E8%83%BD%E8%B5%B0%E5%A4%9A%E8%BF%9C",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时31分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
-      "match_count": 7,
+      "match_count": 3,
       "titles": [
         {
           "title": "如何看待姚班大神陈立杰官宣入职 OpenAI？",
@@ -426,322 +15,120 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时46分 ~ 23时32分]"
-        },
-        {
-          "title": "OpenAI：将与Cerebras合作，在我们的平台上新增750兆瓦的超低时延人工智能算力。产能将分多个批次在2028年前上线。",
-          "url": "https://flash.jin10.com/detail/20260115041052630800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时28分"
+          "time_info": "00时41分"
         },
         {
-          "title": "据华尔街日报，OpenAI与Cerebras敲定超100亿美元协议，承诺购买至多750 MW算力。 另据彭博，OpenAI确认与Cerebras构建合作伙伴关系，但条款没有披露。",
-          "url": "https://wallstreetcn.com/livenews/3037274",
+          "title": "OpenAI寻求美国供应商，推动机器人与AI设备计划",
+          "url": "https://wallstreetcn.com/livenews/3038124",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时28分 ~ 05时28分]"
-        },
-        {
-          "title": "Anthropic与OpenAI就IPO采取初步行动。 马斯克旗下太空探索Spacex已经为IPO面试了多家承销行。（纽约时报）",
-          "url": "https://wallstreetcn.com/livenews/3037234",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时41分 ~ 03时25分]"
-        },
-        {
-          "title": "OpenAI与Cerebras达成百亿美元算力合作",
-          "url": "https://flash.jin10.com/detail/20260115045202393800",
-          "source": "金十数据",
-          "ranks": [
-            11
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时28分"
+          "time_info": "00时41分"
         },
         {
-          "title": "据华尔街日报：OpenAI将在三年内从初创公司Cerebras购买多达750兆瓦的算力。",
-          "url": "https://flash.jin10.com/detail/20260115040115164800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时28分"
-        },
-        {
-          "title": "据华尔街日报：OpenAI与初创公司Cerebras达成计算合作，OpenAI将使用Cerebras设计的芯片为ChatGPT提供动力。OpenAI与Cerebras的交易价值超过100亿美元。",
-          "url": "https://flash.jin10.com/detail/20260115040037235800",
+          "title": "OpenAI 布局美国供应链 全线扩张软硬件版图",
+          "url": "https://flash.jin10.com/detail/20260116000902007800",
           "source": "金十数据",
           "ranks": [
             16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时28分"
+          "time_info": "00时41分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "科技股下挫拖累美股，金银铜锡盘中齐创新高，金银比跌破50，原油重挫",
+          "url": "https://wallstreetcn.com/articles/3763270",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时41分"
+        },
+        {
+          "title": "台积电财报点燃市场情绪，美股指集体高开，台积电涨超4%，伊朗局势暂时降温，原油跌5%，白银一度跌7%",
+          "url": "https://wallstreetcn.com/articles/3763348",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时41分"
+        },
+        {
+          "title": "台积电涨超6%，美股盘中总市值突破1.8万亿美元",
+          "url": "https://wallstreetcn.com/livenews/3038101",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时41分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DeepSeek 梁文锋旗下幻方量化 2025 年收益率 56.6%，如何评价这一业绩？",
+          "url": "https://www.zhihu.com/question/1995072623625855863",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时41分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 1,
       "titles": [
         {
           "title": "复盘苹果AI为何转投谷歌",
           "url": "https://search.bilibili.com/all?keyword=%E5%A4%8D%E7%9B%98%E8%8B%B9%E6%9E%9CAI%E4%B8%BA%E4%BD%95%E8%BD%AC%E6%8A%95%E8%B0%B7%E6%AD%8C",
           "source": "bilibili 热搜",
           "ranks": [
-            12,
-            15,
-            9,
-            10,
-            11,
-            14,
-            22,
-            26,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时07分 ~ 23时32分]"
-        },
-        {
-          "title": "谷歌：在Gemini推出个人智能。 用户可以通过APPs将Gemini个性化。 让Gemini更加个性化，更加主动，更加强大。",
-          "url": "https://wallstreetcn.com/livenews/3037200",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时38分"
-        },
-        {
-          "title": "谷歌：即日起，符合条件的美国谷歌AI Pro和AI Ultra订阅用户将在未来一周内陆续获得访问权限。",
-          "url": "https://flash.jin10.com/detail/20260115000815990800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时38分"
-        },
-        {
-          "title": "谷歌：Gemini推出个人智能。",
-          "url": "https://flash.jin10.com/detail/20260115000759696800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时38分"
+          "time_info": "00时41分"
         }
       ]
     },
     {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "如何评价 DeepSeek 发布梁文锋署名论文，提出「条件记忆」及 Engram 记忆检索架构？有哪些亮点？",
-          "url": "https://www.zhihu.com/question/1994233409871050526",
-          "source": "知乎",
-          "ranks": [
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时38分 ~ 07时23分]"
-        },
-        {
-          "title": "DeepSeek 梁文锋旗下幻方量化 2025 年收益率 56.6%，如何评价这一业绩？",
-          "url": "https://www.zhihu.com/question/1995072623625855863",
-          "source": "知乎",
-          "ranks": [
-            5,
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时56分 ~ 23时32分]"
-        },
-        {
-          "title": "梁文锋新论文剧透下一代模型",
-          "url": "https://search.bilibili.com/all?keyword=%E6%A2%81%E6%96%87%E9%94%8B%E6%96%B0%E8%AE%BA%E6%96%87%E5%89%A7%E9%80%8F%E4%B8%8B%E4%B8%80%E4%BB%A3%E6%A8%A1%E5%9E%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时31分 ~ 07时23分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "中长期美债收益率跌约4个基点",
-          "url": "https://wallstreetcn.com/livenews/3037290",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时28分 ~ 06时29分]"
-        },
-        {
-          "title": "道明证券：2/10年期美债收益率曲线或长期趋平",
-          "url": "https://flash.jin10.com/detail/20260115142900623800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时41分"
-        },
-        {
-          "title": "避险情绪升温推低美债收益率 30年期国债创年内新低",
-          "url": "https://flash.jin10.com/detail/20260115013842934800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时41分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "美元指数短线拉升，现涨0.29%，报99.36。现货黄金短线下挫，现报4596美元/盎司。纳斯达克100指数期货盘前涨幅扩大至1%。",
-          "url": "https://wallstreetcn.com/livenews/3038041",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时46分 ~ 22时31分]"
-        },
-        {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨3.15%，暂报4382.96点。 MarketVectorTM数字资产100中盘指数涨2.56%，报3980.94点。 MarketVector数字资产100指数涨4.39%，报20205.32点。 Solana目前涨2.49%，狗狗币涨3.96%，XRP涨1.32%。 比特币涨3.19%，暂报97353.99美元；以太坊涨5.26%，暂报3370.99美元。",
-          "url": "https://wallstreetcn.com/livenews/3037221",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时32分 ~ 02时41分]"
-        },
-        {
-          "title": "周三（1月14日）纽约尾盘，ICE美元指数跌0.06%，报99.077点，日内交投区间为99.248-98.933点，北京时间00:02刷新日低，全天V形走势。 彭博美元指数跌0.10%，报1210.52点，09:35微涨至1212.63点刷新日高，最后震荡走低，00:03刷新日低至1209.09点。",
-          "url": "https://wallstreetcn.com/livenews/3037289",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时28分 ~ 06时29分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "自动驾驶",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "花旗：文远知行年末自动驾驶车队或扩至2000-3000辆",
-          "url": "https://flash.jin10.com/detail/20260115124210853800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时31分"
-        },
-        {
-          "title": "智能驾驶概念局部异动，威帝股份、索菱股份双双涨停，万集科技、亚太股份、浙江世宝涨超6%，消息上，上海市印发《上海高级别自动驾驶引领区 “模速智行”行动计划》。",
-          "url": "https://wallstreetcn.com/livenews/3037444",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时04分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "具身智能",
+      "keyword_group": "金价",
       "match_count": 1,
       "titles": [
         {
-          "title": "蚂蚁数科与杭州具身智能中试基地达成合作意向 推动具身智能商业化落地",
-          "url": "https://wallstreetcn.com/livenews/3037578",
-          "source": "华尔街见闻-快讯",
+          "title": "金价彻底杀疯了",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%BD%BB%E5%BA%95%E6%9D%80%E7%96%AF%E4%BA%86%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
           "ranks": [
-            18
+            21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时41分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "供应链",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美国财长贝森特称，在与澳大利亚国库部长Jim Chalmers的会晤中，赞扬了澳大利亚“致力于建立强有力的、以行动为导向的伙伴关系，以创建长期安全的关键矿产供应链”。 财政部就贝森特1月12日与Chalmers的会面置评。 贝森特和Chalmers讨论了“关键矿产机遇，以及经济和国家安全方面的共同关切”。",
-          "url": "https://wallstreetcn.com/livenews/3037231",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时41分 ~ 03时25分]"
+          "time_info": "00时41分"
         }
       ]
     }

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-16T15:31:31.224763+08:00",
-  "total_titles_processed": 1297,
+  "generated_at": "2026-01-16T16:37:50.063798+08:00",
+  "total_titles_processed": 1404,
   "failed_sources": [],
   "trends": [
     {
@@ -40,8 +40,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时06分 ~ 15时31分]"
+          "appearance_count": 8,
+          "time_info": "[10时06分 ~ 16时37分]"
         },
         {
           "title": "台积电季报提振市场信心 芯片股美股盘前集体上涨 | 今夜看点",
@@ -69,17 +69,6 @@
           "time_info": "[07时27分 ~ 13时31分]"
         },
         {
-          "title": "芯片股撑美股反弹，半导体指数新高，台积电涨超4%，白银走V收复盘中大跌",
-          "url": "https://wallstreetcn.com/articles/3763348",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时27分"
-        },
-        {
           "title": "台积电财报引爆AI行情：美股芯片股普涨 阿斯麦市值突破5000亿美元",
           "url": "https://www.cls.cn/detail/2259861",
           "source": "财联社热门",
@@ -89,8 +78,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时31分 ~ 15时31分]"
+          "appearance_count": 6,
+          "time_info": "[13时31分 ~ 16时37分]"
+        },
+        {
+          "title": "芯片股撑美股反弹，半导体指数新高，台积电涨超4%，白银走V收复盘中大跌",
+          "url": "https://wallstreetcn.com/articles/3763348",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时27分"
         },
         {
           "title": "金十图示：2026年01月15日（周四）美股热门股票行情一览（美股收盘）",
@@ -271,8 +271,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时31分 ~ 15时31分]"
+          "appearance_count": 6,
+          "time_info": "[13时31分 ~ 16时37分]"
         },
         {
           "title": "OpenAI寻求美国供应商，推动机器人与AI设备计划",
@@ -345,7 +345,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时31分"
         }

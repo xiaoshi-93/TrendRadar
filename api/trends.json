@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-16T19:25:32.241641+08:00",
-  "total_titles_processed": 1633,
+  "generated_at": "2026-01-16T20:56:40.753974+08:00",
+  "total_titles_processed": 1757,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时06分 ~ 19时25分]"
+          "appearance_count": 11,
+          "time_info": "[10时06分 ~ 20时56分]"
         },
         {
           "title": "台积电财报点燃市场情绪，美股指集体高开，台积电涨超4%，伊朗局势暂时降温，原油跌5%，白银一度跌7%",
@@ -272,8 +272,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时31分 ~ 19时25分]"
+          "appearance_count": 9,
+          "time_info": "[13时31分 ~ 20时56分]"
         },
         {
           "title": "OpenAI寻求美国供应商，推动机器人与AI设备计划",

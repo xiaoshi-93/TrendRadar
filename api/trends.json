@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-17T18:27:01.308409+08:00",
-  "total_titles_processed": 1258,
+  "generated_at": "2026-01-17T19:21:55.971655+08:00",
+  "total_titles_processed": 1330,
   "failed_sources": [],
   "trends": [
     {
@@ -31,8 +31,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时26分 ~ 18时27分]"
+          "appearance_count": 14,
+          "time_info": "[07时26分 ~ 19时21分]"
         },
         {
           "title": "美股期指走高 美联储静默期前市场谨慎乐观 | 今夜看点",
@@ -163,6 +163,17 @@
       "match_count": 10,
       "titles": [
         {
+          "title": "解读ChatGPT加入广告背后",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBChatGPT%E5%8A%A0%E5%85%A5%E5%B9%BF%E5%91%8A%E8%83%8C%E5%90%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时24分 ~ 19时21分]"
+        },
+        {
           "title": "清华姚班陈立杰加入OpenAI",
           "url": "https://search.bilibili.com/all?keyword=%E6%B8%85%E5%8D%8E%E5%A7%9A%E7%8F%AD%E9%99%88%E7%AB%8B%E6%9D%B0%E5%8A%A0%E5%85%A5OpenAI",
           "source": "bilibili 热搜",
@@ -173,17 +184,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时36分 ~ 07时26分]"
-        },
-        {
-          "title": "解读ChatGPT加入广告背后",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBChatGPT%E5%8A%A0%E5%85%A5%E5%B9%BF%E5%91%8A%E8%83%8C%E5%90%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时24分 ~ 18时27分]"
         },
         {
           "title": "OpenAI联合创始人兼总裁Greg Brockman：马斯克曾表示他需要持有OpenAI的多数股权。",
@@ -254,6 +254,18 @@
           "time_info": "[02时41分 ~ 04时28分]"
         },
         {
+          "title": "马斯克就 \"不当得利 \"向 OpenAI和微软索赔高达1340亿美元",
+          "url": "https://wallstreetcn.com/livenews/3039109",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时27分 ~ 19时21分]"
+        },
+        {
           "title": "ChatGPT将加入广告",
           "url": "https://search.bilibili.com/all?keyword=ChatGPT%E5%B0%86%E5%8A%A0%E5%85%A5%E5%B9%BF%E5%91%8A",
           "source": "bilibili 热搜",
@@ -276,17 +288,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时24分 ~ 04时28分]"
-        },
-        {
-          "title": "马斯克就 \"不当得利 \"向 OpenAI和微软索赔高达1340亿美元",
-          "url": "https://wallstreetcn.com/livenews/3039109",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时27分"
         }
       ]
     },
@@ -468,11 +469,12 @@
           "url": "https://www.zhihu.com/question/1995200812075480347",
           "source": "知乎",
           "ranks": [
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时26分 ~ 18时27分]"
+          "appearance_count": 3,
+          "time_info": "[18时26分 ~ 19时21分]"
         }
       ]
     }

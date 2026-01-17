@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-17T16:33:13.454823+08:00",
-  "total_titles_processed": 1137,
+  "generated_at": "2026-01-17T17:26:37.276689+08:00",
+  "total_titles_processed": 1191,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时26分 ~ 16时33分]"
+          "appearance_count": 11,
+          "time_info": "[07时26分 ~ 17时26分]"
         },
         {
           "title": "美股期指走高 美联储静默期前市场谨慎乐观 | 今夜看点",
@@ -44,8 +44,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时36分 ~ 16时33分]"
+          "appearance_count": 17,
+          "time_info": "[00时36分 ~ 17时26分]"
         },
         {
           "title": "科技股助推美股指全线上涨，纳指涨0.5%，白银价格逆势重挫5%",
@@ -181,8 +181,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时24分 ~ 16时33分]"
+          "appearance_count": 4,
+          "time_info": "[15时24分 ~ 17时26分]"
         },
         {
           "title": "OpenAI联合创始人兼总裁Greg Brockman：马斯克曾表示他需要持有OpenAI的多数股权。",
@@ -426,11 +426,12 @@
           "ranks": [
             3,
             11,
-            19
+            19,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时38分 ~ 16时33分]"
+          "appearance_count": 4,
+          "time_info": "[14时38分 ~ 17时26分]"
         },
         {
           "title": "金价波动",

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-17T10:01:28.330205+08:00",
-  "total_titles_processed": 761,
+  "generated_at": "2026-01-17T11:38:30.408182+08:00",
+  "total_titles_processed": 859,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
           "ranks": [
             12,
             11,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时36分 ~ 10时01分]"
+          "appearance_count": 13,
+          "time_info": "[00时36分 ~ 11时38分]"
         },
         {
           "title": "科技股助推美股指全线上涨，纳指涨0.5%，白银价格逆势重挫5%",
@@ -59,6 +60,18 @@
           "time_info": "[05时27分 ~ 10时01分]"
         },
         {
+          "title": "美股收盘：三大指数微幅下跌 财报季开局谨慎 美光科技涨超7%市值破4000亿",
+          "url": "https://www.cls.cn/detail/2260993",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时26分 ~ 11时38分]"
+        },
+        {
           "title": "网络股ETF收跌将近0.9%，领跌美股行业ETF，半导体ETF涨1%",
           "url": "https://wallstreetcn.com/livenews/3039017",
           "source": "华尔街见闻-快讯",
@@ -81,18 +94,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时27分 ~ 10时01分]"
-        },
-        {
-          "title": "美股收盘：三大指数微幅下跌 财报季开局谨慎 美光科技涨超7%市值破4000亿",
-          "url": "https://www.cls.cn/detail/2260993",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时26分 ~ 10时01分]"
         },
         {
           "title": "（美股）费城金银指数收涨0.06%，报395.01点，本周累计上涨5.47%。 （全球时段）纽约证交所ARCA金矿开采商指数收跌0.06%，报2760.43点，特朗普谈论哈塞特带来一波尖锐的V形走势，本周累涨5.38%。 （美股）原材料指数收跌0.21%，报252.23点，本周累涨2.89%。 （美股）金属与矿业指数收跌1.09%，报241.90点，本周累涨4.46%。",
@@ -171,17 +172,6 @@
           "time_info": "[00时36分 ~ 07时26分]"
         },
         {
-          "title": "OpenAI联合创始人兼总裁Greg Brockman：马斯克曾表示他需要持有OpenAI的多数股权。",
-          "url": "https://wallstreetcn.com/livenews/3039069",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时01分"
-        },
-        {
           "title": "OpenAI：目前尚未推出广告，但我们计划在未来几周内开始在美国针对ChatGPT免费版和Go层级的已登录成年人进行测试。",
           "url": "https://flash.jin10.com/detail/20260117020334950800",
           "source": "金十数据",
@@ -206,6 +196,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时41分 ~ 04时28分]"
+        },
+        {
+          "title": "OpenAI联合创始人兼总裁Greg Brockman：马斯克曾表示他需要持有OpenAI的多数股权。",
+          "url": "https://wallstreetcn.com/livenews/3039069",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时01分 ~ 11时38分]"
         },
         {
           "title": "OpenAI推出ChatGPT Go，美国订阅费用为每个月8美元，目前已在全球范围内上线。",
@@ -309,11 +311,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            22
+            22,
+            30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时27分 ~ 10时01分]"
+          "appearance_count": 5,
+          "time_info": "[05时27分 ~ 11时38分]"
         },
         {
           "title": "谷歌公司将针对美国法院判决“搜索中出现的非法操纵”提出上诉。",
@@ -333,11 +336,12 @@
           "url": "https://wallstreetcn.com/livenews/3039053",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            17,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时01分 ~ 11时38分]"
         }
       ]
     },
@@ -366,6 +370,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时37分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金价波动",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时38分"
         }
       ]
     }

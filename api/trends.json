@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-17T20:51:08.778334+08:00",
-  "total_titles_processed": 1427,
+  "generated_at": "2026-01-17T21:33:17.431236+08:00",
+  "total_titles_processed": 1463,
   "failed_sources": [],
   "trends": [
     {
@@ -28,11 +28,12 @@
             3,
             5,
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[07时26分 ~ 20时51分]"
+          "appearance_count": 18,
+          "time_info": "[07时26分 ~ 21时33分]"
         },
         {
           "title": "美股期指走高 美联储静默期前市场谨慎乐观 | 今夜看点",
@@ -171,8 +172,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时24分 ~ 20时51分]"
+          "appearance_count": 11,
+          "time_info": "[15时24分 ~ 21时33分]"
         },
         {
           "title": "清华姚班陈立杰加入OpenAI",
@@ -489,11 +490,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32406619",
           "source": "澎湃新闻",
           "ranks": [
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时50分 ~ 20时51分]"
+          "appearance_count": 4,
+          "time_info": "[20时50分 ~ 21时33分]"
         }
       ]
     }

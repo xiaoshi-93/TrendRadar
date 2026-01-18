@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-18T14:38:51.965847+08:00",
-  "total_titles_processed": 823,
+  "generated_at": "2026-01-18T15:25:38.978854+08:00",
+  "total_titles_processed": 864,
   "failed_sources": [],
   "trends": [
     {
@@ -24,11 +24,23 @@
           "url": "https://wallstreetcn.com/articles/3763533",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时38分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时38分 ~ 15时25分]"
+        },
+        {
+          "title": "马斯克以「构成欺诈」为由向 OpenAI 、微软索赔 1340 亿美元，具体是怎么回事？他能索赔成功吗？",
+          "url": "https://www.zhihu.com/question/1995914466735388213",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时29分 ~ 15时25分]"
         },
         {
           "title": "AI巨头正式对簿公堂：马斯克向OpenAI、微软索赔最高1340亿美元",
@@ -42,26 +54,16 @@
           "time_info": "[12时09分 ~ 13时29分]"
         },
         {
-          "title": "马斯克以「构成欺诈」为由向 OpenAI 、微软索赔 1340 亿美元，具体是怎么回事？他能索赔成功吗？",
-          "url": "https://www.zhihu.com/question/1995914466735388213",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时29分 ~ 14时38分]"
-        },
-        {
           "title": "翁家翌谈OpenAI模型跃迁",
           "url": "https://search.bilibili.com/all?keyword=%E7%BF%81%E5%AE%B6%E7%BF%8C%E8%B0%88OpenAI%E6%A8%A1%E5%9E%8B%E8%B7%83%E8%BF%81",
           "source": "bilibili 热搜",
           "ranks": [
-            16
+            16,
+            28
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时13分"
+          "appearance_count": 2,
+          "time_info": "[10时13分 ~ 15时25分]"
         }
       ]
     },
@@ -82,24 +84,25 @@
           "time_info": "[00时29分 ~ 07时24分]"
         },
         {
+          "title": "全球狂买美债 中国为何“大甩卖”",
+          "url": "https://www.toutiao.com/trending/7596537658717785642/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            9,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时29分 ~ 15时25分]"
+        },
+        {
           "title": "中国大规模抛售美债意味着什么",
           "url": "https://www.toutiao.com/trending/7596539083501866505/",
           "source": "今日头条",
           "ranks": [
             10,
             6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时29分 ~ 14时38分]"
-        },
-        {
-          "title": "全球狂买美债 中国为何“大甩卖”",
-          "url": "https://www.toutiao.com/trending/7596537658717785642/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            9
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -135,8 +138,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时09分 ~ 14时38分]"
+          "appearance_count": 4,
+          "time_info": "[12时09分 ~ 15时25分]"
         }
       ]
     },

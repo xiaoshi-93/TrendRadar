@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-18T22:24:03.780014+08:00",
-  "total_titles_processed": 1334,
+  "generated_at": "2026-01-18T23:25:31.373895+08:00",
+  "total_titles_processed": 1403,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时38分 ~ 22时24分]"
+          "appearance_count": 12,
+          "time_info": "[14时38分 ~ 23时25分]"
         },
         {
           "title": "解读ChatGPT加入广告背后",
@@ -113,6 +113,35 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美股收盘：三大指数微幅下跌 财报季开局谨慎 美光科技涨超7%市值破4000亿",
+          "url": "https://www.cls.cn/detail/2260993",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时29分 ~ 10时13分]"
+        },
+        {
+          "title": "美股明日休市 金银油交易提前结束",
+          "url": "https://flash.jin10.com/detail/20260118225633271800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
+        }
+      ]
+    },
+    {
       "keyword_group": "具身智能",
       "match_count": 2,
       "titles": [
@@ -158,26 +187,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时21分 ~ 22时24分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美股收盘：三大指数微幅下跌 财报季开局谨慎 美光科技涨超7%市值破4000亿",
-          "url": "https://www.cls.cn/detail/2260993",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时29分 ~ 10时13分]"
+          "appearance_count": 6,
+          "time_info": "[19时21分 ~ 23时25分]"
         }
       ]
     },

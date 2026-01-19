@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-19T21:54:02.611379+08:00",
-  "total_titles_processed": 1646,
+  "generated_at": "2026-01-19T22:34:14.643837+08:00",
+  "total_titles_processed": 1732,
   "failed_sources": [],
   "trends": [
     {
@@ -19,6 +19,17 @@
           "time_info": "[17时40分 ~ 21时02分]"
         },
         {
+          "title": "格陵兰引发关税战风险，美股指期货走低，“马丁·路德·金纪念日”美股债休市，金银再创新高，铜价逼近13000",
+          "url": "https://wallstreetcn.com/articles/3763546",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时53分 ~ 22时34分]"
+        },
+        {
           "title": "美股明日休市 金银油交易提前结束",
           "url": "https://flash.jin10.com/detail/20260118225633271800",
           "source": "金十数据",
@@ -30,17 +41,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时32分 ~ 05时23分]"
-        },
-        {
-          "title": "格陵兰引发关税战风险，美股指期货走低，“马丁·路德·金纪念日”美股债休市，金银再创新高，铜价逼近13000",
-          "url": "https://wallstreetcn.com/articles/3763546",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时53分 ~ 21时54分]"
         },
         {
           "title": "格陵兰引发美欧关税战风险，欧股大幅低开、美股期货下跌，金银再创新高，铜价逼近13000",
@@ -192,6 +192,23 @@
           "is_new": false,
           "appearance_count": 17,
           "time_info": "[00时31分 ~ 16时41分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "谷歌的Gemini业务销售额预计将飙升",
+          "url": "https://flash.jin10.com/detail/20260119221021907800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
         }
       ]
     },

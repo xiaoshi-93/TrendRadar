@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-19T21:02:23.946497+08:00",
-  "total_titles_processed": 1568,
+  "generated_at": "2026-01-19T21:54:02.611379+08:00",
+  "total_titles_processed": 1646,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "格陵兰引发关税战风险，欧美股市双双大跌，金银再创新高，铜价逼近13000",
@@ -30,6 +30,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时32分 ~ 05时23分]"
+        },
+        {
+          "title": "格陵兰引发关税战风险，美股指期货走低，“马丁·路德·金纪念日”美股债休市，金银再创新高，铜价逼近13000",
+          "url": "https://wallstreetcn.com/articles/3763546",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时53分 ~ 21时54分]"
         },
         {
           "title": "格陵兰引发美欧关税战风险，欧股大幅低开、美股期货下跌，金银再创新高，铜价逼近13000",

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-20T18:35:45.420558+08:00",
-  "total_titles_processed": 1560,
+  "generated_at": "2026-01-20T19:29:16.595383+08:00",
+  "total_titles_processed": 1650,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[07时26分 ~ 18时35分]"
+          "appearance_count": 17,
+          "time_info": "[07时26分 ~ 19时29分]"
         },
         {
           "title": "格陵兰引发关税战风险，欧美股齐跌，“马丁·路德·金纪念日”美股债休市，金银再创新高，铜价逼近13000",
@@ -199,8 +199,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时36分 ~ 18时35分]"
+          "appearance_count": 27,
+          "time_info": "[00时36分 ~ 19时29分]"
         },
         {
           "title": "决定黄金价格的三大属性",
@@ -224,11 +224,12 @@
           "source": "百度热搜",
           "ranks": [
             12,
-            15
+            15,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时38分 ~ 18时35分]"
+          "appearance_count": 5,
+          "time_info": "[17时38分 ~ 19时29分]"
         },
         {
           "title": "金十图示：2026年01月20日（周二）上海金午盘价为1055元/克，较国际金价(1054.32元/克)，高0.68元/克",
@@ -256,8 +257,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时38分 ~ 18时35分]"
+          "appearance_count": 5,
+          "time_info": "[17时38分 ~ 19时29分]"
         },
         {
           "title": "报道：过去一年谷歌Gemini模型授权业务规模实现爆发式增长",

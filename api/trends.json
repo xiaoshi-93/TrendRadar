@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-20T13:35:09.555299+08:00",
-  "total_titles_processed": 1040,
+  "generated_at": "2026-01-20T14:44:21.890113+08:00",
+  "total_titles_processed": 1142,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时06分 ~ 13时35分]"
+          "appearance_count": 6,
+          "time_info": "[10时06分 ~ 14时44分]"
         },
         {
           "title": "三年10倍！OpenAI年化营收突破200亿美元 今年重点推实际应用",
@@ -29,8 +29,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时09分 ~ 13时35分]"
+          "appearance_count": 5,
+          "time_info": "[12时09分 ~ 14时44分]"
         },
         {
           "title": "在 DeepMind 或 OpenAI 工作是什么体验？",
@@ -132,8 +132,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时26分 ~ 13时35分]"
+          "appearance_count": 8,
+          "time_info": "[07时26分 ~ 14时44分]"
         },
         {
           "title": "格陵兰引发关税战风险，美股债休市，欧股重创，美元走低，避险情绪推金银新高",
@@ -160,11 +160,12 @@
             10,
             5,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时36分 ~ 13时35分]"
+          "appearance_count": 18,
+          "time_info": "[00时36分 ~ 14时44分]"
         },
         {
           "title": "决定黄金价格的三大属性",

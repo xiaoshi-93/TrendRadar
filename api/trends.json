@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-21T07:29:00.772378+08:00",
-  "total_titles_processed": 697,
+  "generated_at": "2026-01-21T10:09:15.670670+08:00",
+  "total_titles_processed": 865,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "美股指集体低开，纳指跌1.6%，日债引领全球国债抛售潮，黄金一度突破4750美元",
@@ -19,6 +19,19 @@
           "time_info": "[00时42分 ~ 06时28分]"
         },
         {
+          "title": "格陵兰岛事件升温欧美股市普跌 现货黄金、白银再创新高 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2264127",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时42分 ~ 10时09分]"
+        },
+        {
           "title": "格陵兰引发关税战风险，美股债休市，欧股重创，人民币升破6.96，金银新高",
           "url": "https://wallstreetcn.com/articles/3763546",
           "source": "华尔街见闻",
@@ -30,18 +43,6 @@
           "time_info": "[00时42分 ~ 05时27分]"
         },
         {
-          "title": "格陵兰岛事件升温欧美股市普跌 现货黄金、白银再创新高 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2264127",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时42分 ~ 07时29分]"
-        },
-        {
           "title": "日债风暴叠加格陵兰危机，“抛售美国”重现，美股债汇三杀，黄金再新高，加密货币重挫",
           "url": "https://wallstreetcn.com/articles/3763668",
           "source": "华尔街见闻",
@@ -49,19 +50,31 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时28分 ~ 07时29分]"
+          "appearance_count": 4,
+          "time_info": "[07时28分 ~ 10时09分]"
         },
         {
           "title": "美股收盘：关税阴影再度笼罩市场 三大指数集体大跌 纳指跌超2%",
           "url": "https://www.cls.cn/detail/2264307",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时28分 ~ 10时09分]"
+        },
+        {
+          "title": "【早报】欧美股市齐跌，英伟达、特斯拉跌逾4%；近期多家银行卫星上天",
+          "url": "https://www.cls.cn/detail/2264320",
+          "source": "财联社热门",
+          "ranks": [
+            2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时28分 ~ 07时29分]"
+          "time_info": "[10时08分 ~ 10时09分]"
         },
         {
           "title": "（美股）费城金银指数收涨5.23%，报415.65点，美股长周末归来跳空高开、全天持续高位窄幅震荡。 （全球时段）纽约证交所ARCA金矿开采商指数涨4.65%，报2912.14点，继续创收盘历史新高，北京时间22:30美股开盘之前大致持稳于2780点附近，随后跳空走高至2880点一线并持续高位窄幅震荡。 （美股）原材料指数收涨0.42%，（美股）金属与矿业指数收涨0.96%。",
@@ -256,7 +269,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "格陵兰岛争端为啥会推高金价",
@@ -267,8 +280,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时42分 ~ 07时29分]"
+          "appearance_count": 11,
+          "time_info": "[00时42分 ~ 10时09分]"
         },
         {
           "title": "金价",
@@ -280,8 +293,19 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时42分 ~ 07时29分]"
+          "appearance_count": 11,
+          "time_info": "[00时42分 ~ 10时09分]"
+        },
+        {
+          "title": "金价突破4800美元",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E7%AA%81%E7%A0%B44800%E7%BE%8E%E5%85%83%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时08分 ~ 10时09分]"
         },
         {
           "title": "机构称金价上半年或冲击5000美元",
@@ -290,7 +314,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
         },
@@ -301,7 +325,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
         }
@@ -312,6 +336,22 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "贝森特“安抚”市场：欧洲抛售美债是“虚假叙事”，最早下周公布新美联储主席",
+          "url": "https://wallstreetcn.com/articles/3763688",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时42分 ~ 10时09分]"
+        },
+        {
           "title": "美债日债领跌！格陵兰危机与财政压力引发全球债市抛售潮",
           "url": "https://wallstreetcn.com/articles/3763671",
           "source": "华尔街见闻",
@@ -321,22 +361,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时42分 ~ 07时29分]"
-        },
-        {
-          "title": "贝森特“安抚”市场：欧洲抛售美债是“虚假叙事”，最早下周公布新美联储主席",
-          "url": "https://wallstreetcn.com/articles/3763688",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时42分 ~ 07时29分]"
+          "appearance_count": 11,
+          "time_info": "[00时42分 ~ 10时09分]"
         },
         {
           "title": "丹麦养老基金AkademikerPension拟清仓美债，称美国信用风险“不可忽视”",
@@ -344,11 +370,13 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时28分 ~ 07时29分]"
+          "appearance_count": 5,
+          "time_info": "[06时28分 ~ 10时09分]"
         },
         {
           "title": "30年期美债收益率涨超7.9个基点",

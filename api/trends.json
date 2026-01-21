@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-21T21:02:15.870954+08:00",
-  "total_titles_processed": 1870,
+  "generated_at": "2026-01-21T21:54:51.617502+08:00",
+  "total_titles_processed": 1965,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[07时28分 ~ 21时02分]"
+          "appearance_count": 16,
+          "time_info": "[07时28分 ~ 21时54分]"
         },
         {
           "title": "格陵兰岛事件升温欧美股市普跌 现货黄金、白银再创新高 | 今夜看点",
@@ -80,6 +80,20 @@
           "time_info": "[10时08分 ~ 14时45分]"
         },
         {
+          "title": "寄望达沃斯“降温地缘局势”，美股指期货齐涨，拼多多盘前涨7%，黄金新高后回落，日债大幅反弹",
+          "url": "https://wallstreetcn.com/articles/3763768",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时36分 ~ 21时54分]"
+        },
+        {
           "title": "美股存储概念股齐刷新高！闪迪暴涨10% 投行大幅上调目标价",
           "url": "https://www.cls.cn/detail/2264507",
           "source": "财联社热门",
@@ -94,30 +108,6 @@
           "time_info": "[13时34分 ~ 16时39分]"
         },
         {
-          "title": "嘉信理财四季度净收入63.4亿美元，预估63.7亿美元。 四季度经调整后每股收益1.39美元，预估1.39美元。 第四财季净新增资产总额1582亿美元，预期1440.4亿美元。 嘉信理财美股盘前跌1.5%。",
-          "url": "https://wallstreetcn.com/livenews/3041290",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时02分"
-        },
-        {
-          "title": "寄望达沃斯“降温地缘局势”，美股指期货齐涨，拼多多盘前涨7%，黄金新高后回落，日债大幅反弹",
-          "url": "https://wallstreetcn.com/articles/3763768",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时36分 ~ 21时02分]"
-        },
-        {
           "title": "（美股）费城金银指数收涨5.23%，报415.65点，美股长周末归来跳空高开、全天持续高位窄幅震荡。 （全球时段）纽约证交所ARCA金矿开采商指数涨4.65%，报2912.14点，继续创收盘历史新高，北京时间22:30美股开盘之前大致持稳于2780点附近，随后跳空走高至2880点一线并持续高位窄幅震荡。 （美股）原材料指数收涨0.42%，（美股）金属与矿业指数收涨0.96%。",
           "url": "https://wallstreetcn.com/livenews/3040698",
           "source": "华尔街见闻-快讯",
@@ -128,6 +118,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时28分 ~ 07时29分]"
+        },
+        {
+          "title": "嘉信理财四季度净收入63.4亿美元，预估63.7亿美元。 四季度经调整后每股收益1.39美元，预估1.39美元。 第四财季净新增资产总额1582亿美元，预期1440.4亿美元。 嘉信理财美股盘前跌1.5%。",
+          "url": "https://wallstreetcn.com/livenews/3041290",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时02分 ~ 21时54分]"
         },
         {
           "title": "纽约期银涨6.7%，美股盘前刷新历史高位，逼近96美元",
@@ -190,6 +192,18 @@
           "time_info": "[06时28分 ~ 07时29分]"
         },
         {
+          "title": "奈飞美股盘前跌幅扩大至7.1%。",
+          "url": "https://wallstreetcn.com/livenews/3041281",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时02分 ~ 21时54分]"
+        },
+        {
           "title": "美股三大股指持续走低，标普500指数跌超2%，道指现跌约1.8%，纳指跌2.2%。",
           "url": "https://flash.jin10.com/detail/20260121032659165800",
           "source": "金十数据",
@@ -245,17 +259,6 @@
           "time_info": "02时46分"
         },
         {
-          "title": "奈飞美股盘前跌幅扩大至7.1%。",
-          "url": "https://wallstreetcn.com/livenews/3041281",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时02分"
-        },
-        {
           "title": "拼多多美股盘前涨超7%。",
           "url": "https://wallstreetcn.com/livenews/3041149",
           "source": "华尔街见闻-快讯",
@@ -295,9 +298,159 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 13,
+      "titles": [
+        {
+          "title": "马斯克建议：不要让你的亲人使用ChatGPT",
+          "url": "https://wallstreetcn.com/livenews/3040591",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时42分 ~ 01时36分]"
+        },
+        {
+          "title": "ServiceNow 与OpenAI 达成合作 为期三年",
+          "url": "https://flash.jin10.com/detail/20260121010536923800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时36分"
+        },
+        {
+          "title": "OpenAI披露其关于年龄预测的方式。 公司在ChatGPT消费者计划推出年龄预测。 未来数周，将在欧洲市场推出年龄预测功能。",
+          "url": "https://wallstreetcn.com/livenews/3040648",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时16分"
+        },
+        {
+          "title": "据The Information：OpenAI将于二月推出聊天机器人广告，并根据广告浏览量收费。",
+          "url": "https://flash.jin10.com/detail/20260121113244610800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时09分"
+        },
+        {
+          "title": "盖茨基金会和OpenAI计划投资5000万美元 资助非洲AI医疗",
+          "url": "https://flash.jin10.com/detail/20260121131506452800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时34分"
+        },
+        {
+          "title": "OpenAI已开始向数十家广告商展示其全新的聊天机器人广告。OpenAI将于2月份正式推出聊天机器人广告，并将根据广告曝光量（浏览量）进行计费。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3040928",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时09分"
+        },
+        {
+          "title": "OpenAI：作为“OpenAI面向各国”倡议的一部分，推出面向各国的OpenAI教育项目。",
+          "url": "https://wallstreetcn.com/livenews/3041189",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时36分"
+        },
+        {
+          "title": "据The Information：OpenAI已开始向数十家广告商提供其新聊天机器人广告服务。",
+          "url": "https://flash.jin10.com/detail/20260121113200635800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时09分"
+        },
+        {
+          "title": "OpenAI CFO：星际之门（Stargate）园区建设进度已过半。",
+          "url": "https://wallstreetcn.com/livenews/3041298",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时54分"
+        },
+        {
+          "title": "马斯克：不要让你的亲人使用 ChatGPT",
+          "url": "https://flash.jin10.com/detail/20260121002446496800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时42分"
+        },
+        {
+          "title": "OpenAI：年龄预测功能正面向全球推广，欧盟将在未来几周跟进。",
+          "url": "https://flash.jin10.com/detail/20260121030605835800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时16分"
+        },
+        {
+          "title": "OpenAI：在ChatGPT上推出年龄预测功能，以帮助确定账户所有者是否可能未满18岁。",
+          "url": "https://flash.jin10.com/detail/20260121030319652800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时16分"
+        },
+        {
+          "title": "OpenAI：作为“OpenAI面向各国”倡议的一部分，推出面向各国的OpenAI教育项目。",
+          "url": "https://flash.jin10.com/detail/20260121175350755800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时36分"
         }
       ]
     },
@@ -341,8 +494,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时34分 ~ 21时02分]"
+          "appearance_count": 9,
+          "time_info": "[15时34分 ~ 21时54分]"
         },
         {
           "title": "国际金价逼近 4700 美元，国内金饰品克价迈向 1500 元，这意味着什么？",
@@ -459,147 +612,8 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 12,
-      "titles": [
-        {
-          "title": "马斯克建议：不要让你的亲人使用ChatGPT",
-          "url": "https://wallstreetcn.com/livenews/3040591",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 01时36分]"
-        },
-        {
-          "title": "ServiceNow 与OpenAI 达成合作 为期三年",
-          "url": "https://flash.jin10.com/detail/20260121010536923800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时36分"
-        },
-        {
-          "title": "OpenAI披露其关于年龄预测的方式。 公司在ChatGPT消费者计划推出年龄预测。 未来数周，将在欧洲市场推出年龄预测功能。",
-          "url": "https://wallstreetcn.com/livenews/3040648",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时16分"
-        },
-        {
-          "title": "据The Information：OpenAI将于二月推出聊天机器人广告，并根据广告浏览量收费。",
-          "url": "https://flash.jin10.com/detail/20260121113244610800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时09分"
-        },
-        {
-          "title": "盖茨基金会和OpenAI计划投资5000万美元 资助非洲AI医疗",
-          "url": "https://flash.jin10.com/detail/20260121131506452800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时34分"
-        },
-        {
-          "title": "OpenAI已开始向数十家广告商展示其全新的聊天机器人广告。OpenAI将于2月份正式推出聊天机器人广告，并将根据广告曝光量（浏览量）进行计费。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3040928",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时09分"
-        },
-        {
-          "title": "OpenAI：作为“OpenAI面向各国”倡议的一部分，推出面向各国的OpenAI教育项目。",
-          "url": "https://wallstreetcn.com/livenews/3041189",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时36分"
-        },
-        {
-          "title": "据The Information：OpenAI已开始向数十家广告商提供其新聊天机器人广告服务。",
-          "url": "https://flash.jin10.com/detail/20260121113200635800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时09分"
-        },
-        {
-          "title": "马斯克：不要让你的亲人使用 ChatGPT",
-          "url": "https://flash.jin10.com/detail/20260121002446496800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时42分"
-        },
-        {
-          "title": "OpenAI：年龄预测功能正面向全球推广，欧盟将在未来几周跟进。",
-          "url": "https://flash.jin10.com/detail/20260121030605835800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时16分"
-        },
-        {
-          "title": "OpenAI：在ChatGPT上推出年龄预测功能，以帮助确定账户所有者是否可能未满18岁。",
-          "url": "https://flash.jin10.com/detail/20260121030319652800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时16分"
-        },
-        {
-          "title": "OpenAI：作为“OpenAI面向各国”倡议的一部分，推出面向各国的OpenAI教育项目。",
-          "url": "https://flash.jin10.com/detail/20260121175350755800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时36分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "贝森特“安抚”市场：欧洲抛售美债是“虚假叙事”，最早下周公布新美联储主席",
@@ -615,8 +629,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时42分 ~ 21时02分]"
+          "appearance_count": 23,
+          "time_info": "[00时42分 ~ 21时54分]"
         },
         {
           "title": "丹麦养老基金AkademikerPension拟清仓美债，称美国信用风险“不可忽视”",
@@ -670,6 +684,17 @@
           "time_info": "15时34分"
         },
         {
+          "title": "摩根大通美债客户多头占比升至一个月新高",
+          "url": "https://wallstreetcn.com/livenews/3041299",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时54分"
+        },
+        {
           "title": "30年期美债收益率涨超7.9个基点",
           "url": "https://wallstreetcn.com/livenews/3040666",
           "source": "华尔街见闻-快讯",
@@ -698,7 +723,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
         }
@@ -753,11 +778,12 @@
           "url": "https://wallstreetcn.com/livenews/3041285",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时02分 ~ 21时54分]"
         },
         {
           "title": "工信部：将发布人形机器人与具身智能综合标准化体系建设指南",
@@ -815,11 +841,12 @@
             5,
             3,
             14,
-            10
+            10,
+            15
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时09分 ~ 21时02分]"
+          "appearance_count": 12,
+          "time_info": "[12时09分 ~ 21时54分]"
         }
       ]
     },

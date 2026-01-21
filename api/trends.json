@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-01-21T14:45:32.787368+08:00",
-  "total_titles_processed": 1250,
+  "generated_at": "2026-01-21T15:34:55.541045+08:00",
+  "total_titles_processed": 1351,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
       "match_count": 17,
       "titles": [
+        {
+          "title": "日债风暴叠加格陵兰危机，“抛售美国”重现，美股债汇三杀，黄金再新高，加密货币重挫",
+          "url": "https://wallstreetcn.com/articles/3763668",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时28分 ~ 15时34分]"
+        },
         {
           "title": "格陵兰岛事件升温欧美股市普跌 现货黄金、白银再创新高 | 今夜看点",
           "url": "https://www.cls.cn/detail/2264127",
@@ -31,17 +42,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时42分 ~ 06时28分]"
-        },
-        {
-          "title": "日债风暴叠加格陵兰危机，“抛售美国”重现，美股债汇三杀，黄金再新高，加密货币重挫",
-          "url": "https://wallstreetcn.com/articles/3763668",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时28分 ~ 14时45分]"
         },
         {
           "title": "美股收盘：关税阴影再度笼罩市场 三大指数集体大跌 纳指跌超2%",
@@ -92,6 +92,19 @@
           "time_info": "[06时28分 ~ 07时29分]"
         },
         {
+          "title": "美股存储概念股齐刷新高！闪迪暴涨10% 投行大幅上调目标价",
+          "url": "https://www.cls.cn/detail/2264507",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时34分 ~ 15时34分]"
+        },
+        {
           "title": "纽约期银涨6.7%，美股盘前刷新历史高位，逼近96美元",
           "url": "https://wallstreetcn.com/livenews/3040696",
           "source": "华尔街见闻-快讯",
@@ -114,18 +127,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时27分 ~ 06时28分]"
-        },
-        {
-          "title": "美股存储概念股齐刷新高！闪迪暴涨10% 投行大幅上调目标价",
-          "url": "https://www.cls.cn/detail/2264507",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时34分 ~ 14时45分]"
         },
         {
           "title": "金十图示：2026年01月20日（周二）热门中概股行情一览（美股收盘）",
@@ -206,6 +207,149 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时46分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 12,
+      "titles": [
+        {
+          "title": "格陵兰岛争端为啥会推高金价",
+          "url": "https://search.bilibili.com/all?keyword=%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E4%BA%89%E7%AB%AF%E4%B8%BA%E5%95%A5%E4%BC%9A%E6%8E%A8%E9%AB%98%E9%87%91%E4%BB%B7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时42分 ~ 10时09分]"
+        },
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22,
+            21,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时42分 ~ 10时09分]"
+        },
+        {
+          "title": "国际金价逼近 4700 美元，国内金饰品克价迈向 1500 元，这意味着什么？",
+          "url": "https://www.zhihu.com/question/1996659800252118065",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时09分 ~ 14时45分]"
+        },
+        {
+          "title": "如何看待深圳水贝市场开始炒 999.9 铜条？为什么金价一涨，其他贵金属都跟着受追捧？",
+          "url": "https://www.zhihu.com/question/1996636704929502107",
+          "source": "知乎",
+          "ranks": [
+            17,
+            16,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时09分 ~ 14时45分]"
+        },
+        {
+          "title": "金价突破4800美元",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E7%AA%81%E7%A0%B44800%E7%BE%8E%E5%85%83%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时08分 ~ 10时09分]"
+        },
+        {
+          "title": "机构称金价上半年或冲击5000美元",
+          "url": "https://flash.jin10.com/detail/20260121064720274800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时29分"
+        },
+        {
+          "title": "金十图示：2026年01月21日（周三）上海金午盘价为1088.51元/克，较国际金价(1084.57元/克)，高3.94元/克",
+          "url": "https://flash.jin10.com/detail/20260121150154381800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时34分"
+        },
+        {
+          "title": "瑞银Joni Teves：金价上半年或冲击5000美元，白银和铜价结构性支撑渐强",
+          "url": "https://wallstreetcn.com/livenews/3040711",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时29分"
+        },
+        {
+          "title": "如何评价黄金价格史上首次突破 4800 美元 / 盎司，后面还会再继续涨吗？",
+          "url": "https://www.zhihu.com/question/1997239169450260384",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时34分"
+        },
+        {
+          "title": "钻石价格大跌 同期黄金价格涨超400%",
+          "url": "https://www.toutiao.com/trending/7596937973166833710/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时09分"
+        },
+        {
+          "title": "金十图示：2026年01月21日（周三）上海金早盘价为1081.52元/克，较国际金价(1080.9元/克)，高0.62元/克",
+          "url": "https://flash.jin10.com/detail/20260121112633290800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时09分"
+        },
+        {
+          "title": "金店店员对金价飙涨已麻木",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E5%BA%97%E5%BA%97%E5%91%98%E5%AF%B9%E9%87%91%E4%BB%B7%E9%A3%99%E6%B6%A8%E5%B7%B2%E9%BA%BB%E6%9C%A8%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时45分"
         }
       ]
     },
@@ -327,129 +471,8 @@
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "格陵兰岛争端为啥会推高金价",
-          "url": "https://search.bilibili.com/all?keyword=%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E4%BA%89%E7%AB%AF%E4%B8%BA%E5%95%A5%E4%BC%9A%E6%8E%A8%E9%AB%98%E9%87%91%E4%BB%B7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时42分 ~ 10时09分]"
-        },
-        {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22,
-            21,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时42分 ~ 10时09分]"
-        },
-        {
-          "title": "国际金价逼近 4700 美元，国内金饰品克价迈向 1500 元，这意味着什么？",
-          "url": "https://www.zhihu.com/question/1996659800252118065",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时09分 ~ 14时45分]"
-        },
-        {
-          "title": "如何看待深圳水贝市场开始炒 999.9 铜条？为什么金价一涨，其他贵金属都跟着受追捧？",
-          "url": "https://www.zhihu.com/question/1996636704929502107",
-          "source": "知乎",
-          "ranks": [
-            17,
-            16,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时09分 ~ 14时45分]"
-        },
-        {
-          "title": "金价突破4800美元",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E7%AA%81%E7%A0%B44800%E7%BE%8E%E5%85%83%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时08分 ~ 10时09分]"
-        },
-        {
-          "title": "机构称金价上半年或冲击5000美元",
-          "url": "https://flash.jin10.com/detail/20260121064720274800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时29分"
-        },
-        {
-          "title": "瑞银Joni Teves：金价上半年或冲击5000美元，白银和铜价结构性支撑渐强",
-          "url": "https://wallstreetcn.com/livenews/3040711",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时29分"
-        },
-        {
-          "title": "钻石价格大跌 同期黄金价格涨超400%",
-          "url": "https://www.toutiao.com/trending/7596937973166833710/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时09分"
-        },
-        {
-          "title": "金十图示：2026年01月21日（周三）上海金早盘价为1081.52元/克，较国际金价(1080.9元/克)，高0.62元/克",
-          "url": "https://flash.jin10.com/detail/20260121112633290800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时09分"
-        },
-        {
-          "title": "金店店员对金价飙涨已麻木",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E5%BA%97%E5%BA%97%E5%91%98%E5%AF%B9%E9%87%91%E4%BB%B7%E9%A3%99%E6%B6%A8%E5%B7%B2%E9%BA%BB%E6%9C%A8%23&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时45分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "贝森特“安抚”市场：欧洲抛售美债是“虚假叙事”，最早下周公布新美联储主席",
@@ -464,8 +487,23 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时42分 ~ 14时45分]"
+          "appearance_count": 15,
+          "time_info": "[00时42分 ~ 15时34分]"
+        },
+        {
+          "title": "丹麦养老基金AkademikerPension拟清仓美债，称美国信用风险“不可忽视”",
+          "url": "https://wallstreetcn.com/articles/3763734",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[06时28分 ~ 15时34分]"
         },
         {
           "title": "美债日债领跌！格陵兰危机与财政压力引发全球债市抛售潮",
@@ -481,19 +519,15 @@
           "time_info": "[00时42分 ~ 13时34分]"
         },
         {
-          "title": "丹麦养老基金AkademikerPension拟清仓美债，称美国信用风险“不可忽视”",
-          "url": "https://wallstreetcn.com/articles/3763734",
-          "source": "华尔街见闻",
+          "title": "贝森特称丹麦在美债中的投资地位“无关紧要”",
+          "url": "https://wallstreetcn.com/livenews/3041067",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
-            8,
-            6,
-            5,
-            4
+            9
           ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时28分 ~ 14时45分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时34分"
         },
         {
           "title": "30年期美债收益率涨超7.9个基点",
@@ -570,7 +604,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
         },
@@ -581,7 +615,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
         }
@@ -598,11 +632,12 @@
           "ranks": [
             4,
             6,
-            9
+            9,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时09分 ~ 14时45分]"
+          "appearance_count": 4,
+          "time_info": "[12时09分 ~ 15时34分]"
         }
       ]
     },

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-22T18:35:17.633734+08:00",
-  "total_titles_processed": 1625,
+  "generated_at": "2026-01-22T19:28:34.894422+08:00",
+  "total_titles_processed": 1711,
   "failed_sources": [],
   "trends": [
     {
@@ -40,8 +40,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时10分 ~ 18时35分]"
+          "appearance_count": 10,
+          "time_info": "[10时10分 ~ 19时28分]"
         },
         {
           "title": "美股收盘：“TACO交易”再现 特朗普取消对欧加征关税 三大指数均涨超1%",
@@ -302,6 +302,18 @@
           "time_info": "[01时01分 ~ 07时31分]"
         },
         {
+          "title": "男子趁金价高涨出手500克金条",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%B6%81%E9%87%91%E4%BB%B7%E9%AB%98%E6%B6%A8%E5%87%BA%E6%89%8B500%E5%85%8B%E9%87%91%E6%9D%A1",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时40分 ~ 19时28分]"
+        },
+        {
           "title": "黄金价格会崩吗",
           "url": "https://www.toutiao.com/trending/7597976651418308122/",
           "source": "今日头条",
@@ -314,18 +326,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时12分 ~ 15时33分]"
-        },
-        {
-          "title": "男子趁金价高涨出手500克金条",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%B6%81%E9%87%91%E4%BB%B7%E9%AB%98%E6%B6%A8%E5%87%BA%E6%89%8B500%E5%85%8B%E9%87%91%E6%9D%A1",
-          "source": "百度热搜",
-          "ranks": [
-            25,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时40分 ~ 18时35分]"
         },
         {
           "title": "金价在亚太午盘创历史新高，特朗普所谓格陵兰“协议框架”带来一波V型走势",
@@ -408,8 +408,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时10分 ~ 18时35分]"
+          "appearance_count": 10,
+          "time_info": "[10时10分 ~ 19时28分]"
         },
         {
           "title": "特朗普上演“TACO”式反转，美股收复昨日失地，美元美债反弹，黄金冲高回落仍收涨",

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-22T13:34:44.114090+08:00",
-  "total_titles_processed": 1111,
+  "generated_at": "2026-01-22T14:43:27.224567+08:00",
+  "total_titles_processed": 1222,
   "failed_sources": [],
   "trends": [
     {
@@ -40,8 +40,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时31分 ~ 13时34分]"
+          "appearance_count": 5,
+          "time_info": "[07时31分 ~ 14时43分]"
         },
         {
           "title": "区域银行ETF收涨超4.6%，银行业ETF涨超3.9%，领跑美股行业ETF",
@@ -94,6 +94,18 @@
           "time_info": "[05时37分 ~ 06时31分]"
         },
         {
+          "title": "特朗普称与北约达成格陵兰协议“框架”、暂不对欧加关税，美股和数字货币拉升，白银跳水",
+          "url": "https://wallstreetcn.com/articles/3763863",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时10分 ~ 14时43分]"
+        },
+        {
           "title": "美股收盘：特朗普助力 三大股指涨超1%",
           "url": "https://flash.jin10.com/detail/20260122050202493800",
           "source": "金十数据",
@@ -118,18 +130,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时01分 ~ 05时37分]"
-        },
-        {
-          "title": "特朗普称与北约达成格陵兰协议“框架”、暂不对欧加关税，美股和数字货币拉升，白银跳水",
-          "url": "https://wallstreetcn.com/articles/3763863",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时10分 ~ 13时34分]"
         },
         {
           "title": "美股地区银行指数涨4.7%，创8月份以来最大单日涨幅。",
@@ -225,8 +225,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时10分 ~ 13时34分]"
+          "appearance_count": 4,
+          "time_info": "[10时10分 ~ 14时43分]"
         },
         {
           "title": "特朗普上演“TACO”式反转，美股收复昨日失地，美元美债反弹，黄金冲高回落仍收涨",
@@ -322,11 +322,12 @@
           "source": "今日头条",
           "ranks": [
             12,
-            14
+            14,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时12分 ~ 13时34分]"
+          "appearance_count": 3,
+          "time_info": "[12时12分 ~ 14时43分]"
         },
         {
           "title": "金价在亚太午盘创历史新高，特朗普所谓格陵兰“协议框架”带来一波V型走势",
@@ -525,7 +526,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时34分"
         }

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-23T16:38:10.704114+08:00",
-  "total_titles_processed": 1520,
+  "generated_at": "2026-01-23T17:36:48.245977+08:00",
+  "total_titles_processed": 1618,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "美股收盘：地缘扰动退潮 三大指数集体收涨 阿里涨5%",
@@ -180,6 +180,17 @@
           "time_info": "00时42分"
         },
         {
+          "title": "美股盘前，英特尔跌约13%，AI需求兑现但供应将至“最低点”，英特尔Q1指引逊色。",
+          "url": "https://wallstreetcn.com/livenews/3042776",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时36分"
+        },
+        {
           "title": "美国铝业四季度销售34.5亿美元，分析师预期32.9亿美元。 美国铝业（AA）美股盘后涨超3%。",
           "url": "https://wallstreetcn.com/livenews/3042306",
           "source": "华尔街见闻-快讯",
@@ -211,6 +222,80 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "谷歌、微软回应美国参议院成员们关于（涉及人工智能/数据中心）电力需求的质询。",
+          "url": "https://wallstreetcn.com/livenews/3042255",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            14,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时41分 ~ 04时35分]"
+        },
+        {
+          "title": "谷歌投资Sakana AI 旨在提升Gemini在日本的业务",
+          "url": "https://flash.jin10.com/detail/20260123151617900800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时31分"
+        },
+        {
+          "title": "Alphabet旗下谷歌公司提供新的选项，帮助用于把搜索结果个性化。 谷歌允许用户从谷歌旗下图像和Email等其他应用获取数据。",
+          "url": "https://wallstreetcn.com/livenews/3042190",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时42分"
+        },
+        {
+          "title": "为什么谷歌 AI 掌门人认为字节是中国最具实力的 AI 公司？",
+          "url": "https://www.zhihu.com/question/1997802145714569913",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时36分"
+        },
+        {
+          "title": "市场消息：谷歌投资Sakana AI，旨在提升Gemini在日本的业务。",
+          "url": "https://flash.jin10.com/detail/20260123150451290800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时31分"
+        },
+        {
+          "title": "谷歌：即日起，谷歌AI Pro和AI Ultra订阅用户可选择安全地将Gmail和谷歌相册连接到AI模式。",
+          "url": "https://flash.jin10.com/detail/20260123000407972800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时42分"
         }
       ]
     },
@@ -292,65 +377,76 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "keyword_group": "美债",
+      "match_count": 6,
       "titles": [
         {
-          "title": "谷歌、微软回应美国参议院成员们关于（涉及人工智能/数据中心）电力需求的质询。",
-          "url": "https://wallstreetcn.com/livenews/3042255",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普“TACO”，美股收复昨日失地，美元美债反弹，黄金冲高回落仍收涨",
+          "url": "https://wallstreetcn.com/articles/3763768",
+          "source": "华尔街见闻",
           "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时41分 ~ 06时29分]"
+        },
+        {
+          "title": "特朗普TACO助推全球股市反弹，美股指集体高开，纳指涨0.9%，美债承压",
+          "url": "https://wallstreetcn.com/articles/3763892",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
             7,
-            14,
-            21
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时41分 ~ 04时35分]"
+          "appearance_count": 10,
+          "time_info": "[00时41分 ~ 06时29分]"
         },
         {
-          "title": "谷歌投资Sakana AI 旨在提升Gemini在日本的业务",
-          "url": "https://flash.jin10.com/detail/20260123151617900800",
-          "source": "金十数据",
+          "title": "北欧养老基金加速离场：丹麦清仓美债，瑞典跟卖，格陵兰考虑抛售美国股票",
+          "url": "https://wallstreetcn.com/articles/3763920",
+          "source": "华尔街见闻",
           "ranks": [
-            7
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时31分"
+          "appearance_count": 2,
+          "time_info": "[15时31分 ~ 17时36分]"
         },
         {
-          "title": "Alphabet旗下谷歌公司提供新的选项，帮助用于把搜索结果个性化。 谷歌允许用户从谷歌旗下图像和Email等其他应用获取数据。",
-          "url": "https://wallstreetcn.com/livenews/3042190",
+          "title": "丹麦养老基金清仓 1 亿美元美债，瑞典养老基金抛售超 80 亿美元美债，释放什么信号？这些资金会流向哪儿？",
+          "url": "https://www.zhihu.com/question/1997708138242135327",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时05分 ~ 10时06分]"
+        },
+        {
+          "title": "两年期美债收益率涨超2个基点",
+          "url": "https://wallstreetcn.com/livenews/3042290",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时42分"
+          "time_info": "05时29分"
         },
         {
-          "title": "市场消息：谷歌投资Sakana AI，旨在提升Gemini在日本的业务。",
-          "url": "https://flash.jin10.com/detail/20260123150451290800",
-          "source": "金十数据",
+          "title": "印度所持美债仓位降至5年来最低",
+          "url": "https://wallstreetcn.com/livenews/3042793",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            24
+            12
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时31分"
-        },
-        {
-          "title": "谷歌：即日起，谷歌AI Pro和AI Ultra订阅用户可选择安全地将Gmail和谷歌相册连接到AI模式。",
-          "url": "https://flash.jin10.com/detail/20260123000407972800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时42分"
+          "time_info": "17时36分"
         }
       ]
     },
@@ -377,8 +473,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时37分 ~ 16时38分]"
+          "appearance_count": 3,
+          "time_info": "[16时37分 ~ 17时36分]"
         },
         {
           "title": "国际金价银价同创历史新高",
@@ -412,69 +508,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时07分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "特朗普“TACO”，美股收复昨日失地，美元美债反弹，黄金冲高回落仍收涨",
-          "url": "https://wallstreetcn.com/articles/3763768",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时41分 ~ 06时29分]"
-        },
-        {
-          "title": "特朗普TACO助推全球股市反弹，美股指集体高开，纳指涨0.9%，美债承压",
-          "url": "https://wallstreetcn.com/articles/3763892",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时41分 ~ 06时29分]"
-        },
-        {
-          "title": "丹麦养老基金清仓 1 亿美元美债，瑞典养老基金抛售超 80 亿美元美债，释放什么信号？这些资金会流向哪儿？",
-          "url": "https://www.zhihu.com/question/1997708138242135327",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时05分 ~ 10时06分]"
-        },
-        {
-          "title": "北欧养老基金加速离场：丹麦清仓美债，瑞典跟卖，格陵兰考虑抛售美国股票",
-          "url": "https://wallstreetcn.com/articles/3763920",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时31分"
-        },
-        {
-          "title": "两年期美债收益率涨超2个基点",
-          "url": "https://wallstreetcn.com/livenews/3042290",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时29分"
         }
       ]
     },
@@ -554,8 +587,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时05分 ~ 16时38分]"
+          "appearance_count": 10,
+          "time_info": "[10时05分 ~ 17时36分]"
         },
         {
           "title": "金十图示：2026年01月23日（周五）今日黄金饰品价格对比",
@@ -619,6 +652,23 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[02时41分 ~ 07时28分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "供应链",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "世贸组织总干事：美国仍是成员，未见退出迹象。 2025年贸易增长好于预期。 供应链正变得越来越区域化。",
+          "url": "https://wallstreetcn.com/livenews/3042805",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时36分"
         }
       ]
     }

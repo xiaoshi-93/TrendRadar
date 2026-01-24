@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-24T19:23:04.822920+08:00",
-  "total_titles_processed": 1341,
+  "generated_at": "2026-01-24T20:52:28.203172+08:00",
+  "total_titles_processed": 1421,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[07时28分 ~ 19时23分]"
+          "appearance_count": 16,
+          "time_info": "[07时28分 ~ 20时52分]"
         },
         {
           "title": "地缘风险仍未消散，美股周线承压，英特尔跌14%，美元遭遇半年来最差一周，纽约期银突破100美元，创历史新高",
@@ -38,11 +38,12 @@
             11,
             3,
             4,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[07时28分 ~ 19时23分]"
+          "appearance_count": 16,
+          "time_info": "[07时28分 ~ 20时52分]"
         },
         {
           "title": "Sable Offshore（SOC）美股下跌13%。",
@@ -316,6 +317,18 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "胖东来金饰每克便宜 200 元，其质量如何？为什么胖东来的金价如此有竞争力？",
+          "url": "https://www.zhihu.com/question/1997605038588129408",
+          "source": "知乎",
+          "ranks": [
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时27分 ~ 20时52分]"
+        },
+        {
           "title": "金价暴涨胖东来金店挤爆了",
           "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%9A%B4%E6%B6%A8%E8%83%96%E4%B8%9C%E6%9D%A5%E9%87%91%E5%BA%97%E6%8C%A4%E7%88%86%E4%BA%86%23&t=31&band_rank=27&Refer=top",
           "source": "微博",
@@ -326,18 +339,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时37分 ~ 06时24分]"
-        },
-        {
-          "title": "胖东来金饰每克便宜 200 元，其质量如何？为什么胖东来的金价如此有竞争力？",
-          "url": "https://www.zhihu.com/question/1997605038588129408",
-          "source": "知乎",
-          "ranks": [
-            15,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时27分 ~ 19时23分]"
         },
         {
           "title": "金价一度涨穿4990美元创历史新高，本周涨超8%",

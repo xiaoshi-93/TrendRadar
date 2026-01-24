@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-01-24T15:25:40.537379+08:00",
-  "total_titles_processed": 1062,
+  "generated_at": "2026-01-24T16:34:08.264566+08:00",
+  "total_titles_processed": 1149,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
       "match_count": 12,
       "titles": [
+        {
+          "title": "美股盘整静待下周考验，英特尔暴跌18%，美元跌金属狂欢，白银破百、黄金逼近5000美元",
+          "url": "https://wallstreetcn.com/articles/3763993",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[07时28分 ~ 16时34分]"
+        },
         {
           "title": "地缘风险仍未消散，美股周线承压，英特尔跌14%，美元遭遇半年来最差一周，纽约期银突破100美元，创历史新高",
           "url": "https://wallstreetcn.com/articles/3763993",
@@ -19,18 +31,6 @@
           "time_info": "[00时37分 ~ 04时33分]"
         },
         {
-          "title": "美股盘整静待下周考验，英特尔暴跌18%，美元跌金属狂欢，白银破百、黄金逼近5000美元",
-          "url": "https://wallstreetcn.com/articles/3763993",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时28分 ~ 15时25分]"
-        },
-        {
           "title": "美股收盘：三大指数涨跌不一 纳指小幅上涨 英特尔暴跌17%",
           "url": "https://www.cls.cn/detail/2268496",
           "source": "财联社热门",
@@ -40,8 +40,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时28分 ~ 15时25分]"
+          "appearance_count": 10,
+          "time_info": "[07时28分 ~ 16时34分]"
         },
         {
           "title": "Sable Offshore（SOC）美股下跌13%。",
@@ -268,7 +268,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "为什么谷歌 AI 掌门人认为字节是中国最具实力的 AI 公司？",
@@ -296,6 +296,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时33分 ~ 05时27分]"
+        },
+        {
+          "title": "谷歌高管谈AI开发的危与机",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E9%AB%98%E7%AE%A1%E8%B0%88AI%E5%BC%80%E5%8F%91%E7%9A%84%E5%8D%B1%E4%B8%8E%E6%9C%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时33分 ~ 16时34分]"
         }
       ]
     },

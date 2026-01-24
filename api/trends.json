@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-24T12:43:43.572930+08:00",
-  "total_titles_processed": 898,
+  "generated_at": "2026-01-24T13:27:54.034619+08:00",
+  "total_titles_processed": 936,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时28分 ~ 12时43分]"
+          "appearance_count": 6,
+          "time_info": "[07时28分 ~ 13时27分]"
         },
         {
           "title": "美股收盘：三大指数涨跌不一 纳指小幅上涨 英特尔暴跌17%",
@@ -36,11 +36,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时28分 ~ 12时43分]"
+          "appearance_count": 6,
+          "time_info": "[07时28分 ~ 13时27分]"
         },
         {
           "title": "Sable Offshore（SOC）美股下跌13%。",

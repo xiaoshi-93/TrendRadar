@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-25T14:40:02.392006+08:00",
-  "total_titles_processed": 824,
+  "generated_at": "2026-01-25T15:27:15.972453+08:00",
+  "total_titles_processed": 863,
   "failed_sources": [],
   "trends": [
     {
@@ -28,11 +28,23 @@
           "source": "微博",
           "ranks": [
             10,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时33分 ~ 14时40分]"
+          "appearance_count": 5,
+          "time_info": "[13时33分 ~ 15时27分]"
+        },
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时39分 ~ 15时27分]"
         },
         {
           "title": "金价疯涨的底层逻辑",
@@ -44,17 +56,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时31分 ~ 01时23分]"
-        },
-        {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时39分 ~ 14时40分]"
         }
       ]
     },
@@ -97,8 +98,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时31分 ~ 14时40分]"
+          "appearance_count": 16,
+          "time_info": "[00时31分 ~ 15时27分]"
         }
       ]
     },
@@ -140,11 +141,12 @@
           "url": "https://www.zhihu.com/question/1997984039219454411",
           "source": "知乎",
           "ranks": [
-            11
+            11,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时39分 ~ 14时40分]"
+          "appearance_count": 4,
+          "time_info": "[14时39分 ~ 15时27分]"
         }
       ]
     }

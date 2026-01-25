@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-25T19:23:06.266917+08:00",
-  "total_titles_processed": 1093,
+  "generated_at": "2026-01-25T20:54:03.788488+08:00",
+  "total_titles_processed": 1195,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             11,
             17,
             12,
-            14
+            14,
+            21
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时39分 ~ 19时23分]"
+          "appearance_count": 12,
+          "time_info": "[14时39分 ~ 20时54分]"
         },
         {
           "title": "胖东来金饰每克便宜 200 元，其质量如何？为什么胖东来的金价如此有竞争力？",
@@ -160,11 +161,12 @@
             4,
             6,
             8,
-            13
+            13,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时34分 ~ 19时23分]"
+          "appearance_count": 5,
+          "time_info": "[16时34分 ~ 20时54分]"
         }
       ]
     },
@@ -177,11 +179,12 @@
           "url": "https://www.toutiao.com/trending/7599237350652120626/",
           "source": "今日头条",
           "ranks": [
-            18
+            18,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时22分 ~ 19时23分]"
+          "appearance_count": 4,
+          "time_info": "[19时22分 ~ 20时54分]"
         }
       ]
     },

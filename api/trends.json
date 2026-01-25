@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-25T16:34:39.890294+08:00",
-  "total_titles_processed": 928,
+  "generated_at": "2026-01-25T17:28:07.539417+08:00",
+  "total_titles_processed": 977,
   "failed_sources": [],
   "trends": [
     {
@@ -23,6 +23,19 @@
           "time_info": "[00时31分 ~ 07时25分]"
         },
         {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11,
+            17,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时39分 ~ 17时28分]"
+        },
+        {
           "title": "金价波动",
           "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=10&Refer=top",
           "source": "微博",
@@ -35,18 +48,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[13时33分 ~ 16时34分]"
-        },
-        {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时39分 ~ 16时34分]"
         },
         {
           "title": "金价疯涨的底层逻辑",
@@ -100,8 +101,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时31分 ~ 16时34分]"
+          "appearance_count": 19,
+          "time_info": "[00时31分 ~ 17时28分]"
         },
         {
           "title": "警惕美股波动性卷土重来",
@@ -110,7 +111,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时34分"
         }
@@ -154,11 +155,12 @@
           "url": "https://wallstreetcn.com/livenews/3043358",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时34分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时34分 ~ 17时28分]"
         }
       ]
     },
@@ -175,8 +177,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时39分 ~ 16时34分]"
+          "appearance_count": 7,
+          "time_info": "[14时39分 ~ 17时28分]"
         }
       ]
     }

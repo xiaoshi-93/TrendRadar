@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-30T05:33:55.254893+08:00",
-  "total_titles_processed": 561,
+  "generated_at": "2026-01-30T06:34:45.036263+08:00",
+  "total_titles_processed": 636,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "特朗普升级对伊施压，美股指齐跌，微软重挫11%，黄金跳水逼近5320，布油重回70美元",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时51分 ~ 05时33分]"
+          "appearance_count": 8,
+          "time_info": "[00时51分 ~ 06时34分]"
         },
         {
           "title": "美股期指小幅走高 金银铜等集体大涨 | 今夜看点",
@@ -26,8 +26,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时51分 ~ 05时33分]"
+          "appearance_count": 8,
+          "time_info": "[00时51分 ~ 06时34分]"
         },
         {
           "title": "加密货币市场在美股开盘前后加速下跌",
@@ -71,7 +71,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时33分"
         },
@@ -82,7 +82,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时33分"
         },
@@ -93,9 +93,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时33分"
+        },
+        {
+          "title": "航空业ETF收涨超2.6%，领跑美股行业ETF，标普科技板块跌超1.8%",
+          "url": "https://wallstreetcn.com/livenews/3046710",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时34分"
         },
         {
           "title": "Robinhood(HOOD.O)美股盘后涨3%。",
@@ -104,7 +115,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时33分"
         },
@@ -126,7 +137,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时33分"
         },
@@ -137,15 +148,26 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时33分"
+        },
+        {
+          "title": "Sandisk第二财季营收30.3亿美元，增幅31%，高于公司原来所给指引区间。 数据中心营收增长64%，受AI基础设施建设方等强劲应用的驱动。 预计第三财季营收44亿-48亿美元。 Sandisk美股盘后涨13%。",
+          "url": "https://wallstreetcn.com/livenews/3046691",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时34分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "金价上涨的第一批受害者出现了",
@@ -156,8 +178,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时51分 ~ 05时33分]"
+          "appearance_count": 8,
+          "time_info": "[00时51分 ~ 06时34分]"
         },
         {
           "title": "金价",
@@ -170,8 +192,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时51分 ~ 05时33分]"
+          "appearance_count": 8,
+          "time_info": "[00时51分 ~ 06时34分]"
         },
         {
           "title": "金价上涨的第一批受害者出现了",
@@ -181,8 +203,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时51分 ~ 05时33分]"
+          "appearance_count": 8,
+          "time_info": "[00时51分 ~ 06时34分]"
         },
         {
           "title": "黄金价格为何一路猛涨",
@@ -193,8 +215,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时51分 ~ 05时33分]"
+          "appearance_count": 8,
+          "time_info": "[00时51分 ~ 06时34分]"
         },
         {
           "title": "金价暴涨第一批受害者出现",
@@ -205,8 +227,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时51分 ~ 05时33分]"
+          "appearance_count": 8,
+          "time_info": "[00时51分 ~ 06时34分]"
         },
         {
           "title": "金价上涨打金店2天亏5万",
@@ -219,8 +241,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时51分 ~ 05时33分]"
+          "appearance_count": 8,
+          "time_info": "[00时51分 ~ 06时34分]"
         },
         {
           "title": "一口气看懂金价涨跌的底层逻辑",
@@ -229,11 +251,12 @@
           "ranks": [
             21,
             19,
-            10
+            10,
+            25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时41分 ~ 05时33分]"
+          "appearance_count": 6,
+          "time_info": "[01时41分 ~ 06时34分]"
         },
         {
           "title": "金价跌幅扩大至5%。",
@@ -245,6 +268,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时51分"
+        },
+        {
+          "title": "高盛：上调今明两年金价预测",
+          "url": "https://www.toutiao.com/trending/7600254146813558827/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时34分"
         }
       ]
     },
@@ -262,19 +296,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时51分 ~ 05时33分]"
+          "appearance_count": 8,
+          "time_info": "[00时51分 ~ 06时34分]"
         },
         {
           "title": "OpenAI下架（retiring）GPT-4o、GPT-4.1，GPT-4.1 mini，以及OpenAI o4-mini。",
           "url": "https://wallstreetcn.com/livenews/3046688",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时33分 ~ 06时34分]"
         },
         {
           "title": "亚马逊洽谈对OpenAI投资至多500亿美元，后者寻求在新一轮融资中募集高达1000亿美元——估值高达8300亿美元。 亚马逊Jassy牵头公司与OpenAI的CEO Altman磋商。（华尔街日报）",
@@ -283,7 +318,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时33分"
         },
@@ -294,7 +329,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时33分"
         },
@@ -305,7 +340,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时33分"
         }
@@ -313,7 +348,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "谷歌DeepMind登Nature封面",
@@ -326,8 +361,47 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时51分 ~ 05时33分]"
+          "appearance_count": 8,
+          "time_info": "[00时51分 ~ 06时34分]"
+        },
+        {
+          "title": "苹果(AAPL.O)CEO库克：谷歌技术将改进Siri，今年晚些时候将推出更新。",
+          "url": "https://flash.jin10.com/detail/20260130053331911800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时34分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美元指数29日下跌",
+          "url": "https://flash.jin10.com/detail/20260130061735359800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时34分"
+        },
+        {
+          "title": "周四（1月29日））纽约尾盘，ICE美元指数跌0.21%，报96.245点，日内交投区间为96.656-96.016点，大部分时间低位震荡，北京时间23:00曾开启一波短暂的冲高回落行情。 彭博美元指数跌0.12%，报1178.02点，日内交投区间为1182.97-1175.40点。",
+          "url": "https://wallstreetcn.com/livenews/3046676",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时33分"
         }
       ]
     },
@@ -359,26 +433,26 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时33分"
         }
       ]
     },
     {
-      "keyword_group": "美元",
+      "keyword_group": "自动驾驶",
       "match_count": 1,
       "titles": [
         {
-          "title": "周四（1月29日））纽约尾盘，ICE美元指数跌0.21%，报96.245点，日内交投区间为96.656-96.016点，大部分时间低位震荡，北京时间23:00曾开启一波短暂的冲高回落行情。 彭博美元指数跌0.12%，报1178.02点，日内交投区间为1182.97-1175.40点。",
-          "url": "https://wallstreetcn.com/livenews/3046676",
+          "title": "美国加州州长Newsom因为Waymo一辆自动驾驶车辆在学校周边撞击一名儿童而遭到调查。",
+          "url": "https://wallstreetcn.com/livenews/3046699",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            21
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时33分"
+          "time_info": "06时34分"
         }
       ]
     }

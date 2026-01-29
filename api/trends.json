@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-29T19:36:52.565758+08:00",
-  "total_titles_processed": 1827,
+  "generated_at": "2026-01-29T21:09:39.958631+08:00",
+  "total_titles_processed": 1946,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 22,
+      "match_count": 25,
       "titles": [
         {
           "title": "美股“七巨头”财报即将亮相：投资者该关注哪些要点？",
@@ -95,7 +95,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时36分"
         },
@@ -121,6 +121,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时44分"
+        },
+        {
+          "title": "阿里巴巴美股盘前涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3046478",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时09分"
+        },
+        {
+          "title": "洛克希德马丁四季度净销售额203亿美元，预估198.5亿美元。 四季度每股收益5.8美元，预期5.86美元，上年同期2.22美元。 四季度营业利润为23.3亿美元，预期22.2亿美元。 洛克希德马丁预计2026年的净销售额775亿美元至800亿美元，市场预估778.9亿美元。 洛克希德马丁预计2026年每股收益29.35美元至30.25美元，市场预估29.09美元。 洛克希德马丁预计2026年自由现金流65亿至68亿美元，预期61.6亿美元。 洛克希德马丁美股盘前涨超4%。",
+          "url": "https://wallstreetcn.com/livenews/3046473",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时09分"
         },
         {
           "title": "IBM(IBM.N)美股盘前涨7.9%，四季度业绩超出预期。",
@@ -176,6 +198,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时52分"
+        },
+        {
+          "title": "黑石集团(BX.N)美股盘前涨1.1%，四季度利润和收入超出预期。",
+          "url": "https://flash.jin10.com/detail/20260129201634269800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时09分"
         },
         {
           "title": "美股七巨头收盘播报｜周三（1月28日），美国科技股七巨头（Magnificent 7）指数涨0.22%，报209.62点，整体呈现出V形反转行情，美联储发布决议声明后持续走高。 “超大”市值科技股指数涨0.04%，报398.55点，跳空高开之后持续回吐涨幅并多次转跌。",
@@ -331,8 +364,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时45分 ~ 19时36分]"
+          "appearance_count": 19,
+          "time_info": "[00时45分 ~ 21时09分]"
         },
         {
           "title": "【早报】5400美元，金价再迈新台阶；多家房企已不用上报“三道红线”",
@@ -388,7 +421,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时36分"
         },
@@ -403,6 +436,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时32分 ~ 10时31分]"
+        },
+        {
+          "title": "金价上涨的第一批受害者出现了",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E4%B8%8A%E6%B6%A8%E7%9A%84%E7%AC%AC%E4%B8%80%E6%89%B9%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时36分 ~ 21时09分]"
         },
         {
           "title": "高盛：上调今明两年金价预测",
@@ -451,24 +496,13 @@
           "time_info": "13时50分"
         },
         {
-          "title": "金价上涨的第一批受害者出现了",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E4%B8%8A%E6%B6%A8%E7%9A%84%E7%AC%AC%E4%B8%80%E6%89%B9%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时36分"
-        },
-        {
           "title": "招金黄金：公司合质金和金精矿产品的价格受黄金价格波动影响较大，若未来黄金价格大幅波动，将给公司经营业绩带来较大影响；公司瓦图科拉金矿所在地为斐济共和国，斐济与国内在政治、法律、经济、税收、文化发展水平方面存在较大差异，存在境外投资项目环境、相关政策变动等风险，目前公司正在对矿山进行全面的技术改造和设备升级。",
           "url": "https://wallstreetcn.com/livenews/3046415",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时36分"
         },
@@ -493,6 +527,68 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "一位前OpenAI高级研究员创办了一家新的人工智能初创公司，目标是筹集高达10亿美元的资金。",
+          "url": "https://flash.jin10.com/detail/20260129071859575800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时32分"
+        },
+        {
+          "title": "ChatGPT 流量份额从 86% 降至 65%，这一变化由哪些因素造成？",
+          "url": "https://www.zhihu.com/question/1994095464539255007",
+          "source": "知乎",
+          "ranks": [
+            17,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时36分 ~ 21时09分]"
+        },
+        {
+          "title": "OpenAI至少从编码初创公司Cline招聘了七名员工。",
+          "url": "https://flash.jin10.com/detail/20260129071311535800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时32分"
+        },
+        {
+          "title": "金十整理：云增速放缓、被指患上“OpenAI依赖症”， 微软遭投行集体“砍价”",
+          "url": "https://flash.jin10.com/detail/20260129202302435800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时09分"
+        },
+        {
+          "title": "OpenAI 发布基于 GPT-5.2 的 Prism，专注科研领域的 AI 协作。科研人能用它来做些什么？",
+          "url": "https://www.zhihu.com/question/1999888901490304692",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时09分"
         }
       ]
     },
@@ -526,8 +622,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时50分 ~ 19时36分]"
+          "appearance_count": 6,
+          "time_info": "[16时50分 ~ 21时09分]"
         },
         {
           "title": "谷歌母公司Alphabet美股盘后涨3%，投资者关注Meta业绩报告。",
@@ -551,45 +647,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时44分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "一位前OpenAI高级研究员创办了一家新的人工智能初创公司，目标是筹集高达10亿美元的资金。",
-          "url": "https://flash.jin10.com/detail/20260129071859575800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时32分"
-        },
-        {
-          "title": "OpenAI至少从编码初创公司Cline招聘了七名员工。",
-          "url": "https://flash.jin10.com/detail/20260129071311535800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时32分"
-        },
-        {
-          "title": "ChatGPT 流量份额从 86% 降至 65%，这一变化由哪些因素造成？",
-          "url": "https://www.zhihu.com/question/1994095464539255007",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时36分"
         }
       ]
     },
@@ -694,7 +751,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时36分"
         }
@@ -731,6 +788,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时56分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "VLA",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "宇树开源 UnifoLM-VLA-0",
+          "url": "https://wallstreetcn.com/livenews/3046471",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时09分"
         }
       ]
     }

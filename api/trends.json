@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-29T15:44:26.510032+08:00",
-  "total_titles_processed": 1434,
+  "generated_at": "2026-01-29T16:50:12.060764+08:00",
+  "total_titles_processed": 1546,
   "failed_sources": [],
   "trends": [
     {
@@ -256,11 +256,12 @@
           "ranks": [
             21,
             22,
-            24
+            24,
+            29
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时45分 ~ 15时44分]"
+          "appearance_count": 14,
+          "time_info": "[00时45分 ~ 16时49分]"
         },
         {
           "title": "【早报】5400美元，金价再迈新台阶；多家房企已不用上报“三道红线”",
@@ -286,6 +287,19 @@
           "time_info": "[00时45分 ~ 12时42分]"
         },
         {
+          "title": "金价涨不停！史上首次突破5500美元大关 因特朗普威胁打击伊朗",
+          "url": "https://www.cls.cn/detail/2273531",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时42分 ~ 16时50分]"
+        },
+        {
           "title": "金价波动",
           "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=25&Refer=top",
           "source": "微博",
@@ -305,7 +319,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时44分"
         },
@@ -320,18 +334,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时32分 ~ 10时31分]"
-        },
-        {
-          "title": "金价涨不停！史上首次突破5500美元大关 因特朗普威胁打击伊朗",
-          "url": "https://www.cls.cn/detail/2273531",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时42分 ~ 15时44分]"
         },
         {
           "title": "金价",
@@ -393,7 +395,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "人类基因密码被谷歌AI破解",
@@ -403,11 +405,12 @@
             3,
             7,
             25,
-            15
+            15,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时42分 ~ 15时44分]"
+          "appearance_count": 5,
+          "time_info": "[12时42分 ~ 16时49分]"
         },
         {
           "title": "谷歌母公司Alphabet美股盘后涨3%，投资者关注Meta业绩报告。",
@@ -431,6 +434,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时44分"
+        },
+        {
+          "title": "谷歌DeepMind登Nature封面",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CDeepMind%E7%99%BBNature%E5%B0%81%E9%9D%A2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时50分"
         }
       ]
     },

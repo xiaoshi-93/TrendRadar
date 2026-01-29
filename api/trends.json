@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-29T21:09:39.958631+08:00",
-  "total_titles_processed": 1946,
+  "generated_at": "2026-01-29T22:42:47.224620+08:00",
+  "total_titles_processed": 2062,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 25,
+      "match_count": 31,
       "titles": [
         {
           "title": "美股“七巨头”财报即将亮相：投资者该关注哪些要点？",
@@ -56,6 +56,17 @@
           "time_info": "01时37分"
         },
         {
+          "title": "美股开盘 Meta Platforms大涨10%",
+          "url": "https://flash.jin10.com/detail/20260129223027540800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时42分"
+        },
+        {
           "title": "金十图示：2026年01月28日（周三）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260129013023144800",
           "source": "金十数据",
@@ -100,6 +111,17 @@
           "time_info": "19时36分"
         },
         {
+          "title": "能源业ETF涨超2.4%，领跑美股行业ETF，半导体ETF涨0.75%，网络股指数ETF跌0.2%，科技行业ETF跌超1.1%，全球科技股指数ETF跌超1.3%。",
+          "url": "https://wallstreetcn.com/livenews/3046542",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时42分"
+        },
+        {
           "title": "美股经纪商Robinhood计划向散户投资者寻求部分SpaceX的股票。该公司争取在SpaceX首次公开募股（IPO）中占据重要零售席位。",
           "url": "https://flash.jin10.com/detail/20260129051658551800",
           "source": "金十数据",
@@ -129,7 +151,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时09分"
         },
@@ -140,7 +162,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时09分"
         },
@@ -154,6 +176,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时52分"
+        },
+        {
+          "title": "美股期指小幅走高 金银铜等集体大涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2274635",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时42分"
         },
         {
           "title": "金十图示：2026年01月28日（周三）美股热门股票行情一览（美股收盘）",
@@ -206,7 +239,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时09分"
         },
@@ -231,6 +264,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时33分"
+        },
+        {
+          "title": "铜价创下历史新高后，美股上市铜矿商股价盘前上涨，必和必拓(BHP.N)涨4.1%，力拓(RIO.N)涨3.3%。",
+          "url": "https://flash.jin10.com/detail/20260129215941423800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时42分"
+        },
+        {
+          "title": "周四美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3046527",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时42分"
         },
         {
           "title": "周三（1月28日）美股尾盘，彭博电动汽车价格回报指数涨0.63%，报3711.30点，亚太时段出现V形反转行情，日内大部分时候高位震荡。 成分股Olectra Greentech涨超10%，EVgo涨8.7%，港股理想汽车收涨4.9%、蔚来集团收涨3.98%表现第四，美国雅宝目前跌5.1%表现倒数第二，Solid Power跌7.6%。",
@@ -286,12 +341,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时45分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-01-29）",
+          "url": "https://flash.jin10.com/detail/20260129214609846800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时42分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "金价屡创历史新高意味着什么",
@@ -364,8 +430,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时45分 ~ 21时09分]"
+          "appearance_count": 20,
+          "time_info": "[00时45分 ~ 22时42分]"
         },
         {
           "title": "【早报】5400美元，金价再迈新台阶；多家房企已不用上报“三道红线”",
@@ -443,11 +509,12 @@
           "source": "百度热搜",
           "ranks": [
             14,
-            13
+            13,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时36分 ~ 21时09分]"
+          "appearance_count": 3,
+          "time_info": "[19时36分 ~ 22时42分]"
         },
         {
           "title": "高盛：上调今明两年金价预测",
@@ -472,6 +539,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时32分 ~ 10时31分]"
+        },
+        {
+          "title": "金价暴涨第一批受害者出现",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%9A%B4%E6%B6%A8%E7%AC%AC%E4%B8%80%E6%89%B9%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时42分"
         },
         {
           "title": "美联储主席鲍威尔：未从金价上涨中解读出太多宏观信息。",
@@ -554,8 +632,19 @@
             14
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时36分 ~ 22时42分]"
+        },
+        {
+          "title": "OpenAI 发布基于 GPT-5.2 的 Prism，专注科研领域的 AI 协作。科研人能用它来做些什么？",
+          "url": "https://www.zhihu.com/question/1999888901490304692",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时36分 ~ 21时09分]"
+          "time_info": "[21时09分 ~ 22时42分]"
         },
         {
           "title": "OpenAI至少从编码初创公司Cline招聘了七名员工。",
@@ -575,18 +664,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时09分"
-        },
-        {
-          "title": "OpenAI 发布基于 GPT-5.2 的 Prism，专注科研领域的 AI 协作。科研人能用它来做些什么？",
-          "url": "https://www.zhihu.com/question/1999888901490304692",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时09分"
         }
@@ -596,6 +674,21 @@
       "keyword_group": "谷歌 google gemini",
       "match_count": 4,
       "titles": [
+        {
+          "title": "谷歌DeepMind登Nature封面",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CDeepMind%E7%99%BBNature%E5%B0%81%E9%9D%A2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20,
+            10,
+            15,
+            14,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时50分 ~ 22时42分]"
+        },
         {
           "title": "人类基因密码被谷歌AI破解",
           "url": "https://search.bilibili.com/all?keyword=%E4%BA%BA%E7%B1%BB%E5%9F%BA%E5%9B%A0%E5%AF%86%E7%A0%81%E8%A2%AB%E8%B0%B7%E6%AD%8CAI%E7%A0%B4%E8%A7%A3",
@@ -610,20 +703,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时42分 ~ 16时49分]"
-        },
-        {
-          "title": "谷歌DeepMind登Nature封面",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CDeepMind%E7%99%BBNature%E5%B0%81%E9%9D%A2",
-          "source": "bilibili 热搜",
-          "ranks": [
-            20,
-            10,
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时50分 ~ 21时09分]"
         },
         {
           "title": "谷歌母公司Alphabet美股盘后涨3%，投资者关注Meta业绩报告。",
@@ -731,7 +810,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美元指数涨0.89%，报96.63点。 美元兑日元涨1.12%，美元兑瑞郎涨1.34%。 欧元兑美元跌0.99%，英镑兑美元跌0.55%；澳元跌0.36%，纽元跌0.38%，加元跌0.14%。",
@@ -754,6 +833,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时36分"
+        },
+        {
+          "title": "美元指数DXY短线走高十余点，现报96.36。",
+          "url": "https://flash.jin10.com/detail/20260129215004835800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时42分"
         }
       ]
     },
@@ -802,7 +892,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时09分"
         }

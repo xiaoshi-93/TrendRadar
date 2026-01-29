@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T03:35:18.801822+08:00",
-  "total_titles_processed": 480,
+  "generated_at": "2026-01-30T04:37:37.762640+08:00",
+  "total_titles_processed": 515,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时51分 ~ 03时35分]"
+          "appearance_count": 6,
+          "time_info": "[00时51分 ~ 04时37分]"
         },
         {
           "title": "金价",
@@ -29,8 +29,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时51分 ~ 03时35分]"
+          "appearance_count": 6,
+          "time_info": "[00时51分 ~ 04时37分]"
         },
         {
           "title": "金价上涨的第一批受害者出现了",
@@ -40,8 +40,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时51分 ~ 03时35分]"
+          "appearance_count": 6,
+          "time_info": "[00时51分 ~ 04时37分]"
         },
         {
           "title": "黄金价格为何一路猛涨",
@@ -52,8 +52,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时51分 ~ 03时35分]"
+          "appearance_count": 6,
+          "time_info": "[00时51分 ~ 04时37分]"
         },
         {
           "title": "金价暴涨第一批受害者出现",
@@ -64,8 +64,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时51分 ~ 03时35分]"
+          "appearance_count": 6,
+          "time_info": "[00时51分 ~ 04时37分]"
         },
         {
           "title": "金价上涨打金店2天亏5万",
@@ -78,8 +78,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时51分 ~ 03时35分]"
+          "appearance_count": 6,
+          "time_info": "[00时51分 ~ 04时37分]"
         },
         {
           "title": "一口气看懂金价涨跌的底层逻辑",
@@ -118,8 +118,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时51分 ~ 03时35分]"
+          "appearance_count": 6,
+          "time_info": "[00时51分 ~ 04时37分]"
         },
         {
           "title": "美股期指小幅走高 金银铜等集体大涨 | 今夜看点",
@@ -129,8 +129,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时51分 ~ 03时35分]"
+          "appearance_count": 6,
+          "time_info": "[00时51分 ~ 04时37分]"
         },
         {
           "title": "加密货币市场在美股开盘前后加速下跌",
@@ -191,11 +191,12 @@
           "ranks": [
             3,
             1,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时51分 ~ 03时35分]"
+          "appearance_count": 6,
+          "time_info": "[00时51分 ~ 04时37分]"
         }
       ]
     },
@@ -213,8 +214,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时51分 ~ 03时35分]"
+          "appearance_count": 6,
+          "time_info": "[00时51分 ~ 04时37分]"
         }
       ]
     },

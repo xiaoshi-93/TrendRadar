@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-01T02:40:55.529603+08:00",
-  "total_titles_processed": 353,
+  "generated_at": "2026-02-01T03:26:22.805252+08:00",
+  "total_titles_processed": 364,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 02时40分]"
+          "appearance_count": 4,
+          "time_info": "[00时36分 ~ 03时26分]"
         },
         {
           "title": "一纸提名引爆史诗级抛售：现货白银一度跌36% 金价失守5000大关",
@@ -28,21 +28,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 02时40分]"
-        },
-        {
-          "title": "金价银价为何创纪录暴跌",
-          "url": "https://www.douyin.com/hot/2385262",
-          "source": "抖音",
-          "ranks": [
-            25,
-            13,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 02时40分]"
+          "appearance_count": 4,
+          "time_info": "[00时36分 ~ 03时26分]"
         },
         {
           "title": "金价波动",
@@ -54,8 +41,22 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 02时40分]"
+          "appearance_count": 4,
+          "time_info": "[00时36分 ~ 03时26分]"
+        },
+        {
+          "title": "金价银价为何创纪录暴跌",
+          "url": "https://www.douyin.com/hot/2385262",
+          "source": "抖音",
+          "ranks": [
+            25,
+            13,
+            1,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时36分 ~ 03时26分]"
         },
         {
           "title": "金价巨震前后商业银行集体审慎",
@@ -63,11 +64,36 @@
           "source": "今日头条",
           "ranks": [
             30,
-            2
+            2,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时28分 ~ 03时26分]"
+        },
+        {
+          "title": "金价下跌是否值得入手",
+          "url": "https://www.douyin.com/hot/2385399",
+          "source": "抖音",
+          "ranks": [
+            26,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时28分 ~ 03时26分]"
+        },
+        {
+          "title": "金价下跌 多品牌设退货手续费",
+          "url": "https://www.douyin.com/hot/2384866",
+          "source": "抖音",
+          "ranks": [
+            11,
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时28分 ~ 02时40分]"
+          "time_info": "[02时40分 ~ 03时26分]"
         },
         {
           "title": "国际金价银价继续大幅下跌",
@@ -80,28 +106,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时36分 ~ 01时28分]"
-        },
-        {
-          "title": "金价下跌是否值得入手",
-          "url": "https://www.douyin.com/hot/2385399",
-          "source": "抖音",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时28分 ~ 02时40分]"
-        },
-        {
-          "title": "金价下跌 多品牌设退货手续费",
-          "url": "https://www.douyin.com/hot/2384866",
-          "source": "抖音",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时40分"
         }
       ]
     },
@@ -117,8 +121,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 02时40分]"
+          "appearance_count": 4,
+          "time_info": "[00时36分 ~ 03时26分]"
         },
         {
           "title": "黄仁勋证实：英伟达将参与OpenAI当前一轮融资，这可能是英伟达有史以来最大一笔投资",
@@ -128,8 +132,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 02时40分]"
+          "appearance_count": 4,
+          "time_info": "[00时36分 ~ 03时26分]"
         },
         {
           "title": "英伟达CEO黄仁勋：我们将向OpenAI投入大量资金。",
@@ -139,8 +143,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 02时40分]"
+          "appearance_count": 4,
+          "time_info": "[00时36分 ~ 03时26分]"
         },
         {
           "title": "英伟达CEO黄仁勋：我们绝对会参与本轮对OpenAI的投资。",
@@ -150,8 +154,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 02时40分]"
+          "appearance_count": 4,
+          "time_info": "[00时36分 ~ 03时26分]"
         }
       ]
     },
@@ -165,11 +169,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             4,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 02时40分]"
+          "appearance_count": 4,
+          "time_info": "[00时36分 ~ 03时26分]"
         }
       ]
     },
@@ -185,8 +190,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 02时40分]"
+          "appearance_count": 4,
+          "time_info": "[00时36分 ~ 03时26分]"
         }
       ]
     }

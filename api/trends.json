@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-01T18:33:16.359581+08:00",
-  "total_titles_processed": 1018,
+  "generated_at": "2026-02-01T19:27:40.179656+08:00",
+  "total_titles_processed": 1077,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "金价",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
         {
           "title": "金价大跌男子斥资20多万买入200克",
@@ -39,11 +39,12 @@
           "ranks": [
             1,
             21,
-            24
+            24,
+            27
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时51分 ~ 18时33分]"
+          "appearance_count": 12,
+          "time_info": "[10时51分 ~ 19时27分]"
         },
         {
           "title": "金价波动",
@@ -154,6 +155,18 @@
           "time_info": "[10时51分 ~ 14时57分]"
         },
         {
+          "title": "金价暴跌后顾客排长队出售黄金",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%9A%B4%E8%B7%8C%E5%90%8E%E9%A1%BE%E5%AE%A2%E6%8E%92%E9%95%BF%E9%98%9F%E5%87%BA%E5%94%AE%E9%BB%84%E9%87%91",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时32分 ~ 19时27分]"
+        },
+        {
           "title": "深圳水贝金价暴跌市民扎堆买金",
           "url": "https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E6%B0%B4%E8%B4%9D%E9%87%91%E4%BB%B7%E6%9A%B4%E8%B7%8C%E5%B8%82%E6%B0%91%E6%89%8E%E5%A0%86%E4%B9%B0%E9%87%91%23&t=31&band_rank=18&Refer=top",
           "source": "微博",
@@ -190,17 +203,6 @@
           "time_info": "[00时36分 ~ 01时28分]"
         },
         {
-          "title": "金价暴跌后顾客排长队出售黄金",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%9A%B4%E8%B7%8C%E5%90%8E%E9%A1%BE%E5%AE%A2%E6%8E%92%E9%95%BF%E9%98%9F%E5%87%BA%E5%94%AE%E9%BB%84%E9%87%91",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时32分 ~ 18时33分]"
-        },
-        {
           "title": "金价暴跌有柜姐放话退单扣500元",
           "url": "https://www.toutiao.com/trending/7601368996558127146/",
           "source": "今日头条",
@@ -212,6 +214,17 @@
           "time_info": "[13时05分 ~ 13时06分]"
         },
         {
+          "title": "金价暴跌，深圳水贝挤满了人，扎堆买金；演员自曝4元/克买的白银，13年前存在银行保险箱忘了，逾期需补交7000多元",
+          "url": "https://wallstreetcn.com/articles/3764687",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时27分"
+        },
+        {
           "title": "金价爆跌有柜姐放话退货扣500无效",
           "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E7%88%86%E8%B7%8C%E6%9C%89%E6%9F%9C%E5%A7%90%E6%94%BE%E8%AF%9D%E9%80%80%E8%B4%A7%E6%89%A3500%E6%97%A0%E6%95%88%23&t=31&band_rank=10&Refer=top",
           "source": "微博",
@@ -221,6 +234,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时51分"
+        },
+        {
+          "title": "金价暴跌 深圳水贝挤满了人",
+          "url": "https://www.toutiao.com/trending/7601809209675484713/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时27分"
+        },
+        {
+          "title": "金价暴跌回收柜台前挤满顾客",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%9A%B4%E8%B7%8C%E5%9B%9E%E6%94%B6%E6%9F%9C%E5%8F%B0%E5%89%8D%E6%8C%A4%E6%BB%A1%E9%A1%BE%E5%AE%A2%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时27分"
         }
       ]
     },
@@ -292,33 +327,36 @@
           "url": "https://wallstreetcn.com/livenews/3047808",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时33分 ~ 19时27分]"
         },
         {
           "title": "黄仁勋：英伟达向OpenAI的投资从来不是一项承诺",
           "url": "https://flash.jin10.com/detail/20260201180928077800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时33分 ~ 19时27分]"
         },
         {
           "title": "英伟达CEO黄仁勋：OpenAI邀请我们进行高达1000亿美元的投资。对OpenAI的投资从来都不是承诺。我们会一步一步地投资。",
           "url": "https://flash.jin10.com/detail/20260201175015575800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时33分 ~ 19时27分]"
         }
       ]
     },
@@ -351,6 +389,34 @@
       ]
     },
     {
+      "keyword_group": "具身智能",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "优必选开源具身智能大模型Thinker，为工业人形机器人提供下一代“大脑”",
+          "url": "https://wallstreetcn.com/livenews/3047809",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时27分"
+        },
+        {
+          "title": "全球首款完全仿生具身智能机器人亮相",
+          "url": "https://www.toutiao.com/trending/7601044218057506862/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时27分 ~ 05时28分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "titles": [
@@ -367,23 +433,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时36分 ~ 07时29分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "具身智能",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "全球首款完全仿生具身智能机器人亮相",
-          "url": "https://www.toutiao.com/trending/7601044218057506862/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时27分 ~ 05时28分]"
         }
       ]
     },

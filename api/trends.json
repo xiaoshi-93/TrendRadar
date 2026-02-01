@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-01T16:39:37.468206+08:00",
-  "total_titles_processed": 894,
+  "generated_at": "2026-02-01T17:37:06.554698+08:00",
+  "total_titles_processed": 967,
   "failed_sources": [],
   "trends": [
     {
@@ -63,6 +63,19 @@
           "time_info": "[00时36分 ~ 07时29分]"
         },
         {
+          "title": "男子看金价下跌花20多万买200克",
+          "url": "https://www.toutiao.com/trending/7600970812455845951/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            21,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时51分 ~ 17时37分]"
+        },
+        {
           "title": "金价下跌是否值得入手",
           "url": "https://www.douyin.com/hot/2385399",
           "source": "抖音",
@@ -75,18 +88,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[01时28分 ~ 07时29分]"
-        },
-        {
-          "title": "男子看金价下跌花20多万买200克",
-          "url": "https://www.toutiao.com/trending/7600970812455845951/",
-          "source": "今日头条",
-          "ranks": [
-            1,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时51分 ~ 16时39分]"
         },
         {
           "title": "金价下跌 多品牌设退货手续费",

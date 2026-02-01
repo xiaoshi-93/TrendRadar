@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-02T02:43:11.885621+08:00",
-  "total_titles_processed": 356,
+  "generated_at": "2026-02-02T03:30:55.930171+08:00",
+  "total_titles_processed": 365,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时37分 ~ 02时43分]"
+          "appearance_count": 6,
+          "time_info": "[00时37分 ~ 03时30分]"
         },
         {
           "title": "黄仁勋：OpenAI邀请英伟达进行高达1000亿美元投资，但千亿美元投资“绝非承诺”。我们将逐步投资OpenAI。",
@@ -26,8 +26,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时37分 ~ 02时43分]"
+          "appearance_count": 4,
+          "time_info": "[00时37分 ~ 03时30分]"
         }
       ]
     },
@@ -43,8 +43,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时37分 ~ 02时43分]"
+          "appearance_count": 6,
+          "time_info": "[00时37分 ~ 03时30分]"
         },
         {
           "title": "男子看金价下跌花20多万买200克",
@@ -52,11 +52,12 @@
           "source": "今日头条",
           "ranks": [
             26,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时31分 ~ 02时43分]"
+          "appearance_count": 5,
+          "time_info": "[01时31分 ~ 03时30分]"
         }
       ]
     },
@@ -72,8 +73,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时37分 ~ 02时43分]"
+          "appearance_count": 6,
+          "time_info": "[00时37分 ~ 03时30分]"
         }
       ]
     },
@@ -89,8 +90,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时37分 ~ 02时43分]"
+          "appearance_count": 4,
+          "time_info": "[00时37分 ~ 03时30分]"
         }
       ]
     }

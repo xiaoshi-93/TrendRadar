@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-01T17:37:06.554698+08:00",
-  "total_titles_processed": 967,
+  "generated_at": "2026-02-01T18:33:16.359581+08:00",
+  "total_titles_processed": 1018,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "金价",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "金价大跌男子斥资20多万买入200克",
@@ -31,6 +31,19 @@
           "is_new": false,
           "appearance_count": 17,
           "time_info": "[00时36分 ~ 15时42分]"
+        },
+        {
+          "title": "男子看金价下跌花20多万买200克",
+          "url": "https://www.toutiao.com/trending/7600970812455845951/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            21,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[10时51分 ~ 18时33分]"
         },
         {
           "title": "金价波动",
@@ -61,19 +74,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时36分 ~ 07时29分]"
-        },
-        {
-          "title": "男子看金价下跌花20多万买200克",
-          "url": "https://www.toutiao.com/trending/7600970812455845951/",
-          "source": "今日头条",
-          "ranks": [
-            1,
-            21,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时51分 ~ 17时37分]"
         },
         {
           "title": "金价下跌是否值得入手",
@@ -190,6 +190,17 @@
           "time_info": "[00时36分 ~ 01时28分]"
         },
         {
+          "title": "金价暴跌后顾客排长队出售黄金",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%9A%B4%E8%B7%8C%E5%90%8E%E9%A1%BE%E5%AE%A2%E6%8E%92%E9%95%BF%E9%98%9F%E5%87%BA%E5%94%AE%E9%BB%84%E9%87%91",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时32分 ~ 18时33分]"
+        },
+        {
           "title": "金价暴跌有柜姐放话退单扣500元",
           "url": "https://www.toutiao.com/trending/7601368996558127146/",
           "source": "今日头条",
@@ -215,7 +226,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
         {
           "title": "黄仁勋私下很忧虑，英伟达与OpenAI的“千亿美元大交易”陷入停滞？",
@@ -275,6 +286,39 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时36分 ~ 07时29分]"
+        },
+        {
+          "title": "黄仁勋：OpenAI邀请英伟达进行高达1000亿美元投资，但千亿美元投资“绝非承诺”。我们将逐步投资OpenAI。",
+          "url": "https://wallstreetcn.com/livenews/3047808",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时33分"
+        },
+        {
+          "title": "黄仁勋：英伟达向OpenAI的投资从来不是一项承诺",
+          "url": "https://flash.jin10.com/detail/20260201180928077800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时33分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：OpenAI邀请我们进行高达1000亿美元的投资。对OpenAI的投资从来都不是承诺。我们会一步一步地投资。",
+          "url": "https://flash.jin10.com/detail/20260201175015575800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时33分"
         }
       ]
     },

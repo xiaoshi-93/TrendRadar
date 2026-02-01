@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-01T21:02:11.121562+08:00",
-  "total_titles_processed": 1164,
+  "generated_at": "2026-02-01T22:32:26.264383+08:00",
+  "total_titles_processed": 1246,
   "failed_sources": [],
   "trends": [
     {
@@ -105,6 +105,19 @@
           "time_info": "[02时40分 ~ 07时29分]"
         },
         {
+          "title": "金价暴跌，深圳水贝挤满了人，扎堆买金；演员自曝4元/克买的白银，13年前存在银行保险箱忘了，逾期需补交7000多元",
+          "url": "https://wallstreetcn.com/articles/3764687",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时27分 ~ 22时32分]"
+        },
+        {
           "title": "金价遭遇过山车",
           "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%81%AD%E9%81%87%E8%BF%87%E5%B1%B1%E8%BD%A6%23&t=31&band_rank=4&Refer=top",
           "source": "微博",
@@ -127,18 +140,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[10时51分 ~ 15时42分]"
-        },
-        {
-          "title": "金价暴跌，深圳水贝挤满了人，扎堆买金；演员自曝4元/克买的白银，13年前存在银行保险箱忘了，逾期需补交7000多元",
-          "url": "https://wallstreetcn.com/articles/3764687",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时27分 ~ 21时02分]"
         },
         {
           "title": "金价巨震前后商业银行集体审慎",
@@ -174,8 +175,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时27分 ~ 21时02分]"
+          "appearance_count": 4,
+          "time_info": "[19时27分 ~ 22时32分]"
         },
         {
           "title": "金价暴跌后顾客排长队出售黄金",
@@ -330,11 +331,12 @@
           "ranks": [
             1,
             6,
-            11
+            11,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时33分 ~ 21时02分]"
+          "appearance_count": 4,
+          "time_info": "[18时33分 ~ 22时32分]"
         },
         {
           "title": "黄仁勋：英伟达向OpenAI的投资从来不是一项承诺",
@@ -343,11 +345,12 @@
           "ranks": [
             2,
             11,
-            19
+            19,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时33分 ~ 21时02分]"
+          "appearance_count": 4,
+          "time_info": "[18时33分 ~ 22时32分]"
         },
         {
           "title": "英伟达CEO黄仁勋：OpenAI邀请我们进行高达1000亿美元的投资。对OpenAI的投资从来都不是承诺。我们会一步一步地投资。",
@@ -387,11 +390,12 @@
           "url": "https://wallstreetcn.com/articles/3764656",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时01分 ~ 21时02分]"
+          "appearance_count": 3,
+          "time_info": "[21时01分 ~ 22时32分]"
         }
       ]
     },
@@ -433,11 +437,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            10
+            10,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时27分 ~ 21时02分]"
+          "appearance_count": 3,
+          "time_info": "[19时27分 ~ 22时32分]"
         },
         {
           "title": "全球首款完全仿生具身智能机器人亮相",

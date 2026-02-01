@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-01T13:06:05.062221+08:00",
-  "total_titles_processed": 687,
+  "generated_at": "2026-02-01T14:58:02.474717+08:00",
+  "total_titles_processed": 794,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "金价",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "金价大跌男子斥资20多万买入200克",
@@ -29,8 +29,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时36分 ~ 13时06分]"
+          "appearance_count": 16,
+          "time_info": "[00时36分 ~ 14时58分]"
         },
         {
           "title": "金价波动",
@@ -99,8 +99,19 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时51分 ~ 13时06分]"
+          "appearance_count": 5,
+          "time_info": "[10时51分 ~ 14时58分]"
+        },
+        {
+          "title": "金价遭遇过山车",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%81%AD%E9%81%87%E8%BF%87%E5%B1%B1%E8%BD%A6%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时57分 ~ 14时58分]"
         },
         {
           "title": "金价巨震前后商业银行集体审慎",
@@ -117,6 +128,17 @@
           "time_info": "[01时28分 ~ 04时32分]"
         },
         {
+          "title": "金价暴跌 有柜姐发帖退单一律扣500",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%9A%B4%E8%B7%8C+%E6%9C%89%E6%9F%9C%E5%A7%90%E5%8F%91%E5%B8%96%E9%80%80%E5%8D%95%E4%B8%80%E5%BE%8B%E6%89%A3500",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时51分 ~ 14时58分]"
+        },
+        {
           "title": "金价大跌 男子斥资20多万买入200克",
           "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C+%E7%94%B7%E5%AD%90%E6%96%A5%E8%B5%8420%E5%A4%9A%E4%B8%87%E4%B9%B0%E5%85%A5200%E5%85%8B",
           "source": "百度热搜",
@@ -125,8 +147,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时51分 ~ 13时06分]"
+          "appearance_count": 4,
+          "time_info": "[10时51分 ~ 14时57分]"
         },
         {
           "title": "深圳水贝金价暴跌市民扎堆买金",
@@ -147,17 +169,6 @@
           "ranks": [
             21,
             27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时51分 ~ 13时06分]"
-        },
-        {
-          "title": "金价暴跌 有柜姐发帖退单一律扣500",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%9A%B4%E8%B7%8C+%E6%9C%89%E6%9F%9C%E5%A7%90%E5%8F%91%E5%B8%96%E9%80%80%E5%8D%95%E4%B8%80%E5%BE%8B%E6%89%A3500",
-          "source": "百度热搜",
-          "ranks": [
-            25
           ],
           "is_new": false,
           "appearance_count": 3,

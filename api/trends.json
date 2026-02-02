@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-02T21:12:09.136666+08:00",
-  "total_titles_processed": 1492,
+  "generated_at": "2026-02-02T22:47:57.805541+08:00",
+  "total_titles_processed": 1620,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "金价",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "金价暴跌，深圳水贝挤满了人，扎堆买金；演员自曝4元/克买的白银，13年前存在银行保险箱忘了，逾期需补交7000多元",
@@ -213,6 +213,17 @@
           "time_info": "16时53分"
         },
         {
+          "title": "杭州大爷在金价低位屯了1公斤",
+          "url": "https://www.toutiao.com/trending/7601449182562254857/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时47分"
+        },
+        {
           "title": "德意志银行在金价暴跌后仍然看涨 维持6000美元目标价",
           "url": "https://wallstreetcn.com/livenews/3048186",
           "source": "华尔街见闻-快讯",
@@ -227,7 +238,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "金银深V遭沪盘打压，现货黄金跌破4600美元关口、沪银跌17%、沪金跌超10%，美股期货、原油走低",
@@ -264,6 +275,28 @@
           "time_info": "07时31分"
         },
         {
+          "title": "黄金白银剧烈波动 美股三大期指集体下跌 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2278222",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时47分"
+        },
+        {
+          "title": "周一美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3048399",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时47分"
+        },
+        {
           "title": "美股盘前，明星科技股普跌，英伟达跌近2%，AMD跌超2.4%；存储芯片股多数走低，西部数据跌超3%；甲骨文盘前跌5%，公司今年将融资500亿美元；黄金股大跌，哈莫尼黄金跌超5%。美股能源股，西方石油跌超3%，康菲石油跌超2%。",
           "url": "https://wallstreetcn.com/livenews/3048249",
           "source": "华尔街见闻-快讯",
@@ -292,93 +325,15 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时12分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "独家|担忧价格与交割风险，多家黄金供应商暂停春节前银行现货金条供应",
-          "url": "https://www.cls.cn/detail/2278016",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时11分 ~ 21时12分]"
-        },
-        {
-          "title": "泰国期货交易所：黄金在线期货每日价格波动幅度将扩大至最新结算价的±20%。",
-          "url": "https://flash.jin10.com/detail/20260202142855006800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时09分"
-        },
-        {
-          "title": "土耳其提高部分黄金、白银基金的最低价格限制。",
-          "url": "https://wallstreetcn.com/livenews/3048241",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时58分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "美债市场紧盯季度发债安排 警惕美财政部祭出压低收益率的意外动作",
-          "url": "https://wallstreetcn.com/livenews/3048366",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时12分"
-        },
-        {
-          "title": "10年期美债期货下跌1个点，30年期期货下跌7个点。",
-          "url": "https://flash.jin10.com/detail/20260202070317059800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时31分"
-        },
-        {
-          "title": "巴克莱：预计美债发行量将连续两年“原地踏步”",
-          "url": "https://flash.jin10.com/detail/20260202143057490800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时09分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 6,
       "titles": [
         {
           "title": "黄仁勋澄清：对OpenAI的千亿投资\"从未承诺\"，英伟达将逐步评估",
@@ -404,6 +359,139 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时37分 ~ 06时31分]"
+        },
+        {
+          "title": "迪士尼首席执行官：仍在“梳理OpenAI交易的所有技术细节”。",
+          "url": "https://flash.jin10.com/detail/20260202221537167800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时47分"
+        },
+        {
+          "title": "迪士尼首席执行官：迪士尼希望与OpenAI的交易能推动其在Disney+上提供短视频的能力。",
+          "url": "https://flash.jin10.com/detail/20260202220631439800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时47分"
+        },
+        {
+          "title": "Snowflake盘前上涨2.6%，此前该公司与OpenAI达成2亿美元的合作伙伴关系。",
+          "url": "https://flash.jin10.com/detail/20260202220614192800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时47分"
+        },
+        {
+          "title": "Snowflake与OpenAI达成2亿美元、持续多年的合作伙伴关系。 双方将共同开发企业级AI解决方案。",
+          "url": "https://wallstreetcn.com/livenews/3048404",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时47分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "美债市场紧盯季度发债安排 警惕美财政部祭出压低收益率的意外动作",
+          "url": "https://wallstreetcn.com/livenews/3048366",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时12分"
+        },
+        {
+          "title": "10年期美债期货下跌1个点，30年期期货下跌7个点。",
+          "url": "https://flash.jin10.com/detail/20260202070317059800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "避险需求推升美债 沃什任命引发降息与缩表猜测",
+          "url": "https://flash.jin10.com/detail/20260202215501935800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时47分"
+        },
+        {
+          "title": "巴克莱：预计美债发行量将连续两年“原地踏步”",
+          "url": "https://flash.jin10.com/detail/20260202143057490800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时09分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "独家|担忧价格与交割风险，多家黄金供应商暂停春节前银行现货金条供应",
+          "url": "https://www.cls.cn/detail/2278016",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时11分 ~ 22时47分]"
+        },
+        {
+          "title": "泰国期货交易所：黄金在线期货每日价格波动幅度将扩大至最新结算价的±20%。",
+          "url": "https://flash.jin10.com/detail/20260202142855006800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时09分"
+        },
+        {
+          "title": "土耳其提高部分黄金、白银基金的最低价格限制。",
+          "url": "https://wallstreetcn.com/livenews/3048241",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时58分"
         }
       ]
     },

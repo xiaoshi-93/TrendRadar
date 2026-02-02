@@ -1,268 +1,12 @@
 {
-  "generated_at": "2026-02-02T23:42:22.067672+08:00",
-  "total_titles_processed": 1710,
+  "generated_at": "2026-02-03T00:50:17.965414+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "金价",
-      "match_count": 19,
-      "titles": [
-        {
-          "title": "金价暴跌，深圳水贝挤满了人，扎堆买金；演员自曝4元/克买的白银，13年前存在银行保险箱忘了，逾期需补交7000多元",
-          "url": "https://wallstreetcn.com/articles/3764687",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时37分 ~ 16时53分]"
-        },
-        {
-          "title": "【早报】金价巨震，银行密集提示风险；两只大牛股今日复牌",
-          "url": "https://www.cls.cn/detail/2276967",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时40分 ~ 15时09分]"
-        },
-        {
-          "title": "男子卖 400 克金得 14 万借朋友，金价大涨后要求按现值还款，这合理吗？法院会如何判决？",
-          "url": "https://www.zhihu.com/question/1999853811821463456",
-          "source": "知乎",
-          "ranks": [
-            20,
-            4,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时02分 ~ 19时40分]"
-        },
-        {
-          "title": "男子看金价下跌花20多万买200克",
-          "url": "https://www.toutiao.com/trending/7600970812455845951/",
-          "source": "今日头条",
-          "ranks": [
-            26,
-            22,
-            23,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时31分 ~ 07时31分]"
-        },
-        {
-          "title": "金价“大跳水”？两大投资大佬：黄金才是泡沫而非AI，美元一涨就会破！",
-          "url": "https://www.cls.cn/detail/2277020",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时40分 ~ 16时53分]"
-        },
-        {
-          "title": "黄金暴跌为何瑞银却上调金价目标",
-          "url": "https://www.toutiao.com/trending/7602143255571992083/",
-          "source": "今日头条",
-          "ranks": [
-            23,
-            15,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时08分 ~ 18时56分]"
-        },
-        {
-          "title": "金十图示：2026年02月02日（周一）上海金早盘价为1063.22元/克，较国际金价(1055.02元/克)，高8.2元/克",
-          "url": "https://flash.jin10.com/detail/20260202102356374800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时41分"
-        },
-        {
-          "title": "金价暴跌后黄金市场挤满顾客",
-          "url": "https://www.douyin.com/hot/2386891",
-          "source": "抖音",
-          "ranks": [
-            8,
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时02分 ~ 16时53分]"
-        },
-        {
-          "title": "金价暴跌后回收变现火爆",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%9A%B4%E8%B7%8C%E5%90%8E%E5%9B%9E%E6%94%B6%E5%8F%98%E7%8E%B0%E7%81%AB%E7%88%86%23&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时31分"
-        },
-        {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24,
-            26,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时40分 ~ 15时09分]"
-        },
-        {
-          "title": "金价继续跳水：部分银行实物金条库存悄然松动，投资情绪降温",
-          "url": "https://wallstreetcn.com/livenews/3048273",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时58分 ~ 18时56分]"
-        },
-        {
-          "title": "金价暴跌，刚买的金饰能退吗？",
-          "url": "https://news.ifeng.com/c/8qPhA47Tw2J",
-          "source": "凤凰网",
-          "ranks": [
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时08分 ~ 16时53分]"
-        },
-        {
-          "title": "金价史诗级暴跌是机会还是陷阱",
-          "url": "https://www.toutiao.com/trending/7602177874514988598/",
-          "source": "今日头条",
-          "ranks": [
-            30,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时58分 ~ 18时56分]"
-        },
-        {
-          "title": "金价闪崩可以抄底了吗",
-          "url": "https://www.toutiao.com/trending/7602181563039632905/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时55分 ~ 18时56分]"
-        },
-        {
-          "title": "李大霄直播解读金价震荡",
-          "url": "https://www.toutiao.com/trending/7601506327084600886/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时53分"
-        },
-        {
-          "title": "金价下跌逾4%，美股黄金矿业公司股价盘前下跌，哈莫尼黄金下跌5.3%，SPDR黄金ETF下跌4.1%，巴里克矿业下跌4.8%。金罗斯黄金下跌5.9%。",
-          "url": "https://flash.jin10.com/detail/20260202171934204800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时58分"
-        },
-        {
-          "title": "这次金价暴跌真的只是因为沃什吗",
-          "url": "https://www.toutiao.com/trending/7602102244296625670/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时53分"
-        },
-        {
-          "title": "杭州大爷在金价低位屯了1公斤",
-          "url": "https://www.toutiao.com/trending/7601449182562254857/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时47分"
-        },
-        {
-          "title": "德意志银行在金价暴跌后仍然看涨 维持6000美元目标价",
-          "url": "https://wallstreetcn.com/livenews/3048186",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时53分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 3,
       "titles": [
-        {
-          "title": "金银深V遭沪盘打压，现货黄金跌破4600美元关口、沪银跌17%、沪金跌超10%，美股期货、原油走低",
-          "url": "https://wallstreetcn.com/articles/3764699",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时40分 ~ 13时02分]"
-        },
-        {
-          "title": "美股期货亚市盘初走低，纳斯达克100指数期货跌0.8%，标普500指数期货跌0.6%。 现货黄金盘初大幅波动，最低报4783.98美元/盎司，目前反弹至4840美元一线附近，日内跌0.5%。 现货白银亦大幅波动，最低报80.53美元/盎司，目前反弹至82.15美元，日内跌2.7%。 布伦特原油期货亚市开盘下跌2.4%，至每桶67.78美元。",
-          "url": "https://wallstreetcn.com/livenews/3047847",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时31分"
-        },
         {
           "title": "商品暴跌震动市场！美股指集体低开，纳指跌0.4%，甲骨文逆势涨4%，现货金银“V”型反转，布油跌5%",
           "url": "https://wallstreetcn.com/articles/3764730",
@@ -270,282 +14,48 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时42分"
+          "time_info": "00时50分"
         },
         {
           "title": "黄金白银剧烈波动 美股三大期指集体下跌 | 今夜看点",
           "url": "https://www.cls.cn/detail/2278222",
           "source": "财联社热门",
           "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时47分 ~ 23时42分]"
-        },
-        {
-          "title": "美股股指期货周一低开，其中纳指期货跌0.8%。",
-          "url": "https://flash.jin10.com/detail/20260202070305178800",
-          "source": "金十数据",
-          "ranks": [
-            8
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时31分"
+          "time_info": "00时50分"
         },
         {
-          "title": "周一美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3048399",
-          "source": "华尔街见闻-快讯",
+          "title": "美股稀土板块盘前走强 据称美国拟启动“金库计划” 复制石油储备模式",
+          "url": "https://www.cls.cn/detail/2278170",
+          "source": "财联社热门",
           "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时47分"
-        },
-        {
-          "title": "美股盘前，明星科技股普跌，英伟达跌近2%，AMD跌超2.4%；存储芯片股多数走低，西部数据跌超3%；甲骨文盘前跌5%，公司今年将融资500亿美元；黄金股大跌，哈莫尼黄金跌超5%。美股能源股，西方石油跌超3%，康菲石油跌超2%。",
-          "url": "https://wallstreetcn.com/livenews/3048249",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时58分"
-        },
-        {
-          "title": "贵金属普遍遭抛售，美股锂矿商盘前下跌。",
-          "url": "https://flash.jin10.com/detail/20260202180049726800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时56分"
-        },
-        {
-          "title": "Strategy美股盘初跌6.9%。ProShares跌12.7%，Strive跌8.3%，网红券商Robinhood跌8.3%，Bitcoin Depot跌7.9%，IBIT跌6.3%，Circle跌5.3%，Bakkt跌3.6%，Bullish跌2.6%，特朗普媒体科技集团跌2.2%，亿邦国际涨2.3%。",
-          "url": "https://wallstreetcn.com/livenews/3048418",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时42分"
-        },
-        {
-          "title": "能源业ETF跌1.6%，在美股盘初领跌行业ETF，可选消费ETF跌0.8%，全球科技股指数ETF跌0.2%，半导体ETF、科技行业ETF涨幅不到0.5%。 标普500指数的11个板块中，能源板块盘初跌超2.1%。",
-          "url": "https://wallstreetcn.com/livenews/3048416",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时42分"
-        },
-        {
-          "title": "迪士尼美股盘前转涨，现涨超3%，公司第一季度调整后每股收益超市场预期。",
-          "url": "https://wallstreetcn.com/livenews/3048339",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时12分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "黄仁勋澄清：对OpenAI的千亿投资\"从未承诺\"，英伟达将逐步评估",
-          "url": "https://wallstreetcn.com/articles/3764694",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时37分 ~ 17时58分]"
-        },
-        {
-          "title": "黄仁勋：OpenAI邀请英伟达进行高达1000亿美元投资，但千亿美元投资“绝非承诺”。我们将逐步投资OpenAI。",
-          "url": "https://wallstreetcn.com/livenews/3047808",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时37分 ~ 06时31分]"
-        },
-        {
-          "title": "迪士尼首席执行官：仍在“梳理OpenAI交易的所有技术细节”。",
-          "url": "https://flash.jin10.com/detail/20260202221537167800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时47分"
-        },
-        {
-          "title": "迪士尼首席执行官：迪士尼希望与OpenAI的交易能推动其在Disney+上提供短视频的能力。",
-          "url": "https://flash.jin10.com/detail/20260202220631439800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时47分"
-        },
-        {
-          "title": "Snowflake盘前上涨2.6%，此前该公司与OpenAI达成2亿美元的合作伙伴关系。",
-          "url": "https://flash.jin10.com/detail/20260202220614192800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时47分"
-        },
-        {
-          "title": "Snowflake与OpenAI达成2亿美元、持续多年的合作伙伴关系。 双方将共同开发企业级AI解决方案。",
-          "url": "https://wallstreetcn.com/livenews/3048404",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时47分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "美债市场紧盯季度发债安排 警惕美财政部祭出压低收益率的意外动作",
-          "url": "https://wallstreetcn.com/livenews/3048366",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时12分"
-        },
-        {
-          "title": "10年期美债期货下跌1个点，30年期期货下跌7个点。",
-          "url": "https://flash.jin10.com/detail/20260202070317059800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时31分"
-        },
-        {
-          "title": "避险需求推升美债 沃什任命引发降息与缩表猜测",
-          "url": "https://flash.jin10.com/detail/20260202215501935800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时47分"
-        },
-        {
-          "title": "巴克莱：预计美债发行量将连续两年“原地踏步”",
-          "url": "https://flash.jin10.com/detail/20260202143057490800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时09分"
+          "time_info": "00时50分"
         }
       ]
     },
     {
       "keyword_group": "黄金",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
         {
           "title": "独家|担忧价格与交割风险，多家黄金供应商暂停春节前银行现货金条供应",
           "url": "https://www.cls.cn/detail/2278016",
           "source": "财联社热门",
           "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时11分 ~ 23时42分]"
-        },
-        {
-          "title": "泰国期货交易所：黄金在线期货每日价格波动幅度将扩大至最新结算价的±20%。",
-          "url": "https://flash.jin10.com/detail/20260202142855006800",
-          "source": "金十数据",
-          "ranks": [
-            20
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时09分"
-        },
-        {
-          "title": "土耳其提高部分黄金、白银基金的最低价格限制。",
-          "url": "https://wallstreetcn.com/livenews/3048241",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时58分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "下周重磅日程：美非农、欧英央行决议、日本大选、伊朗局势、谷歌亚马逊AMD财报",
-          "url": "https://wallstreetcn.com/articles/3764656",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            3,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时37分 ~ 19时40分]"
+          "time_info": "00时50分"
         }
       ]
     },
@@ -554,50 +64,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "美元指数DXY短线走高约10点，现报97.50。",
-          "url": "https://flash.jin10.com/detail/20260202230206024800",
+          "title": "美元指数DXY日内涨幅扩大至0.50%，现报97.63。欧元兑美元EUR/USD日内跌超0.50%，现报1.1791。",
+          "url": "https://flash.jin10.com/detail/20260202234634117800",
           "source": "金十数据",
           "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时42分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "具身智能",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "优必选开源具身智能大模型Thinker，为工业人形机器人提供下一代“大脑”",
-          "url": "https://wallstreetcn.com/livenews/3047809",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18,
             19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时37分 ~ 06时31分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "供应链",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "国际航空运输协会首席执行官：供应链问题持续对航空公司产生重大影响。",
-          "url": "https://flash.jin10.com/detail/20260202100157787800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时41分"
+          "time_info": "00时50分"
         }
       ]
     }

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-02T18:56:17.187903+08:00",
-  "total_titles_processed": 1300,
+  "generated_at": "2026-02-02T19:40:23.865973+08:00",
+  "total_titles_processed": 1369,
   "failed_sources": [],
   "trends": [
     {
@@ -31,6 +31,20 @@
           "time_info": "[10时40分 ~ 15时09分]"
         },
         {
+          "title": "男子卖 400 克金得 14 万借朋友，金价大涨后要求按现值还款，这合理吗？法院会如何判决？",
+          "url": "https://www.zhihu.com/question/1999853811821463456",
+          "source": "知乎",
+          "ranks": [
+            20,
+            4,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时02分 ~ 19时40分]"
+        },
+        {
           "title": "男子看金价下跌花20多万买200克",
           "url": "https://www.toutiao.com/trending/7600970812455845951/",
           "source": "今日头条",
@@ -56,19 +70,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[10时40分 ~ 16时53分]"
-        },
-        {
-          "title": "男子卖 400 克金得 14 万借朋友，金价大涨后要求按现值还款，这合理吗？法院会如何判决？",
-          "url": "https://www.zhihu.com/question/1999853811821463456",
-          "source": "知乎",
-          "ranks": [
-            20,
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时02分 ~ 18时56分]"
         },
         {
           "title": "黄金暴跌为何瑞银却上调金价目标",
@@ -280,7 +281,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时56分"
         }
@@ -388,8 +389,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时37分 ~ 18时56分]"
+          "appearance_count": 20,
+          "time_info": "[00时37分 ~ 19时40分]"
         }
       ]
     },

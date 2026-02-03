@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-03T19:39:20.067509+08:00",
-  "total_titles_processed": 1517,
+  "generated_at": "2026-02-03T21:13:15.659121+08:00",
+  "total_titles_processed": 1655,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "美制造业数据托底风险偏好，美股、加密货币齐反弹、美元续涨，金银企稳，原油重挫",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时37分 ~ 19时39分]"
+          "appearance_count": 15,
+          "time_info": "[10时37分 ~ 21时13分]"
         },
         {
           "title": "美股收盘：标普低开高走迫近新高 存储板块又迎热钱流入",
@@ -36,11 +36,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时51分 ~ 19时39分]"
+          "appearance_count": 6,
+          "time_info": "[17时51分 ~ 21时13分]"
         },
         {
           "title": "商品暴跌震动市场！美股指集体低开，纳指跌0.4%，甲骨文逆势涨4%，现货金银“V”型反转，布油跌5%",
@@ -114,6 +115,28 @@
           "time_info": "17时51分"
         },
         {
+          "title": "PayPal任命惠普的Enrique Lores为新任CEO。惠普美股盘前下跌2.2%。",
+          "url": "https://wallstreetcn.com/livenews/3049115",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时13分"
+        },
+        {
+          "title": "PayPal第四季度调整后每股收益1.23美元，上年同期1.19美元，市场预估1.28美元。 第四季度净营收86.8亿美元，同比增长3.7%，市场预估87.9亿美元。 第四季度调整后运营收益15.5亿美元，同比增长3.2%，市场预估15.9亿美元。 预计全年自由现金流超过60亿美元。 预计全年资本支出大约10亿美元，市场预估9.978亿美元。 PayPal美股盘前跌超8%。",
+          "url": "https://wallstreetcn.com/livenews/3049117",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时13分"
+        },
+        {
           "title": "（美股）费城金银指数收跌0.40%，报380.81点。 （全球时段）纽约证交所ARCA金矿开采商指数跌1.62%，报2699.52点，美股盘初曾尖锐地冲高回落。 （美股）原材料指数收涨0.58%，（美股）金属与矿业指数收涨1.44%。",
           "url": "https://wallstreetcn.com/livenews/3048560",
           "source": "华尔街见闻-快讯",
@@ -123,6 +146,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时34分"
+        },
+        {
+          "title": "辉瑞第四季度营收175.6亿美元，市场预估169.4亿美元。 第四季度调整后每股收益0.66美元。 预计2026年调整后每股收益2.80美元至3.00美元。 预计2026年营收595亿美元至625亿美元。 辉瑞美股盘前跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3049108",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时13分"
         }
       ]
     },
@@ -148,11 +182,12 @@
           "url": "https://www.zhihu.com/question/1999853061464614005",
           "source": "知乎",
           "ranks": [
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时51分 ~ 19时39分]"
+          "appearance_count": 6,
+          "time_info": "[17时51分 ~ 21时13分]"
         },
         {
           "title": "金价暴跌后黄金市场挤满顾客",
@@ -286,8 +321,19 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "摩根大通美债客户调查显示净多头占比创去年10月以来最低。",
+          "url": "https://flash.jin10.com/detail/20260203210747492800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时13分"
+        },
         {
           "title": "汇丰：美债短端高收益债更具吸引力",
           "url": "https://flash.jin10.com/detail/20260203181911181800",
@@ -321,6 +367,47 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时46分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "自动驾驶",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "机场火车站“出租车之困”何解？代表建议自动驾驶出租车接短途单",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32521589",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时51分 ~ 21时13分]"
+        },
+        {
+          "title": "小鹏自动驾驶、智能座舱中心合并，新成立通用智能中心",
+          "url": "https://wallstreetcn.com/livenews/3049126",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时13分"
+        },
+        {
+          "title": "市场消息：Alphabet(GOOG.O)旗下自动驾驶公司Waymo融资160亿美元，投后估值达1260亿美元。",
+          "url": "https://flash.jin10.com/detail/20260203060135693800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时34分"
         }
       ]
     },
@@ -377,35 +464,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时46分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "自动驾驶",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "机场火车站“出租车之困”何解？代表建议自动驾驶出租车接短途单",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32521589",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时51分 ~ 19时39分]"
-        },
-        {
-          "title": "市场消息：Alphabet(GOOG.O)旗下自动驾驶公司Waymo融资160亿美元，投后估值达1260亿美元。",
-          "url": "https://flash.jin10.com/detail/20260203060135693800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时34分"
         }
       ]
     },

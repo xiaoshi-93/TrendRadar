@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-03T18:49:07.217918+08:00",
-  "total_titles_processed": 1455,
+  "generated_at": "2026-02-03T19:39:20.067509+08:00",
+  "total_titles_processed": 1517,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时37分 ~ 18时49分]"
+          "appearance_count": 13,
+          "time_info": "[10时37分 ~ 19时39分]"
         },
         {
           "title": "美股收盘：标普低开高走迫近新高 存储板块又迎热钱流入",
@@ -31,6 +31,18 @@
           "time_info": "[07时34分 ~ 15时51分]"
         },
         {
+          "title": "大反弹！白银涨11%，黄金涨6%，纳指期货涨超0.5%，存储板块美股盘前走高，欧股集体高开，韩股大涨6%",
+          "url": "https://wallstreetcn.com/articles/3764793",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时51分 ~ 19时39分]"
+        },
+        {
           "title": "商品暴跌震动市场！美股指集体低开，纳指跌0.4%，甲骨文逆势涨4%，现货金银“V”型反转，布油跌5%",
           "url": "https://wallstreetcn.com/articles/3764730",
           "source": "华尔街见闻",
@@ -40,18 +52,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时50分 ~ 01时43分]"
-        },
-        {
-          "title": "大反弹！白银涨11%，黄金涨6%，纳指期货涨超0.5%，存储板块美股盘前走高，欧股集体高开，韩股大涨6%",
-          "url": "https://wallstreetcn.com/articles/3764793",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时51分 ~ 18时49分]"
         },
         {
           "title": "美制造业数据托底风险偏好，美股反弹、美元续涨，黄金跌5%，白银跌至80关口下方",
@@ -151,8 +151,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时51分 ~ 18时49分]"
+          "appearance_count": 4,
+          "time_info": "[17时51分 ~ 19时39分]"
         },
         {
           "title": "金价暴跌后黄金市场挤满顾客",
@@ -289,6 +289,18 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "汇丰：美债短端高收益债更具吸引力",
+          "url": "https://flash.jin10.com/detail/20260203181911181800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时49分 ~ 19时39分]"
+        },
+        {
           "title": "紧跟美债步伐 美国强劲经济数据推升英债收益率",
           "url": "https://flash.jin10.com/detail/20260203161832959800",
           "source": "金十数据",
@@ -309,17 +321,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时46分"
-        },
-        {
-          "title": "汇丰：美债短端高收益债更具吸引力",
-          "url": "https://flash.jin10.com/detail/20260203181911181800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时49分"
         }
       ]
     },
@@ -392,8 +393,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时51分 ~ 18时49分]"
+          "appearance_count": 4,
+          "time_info": "[17时51分 ~ 19时39分]"
         },
         {
           "title": "市场消息：Alphabet(GOOG.O)旗下自动驾驶公司Waymo融资160亿美元，投后估值达1260亿美元。",

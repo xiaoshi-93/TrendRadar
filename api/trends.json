@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-05T17:53:56.673470+08:00",
-  "total_titles_processed": 1477,
+  "generated_at": "2026-02-05T18:49:37.640557+08:00",
+  "total_titles_processed": 1588,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时33分 ~ 17时53分]"
+          "appearance_count": 8,
+          "time_info": "[10时33分 ~ 18时49分]"
         },
         {
           "title": "谷歌ALL in AI！Q4云业务激增48% 2026“烧钱”速度翻倍",
@@ -42,8 +42,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时52分 ~ 17时53分]"
+          "appearance_count": 7,
+          "time_info": "[12时52分 ~ 18时49分]"
         },
         {
           "title": "英伟达(NVDA.O)和AMD(AMD.O)盘后均涨超1%，谷歌(GOOG.O)大幅上调资本开支预期。",
@@ -118,6 +118,18 @@
           "time_info": "[05时39分 ~ 06时35分]"
         },
         {
+          "title": "谷歌电话会：1850亿支出“不得不花”，确认与苹果合作，Gemini并非SaaS的“终结者”",
+          "url": "https://wallstreetcn.com/articles/3765004",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时52分 ~ 18时49分]"
+        },
+        {
           "title": "谷歌母公司Alphabet研发（R&D）开支增长42%，受到AI人才和无人驾驶部门的驱动。 科技基础设施投资中，60%投入服务器、40%投入数据中心。 科技基建（投资）的增幅在2025年收缩38%。 谷歌云（订单）积压同比超过翻倍，至2400亿美元。 Alphabet在Waymo本轮融资中贡献重大。",
           "url": "https://wallstreetcn.com/livenews/3050124",
           "source": "华尔街见闻-快讯",
@@ -140,18 +152,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时52分 ~ 02时58分]"
-        },
-        {
-          "title": "谷歌电话会：1850亿支出“不得不花”，确认与苹果合作，Gemini并非SaaS的“终结者”",
-          "url": "https://wallstreetcn.com/articles/3765004",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时52分 ~ 17时53分]"
         },
         {
           "title": "谷歌营收业绩超预期，2026年资本开支超预期",
@@ -220,7 +220,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时53分"
         },
@@ -294,7 +294,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 21,
+      "match_count": 24,
       "titles": [
         {
           "title": "软件股重挫打压美股，纳指跌超1%，黄金一度重回5000关口，白银涨逾7%，比特币曾跌超7%",
@@ -395,6 +395,19 @@
           "time_info": "[06时35分 ~ 07时34分]"
         },
         {
+          "title": "市值蒸发万亿！美股软件行业空头肆虐 对冲基金年内狂赚240亿美元",
+          "url": "https://www.cls.cn/detail/2281312",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时52分 ~ 18时49分]"
+        },
+        {
           "title": "（美股）费城金银指数收跌0.23%，报397.53点。 （全球时段）纽约证交所ARCA金矿开采商指数涨0.55%，报2830.82点。 （美股）原材料指数收涨0.57%，（美股）金属与矿业指数收跌1.61%。",
           "url": "https://wallstreetcn.com/livenews/3050123",
           "source": "华尔街见闻-快讯",
@@ -405,18 +418,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时35分 ~ 07时34分]"
-        },
-        {
-          "title": "市值蒸发万亿！美股软件行业空头肆虐 对冲基金年内狂赚240亿美元",
-          "url": "https://www.cls.cn/detail/2281312",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时52分 ~ 17时53分]"
         },
         {
           "title": "相干公司Coherent Corp.（COHR）美股盘后跌19%。",
@@ -449,7 +450,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时53分"
         },
@@ -498,6 +499,17 @@
           "time_info": "05时39分"
         },
         {
+          "title": "蔚来美股盘前涨超11%，此前公司发布盈利预告：2025年四季度实现季度盈利，经营利润7亿至12亿元。",
+          "url": "https://wallstreetcn.com/livenews/3050580",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时49分"
+        },
+        {
           "title": "美股收盘：纳指跌1.5% AMD大跌17%",
           "url": "https://flash.jin10.com/detail/20260205050057305800",
           "source": "金十数据",
@@ -507,6 +519,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时39分"
+        },
+        {
+          "title": "蔚来美股盘前涨超8.6%，公司预计2025年第四季度经调整经营利润约7亿元至12亿元。",
+          "url": "https://wallstreetcn.com/livenews/3050576",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时49分"
+        },
+        {
+          "title": "蔚来美股盘前涨超9%，公司发布盈利预告：2025年四季度实现季度盈利，经营利润7亿至12亿元",
+          "url": "https://wallstreetcn.com/livenews/3050574",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时49分"
         },
         {
           "title": "金十图示：2026年02月04日（周三）美股热门股票行情一览（美股盘中）",
@@ -771,8 +805,25 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时52分 ~ 17时53分]"
+          "appearance_count": 3,
+          "time_info": "[16时52分 ~ 18时49分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "具身智能",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "凯龙高科：公司布局具身智能赛道，目前推出的“惠灵嘉”系列机器人和灵巧手操作力智能检测设备等产品仍处于市场开拓阶段，截至目前尚未有收入确认，不会对公司经营业绩产生重大影响。",
+          "url": "https://wallstreetcn.com/livenews/3050584",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时49分"
         }
       ]
     },

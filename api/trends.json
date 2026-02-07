@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-07T12:42:48.966662+08:00",
-  "total_titles_processed": 896,
+  "generated_at": "2026-02-07T13:48:33.392771+08:00",
+  "total_titles_processed": 961,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
             5,
             6,
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时54分 ~ 12时42分]"
+          "appearance_count": 15,
+          "time_info": "[00时54分 ~ 13时48分]"
         },
         {
           "title": "信心回暖引发逢低买盘，美股报复性反弹！道指首破5万点，英伟达大涨7%，金银V形上涨，比特币涨11%",
@@ -40,8 +41,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时31分 ~ 12时42分]"
+          "appearance_count": 5,
+          "time_info": "[07时31分 ~ 13时48分]"
         },
         {
           "title": "逢低买盘撑美股大幅反弹，道指新高，英伟达大涨7%，金银V形反弹，比特币涨11%",
@@ -74,8 +75,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时31分 ~ 12时42分]"
+          "appearance_count": 5,
+          "time_info": "[07时31分 ~ 13时48分]"
         },
         {
           "title": "美股人工智能相关股多数上涨，超微电脑(SMCI.O)、Arm(ARM.O)大涨10%，AMD(AMD.O)涨超8%，英伟达(NVDA.O)涨超7%。",
@@ -187,8 +188,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时29分 ~ 12时42分]"
+          "appearance_count": 3,
+          "time_info": "[10时29分 ~ 13时48分]"
         },
         {
           "title": "据知情人士透露，OpenAI与G42洽谈向阿联酋提供特殊版本的GPT。 该模型将嵌入当地语言，政治前景，言论限制等方案。 这款微调的GPT用户将是阿联酋的政府部门。（Semafor）",
@@ -292,11 +293,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             20,
-            25
+            25,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时29分 ~ 12时42分]"
+          "appearance_count": 3,
+          "time_info": "[10时29分 ~ 13时48分]"
         },
         {
           "title": "美国议员们寻求司法部与苹果公司、Alphabet旗下谷歌公司的联系记录。 他们调查司法部在总统特朗普的移民与海关执法局（ICE）追踪类APP上所发挥的作用。（Politico）",

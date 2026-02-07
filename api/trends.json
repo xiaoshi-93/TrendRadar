@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-07T17:36:51.643591+08:00",
-  "total_titles_processed": 1185,
+  "generated_at": "2026-02-07T18:33:27.944071+08:00",
+  "total_titles_processed": 1252,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时31分 ~ 17时36分]"
+          "appearance_count": 12,
+          "time_info": "[07时31分 ~ 18时33分]"
         },
         {
           "title": "美股收盘：道指历史首次站上5万点 中概股指数涨超3%",
@@ -29,8 +29,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时31分 ~ 17时36分]"
+          "appearance_count": 12,
+          "time_info": "[07时31分 ~ 18时33分]"
         },
         {
           "title": "科技股抛压暂缓，美股期指集体转涨，英伟达结束五连跌，金银V形反弹，比特币止跌",
@@ -56,8 +56,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时54分 ~ 17时36分]"
+          "appearance_count": 22,
+          "time_info": "[00时54分 ~ 18时33分]"
         },
         {
           "title": "美股成交额前20：英伟达结束五连跌",
@@ -183,8 +183,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时29分 ~ 17时36分]"
+          "appearance_count": 10,
+          "time_info": "[10时29分 ~ 18时33分]"
         },
         {
           "title": "英伟达CEO黄仁勋：市场需求极为火爆。 大规模人工智能（AI）资本开支是适宜的、必要的。 建设AI（这个过程）还将持续好几年，预计将需要7-8年。 Anthropic和OpenAI都在赚钱。（CNBC）",
@@ -427,11 +427,12 @@
             10,
             8,
             7,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时51分 ~ 17时36分]"
+          "appearance_count": 7,
+          "time_info": "[14时51分 ~ 18时33分]"
         }
       ]
     },

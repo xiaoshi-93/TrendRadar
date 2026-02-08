@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-08T13:08:48.753229+08:00",
-  "total_titles_processed": 722,
+  "generated_at": "2026-02-08T14:58:47.803901+08:00",
+  "total_titles_processed": 809,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时37分 ~ 13时08分]"
+          "appearance_count": 12,
+          "time_info": "[00时37分 ~ 14时58分]"
         },
         {
           "title": "美股三大期指集体反弹 亚马逊盘前大跌近9% | 今夜看点",
@@ -49,6 +49,18 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "因金价飙升，意大利冬奥会金牌成史上最昂贵金牌，如何评价这一变化？",
+          "url": "https://www.zhihu.com/question/2003305831391785957",
+          "source": "知乎",
+          "ranks": [
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时08分 ~ 14时58分]"
+        },
+        {
           "title": "黄金——资产再配置，金价走向何方？",
           "url": "https://wallstreetcn.com/articles/3765213",
           "source": "华尔街见闻",
@@ -59,17 +71,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时32分 ~ 07时36分]"
-        },
-        {
-          "title": "因金价飙升，意大利冬奥会金牌成史上最昂贵金牌，如何评价这一变化？",
-          "url": "https://www.zhihu.com/question/2003305831391785957",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时08分"
         }
       ]
     },

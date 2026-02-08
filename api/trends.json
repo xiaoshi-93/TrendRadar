@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-08T19:28:35.784965+08:00",
-  "total_titles_processed": 1091,
+  "generated_at": "2026-02-08T21:02:12.365043+08:00",
+  "total_titles_processed": 1181,
   "failed_sources": [],
   "trends": [
     {
@@ -19,20 +19,6 @@
           "time_info": "[00时37分 ~ 06时32分]"
         },
         {
-          "title": "美股收盘：道指历史首次站上5万点 中概股指数涨超3%",
-          "url": "https://www.cls.cn/detail/2283586",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            8,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时37分 ~ 19时28分]"
-        },
-        {
           "title": "美股本周大波动，投资者在担心：美国经济真的强吗？AI成利空了？避险资产炒成风险资产了？",
           "url": "https://wallstreetcn.com/articles/3765246",
           "source": "华尔街见闻",
@@ -43,8 +29,23 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时43分 ~ 19时28分]"
+          "appearance_count": 8,
+          "time_info": "[15时43分 ~ 21时02分]"
+        },
+        {
+          "title": "美股收盘：道指历史首次站上5万点 中概股指数涨超3%",
+          "url": "https://www.cls.cn/detail/2283586",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            8,
+            9,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 20,
+          "time_info": "[00时37分 ~ 21时02分]"
         },
         {
           "title": "美股三大期指集体反弹 亚马逊盘前大跌近9% | 今夜看点",
@@ -135,8 +136,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时39分 ~ 19时28分]"
+          "appearance_count": 7,
+          "time_info": "[16时39分 ~ 21时02分]"
         }
       ]
     },
@@ -153,8 +154,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时36分 ~ 19时28分]"
+          "appearance_count": 6,
+          "time_info": "[17时36分 ~ 21时02分]"
         }
       ]
     },
@@ -168,11 +169,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时34分 ~ 19时28分]"
+          "appearance_count": 3,
+          "time_info": "[18时34分 ~ 21时02分]"
         }
       ]
     }

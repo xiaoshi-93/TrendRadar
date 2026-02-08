@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-09T03:31:18.904137+08:00",
-  "total_titles_processed": 362,
+  "generated_at": "2026-02-09T04:35:29.306562+08:00",
+  "total_titles_processed": 380,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时37分 ~ 03时31分]"
+          "appearance_count": 7,
+          "time_info": "[00时37分 ~ 04时35分]"
         },
         {
           "title": "高盛交易员警告：美股抛售尚未结束",
           "url": "https://flash.jin10.com/detail/20260209002129268800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 03时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时38分 ~ 04时35分]"
         }
       ]
     },
@@ -44,8 +45,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时37分 ~ 03时31分]"
+          "appearance_count": 7,
+          "time_info": "[00时37分 ~ 04时35分]"
         }
       ]
     },
@@ -59,11 +60,12 @@
           "source": "今日头条",
           "ranks": [
             9,
-            28
+            28,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时44分 ~ 03时31分]"
+          "appearance_count": 3,
+          "time_info": "[02时44分 ~ 04时35分]"
         }
       ]
     },
@@ -79,8 +81,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 03时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时38分 ~ 04时35分]"
         }
       ]
     }

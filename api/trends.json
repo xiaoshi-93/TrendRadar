@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-09T18:13:13.522496+08:00",
-  "total_titles_processed": 1216,
+  "generated_at": "2026-02-09T19:52:28.761209+08:00",
+  "total_titles_processed": 1343,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "美股本周大波动，投资者在担心：美国经济真的强吗？AI成利空了？避险资产炒成风险资产了？",
@@ -39,7 +39,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时13分"
         },
@@ -68,6 +68,17 @@
           "time_info": "[05时33分 ~ 06时34分]"
         },
         {
+          "title": "美股内存芯片制造商盘前走低，闪迪(SNDK.O)跌1.3%，希捷科技(STX.O)跌1.2%。",
+          "url": "https://flash.jin10.com/detail/20260209190334515800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
+        },
+        {
           "title": "美股三大股指期货周一盘初均涨0.2%。",
           "url": "https://flash.jin10.com/detail/20260209070343004800",
           "source": "金十数据",
@@ -85,7 +96,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时13分"
         }
@@ -93,7 +104,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "大手笔AI投资之后：亚马逊、谷歌、Meta要花光现金流了？",
@@ -140,6 +151,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时13分"
+        },
+        {
+          "title": "道达尔能源公司将为谷歌(GOOG.O)在得州的数据中心提供1吉瓦太阳能电力，协议期限为15年。建设计划于二季度启动。",
+          "url": "https://flash.jin10.com/detail/20260209184350182800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
         }
       ]
     },
@@ -171,6 +193,40 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时44分 ~ 07时37分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Kimi建议网友先用DeepSeek",
+          "url": "https://s.weibo.com/weibo?q=%23Kimi%E5%BB%BA%E8%AE%AE%E7%BD%91%E5%8F%8B%E5%85%88%E7%94%A8DeepSeek%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美股期货震荡回落，美债走跌，“高市交易”助推日股大涨6%，黄金涨至5040美元",
+          "url": "https://wallstreetcn.com/articles/3765262",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
         }
       ]
     },

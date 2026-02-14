@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-14T18:33:43.866331+08:00",
-  "total_titles_processed": 1279,
+  "generated_at": "2026-02-14T19:28:07.403748+08:00",
+  "total_titles_processed": 1337,
   "failed_sources": [],
   "trends": [
     {
@@ -120,6 +120,19 @@
           "time_info": "[10时31分 ~ 12时46分]"
         },
         {
+          "title": "美股轮动之际：黄仁勋跌出全球十大富翁之列 沃尔玛三兄妹进入排行",
+          "url": "https://www.cls.cn/detail/2290296",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时40分 ~ 19时28分]"
+        },
+        {
           "title": "周五（2月13日）纽约尾盘（周六北京时间05:59），离岸人民币（CNH）兑美元报6.9012元，较周四纽约尾盘跌31点，日内整体交投于6.8973-6.9109元区间。 本周，离岸人民币累计上涨大约290点，涨幅大约0.4%，2月12日美股盘前曾涨至6.8912元。",
           "url": "https://wallstreetcn.com/livenews/3055388",
           "source": "华尔街见闻-快讯",
@@ -130,19 +143,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时39分 ~ 07时37分]"
-        },
-        {
-          "title": "美股轮动之际：黄仁勋跌出全球十大富翁之列 沃尔玛三兄妹进入排行",
-          "url": "https://www.cls.cn/detail/2290296",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时40分 ~ 18时33分]"
         },
         {
           "title": "美股七巨头收盘播报｜周五（2月13日），美国科技股七巨头（Magnificent 7）指数跌1.34%，报192.61点，本周累计下跌3.61%，整体持续走低。 亚马逊连续九个交易日下跌，创2006年以来最长连跌天数。 “超大”市值科技股指数跌0.75%，报364.30点，本周累跌2.65%。",
@@ -238,11 +238,12 @@
             12,
             9,
             8,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时45分 ~ 18时33分]"
+          "appearance_count": 10,
+          "time_info": "[12时45分 ~ 19时28分]"
         },
         {
           "title": "13F报告显示：Maverick Capital Ltd.四季度建仓做多谷歌C、应用材料、波士顿科学、Visa、以及Camden Property。 增持台积电、英伟达、GFL Environment、Carvana。 清仓Kenvue、美国银行、AMD、Danaher、以及Insmed。 减持Nubank、迪士尼、Merit Medical、Acadia Health、Sherwin-Williams。 重仓英伟达、微软、亚马逊、台积电、谷歌C。",
@@ -372,6 +373,19 @@
           "time_info": "[00时55分 ~ 07时37分]"
         },
         {
+          "title": "DeepSeek春节再扔王炸？最新披露",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E6%98%A5%E8%8A%82%E5%86%8D%E6%89%94%E7%8E%8B%E7%82%B8%EF%BC%9F%E6%9C%80%E6%96%B0%E6%8A%AB%E9%9C%B2",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时50分 ~ 19时28分]"
+        },
+        {
           "title": "DeepSeek春节再扔王炸？官方披露正测试新模型结构",
           "url": "https://m.thepaper.cn/newsDetail_forward_32602762",
           "source": "澎湃新闻",
@@ -383,21 +397,36 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时31分 ~ 18时33分]"
+          "appearance_count": 11,
+          "time_info": "[10时31分 ~ 19时28分]"
         },
         {
-          "title": "DeepSeek春节再扔王炸？最新披露",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E6%98%A5%E8%8A%82%E5%86%8D%E6%89%94%E7%8E%8B%E7%82%B8%EF%BC%9F%E6%9C%80%E6%96%B0%E6%8A%AB%E9%9C%B2",
-          "source": "百度热搜",
+          "title": "DeepSeek变冷漠甚至凶凶的？回应来了",
+          "url": "https://wallstreetcn.com/articles/3765730",
+          "source": "华尔街见闻",
           "ranks": [
-            15,
-            1,
-            2
+            10,
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时50分 ~ 18时33分]"
+          "appearance_count": 7,
+          "time_info": "[14时54分 ~ 19时28分]"
+        },
+        {
+          "title": "DeepSeek变冷漠甚至凶凶的？回应来了",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%8F%98%E5%86%B7%E6%BC%A0%E7%94%9A%E8%87%B3%E5%87%B6%E5%87%B6%E7%9A%84%EF%BC%9F%E5%9B%9E%E5%BA%94%E6%9D%A5%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            20,
+            17,
+            15,
+            14,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时54分 ~ 19时28分]"
         },
         {
           "title": "一年了 美国还在追着DeepSeek抹黑",
@@ -412,34 +441,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[12时45分 ~ 16时40分]"
-        },
-        {
-          "title": "DeepSeek变冷漠甚至凶凶的？回应来了",
-          "url": "https://wallstreetcn.com/articles/3765730",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时54分 ~ 18时33分]"
-        },
-        {
-          "title": "DeepSeek变冷漠甚至凶凶的？回应来了",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%8F%98%E5%86%B7%E6%BC%A0%E7%94%9A%E8%87%B3%E5%87%B6%E5%87%B6%E7%9A%84%EF%BC%9F%E5%9B%9E%E5%BA%94%E6%9D%A5%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            20,
-            17,
-            15,
-            14,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时54分 ~ 18时33分]"
         },
         {
           "title": "DeepSeek变冷漠甚至凶凶的？回应来了",
@@ -478,8 +479,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时36分 ~ 18时33分]"
+          "appearance_count": 13,
+          "time_info": "[07时36分 ~ 19时28分]"
         },
         {
           "title": "中国持续减持美债意味着什么",
@@ -495,6 +496,18 @@
           "time_info": "[12时45分 ~ 15时38分]"
         },
         {
+          "title": "能源、必选消费和美债领涨2026！华尔街的“AI交易”被“AI颠覆”了",
+          "url": "https://wallstreetcn.com/articles/3765719",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时37分 ~ 19时28分]"
+        },
+        {
           "title": "两年期美债收益率在美国CPI通胀数据发布日创2022年以来新低，中长期收益率本周跌约16个基点",
           "url": "https://wallstreetcn.com/livenews/3055361",
           "source": "华尔街见闻-快讯",
@@ -506,18 +519,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时42分 ~ 07时37分]"
-        },
-        {
-          "title": "能源、必选消费和美债领涨2026！华尔街的“AI交易”被“AI颠覆”了",
-          "url": "https://wallstreetcn.com/articles/3765719",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时37分 ~ 18时33分]"
         },
         {
           "title": "美国通胀降温，美股指涨跌互现，美债收益率走低，原油日内跌近1%",
@@ -613,6 +614,35 @@
       ]
     },
     {
+      "keyword_group": "具身智能",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "FF：已推出首批具身智能机器人产品系列 首批交付预计在本月底",
+          "url": "https://flash.jin10.com/detail/20260214115005522800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时46分 ~ 13时50分]"
+        },
+        {
+          "title": "上汽集团子公司拟10亿元参设产业基金，加码固态电池、具身智能等",
+          "url": "https://wallstreetcn.com/livenews/3055523",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时28分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
       "match_count": 1,
       "titles": [
@@ -645,24 +675,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时46分 ~ 05时42分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "具身智能",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "FF：已推出首批具身智能机器人产品系列 首批交付预计在本月底",
-          "url": "https://flash.jin10.com/detail/20260214115005522800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时46分 ~ 13时50分]"
         }
       ]
     },

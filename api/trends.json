@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-15T19:28:42.691939+08:00",
-  "total_titles_processed": 1067,
+  "generated_at": "2026-02-15T21:02:57.315982+08:00",
+  "total_titles_processed": 1144,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时44分 ~ 19时28分]"
+          "appearance_count": 11,
+          "time_info": "[10时44分 ~ 21时02分]"
         },
         {
           "title": "字节豆包2.0发布：推理成本降一个数量级，正面对标GPT-5和Gemini 3",
@@ -122,11 +122,12 @@
           "url": "https://wallstreetcn.com/articles/3765742",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时28分 ~ 21时02分]"
         }
       ]
     },
@@ -187,11 +188,12 @@
             13,
             17,
             20,
-            23
+            23,
+            28
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时41分 ~ 19时28分]"
+          "appearance_count": 6,
+          "time_info": "[15时41分 ~ 21时02分]"
         },
         {
           "title": "小鹏汽车亮相联合国WP.29自动驾驶系统第19次非正式工作组会议",
@@ -200,11 +202,12 @@
           "ranks": [
             4,
             7,
-            11
+            11,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时38分 ~ 19时28分]"
+          "appearance_count": 4,
+          "time_info": "[17时38分 ~ 21时02分]"
         }
       ]
     },
@@ -262,8 +265,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时37分 ~ 19时28分]"
+          "appearance_count": 24,
+          "time_info": "[00时37分 ~ 21时02分]"
         }
       ]
     }

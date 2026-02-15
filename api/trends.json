@@ -1,12 +1,27 @@
 {
-  "generated_at": "2026-02-15T15:41:13.945711+08:00",
-  "total_titles_processed": 861,
+  "generated_at": "2026-02-15T16:40:57.898648+08:00",
+  "total_titles_processed": 913,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
       "match_count": 6,
       "titles": [
+        {
+          "title": "字节豆包2.0发布：推理成本降一个数量级，正面对标GPT-5和Gemini 3",
+          "url": "https://wallstreetcn.com/articles/3765736",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时44分 ~ 16时40分]"
+        },
         {
           "title": "1月市场份额再度攀升！Grok和谷歌Gemini瓜分ChatGPT丢失的市场",
           "url": "https://www.cls.cn/detail/2290186",
@@ -35,18 +50,16 @@
           "time_info": "[00时37分 ~ 15时41分]"
         },
         {
-          "title": "字节豆包2.0发布：推理成本降一个数量级，正面对标GPT-5和Gemini 3",
-          "url": "https://wallstreetcn.com/articles/3765736",
-          "source": "华尔街见闻",
+          "title": "谷歌债券遭全球疯抢 但保护条款“缺席”引发隐忧",
+          "url": "https://www.cls.cn/detail/2290476",
+          "source": "财联社热门",
           "ranks": [
-            7,
             5,
-            4,
-            3
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时44分 ~ 15时41分]"
+          "appearance_count": 7,
+          "time_info": "[10时44分 ~ 16时40分]"
         },
         {
           "title": "美国2月13日当周投资级债券市场销售403亿美元债券，周环比下滑35%（之前一周616亿美元）；发行人19家，之前一周22笔。 其中，谷歌母公司Alphabet inc.出售200亿美元，迪士尼供应40亿美元第二大。 2月份迄今，高评级债券供应1020亿美元，1月份同期供应1233亿美元。 2026年迄今，累计发行3299亿美元，2025年同期为2681亿美元。（彭博）",
@@ -60,18 +73,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时38分 ~ 10时44分]"
-        },
-        {
-          "title": "谷歌债券遭全球疯抢 但保护条款“缺席”引发隐忧",
-          "url": "https://www.cls.cn/detail/2290476",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时44分 ~ 15时41分]"
         },
         {
           "title": "提醒：谷歌母公司Alphabet的首席执行官（CEO）桑达尔·皮查伊（Sundar Pichai）和OpenAI的CEOSam Altman将参加下周举办的“2026印度AI影响力峰会”。",
@@ -202,8 +203,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时37分 ~ 15时41分]"
+          "appearance_count": 20,
+          "time_info": "[00时37分 ~ 16时40分]"
         }
       ]
     },
@@ -218,9 +219,9 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时41分 ~ 16时40分]"
         }
       ]
     }

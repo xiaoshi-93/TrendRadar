@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-17T18:54:22.488759+08:00",
-  "total_titles_processed": 1305,
+  "generated_at": "2026-02-17T19:43:42.777521+08:00",
+  "total_titles_processed": 1389,
   "failed_sources": [],
   "trends": [
     {
@@ -97,8 +97,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时36分 ~ 18时54分]"
+          "appearance_count": 11,
+          "time_info": "[10时36分 ~ 19时43分]"
         },
         {
           "title": "美股盘前：黄金股、科技股普跌，纳斯达克100指数期货跌0.55%",
@@ -190,8 +190,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时53分 ~ 18时54分]"
+          "appearance_count": 20,
+          "time_info": "[00时53分 ~ 19时43分]"
         },
         {
           "title": "印度举办AI“影响力”峰会，谷歌、OpenAI等高管预计出席",
@@ -223,6 +223,18 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时54分 ~ 19时43分]"
+        },
+        {
           "title": "因金价走软，美国上市金矿股盘前走低。纽蒙特下跌3%，Sibanye Stillwater下跌5.8%，巴里克矿业下跌2.4%，哈莫尼黄金下跌4.2%。",
           "url": "https://flash.jin10.com/detail/20260217171116932800",
           "source": "金十数据",
@@ -232,17 +244,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时57分"
-        },
-        {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时54分"
         }
       ]
     },

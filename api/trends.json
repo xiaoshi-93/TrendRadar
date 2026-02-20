@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-02-20T07:36:25.624949+08:00",
-  "total_titles_processed": 670,
+  "generated_at": "2026-02-20T10:34:06.969186+08:00",
+  "total_titles_processed": 824,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
+        {
+          "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2291237",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时01分 ~ 10时34分]"
+        },
         {
           "title": "美股三大指数高开后悉数转跌，明星科技股普跌，黄金站上5000美元",
           "url": "https://wallstreetcn.com/articles/3765856",
@@ -19,17 +32,41 @@
           "time_info": "[01时01分 ~ 06时11分]"
         },
         {
-          "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2291237",
+          "title": "美股三大期指集体走高 美联储将公布1月会议纪要 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2291551",
           "source": "财联社热门",
           "ranks": [
-            5,
-            6,
-            7
+            8,
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时01分 ~ 07时36分]"
+          "appearance_count": 10,
+          "time_info": "[01时01分 ~ 10时34分]"
+        },
+        {
+          "title": "美股收盘：“七巨头”集体走高 三大指数齐收涨",
+          "url": "https://www.cls.cn/detail/2291660",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时01分 ~ 10时34分]"
+        },
+        {
+          "title": "科技股拖累美股，金融股砸盘，美伊开打危险撑原油至半年新高，降息分歧压制黄金涨势",
+          "url": "https://wallstreetcn.com/articles/3765856",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时38分 ~ 10时34分]"
         },
         {
           "title": "科技股力撑美股两连阳，美联储自曝通胀担忧，道指盘中闪跌，美伊风险助原油大反弹",
@@ -43,41 +80,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时01分 ~ 06时38分]"
-        },
-        {
-          "title": "美股三大期指集体走高 美联储将公布1月会议纪要 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2291551",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时01分 ~ 07时36分]"
-        },
-        {
-          "title": "美股收盘：“七巨头”集体走高 三大指数齐收涨",
-          "url": "https://www.cls.cn/detail/2291660",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时01分 ~ 07时36分]"
-        },
-        {
-          "title": "科技股拖累美股，金融股砸盘，美伊开打危险撑原油至半年新高，降息分歧压制黄金涨势",
-          "url": "https://wallstreetcn.com/articles/3765856",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时38分 ~ 07时36分]"
         },
         {
           "title": "周四（2月19日）纽约尾盘，现货黄金涨0.42%，报4998.50美元/盎司。 COMEX黄金期货涨0.09%，报5014美元/盎司。 现货白银涨1.32%，报78.2375美元/盎司。 COMEX白银期货涨0.82%。 COMEX铜期货跌0.67%，报5.8240美元/磅。 现货铂金跌0.32%，现货钯金跌1.45%。 （美股）费城金银指数收涨1.51%，报422.69点。 （全球时段）纽约证交所ARCA金矿开采商指数涨1.26%，报2982.07点。 （美股）原材料指数收跌0.09%，金属与矿业指数收跌0.17%。",
@@ -128,6 +130,17 @@
           "time_info": "[06时38分 ~ 07时36分]"
         },
         {
+          "title": "美股收盘：多重利空压顶华尔街情绪恶化 三大指数集体下跌",
+          "url": "https://www.cls.cn/detail/2291935",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时33分 ~ 10时34分]"
+        },
+        {
           "title": "金十图示：2026年02月19日（周四）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260220050552220800",
           "source": "金十数据",
@@ -175,7 +188,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "为AI交易“背书”！OpenAI正敲定新一轮融资：以8300亿美元估值募资高达1000亿美元",
@@ -187,19 +200,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时01分 ~ 07时36分]"
+          "appearance_count": 10,
+          "time_info": "[01时01分 ~ 10时34分]"
         },
         {
           "title": "OpenAI：关于芯片供应，公司已做到“对未来需求心中有数”",
           "url": "https://wallstreetcn.com/livenews/3056822",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时36分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时36分 ~ 10时34分]"
         },
         {
           "title": "英国政府：OpenAI和微软(MSFT.O)承诺为人工智能安全研究所的旗舰对齐项目提供新资金。",
@@ -224,13 +238,35 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时03分 ~ 04时39分]"
+        },
+        {
+          "title": "英伟达接近敲定与OpenAI的300亿美元投资，将取代两家公司去年达成的1000亿美元长期承诺。英伟达投资是OpenAI新一轮融资的一部分。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3056832",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "Gemini3.1 Pro上线",
+          "url": "https://search.bilibili.com/all?keyword=Gemini3.1%20Pro%E4%B8%8A%E7%BA%BF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时33分 ~ 10时34分]"
+        },
         {
           "title": "巴克莱调查：谷歌今年发债规模料领跑超大规模云服务商",
           "url": "https://wallstreetcn.com/livenews/3056712",
@@ -271,6 +307,34 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "高盛：若以看涨期权结构来衡量，若私营部门进一步实现多元化，那么黄金价格的预测将面临显著的上涨风险。",
+          "url": "https://flash.jin10.com/detail/20260220093805016800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
+          "title": "高盛：综合来看，各国央行的购金行为和私人投资者为应对美联储降息而增加的黄金敞口，将推动金价在2026年底前缓慢攀升至每盎司5400美元。",
+          "url": "https://flash.jin10.com/detail/20260220093444077800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
@@ -297,11 +361,12 @@
           "url": "https://wallstreetcn.com/livenews/3056819",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时36分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时36分 ~ 10时34分]"
         }
       ]
     },

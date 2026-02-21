@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-21T19:28:38.376951+08:00",
-  "total_titles_processed": 1243,
+  "generated_at": "2026-02-21T21:00:03.433431+08:00",
+  "total_titles_processed": 1325,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时34分 ~ 19时28分]"
+          "appearance_count": 14,
+          "time_info": "[07时34分 ~ 21时00分]"
         },
         {
           "title": "美股收盘：特朗普关税“翻车”成利好 三大指数集体收涨",
@@ -28,8 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时27分 ~ 19时28分]"
+          "appearance_count": 13,
+          "time_info": "[10时27分 ~ 21时00分]"
         },
         {
           "title": "美股收盘：多重利空压顶华尔街情绪恶化 三大指数集体下跌",
@@ -38,11 +38,12 @@
           "ranks": [
             4,
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时49分 ~ 19时28分]"
+          "appearance_count": 22,
+          "time_info": "[00时49分 ~ 21时00分]"
         },
         {
           "title": "科技股拖累美股，金融股砸盘，美伊开打危险撑原油至半年新高，降息分歧压制黄金涨势",
@@ -219,6 +220,19 @@
           "time_info": "[07时34分 ~ 15时37分]"
         },
         {
+          "title": "什么信号？OpenAI大幅下调算力支出目标：6000亿美元！",
+          "url": "https://www.cls.cn/detail/2292326",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时32分 ~ 21时00分]"
+        },
+        {
           "title": "报道：OpenAI调整支出预期，告知投资者2030年算力目标约为6,000亿美元",
           "url": "https://wallstreetcn.com/livenews/3057134",
           "source": "华尔街见闻-快讯",
@@ -258,18 +272,6 @@
           "time_info": "[01时42分 ~ 02时57分]"
         },
         {
-          "title": "什么信号？OpenAI大幅下调算力支出目标：6000亿美元！",
-          "url": "https://www.cls.cn/detail/2292326",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时32分 ~ 19时28分]"
-        },
-        {
           "title": "报道：英伟达接近向OpenAI投资300亿美元",
           "url": "https://wallstreetcn.com/livenews/3057127",
           "source": "华尔街见闻-快讯",
@@ -297,11 +299,12 @@
             3,
             7,
             5,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时27分 ~ 19时28分]"
+          "appearance_count": 13,
+          "time_info": "[10时27分 ~ 21时00分]"
         },
         {
           "title": "“谷歌天团”反击AI泡沫质疑：这是工业革命，但速度快10倍、规模大10倍",
@@ -348,6 +351,19 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "金价银价大涨",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E5%A4%A7%E6%B6%A8",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            13,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时51分 ~ 21时00分]"
+        },
+        {
           "title": "金价",
           "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=11&Refer=top",
           "source": "微博",
@@ -357,18 +373,6 @@
             18,
             17,
             15
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时51分 ~ 19时28分]"
-        },
-        {
-          "title": "金价银价大涨",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E5%A4%A7%E6%B6%A8",
-          "source": "百度热搜",
-          "ranks": [
-            15,
-            13
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -403,8 +407,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时51分 ~ 19时28分]"
+          "appearance_count": 9,
+          "time_info": "[14时51分 ~ 21时00分]"
         },
         {
           "title": "美国GDP、PCE数据叠加最高法宣判特朗普关税，美债收益率周五“触底反弹”",
@@ -492,11 +496,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            4
+            4,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时32分 ~ 19时28分]"
+          "appearance_count": 3,
+          "time_info": "[18时32分 ~ 21时00分]"
         },
         {
           "title": "中信建投：原生多模态与世界模型技术共同演进将重塑多个产业格局",
@@ -504,11 +509,12 @@
           "source": "金十数据",
           "ranks": [
             10,
-            20
+            20,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时32分 ~ 19时28分]"
+          "appearance_count": 3,
+          "time_info": "[18时32分 ~ 21时00分]"
         }
       ]
     }

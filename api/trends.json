@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-22T05:29:45.929804+08:00",
-  "total_titles_processed": 393,
+  "generated_at": "2026-02-22T06:32:01.762177+08:00",
+  "total_titles_processed": 397,
   "failed_sources": [],
   "trends": [
     {
@@ -17,19 +17,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时37分 ~ 05时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时37分 ~ 06时32分]"
         },
         {
           "title": "美股收盘：特朗普关税“翻车”成利好 三大指数集体收涨",
           "url": "https://www.cls.cn/detail/2292233",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时37分 ~ 05时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时37分 ~ 06时32分]"
         },
         {
           "title": "美股收盘：多重利空压顶华尔街情绪恶化 三大指数集体下跌",
@@ -39,8 +40,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时37分 ~ 05时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时37分 ~ 06时32分]"
         }
       ]
     },
@@ -57,11 +58,12 @@
             10,
             11,
             8,
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时37分 ~ 05时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时37分 ~ 06时32分]"
         }
       ]
     },
@@ -77,8 +79,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时37分 ~ 05时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时37分 ~ 06时32分]"
         }
       ]
     },
@@ -95,8 +97,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时37分 ~ 05时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时37分 ~ 06时32分]"
         }
       ]
     },
@@ -112,8 +114,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时37分 ~ 05时29分]"
+          "appearance_count": 7,
+          "time_info": "[00时37分 ~ 06时32分]"
         }
       ]
     }

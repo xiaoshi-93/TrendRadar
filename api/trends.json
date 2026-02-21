@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-21T14:52:02.998339+08:00",
-  "total_titles_processed": 978,
+  "generated_at": "2026-02-21T15:37:19.958530+08:00",
+  "total_titles_processed": 1011,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时49分 ~ 14时52分]"
+          "appearance_count": 16,
+          "time_info": "[00时49分 ~ 15时37分]"
+        },
+        {
+          "title": "美最高院否决关税，美股收高，债汇承压，滞胀担忧撑黄金重回5100，白银大涨8%",
+          "url": "https://wallstreetcn.com/articles/3765902",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时34分 ~ 15时37分]"
         },
         {
           "title": "科技股拖累美股，金融股砸盘，美伊开打危险撑原油至半年新高，降息分歧压制黄金涨势",
@@ -33,18 +45,6 @@
           "time_info": "[00时49分 ~ 06时33分]"
         },
         {
-          "title": "美最高院否决关税，美股收高，债汇承压，滞胀担忧撑黄金重回5100，白银大涨8%",
-          "url": "https://wallstreetcn.com/articles/3765902",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时34分 ~ 14时52分]"
-        },
-        {
           "title": "美股收盘：特朗普关税“翻车”成利好 三大指数集体收涨",
           "url": "https://www.cls.cn/detail/2292233",
           "source": "财联社热门",
@@ -53,8 +53,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时27分 ~ 14时52分]"
+          "appearance_count": 7,
+          "time_info": "[10时27分 ~ 15时37分]"
         },
         {
           "title": "美股收盘：“七巨头”集体走高 三大指数齐收涨",
@@ -93,17 +93,6 @@
           "time_info": "[00时49分 ~ 02时57分]"
         },
         {
-          "title": "美股三大期指集体走高 美联储将公布1月会议纪要 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2291551",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时49分 ~ 04时39分]"
-        },
-        {
           "title": "美股七巨头收盘播报｜周五（2月20日），美国科技股七巨头（Magnificent 7）指数涨1.56%，报197.67点，早盘持续上扬，北京时间23:40以来持续高位震荡，本周累计上涨2.63%。 “超大”市值科技股指数涨0.74%，报368.99点，本周累涨1.29%。",
           "url": "https://wallstreetcn.com/livenews/3057139",
           "source": "华尔街见闻-快讯",
@@ -112,11 +101,12 @@
             10,
             20,
             22,
-            25
+            25,
+            28
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时34分 ~ 14时52分]"
+          "appearance_count": 6,
+          "time_info": "[07时34分 ~ 15时37分]"
         },
         {
           "title": "新兴市场ETF收涨超3.1%，和黄金ETF领跑美股大类资产类ETF",
@@ -127,11 +117,23 @@
             12,
             22,
             24,
-            27
+            27,
+            30
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时34分 ~ 14时52分]"
+          "appearance_count": 6,
+          "time_info": "[07时34分 ~ 15时37分]"
+        },
+        {
+          "title": "美股三大期指集体走高 美联储将公布1月会议纪要 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2291551",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时49分 ~ 04时39分]"
         },
         {
           "title": "一文读懂2026年至今的全球市场：什么在涨？美股为何不行？这种趋势会持续吗？",
@@ -193,11 +195,12 @@
             11,
             21,
             23,
-            26
+            26,
+            29
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时34分 ~ 14时52分]"
+          "appearance_count": 6,
+          "time_info": "[07时34分 ~ 15时37分]"
         },
         {
           "title": "OpenAI：预计到2030年营收将超过2800亿美元",
@@ -207,11 +210,12 @@
             2,
             9,
             10,
-            16
+            16,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时28分 ~ 14时52分]"
+          "appearance_count": 5,
+          "time_info": "[10时28分 ~ 15时37分]"
         },
         {
           "title": "报道：OpenAI调整支出预期，告知投资者2030年算力目标约为6,000亿美元",
@@ -281,8 +285,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时27分 ~ 14时52分]"
+          "appearance_count": 7,
+          "time_info": "[10时27分 ~ 15时37分]"
         },
         {
           "title": "“谷歌天团”反击AI泡沫质疑：这是工业革命，但速度快10倍、规模大10倍",
@@ -294,8 +298,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时33分 ~ 14时52分]"
+          "appearance_count": 9,
+          "time_info": "[06时33分 ~ 15时37分]"
         },
         {
           "title": "区域银行ETF收涨约1.3%，领跑美股行业ETF，标普电信板块涨超2.6%，谷歌A涨4%",
@@ -336,19 +340,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时51分 ~ 14时52分]"
+          "appearance_count": 3,
+          "time_info": "[14时51分 ~ 15时37分]"
         },
         {
           "title": "金价银价大涨",
           "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E5%A4%A7%E6%B6%A8",
           "source": "百度热搜",
           "ranks": [
-            15
+            15,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时51分 ~ 14时52分]"
+          "appearance_count": 3,
+          "time_info": "[14时51分 ~ 15时37分]"
         },
         {
           "title": "金价震荡后回升，关税风波叠加俄罗斯售金",
@@ -387,11 +392,12 @@
           "url": "https://wallstreetcn.com/articles/3765925",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时51分 ~ 14时52分]"
+          "appearance_count": 3,
+          "time_info": "[14时51分 ~ 15时37分]"
         }
       ]
     },

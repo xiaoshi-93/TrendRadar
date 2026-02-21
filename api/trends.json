@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-22T03:29:58.012974+08:00",
-  "total_titles_processed": 373,
+  "generated_at": "2026-02-22T04:32:21.210539+08:00",
+  "total_titles_processed": 384,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时37分 ~ 03时29分]"
+          "appearance_count": 6,
+          "time_info": "[00时37分 ~ 04时32分]"
         },
         {
           "title": "美股收盘：特朗普关税“翻车”成利好 三大指数集体收涨",
@@ -28,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时37分 ~ 03时29分]"
+          "appearance_count": 6,
+          "time_info": "[00时37分 ~ 04时32分]"
         },
         {
           "title": "美股收盘：多重利空压顶华尔街情绪恶化 三大指数集体下跌",
@@ -39,8 +39,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时37分 ~ 03时29分]"
+          "appearance_count": 6,
+          "time_info": "[00时37分 ~ 04时32分]"
         }
       ]
     },
@@ -55,11 +55,12 @@
           "ranks": [
             13,
             10,
-            11
+            11,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时37分 ~ 03时29分]"
+          "appearance_count": 6,
+          "time_info": "[00时37分 ~ 04时32分]"
         }
       ]
     },
@@ -75,8 +76,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时37分 ~ 03时29分]"
+          "appearance_count": 6,
+          "time_info": "[00时37分 ~ 04时32分]"
         }
       ]
     },
@@ -93,8 +94,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时37分 ~ 03时29分]"
+          "appearance_count": 6,
+          "time_info": "[00时37分 ~ 04时32分]"
         }
       ]
     },
@@ -110,8 +111,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时37分 ~ 03时29分]"
+          "appearance_count": 5,
+          "time_info": "[00时37分 ~ 04时32分]"
         }
       ]
     }

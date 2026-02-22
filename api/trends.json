@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-22T21:01:54.466571+08:00",
-  "total_titles_processed": 1150,
+  "generated_at": "2026-02-22T22:32:50.946823+08:00",
+  "total_titles_processed": 1253,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时37分 ~ 21时01分]"
+          "appearance_count": 23,
+          "time_info": "[00时37分 ~ 22时32分]"
         },
         {
           "title": "过去30年来未见之局面！美股指数波动之小创1960年来之最，而个股波动率却高达指数7倍",
@@ -46,8 +46,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时56分 ~ 21时01分]"
+          "appearance_count": 10,
+          "time_info": "[13时56分 ~ 22时32分]"
         },
         {
           "title": "美股收盘：多重利空压顶华尔街情绪恶化 三大指数集体下跌",
@@ -97,11 +97,12 @@
             14,
             16,
             17,
-            27
+            27,
+            21
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时37分 ~ 21时01分]"
+          "appearance_count": 22,
+          "time_info": "[00时37分 ~ 22时32分]"
         },
         {
           "title": "都想学英伟达“芯片换融资”，谷歌和AMD都要扶持“AI云”",
@@ -129,8 +130,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时37分 ~ 21时01分]"
+          "appearance_count": 23,
+          "time_info": "[00时37分 ~ 22时32分]"
         },
         {
           "title": "表面风光之下，OpenAI的“四大困境”",
@@ -143,8 +144,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时40分 ~ 21时01分]"
+          "appearance_count": 7,
+          "time_info": "[15时40分 ~ 22时32分]"
         },
         {
           "title": "传言成真？英伟达对OpenAI的“1000亿美元投资”最终“打了三折”",
@@ -174,11 +175,12 @@
             5,
             4,
             1,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时39分 ~ 21时01分]"
+          "appearance_count": 13,
+          "time_info": "[10时39分 ~ 22时32分]"
         }
       ]
     },

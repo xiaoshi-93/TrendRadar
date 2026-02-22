@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-22T18:32:37.630852+08:00",
-  "total_titles_processed": 1015,
+  "generated_at": "2026-02-22T19:27:58.638550+08:00",
+  "total_titles_processed": 1072,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时37分 ~ 18时32分]"
+          "appearance_count": 21,
+          "time_info": "[00时37分 ~ 19时27分]"
         },
         {
           "title": "美股收盘：多重利空压顶华尔街情绪恶化 三大指数集体下跌",
@@ -54,11 +54,12 @@
             8,
             7,
             6,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时56分 ~ 18时32分]"
+          "appearance_count": 8,
+          "time_info": "[13时56分 ~ 19时27分]"
         }
       ]
     },
@@ -127,20 +128,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时37分 ~ 18时32分]"
-        },
-        {
-          "title": "传言成真？英伟达对OpenAI的“1000亿美元投资”最终“打了三折”",
-          "url": "https://wallstreetcn.com/articles/3765936",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时54分 ~ 15时40分]"
+          "appearance_count": 21,
+          "time_info": "[00时37分 ~ 19时27分]"
         },
         {
           "title": "表面风光之下，OpenAI的“四大困境”",
@@ -153,8 +142,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时40分 ~ 18时32分]"
+          "appearance_count": 5,
+          "time_info": "[15时40分 ~ 19时27分]"
+        },
+        {
+          "title": "传言成真？英伟达对OpenAI的“1000亿美元投资”最终“打了三折”",
+          "url": "https://wallstreetcn.com/articles/3765936",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时54分 ~ 15时40分]"
         }
       ]
     },
@@ -174,8 +175,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时39分 ~ 18时32分]"
+          "appearance_count": 11,
+          "time_info": "[10时39分 ~ 19时27分]"
         }
       ]
     },

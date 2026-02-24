@@ -1,12 +1,36 @@
 {
-  "generated_at": "2026-02-24T15:54:41.649750+08:00",
-  "total_titles_processed": 1157,
+  "generated_at": "2026-02-24T16:57:01.758829+08:00",
+  "total_titles_processed": 1258,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
       "match_count": 18,
       "titles": [
+        {
+          "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
+          "url": "https://wallstreetcn.com/articles/3765966",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时14分 ~ 16时57分]"
+        },
+        {
+          "title": "“2028AI末日预言”吓坏市场，投资者掀起抛售潮，美股多板块盘中集体重挫",
+          "url": "https://wallstreetcn.com/articles/3766006",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时14分 ~ 16时57分]"
+        },
         {
           "title": "特朗普关税进入迷雾区 美股投资者将聚焦沃勒最新讲话 | 今夜看点",
           "url": "https://www.cls.cn/detail/2292918",
@@ -43,30 +67,6 @@
           "time_info": "[01时05分 ~ 05时11分]"
         },
         {
-          "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
-          "url": "https://wallstreetcn.com/articles/3765966",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时14分 ~ 15时54分]"
-        },
-        {
-          "title": "“2028AI末日预言”吓坏市场，投资者掀起抛售潮，美股多板块盘中集体重挫",
-          "url": "https://wallstreetcn.com/articles/3766006",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时14分 ~ 15时54分]"
-        },
-        {
           "title": "美股收盘：关税风波+AI“鬼故事”袭扰 三大指数承压下挫",
           "url": "https://www.cls.cn/detail/2293058",
           "source": "财联社热门",
@@ -78,6 +78,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[07时38分 ~ 14时04分]"
+        },
+        {
+          "title": "美股看跌保护需求创四年新高，高盛交易员：专业投资者正在为\"某种突破\"做准备",
+          "url": "https://wallstreetcn.com/articles/3765995",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时57分 ~ 16时57分]"
         },
         {
           "title": "华纳兄弟探索公司（WBD）美股盘后涨1.6%。",
@@ -92,15 +104,15 @@
           "time_info": "[05时57分 ~ 06时50分]"
         },
         {
-          "title": "美股看跌保护需求创四年新高，高盛交易员：专业投资者正在为\"某种突破\"做准备",
-          "url": "https://wallstreetcn.com/articles/3765995",
-          "source": "华尔街见闻",
+          "title": "Citrini 的「2028 AI 末日预言」吓坏市场，致美股多板块集体重挫，如何看待这份报告的预测？",
+          "url": "https://www.zhihu.com/question/2009566964868150665",
+          "source": "知乎",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[12时57分 ~ 15时54分]"
+          "time_info": "[15时54分 ~ 16时57分]"
         },
         {
           "title": "道指ETF收跌超1.6%，和小盘股ETF领跌美股大类资产类ETF，黄金ETF涨2.7%",
@@ -175,17 +187,6 @@
           "time_info": "[05时57分 ~ 06时50分]"
         },
         {
-          "title": "Citrini 的「2028 AI 末日预言」吓坏市场，致美股多板块集体重挫，如何看待这份报告的预测？",
-          "url": "https://www.zhihu.com/question/2009566964868150665",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时54分"
-        },
-        {
           "title": "金十图示：2026年02月23日（周一）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260224015335314800",
           "source": "金十数据",
@@ -225,6 +226,19 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "广东省委书记黄坤明：最大限度为技术创新和市场探索“松绑” 让低空经济“飞”起来、自动驾驶“跑”起来、具身智能“用”起来",
+          "url": "https://www.cls.cn/detail/2293320",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时04分 ~ 16时57分]"
+        },
+        {
           "title": "松延动力姜哲源：具身智能产业“马拉松”刚跑了十米",
           "url": "https://wallstreetcn.com/livenews/3057699",
           "source": "华尔街见闻-快讯",
@@ -234,18 +248,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时38分"
-        },
-        {
-          "title": "广东省委书记黄坤明：最大限度为技术创新和市场探索“松绑” 让低空经济“飞”起来、自动驾驶“跑”起来、具身智能“用”起来",
-          "url": "https://www.cls.cn/detail/2293320",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时04分 ~ 15时54分]"
         },
         {
           "title": "广东省委书记黄坤明：最大限度为技术创新和市场探索“松绑”，让低空经济“飞”起来、自动驾驶“跑”起来、具身智能“用”起来",
@@ -265,7 +267,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时54分"
         }
@@ -361,7 +363,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时54分"
         }
@@ -392,6 +394,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时14分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "中方回应美称DeepSeek违反美出口管制",
+          "url": "https://www.toutiao.com/trending/7610332842534374955/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时56分 ~ 16时57分]"
         }
       ]
     },

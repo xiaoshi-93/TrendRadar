@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-26T04:09:50.559677+08:00",
-  "total_titles_processed": 477,
+  "generated_at": "2026-02-26T04:42:04.791814+08:00",
+  "total_titles_processed": 492,
   "failed_sources": [],
   "trends": [
     {
@@ -35,11 +35,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时50分 ~ 04时09分]"
+          "appearance_count": 3,
+          "time_info": "[02时50分 ~ 04时42分]"
         },
         {
           "title": "亚马逊、谷歌、甲骨文将签署数据中心协议。（福克斯新闻）",
@@ -47,11 +48,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             9,
-            27
+            27,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时50分 ~ 04时09分]"
+          "appearance_count": 3,
+          "time_info": "[02时50分 ~ 04时42分]"
         },
         {
           "title": "谷歌：谷歌Pixel设备上的电话诈骗检测功能现已在美国、澳大利亚、加拿大、印度、爱尔兰和英国上线。",
@@ -123,8 +125,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时12分 ~ 04时09分]"
+          "appearance_count": 5,
+          "time_info": "[00时12分 ~ 04时42分]"
         },
         {
           "title": "美股三大期指集体走高 英伟达财报重磅来袭 | 今夜看点",
@@ -135,8 +137,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时12分 ~ 04时09分]"
+          "appearance_count": 5,
+          "time_info": "[00时12分 ~ 04时42分]"
         },
         {
           "title": "半导体ETF涨1.63%，全球科技股指数ETF涨1.07%，科技行业ETF涨0.88%，在美股盘初领跑行业ETF。",
@@ -189,11 +191,12 @@
           "source": "微博",
           "ranks": [
             7,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时12分 ~ 04时09分]"
+          "appearance_count": 5,
+          "time_info": "[00时12分 ~ 04时42分]"
         }
       ]
     }

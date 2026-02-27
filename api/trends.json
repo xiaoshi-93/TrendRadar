@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-27T17:51:06.319652+08:00",
-  "total_titles_processed": 1408,
+  "generated_at": "2026-02-27T18:44:38.375227+08:00",
+  "total_titles_processed": 1495,
   "failed_sources": [],
   "trends": [
     {
@@ -329,7 +329,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时51分"
         },
@@ -395,7 +395,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时51分"
         },
@@ -437,8 +437,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时57分 ~ 17时51分]"
+          "appearance_count": 5,
+          "time_info": "[13时57分 ~ 18时44分]"
         },
         {
           "title": "据华尔街日报：OpenAI创始人Sam Altman的Tools for Humanity与Gap、Visa、Tinder合作，推广World ID人类验证产品（区分人类与机器人的身份验证技术）。",

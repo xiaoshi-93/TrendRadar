@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-28T01:41:13.159765+08:00",
-  "total_titles_processed": 376,
+  "generated_at": "2026-02-28T02:53:49.474334+08:00",
+  "total_titles_processed": 452,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时48分 ~ 01时41分]"
+          "appearance_count": 4,
+          "time_info": "[00时48分 ~ 02时53分]"
         },
         {
           "title": "亚马逊、英伟达和软银豪掷1100亿美元 OpenAI估值冲至7300亿美元",
@@ -26,8 +26,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时40分 ~ 01时41分]"
+          "appearance_count": 3,
+          "time_info": "[01时40分 ~ 02时53分]"
         },
         {
           "title": "OpenAI高管Nick Turley：ChatGPT日活用户已突破9亿，付费订阅用户达5000万。",
@@ -54,8 +54,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时48分"
+          "appearance_count": 2,
+          "time_info": "[00时48分 ~ 02时53分]"
         }
       ]
     },
@@ -71,8 +71,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时48分 ~ 01时41分]"
+          "appearance_count": 4,
+          "time_info": "[00时48分 ~ 02时53分]"
         }
       ]
     }

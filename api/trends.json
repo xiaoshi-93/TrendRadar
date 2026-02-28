@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-28T22:28:35.681680+08:00",
-  "total_titles_processed": 2053,
+  "generated_at": "2026-02-28T23:29:23.692723+08:00",
+  "total_titles_processed": 2138,
   "failed_sources": [],
   "trends": [
     {
@@ -50,8 +50,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时47分 ~ 22时28分]"
+          "appearance_count": 12,
+          "time_info": "[14时47分 ~ 23时29分]"
         },
         {
           "title": "OpenAI获1100亿美元投资",
@@ -241,8 +241,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时22分 ~ 22时28分]"
+          "appearance_count": 16,
+          "time_info": "[10时22分 ~ 23时29分]"
         },
         {
           "title": "超预期PPI打压降息预期，AI担忧发酵，美股指集体低开，金银油携手大涨，美债上扬，人民币贬近150点",
@@ -318,8 +318,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时32分 ~ 22时28分]"
+          "appearance_count": 11,
+          "time_info": "[15时32分 ~ 23时29分]"
         },
         {
           "title": "美股收盘：英伟达再度蒸发万亿市值 金融板块全线重挫",
@@ -344,11 +344,12 @@
             14,
             11,
             8,
-            12
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时29分 ~ 22时28分]"
+          "appearance_count": 8,
+          "time_info": "[18时29分 ~ 23时29分]"
         },
         {
           "title": "美股金银指数收涨超1.6%，历史上首次站上470点，2月份累涨23%",
@@ -402,8 +403,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时32分 ~ 22时28分]"
+          "appearance_count": 11,
+          "time_info": "[15时32分 ~ 23时29分]"
         },
         {
           "title": "“中东火药桶”炸了！美以对伊朗发起袭击，金价油价或继续飙涨",
@@ -413,8 +414,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时24分 ~ 22时28分]"
+          "appearance_count": 7,
+          "time_info": "[19时24分 ~ 23时29分]"
         },
         {
           "title": "伊朗局势如何影响金价 专家称未来48小时决定金价走势",
@@ -433,11 +434,12 @@
           "source": "今日头条",
           "ranks": [
             25,
-            20
+            20,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时29分 ~ 19时25分]"
+          "appearance_count": 4,
+          "time_info": "[18时29分 ~ 23时29分]"
         },
         {
           "title": "以色列伊朗 金价",
@@ -572,8 +574,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时36分 ~ 22时28分]"
+          "appearance_count": 10,
+          "time_info": "[16时36分 ~ 23时29分]"
         },
         {
           "title": "我国首个国家级人形机器人与具身智能标准体系发布",

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-28T07:31:17.611343+08:00",
-  "total_titles_processed": 663,
+  "generated_at": "2026-02-28T10:22:41.482496+08:00",
+  "total_titles_processed": 820,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "亚马逊、英伟达和软银豪掷1100亿美元 OpenAI估值冲至7300亿美元",
@@ -14,11 +14,12 @@
           "ranks": [
             10,
             9,
-            7
+            7,
+            11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时40分 ~ 07时31分]"
+          "appearance_count": 12,
+          "time_info": "[01时40分 ~ 10时22分]"
         },
         {
           "title": "OpenAI获1100亿美元投资",
@@ -39,11 +40,23 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时34分 ~ 07时31分]"
+          "appearance_count": 6,
+          "time_info": "[05时34分 ~ 10时22分]"
+        },
+        {
+          "title": "OpenAI获1100亿美元新投资",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E8%8E%B71100%E4%BA%BF%E7%BE%8E%E5%85%83%E6%96%B0%E6%8A%95%E8%B5%84",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时22分"
         },
         {
           "title": "OpenAI将追加融资100亿美元。（The Information）",
@@ -56,6 +69,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时37分 ~ 04时35分]"
+        },
+        {
+          "title": "一位消息人士透露，五角大楼已同意OpenAI制定的在保密环境下安全部署其技术的规则，但尚未签署任何合同。",
+          "url": "https://flash.jin10.com/detail/20260228080935525800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时22分"
         },
         {
           "title": "OpenAI高管Nick Turley：ChatGPT日活用户已突破9亿，付费订阅用户达5000万。",
@@ -72,7 +96,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "超预期PPI打压降息预期，AI担忧发酵，美股指集体低开，金银油携手大涨，美债上扬，人民币贬近150点",
@@ -93,9 +117,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
+        },
+        {
+          "title": "美PPI、伊朗局势、私募危机拖累美股，道指跌1%，10年期美债收益率跌破4%，金银油涨",
+          "url": "https://wallstreetcn.com/articles/3766324",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时22分"
         },
         {
           "title": "美国10年期国债收益率跌穿3.96%，创10月23日以来新低，日内当前跌超4.2个基点。 两年期美债收益率跌超4.5个基点，失守3.38%，创10月17日以来新低；30年期美债收益率跌约2.7个基点，刷新日低至4.6287%。",
@@ -115,9 +150,72 @@
           "url": "https://wallstreetcn.com/livenews/3060546",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时31分 ~ 10时22分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "供应链",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "美国国防部宣布：Anthropic构成供应链风险。",
+          "url": "https://wallstreetcn.com/livenews/3060535",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时30分"
+        },
+        {
+          "title": "Anthropic公司：将在法庭上挑战任何‘供应链风险认定’。",
+          "url": "https://flash.jin10.com/detail/20260228092236899800",
+          "source": "金十数据",
+          "ranks": [
+            3
           ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时22分"
+        },
+        {
+          "title": "周五（2月27日），存储芯片与硬件供应链指数跌1.58%，报111.75点，本周累计下跌2.24%，2月份累计上涨7.84%，整体呈现出V形反转——2月4日显著回落、随后持续回升。 信息科技指数累跌1.38%，报272.08点。 人工智能（AI）赢家指数累跌1.34%，报287.55点。 AI软件先驱指数累跌8.95%，报98.02点。",
+          "url": "https://wallstreetcn.com/livenews/3060521",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时30分 ~ 07时31分]"
+        },
+        {
+          "title": "Anthropic：尚未收到来自美国国防部和白宫的信息。 不会被恐吓而改变立场。 将在法庭上挑战“供应链风险”这一认定。",
+          "url": "https://wallstreetcn.com/livenews/3060575",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时22分"
+        },
+        {
+          "title": "美国五角大楼宣布Anthropic构成供应链风险。 国防部长海格塞斯称，任何承包商不得与该公司从事活动。",
+          "url": "https://wallstreetcn.com/livenews/3060535",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
         }
@@ -127,6 +225,18 @@
       "keyword_group": "美股",
       "match_count": 4,
       "titles": [
+        {
+          "title": "美股收盘：英伟达再度蒸发万亿市值 金融板块全线重挫",
+          "url": "https://www.cls.cn/detail/2297908",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时31分 ~ 10时22分]"
+        },
         {
           "title": "美股金银指数收涨超1.6%，历史上首次站上470点，2月份累涨23%",
           "url": "https://wallstreetcn.com/livenews/3060528",
@@ -152,17 +262,6 @@
           "time_info": "[06时30分 ~ 07时31分]"
         },
         {
-          "title": "美股收盘：英伟达再度蒸发万亿市值 金融板块全线重挫",
-          "url": "https://www.cls.cn/detail/2297908",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时31分"
-        },
-        {
           "title": "美股七巨头收盘播报｜周五（2月27日），美国科技股七巨头（Magnificent 7）指数跌1.83%，报193.36点，本周累计下跌2.18%，2月份累计下跌6.57%，大部分时间低位震荡——交投于195点附近。 “超大”市值科技股指数跌0.82%，报366.62点，2月份累跌6.91%。",
           "url": "https://wallstreetcn.com/livenews/3060517",
           "source": "华尔街见闻-快讯",
@@ -176,42 +275,19 @@
       ]
     },
     {
-      "keyword_group": "供应链",
-      "match_count": 3,
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
       "titles": [
         {
-          "title": "美国国防部宣布：Anthropic构成供应链风险。",
-          "url": "https://wallstreetcn.com/livenews/3060535",
-          "source": "华尔街见闻-快讯",
+          "title": "DeepSeek将于下周发布其最新的大型语言模型V4。这是一款具有图片、视频和文本生成功能的“多模态”模型。",
+          "url": "https://flash.jin10.com/detail/20260228092015676800",
+          "source": "金十数据",
           "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时30分"
-        },
-        {
-          "title": "周五（2月27日），存储芯片与硬件供应链指数跌1.58%，报111.75点，本周累计下跌2.24%，2月份累计上涨7.84%，整体呈现出V形反转——2月4日显著回落、随后持续回升。 信息科技指数累跌1.38%，报272.08点。 人工智能（AI）赢家指数累跌1.34%，报287.55点。 AI软件先驱指数累跌8.95%，报98.02点。",
-          "url": "https://wallstreetcn.com/livenews/3060521",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时30分 ~ 07时31分]"
-        },
-        {
-          "title": "美国五角大楼宣布Anthropic构成供应链风险。 国防部长海格塞斯称，任何承包商不得与该公司从事活动。",
-          "url": "https://wallstreetcn.com/livenews/3060535",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时31分"
+          "time_info": "10时22分"
         }
       ]
     },

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-28T21:41:06.989548+08:00",
-  "total_titles_processed": 1976,
+  "generated_at": "2026-02-28T22:28:35.681680+08:00",
+  "total_titles_processed": 2053,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[05时34分 ~ 21时41分]"
+          "appearance_count": 20,
+          "time_info": "[05时34分 ~ 22时28分]"
         },
         {
           "title": "亚马逊、英伟达和软银豪掷1100亿美元 OpenAI估值冲至7300亿美元",
@@ -46,11 +46,12 @@
             16,
             28,
             12,
-            9
+            9,
+            18
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时47分 ~ 21时41分]"
+          "appearance_count": 11,
+          "time_info": "[14时47分 ~ 22时28分]"
         },
         {
           "title": "OpenAI获1100亿美元投资",
@@ -112,6 +113,18 @@
           "time_info": "[19时24分 ~ 20时56分]"
         },
         {
+          "title": "Claude 遭特朗普封杀，亚马逊、英伟达等联手助 OpenAI 完成 1100 亿美元融资，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2011023228328510169",
+          "source": "知乎",
+          "ranks": [
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时40分 ~ 22时28分]"
+        },
+        {
           "title": "OpenAI创始人奥尔特曼：我们与美国国防部达成协议，将我们的模型部署到他们的机密网络中。",
           "url": "https://wallstreetcn.com/livenews/3060587",
           "source": "华尔街见闻-快讯",
@@ -134,17 +147,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时19分 ~ 13时37分]"
-        },
-        {
-          "title": "Claude 遭特朗普封杀，亚马逊、英伟达等联手助 OpenAI 完成 1100 亿美元融资，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/2011023228328510169",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时40分 ~ 21时41分]"
         },
         {
           "title": "OpenAI创始人奥尔特曼：我们将部署前线工程师来协助我们的模型，为了确保模型的安全，我们将只在云网络上进行部署。",
@@ -239,8 +241,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时22分 ~ 21时41分]"
+          "appearance_count": 15,
+          "time_info": "[10时22分 ~ 22时28分]"
         },
         {
           "title": "超预期PPI打压降息预期，AI担忧发酵，美股指集体低开，金银油携手大涨，美债上扬，人民币贬近150点",
@@ -297,7 +299,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时41分"
         }
@@ -307,6 +309,18 @@
       "keyword_group": "美股",
       "match_count": 6,
       "titles": [
+        {
+          "title": "伊朗局势演变会如何影响美股、黄金和原油？一文读懂",
+          "url": "https://www.cls.cn/detail/2298093",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时32分 ~ 22时28分]"
+        },
         {
           "title": "美股收盘：英伟达再度蒸发万亿市值 金融板块全线重挫",
           "url": "https://www.cls.cn/detail/2297908",
@@ -323,29 +337,18 @@
           "time_info": "[07时31分 ~ 18时29分]"
         },
         {
-          "title": "伊朗局势演变会如何影响美股、黄金和原油？一文读懂",
-          "url": "https://www.cls.cn/detail/2298093",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时32分 ~ 21时41分]"
-        },
-        {
           "title": "以色列突袭伊朗，正准备 4 天的联合进攻，原油、黄金、美股接下来怎么走？",
           "url": "https://www.zhihu.com/question/2011096140146286806",
           "source": "知乎",
           "ranks": [
             14,
             11,
-            8
+            8,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时29分 ~ 21时41分]"
+          "appearance_count": 7,
+          "time_info": "[18时29分 ~ 22时28分]"
         },
         {
           "title": "美股金银指数收涨超1.6%，历史上首次站上470点，2月份累涨23%",
@@ -395,11 +398,23 @@
           "ranks": [
             11,
             12,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时32分 ~ 21时41分]"
+          "appearance_count": 10,
+          "time_info": "[15时32分 ~ 22时28分]"
+        },
+        {
+          "title": "“中东火药桶”炸了！美以对伊朗发起袭击，金价油价或继续飙涨",
+          "url": "https://finance.ifeng.com/c/8r7FgvfAN7q",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时24分 ~ 22时28分]"
         },
         {
           "title": "伊朗局势如何影响金价 专家称未来48小时决定金价走势",
@@ -411,17 +426,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时25分"
-        },
-        {
-          "title": "“中东火药桶”炸了！美以对伊朗发起袭击，金价油价或继续飙涨",
-          "url": "https://finance.ifeng.com/c/8r7FgvfAN7q",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时24分 ~ 21时41分]"
         },
         {
           "title": "专家：金价极端情况下或到7000美元",
@@ -521,11 +525,12 @@
           "url": "https://www.zhihu.com/question/2010670686461452529",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时56分 ~ 21时41分]"
+          "appearance_count": 4,
+          "time_info": "[20时56分 ~ 22时28分]"
         },
         {
           "title": "DeepSeek将于下周发布其最新的大型语言模型V4。这是一款具有图片、视频和文本生成功能的“多模态”模型。",
@@ -567,8 +572,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时36分 ~ 21时41分]"
+          "appearance_count": 9,
+          "time_info": "[16时36分 ~ 22时28分]"
         },
         {
           "title": "我国首个国家级人形机器人与具身智能标准体系发布",

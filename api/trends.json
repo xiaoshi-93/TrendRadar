@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-01T12:59:05.758273+08:00",
-  "total_titles_processed": 1008,
+  "generated_at": "2026-03-01T13:58:52.746759+08:00",
+  "total_titles_processed": 1103,
   "failed_sources": [],
   "trends": [
     {
@@ -21,8 +21,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时33分 ~ 12时59分]"
+          "appearance_count": 14,
+          "time_info": "[00时33分 ~ 13时58分]"
         },
         {
           "title": "OpenAI就与美国国防部的协议表示，与任何合同一样，若政府违反条款，我们有权终止协议，但我们并不预期会出现这种情况。",
@@ -86,7 +86,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时59分"
         },
@@ -258,8 +258,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时47分 ~ 12时59分]"
+          "appearance_count": 4,
+          "time_info": "[10时47分 ~ 13时58分]"
         }
       ]
     },

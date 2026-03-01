@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-01T22:31:09.710678+08:00",
-  "total_titles_processed": 1758,
+  "generated_at": "2026-03-01T23:30:54.990598+08:00",
+  "total_titles_processed": 1827,
   "failed_sources": [],
   "trends": [
     {
@@ -23,8 +23,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时33分 ~ 22时31分]"
+          "appearance_count": 28,
+          "time_info": "[00时33分 ~ 23时30分]"
         },
         {
           "title": "马斯克：我一点也不信任OpenAI。",
@@ -174,7 +174,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "金价",
@@ -231,6 +231,17 @@
           "time_info": "[14时59分 ~ 16时38分]"
         },
         {
+          "title": "美以袭击伊朗金价为何下跌",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E4%BB%A5%E8%A2%AD%E5%87%BB%E4%BC%8A%E6%9C%97%E9%87%91%E4%BB%B7%E4%B8%BA%E4%BD%95%E4%B8%8B%E8%B7%8C%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时29分 ~ 23时30分]"
+        },
+        {
           "title": "专家称未来48小时决定金价走势",
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E6%9C%AA%E6%9D%A548%E5%B0%8F%E6%97%B6%E5%86%B3%E5%AE%9A%E9%87%91%E4%BB%B7%E8%B5%B0%E5%8A%BF%23&t=31&band_rank=15&Refer=top",
           "source": "微博",
@@ -285,8 +296,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[10时47分 ~ 22时31分]"
+          "appearance_count": 18,
+          "time_info": "[10时47分 ~ 23时30分]"
         },
         {
           "title": "我国首个国家级人形机器人与具身智能标准体系发布",

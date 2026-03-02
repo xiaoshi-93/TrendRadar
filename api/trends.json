@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-02T19:35:36.970506+08:00",
-  "total_titles_processed": 1667,
+  "generated_at": "2026-03-02T21:11:32.388880+08:00",
+  "total_titles_processed": 1798,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "伊朗危机冲击，纳指期货大跌2%，美股盘前金油板块集体大涨，布油涨8%，黄金突破5400",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时57分 ~ 19时35分]"
+          "appearance_count": 4,
+          "time_info": "[17时57分 ~ 21时11分]"
         },
         {
           "title": "全球市场开盘“未见恐慌”：美股三大股指期货均跌0.7%，油价跳涨13%但涨幅显著收窄，黄金回落至5330美元",
@@ -74,6 +74,28 @@
           "time_info": "07时31分"
         },
         {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-03-02）",
+          "url": "https://flash.jin10.com/detail/20260302210419291800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时11分"
+        },
+        {
+          "title": "摩根士丹利策略师Wilson：伊朗局势不太可能动摇对美股看涨观点",
+          "url": "https://wallstreetcn.com/livenews/3061934",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时11分"
+        },
+        {
           "title": "避险资金涌入军工板块 美股国防股盘前暴涨",
           "url": "https://flash.jin10.com/detail/20260302182629423800",
           "source": "金十数据",
@@ -110,11 +132,12 @@
             8,
             5,
             3,
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时56分 ~ 19时35分]"
+          "appearance_count": 9,
+          "time_info": "[13时56分 ~ 21时11分]"
         },
         {
           "title": "美以袭击伊朗金价为何下跌",
@@ -262,6 +285,34 @@
       ]
     },
     {
+      "keyword_group": "供应链",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美伊冲突冲击全球供应链：多家航运巨头紧急涨价 中东空运遭严重干扰",
+          "url": "https://www.cls.cn/detail/2300033",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时11分"
+        },
+        {
+          "title": "海湾合作委员会声明：伊朗必须立即停止袭击，以确保供应链安全和全球能源市场稳定。",
+          "url": "https://flash.jin10.com/detail/20260302044111786800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时29分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
@@ -316,23 +367,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时34分 ~ 07时31分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "供应链",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "海湾合作委员会声明：伊朗必须立即停止袭击，以确保供应链安全和全球能源市场稳定。",
-          "url": "https://flash.jin10.com/detail/20260302044111786800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时29分"
         }
       ]
     },

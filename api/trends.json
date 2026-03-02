@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-02T21:11:32.388880+08:00",
-  "total_titles_processed": 1798,
+  "generated_at": "2026-03-02T22:50:08.326925+08:00",
+  "total_titles_processed": 1934,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "伊朗危机冲击，纳指期货大跌2%，美股盘前金油板块集体大涨，布油涨8%，黄金突破5400",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时57分 ~ 21时11分]"
+          "appearance_count": 6,
+          "time_info": "[17时57分 ~ 22时50分]"
         },
         {
           "title": "全球市场开盘“未见恐慌”：美股三大股指期货均跌0.7%，油价跳涨13%但涨幅显著收窄，黄金回落至5330美元",
@@ -52,6 +52,17 @@
           "time_info": "15时08分"
         },
         {
+          "title": "富时A50在美股盘初出现V形反转，使得夜盘转而涨超0.2%。",
+          "url": "https://wallstreetcn.com/livenews/3062004",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
+        },
+        {
           "title": "全球市场开盘“未见恐慌”：美股三大股指期货均跌1%，油价跳涨13%但涨幅显著回落，黄金逼近5400美元",
           "url": "https://wallstreetcn.com/articles/3766477",
           "source": "华尔街见闻",
@@ -80,9 +91,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时11分"
+        },
+        {
+          "title": "全球航空业ETF跌4.46%，在美股盘初领跌行业ETF，可选消费ETF跌2.47%，区域银行ETF跌2.38%，半导体ETF跌1.83%，科技行业ETF跌0.92%，能源业ETF涨2.65%。 标普超级综合航空指数跌5.6%。 Frontier Group跌9.72%，美国航空公司跌6.4%，美联航跌5.3%，达美航空跌3.7%，美国西南航空跌2.9%。",
+          "url": "https://wallstreetcn.com/livenews/3062001",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
         },
         {
           "title": "摩根士丹利策略师Wilson：伊朗局势不太可能动摇对美股看涨观点",
@@ -91,7 +113,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时11分"
         },
@@ -116,6 +138,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时54分"
+        },
+        {
+          "title": "周一美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3061974",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
         }
       ]
     },
@@ -229,6 +262,77 @@
       ]
     },
     {
+      "keyword_group": "供应链",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美伊冲突冲击全球供应链：多家航运巨头紧急涨价 中东空运遭严重干扰",
+          "url": "https://www.cls.cn/detail/2300033",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时11分 ~ 22时50分]"
+        },
+        {
+          "title": "土耳其国家能源公司Botas：土耳其的天然气供应安全和供应链没有风险。",
+          "url": "https://flash.jin10.com/detail/20260302224505890800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
+        },
+        {
+          "title": "海湾合作委员会声明：伊朗必须立即停止袭击，以确保供应链安全和全球能源市场稳定。",
+          "url": "https://flash.jin10.com/detail/20260302044111786800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "黄金避险和抗通胀功能凸显，局势走向左右价格波动幅度",
+          "url": "https://wallstreetcn.com/livenews/3061276",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            15,
+            21,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时34分 ~ 07时31分]"
+        },
+        {
+          "title": "现货金银价格回落，美股黄金概念股走势分化，纽蒙特矿业(NEM.N)涨0.53%，科尔黛伦矿业(CDE.N)跌1.8%，泛美白银(PAAS.O)跌1.5%。",
+          "url": "https://flash.jin10.com/detail/20260302223225321800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 2,
       "titles": [
@@ -285,34 +389,6 @@
       ]
     },
     {
-      "keyword_group": "供应链",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美伊冲突冲击全球供应链：多家航运巨头紧急涨价 中东空运遭严重干扰",
-          "url": "https://www.cls.cn/detail/2300033",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时11分"
-        },
-        {
-          "title": "海湾合作委员会声明：伊朗必须立即停止袭击，以确保供应链安全和全球能源市场稳定。",
-          "url": "https://flash.jin10.com/detail/20260302044111786800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时29分"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
@@ -347,26 +423,6 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时35分 ~ 10时35分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "黄金避险和抗通胀功能凸显，局势走向左右价格波动幅度",
-          "url": "https://wallstreetcn.com/livenews/3061276",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            15,
-            21,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时34分 ~ 07时31分]"
         }
       ]
     },

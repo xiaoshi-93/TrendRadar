@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-03T22:51:26.980371+08:00",
-  "total_titles_processed": 2055,
+  "generated_at": "2026-03-03T23:53:30.373604+08:00",
+  "total_titles_processed": 2150,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "伊朗危机冲击，美股指低开，纳指跌超1.5%，布油涨8%，黄金突破5400",
@@ -89,6 +89,18 @@
           "time_info": "16时51分"
         },
         {
+          "title": "战火升级点燃恐慌情绪 美股三大期指均跌超1% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2301690",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时51分 ~ 23时53分]"
+        },
+        {
           "title": "美股七巨头收盘播报｜周一（3月2日），美国科技股七巨头（Magnificent 7）指数涨0.66%，报194.61点。 “超大”市值科技股指数涨0.33%，报367.84点。",
           "url": "https://wallstreetcn.com/livenews/3062168",
           "source": "华尔街见闻-快讯",
@@ -155,7 +167,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时51分"
         },
@@ -166,18 +178,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时51分"
-        },
-        {
-          "title": "战火升级点燃恐慌情绪 美股三大期指均跌超1% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2301690",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时51分"
         },
@@ -199,7 +200,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时51分"
         },
@@ -279,6 +280,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时40分"
+        },
+        {
+          "title": "全球航空业ETF跌4.22%，半导体ETF跌4.03%，在美股盘初领跌行业ETF，全球科技股指数ETF跌3.24%，科技行业ETF跌2.13%，能源业ETF涨0.90%。 标普500能源指数高开0.8%。",
+          "url": "https://wallstreetcn.com/livenews/3062849",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
         }
       ]
     },
@@ -300,17 +312,6 @@
           "time_info": "[16时51分 ~ 22时51分]"
         },
         {
-          "title": "OpenAI与美国五角大楼在AI协议中新增监控保护条款。（Axios）",
-          "url": "https://wallstreetcn.com/livenews/3062845",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时51分"
-        },
-        {
           "title": "内部备忘录显示，美国国务院将内部聊天机器人所用模型从Anthropic切换至OpenAI。",
           "url": "https://flash.jin10.com/detail/20260303052851593800",
           "source": "金十数据",
@@ -321,6 +322,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时40分 ~ 06时33分]"
+        },
+        {
+          "title": "OpenAI与美国五角大楼在AI协议中新增监控保护条款。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3062845",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时51分 ~ 23时53分]"
         },
         {
           "title": "大批OpenAI用户转投Anthropic，后者登顶美国APP下载榜",
@@ -341,7 +354,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时51分"
         },
@@ -352,7 +365,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时51分"
         },
@@ -363,7 +376,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时51分"
         },
@@ -392,6 +405,89 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "分析师：金价突破5300美元或开启风险定价新阶段",
+          "url": "https://flash.jin10.com/detail/20260303154301019800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时50分"
+        },
+        {
+          "title": "特朗普“不惜一切”誓言加剧股市抛售，油价三连涨，日韩股市狂泻，三星跌10%，金价回落至5300美元下方",
+          "url": "https://wallstreetcn.com/articles/3766590",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时50分"
+        },
+        {
+          "title": "金十图示：2026年03月03日（周二）上海金早盘价为1187.3元/克，较国际金价(1184.25元/克)，高3.05元/克",
+          "url": "https://flash.jin10.com/detail/20260303102010236800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时38分"
+        },
+        {
+          "title": "金十图示：2026年03月03日（周二）上海金午盘价为1180.89元/克，较国际金价(1178.48元/克)，高2.41元/克",
+          "url": "https://flash.jin10.com/detail/20260303153334553800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时50分"
+        },
+        {
+          "title": "避险情绪难抵通胀预期 金价四连涨后深陷抛售泥潭",
+          "url": "https://flash.jin10.com/detail/20260303231034018800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
+        },
+        {
+          "title": "惠誉旗下研究机构：若中东局势持续，金价本周或创历史新高",
+          "url": "https://flash.jin10.com/detail/20260303114847241800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时51分"
+        },
+        {
+          "title": "金价银价断崖式跳水",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E6%96%AD%E5%B4%96%E5%BC%8F%E8%B7%B3%E6%B0%B4%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 6,
       "titles": [
@@ -404,8 +500,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时37分 ~ 22时51分]"
+          "appearance_count": 14,
+          "time_info": "[10时37分 ~ 23时53分]"
         },
         {
           "title": "伊朗危机点燃通胀担忧，美股指惊险走V，原油暴涨重创美债，美元大涨，黄金冲高回落",
@@ -467,63 +563,65 @@
       ]
     },
     {
-      "keyword_group": "金价",
+      "keyword_group": "美元",
       "match_count": 5,
       "titles": [
         {
-          "title": "分析师：金价突破5300美元或开启风险定价新阶段",
-          "url": "https://flash.jin10.com/detail/20260303154301019800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时50分"
-        },
-        {
-          "title": "特朗普“不惜一切”誓言加剧股市抛售，油价三连涨，日韩股市狂泻，三星跌10%，金价回落至5300美元下方",
+          "title": "特朗普放话“不惜一切” ，美三大股指均跌超2%，黄金跌超5%，白银暴跌11%，布油涨近8%，美元指数涨1%",
           "url": "https://wallstreetcn.com/articles/3766590",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            1
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时50分"
+          "time_info": "23时53分"
         },
         {
-          "title": "金十图示：2026年03月03日（周二）上海金早盘价为1187.3元/克，较国际金价(1184.25元/克)，高3.05元/克",
-          "url": "https://flash.jin10.com/detail/20260303102010236800",
+          "title": "美元指数2日大幅上涨",
+          "url": "https://flash.jin10.com/detail/20260303061532268800",
           "source": "金十数据",
+          "ranks": [
+            2,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时33分 ~ 07时33分]"
+        },
+        {
+          "title": "美元指数涨0.8%",
+          "url": "https://wallstreetcn.com/livenews/3062129",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时43分 ~ 05时40分]"
+        },
+        {
+          "title": "恒天然：3月3日全球乳品贸易（GDT）拍卖价格指数上涨5.7%，奶粉各合同期FAS拍卖均价4,301美元/吨。 批发奶粉价格指数涨4.5%，报3,863美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3062873",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时38分"
+          "time_info": "23时53分"
         },
         {
-          "title": "金十图示：2026年03月03日（周二）上海金午盘价为1180.89元/克，较国际金价(1178.48元/克)，高2.41元/克",
-          "url": "https://flash.jin10.com/detail/20260303153334553800",
-          "source": "金十数据",
+          "title": "美元指数突破99，日内涨0.45%，创1月20日以来新高。",
+          "url": "https://wallstreetcn.com/livenews/3062610",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时50分"
-        },
-        {
-          "title": "惠誉旗下研究机构：若中东局势持续，金价本周或创历史新高",
-          "url": "https://flash.jin10.com/detail/20260303114847241800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时51分"
+          "time_info": "16时51分"
         }
       ]
     },
@@ -574,50 +672,9 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时51分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "美元指数2日大幅上涨",
-          "url": "https://flash.jin10.com/detail/20260303061532268800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时33分 ~ 07时33分]"
-        },
-        {
-          "title": "美元指数涨0.8%",
-          "url": "https://wallstreetcn.com/livenews/3062129",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时43分 ~ 05时40分]"
-        },
-        {
-          "title": "美元指数突破99，日内涨0.45%，创1月20日以来新高。",
-          "url": "https://wallstreetcn.com/livenews/3062610",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时51分"
         }
       ]
     },

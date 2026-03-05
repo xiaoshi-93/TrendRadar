@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-05T13:53:57.920010+08:00",
-  "total_titles_processed": 1120,
+  "generated_at": "2026-03-05T15:01:59.340202+08:00",
+  "total_titles_processed": 1215,
   "failed_sources": [],
   "trends": [
     {
@@ -40,8 +40,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时36分 ~ 13时53分]"
+          "appearance_count": 6,
+          "time_info": "[07时36分 ~ 15时01分]"
         },
         {
           "title": "周三（3月4日），存储芯片与硬件供应链指数涨3.90%，报105.81点，美股开盘后90分钟高开高走，随后平缓地逐步回吐涨幅。",
@@ -176,8 +176,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时49分 ~ 13时53分]"
+          "appearance_count": 4,
+          "time_info": "[12时49分 ~ 15时01分]"
         },
         {
           "title": "黄仁勋排除英伟达向OpenAI投资1000亿美元的可能性",
@@ -259,6 +259,78 @@
       ]
     },
     {
+      "keyword_group": "供应链",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "高盛CEO罗门：中东冲突存在重大不确定性；市场试图评估最终结果及其对能源和供应链的潜在影响。",
+          "url": "https://flash.jin10.com/detail/20260305070432158800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时36分"
+        },
+        {
+          "title": "高盛CEO苏德巍：存在大量与中东冲突相关的不确定性。 市场试图弄清楚中东局势将何去何从。 局势将影响到能源市场和供应链。 正想方设法地支持置身中东的那些高盛员工。（彭博电视）",
+          "url": "https://wallstreetcn.com/livenews/3063901",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时36分"
+        },
+        {
+          "title": "台积电回应中东冲突可能导致原材料供应链中断的问题回应：目前预计不会有重大影响。",
+          "url": "https://wallstreetcn.com/livenews/3064230",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时53分"
+        },
+        {
+          "title": "台积电(TSM.N)回应伊朗战争可能导致原材料供应链中断的问题：目前预计不会产生重大影响。",
+          "url": "https://flash.jin10.com/detail/20260305133943104800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时53分"
+        },
+        {
+          "title": "马来西亚贸易局：宣布战略性缓解措施，以在中东地缘政治紧张局势下保障马来西亚出口。 正积极重新规划贸易航线、缓解出口风险，并深化多元化举措，以保障马来西亚贸易的长期韧性。 将助力马来西亚出口商应对海上封锁、飙升的物流成本以及供应链中断。",
+          "url": "https://wallstreetcn.com/livenews/3064243",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时01分"
+        },
+        {
+          "title": "新加坡石油化工公司因中东冲突导致海上运输和供应链严重中断，宣布发生不可抗力。",
+          "url": "https://flash.jin10.com/detail/20260305140722296800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时01分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 4,
       "titles": [
@@ -310,56 +382,6 @@
       ]
     },
     {
-      "keyword_group": "供应链",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "高盛CEO罗门：中东冲突存在重大不确定性；市场试图评估最终结果及其对能源和供应链的潜在影响。",
-          "url": "https://flash.jin10.com/detail/20260305070432158800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时36分"
-        },
-        {
-          "title": "高盛CEO苏德巍：存在大量与中东冲突相关的不确定性。 市场试图弄清楚中东局势将何去何从。 局势将影响到能源市场和供应链。 正想方设法地支持置身中东的那些高盛员工。（彭博电视）",
-          "url": "https://wallstreetcn.com/livenews/3063901",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时36分"
-        },
-        {
-          "title": "台积电回应中东冲突可能导致原材料供应链中断的问题回应：目前预计不会有重大影响。",
-          "url": "https://wallstreetcn.com/livenews/3064230",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时53分"
-        },
-        {
-          "title": "台积电(TSM.N)回应伊朗战争可能导致原材料供应链中断的问题：目前预计不会产生重大影响。",
-          "url": "https://flash.jin10.com/detail/20260305133943104800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时53分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债",
       "match_count": 3,
       "titles": [
@@ -382,8 +404,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时36分 ~ 13时53分]"
+          "appearance_count": 6,
+          "time_info": "[07时36分 ~ 15时01分]"
         },
         {
           "title": "10年期美债收益率涨约2.7个基点，本周已涨约15个基点",
@@ -396,6 +418,34 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时40分 ~ 06时38分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "分析师：美元走强或继续压制金价走势",
+          "url": "https://flash.jin10.com/detail/20260305143637743800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时01分"
+        },
+        {
+          "title": "金十图示：2026年03月05日（周四）上海金早盘价为1150.34元/克，较国际金价(1147.26元/克)，高3.08元/克",
+          "url": "https://flash.jin10.com/detail/20260305102128241800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时33分"
         }
       ]
     },
@@ -442,23 +492,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时54分 ~ 10时33分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金十图示：2026年03月05日（周四）上海金早盘价为1150.34元/克，较国际金价(1147.26元/克)，高3.08元/克",
-          "url": "https://flash.jin10.com/detail/20260305102128241800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时33分"
         }
       ]
     },

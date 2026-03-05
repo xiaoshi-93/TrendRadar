@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-05T15:51:12.905860+08:00",
-  "total_titles_processed": 1326,
+  "generated_at": "2026-03-05T16:52:57.204828+08:00",
+  "total_titles_processed": 1449,
   "failed_sources": [],
   "trends": [
     {
@@ -375,7 +375,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时51分"
         },
@@ -412,11 +412,12 @@
           "url": "https://wallstreetcn.com/articles/3766668",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时36分 ~ 15时51分]"
+          "appearance_count": 9,
+          "time_info": "[07时36分 ~ 16时52分]"
         },
         {
           "title": "10年期美债收益率涨约2.7个基点，本周已涨约15个基点",
@@ -489,6 +490,34 @@
       ]
     },
     {
+      "keyword_group": "自动驾驶",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "中国自动驾驶科技公司初速度Momenta据悉申请10亿美元香港IPO。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3064378",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时52分"
+        },
+        {
+          "title": "【工信部部长李乐成：全力推进新一代人工智能产品的攻关和迭代更新】在十四届全国人大四次会议首场“部长通道”集中采访活动上，工业和信息化部部长李乐成表示，2026年工信部将按照政府工作报告要求，大力推动人工智能（AI）和制造业双向奔赴。我国产业门类齐全，创新人才众多，创新生态不断改善，我们有信心，坚信必将有更多的世界级智能产品在这片热土上生产出来。要努力推动AI电脑、AI手机、智能家居，更好满足人民群众对美好生活的需求。要全力推进新一代人工智能产品的攻关和迭代更新，包括脑机接口、自动驾驶汽车、机器人，推动科技攻关、技术迭代。大力支持发展智能农业机械、智能医疗器械，让更多智能产品满足各行各业各领域的需要。",
+          "url": "https://wallstreetcn.com/livenews/3064172",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时50分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
@@ -520,23 +549,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时33分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "自动驾驶",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "【工信部部长李乐成：全力推进新一代人工智能产品的攻关和迭代更新】在十四届全国人大四次会议首场“部长通道”集中采访活动上，工业和信息化部部长李乐成表示，2026年工信部将按照政府工作报告要求，大力推动人工智能（AI）和制造业双向奔赴。我国产业门类齐全，创新人才众多，创新生态不断改善，我们有信心，坚信必将有更多的世界级智能产品在这片热土上生产出来。要努力推动AI电脑、AI手机、智能家居，更好满足人民群众对美好生活的需求。要全力推进新一代人工智能产品的攻关和迭代更新，包括脑机接口、自动驾驶汽车、机器人，推动科技攻关、技术迭代。大力支持发展智能农业机械、智能医疗器械，让更多智能产品满足各行各业各领域的需要。",
-          "url": "https://wallstreetcn.com/livenews/3064172",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时50分"
         }
       ]
     }

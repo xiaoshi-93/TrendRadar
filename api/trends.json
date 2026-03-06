@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-06T15:44:09.532402+08:00",
-  "total_titles_processed": 1212,
+  "generated_at": "2026-03-06T16:46:24.790458+08:00",
+  "total_titles_processed": 1306,
   "failed_sources": [],
   "trends": [
     {
@@ -199,8 +199,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时31分 ~ 15时44分]"
+          "appearance_count": 8,
+          "time_info": "[10时31分 ~ 16时46分]"
         },
         {
           "title": "OpenAI发布GPT-5.4",
@@ -318,8 +318,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时56分 ~ 15时44分]"
+          "appearance_count": 9,
+          "time_info": "[07时56分 ~ 16时46分]"
         },
         {
           "title": "强劲数据重燃风险偏好，科技股带领美股反弹，纳指涨1.3%，美债三连跌，加密货币大涨",
@@ -357,8 +357,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时43分 ~ 15时44分]"
+          "appearance_count": 3,
+          "time_info": "[15时43分 ~ 16时46分]"
         },
         {
           "title": "挪威国家天然气运营商Gassco：Oseberg气田发生意外停产，3月6日至7日期间日产量将减少620万立方米。 Oseberg气田是挪威输往欧洲天然气供应链的关键节点。",
@@ -367,7 +367,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时44分"
         },
@@ -381,6 +381,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时59分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金十图示：2026年03月06日（周五）上海金早盘价为1143.07元/克，较国际金价(1139.67元/克)，高3.4元/克",
+          "url": "https://flash.jin10.com/detail/20260306101815571800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时31分"
+        },
+        {
+          "title": "金十图示：2026年03月06日（周五）上海金午盘价为1139.95元/克，较国际金价(1134.65元/克)，高5.3元/克",
+          "url": "https://flash.jin10.com/detail/20260306162057836800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时46分"
         }
       ]
     },
@@ -412,23 +440,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时59分 ~ 06时38分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金十图示：2026年03月06日（周五）上海金早盘价为1143.07元/克，较国际金价(1139.67元/克)，高3.4元/克",
-          "url": "https://flash.jin10.com/detail/20260306101815571800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时31分"
         }
       ]
     },

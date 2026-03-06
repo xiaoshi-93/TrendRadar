@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-06T13:51:07.350016+08:00",
-  "total_titles_processed": 1012,
+  "generated_at": "2026-03-06T14:58:55.035418+08:00",
+  "total_titles_processed": 1127,
   "failed_sources": [],
   "trends": [
     {
@@ -42,8 +42,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时38分 ~ 13时51分]"
+          "appearance_count": 7,
+          "time_info": "[06时38分 ~ 14时58分]"
         },
         {
           "title": "美股道琼斯指数跌幅扩大至2%，报47759.04点。",
@@ -190,6 +190,19 @@
       "match_count": 10,
       "titles": [
         {
+          "title": "OpenAI发布最强专业模型GPT-5.4，自动操作电脑，插件支持AI玩转Excel和金融分析",
+          "url": "https://wallstreetcn.com/articles/3766836",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时31分 ~ 14时58分]"
+        },
+        {
           "title": "OpenAI发布GPT-5.4",
           "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%8F%91%E5%B8%83GPT-5.4",
           "source": "bilibili 热搜",
@@ -210,19 +223,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时46分"
-        },
-        {
-          "title": "OpenAI发布最强专业模型GPT-5.4，自动操作电脑，插件支持AI玩转Excel和金融分析",
-          "url": "https://wallstreetcn.com/articles/3766836",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时31分 ~ 13时51分]"
         },
         {
           "title": "详解OpenAI新模型GPT-5.4",
@@ -311,6 +311,17 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "非农前夜，油价飙升引发通胀担忧，芯片股领跌美股，美债四连跌，美元走强",
+          "url": "https://wallstreetcn.com/articles/3766762",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时56分 ~ 14时58分]"
+        },
+        {
           "title": "强劲数据重燃风险偏好，科技股带领美股反弹，纳指涨1.3%，美债三连跌，加密货币大涨",
           "url": "https://wallstreetcn.com/articles/3766668",
           "source": "华尔街见闻",
@@ -320,17 +331,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时09分 ~ 06时38分]"
-        },
-        {
-          "title": "非农前夜，油价飙升引发通胀担忧，芯片股领跌美股，美债四连跌，美元走强",
-          "url": "https://wallstreetcn.com/articles/3766762",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时56分 ~ 13时51分]"
         },
         {
           "title": "10年期美债收益率涨约3个基点，本周已涨近18个基点",

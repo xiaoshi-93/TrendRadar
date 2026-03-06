@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-06T18:42:12.045143+08:00",
-  "total_titles_processed": 1541,
+  "generated_at": "2026-03-06T19:35:26.450420+08:00",
+  "total_titles_processed": 1634,
   "failed_sources": [],
   "trends": [
     {
@@ -190,7 +190,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时42分"
         }
@@ -207,11 +207,12 @@
           "ranks": [
             8,
             6,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时31分 ~ 18时42分]"
+          "appearance_count": 12,
+          "time_info": "[10时31分 ~ 19时35分]"
         },
         {
           "title": "OpenAI发布GPT-5.4",
@@ -330,8 +331,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时56分 ~ 18时42分]"
+          "appearance_count": 13,
+          "time_info": "[07时56分 ~ 19时35分]"
         },
         {
           "title": "强劲数据重燃风险偏好，科技股带领美股反弹，纳指涨1.3%，美债三连跌，加密货币大涨",
@@ -351,7 +352,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时42分"
         },
@@ -381,8 +382,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时43分 ~ 18时42分]"
+          "appearance_count": 7,
+          "time_info": "[15时43分 ~ 19时35分]"
         },
         {
           "title": "挪威国家天然气运营商Gassco：Oseberg气田发生意外停产，3月6日至7日期间日产量将减少620万立方米。 Oseberg气田是挪威输往欧洲天然气供应链的关键节点。",

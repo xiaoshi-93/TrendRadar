@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-03-06T14:58:55.035418+08:00",
-  "total_titles_processed": 1127,
+  "generated_at": "2026-03-06T15:44:09.532402+08:00",
+  "total_titles_processed": 1212,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
       "match_count": 15,
       "titles": [
+        {
+          "title": "美股收盘：道琼斯指数暴跌近800点，伊朗冲突外溢油价飙升",
+          "url": "https://www.cls.cn/detail/2304478",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[06时38分 ~ 15时44分]"
+        },
         {
           "title": "中东局势打击风险偏好，美股指下跌，纳指跌0.5%，美油涨5%，金银齐跌",
           "url": "https://wallstreetcn.com/articles/3766762",
@@ -31,19 +44,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[02时09分 ~ 13时51分]"
-        },
-        {
-          "title": "美股收盘：道琼斯指数暴跌近800点，伊朗冲突外溢油价飙升",
-          "url": "https://www.cls.cn/detail/2304478",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时38分 ~ 14时58分]"
         },
         {
           "title": "美股道琼斯指数跌幅扩大至2%，报47759.04点。",
@@ -199,8 +199,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时31分 ~ 14时58分]"
+          "appearance_count": 7,
+          "time_info": "[10时31分 ~ 15时44分]"
         },
         {
           "title": "OpenAI发布GPT-5.4",
@@ -318,8 +318,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时56分 ~ 14时58分]"
+          "appearance_count": 8,
+          "time_info": "[07时56分 ~ 15时44分]"
         },
         {
           "title": "强劲数据重燃风险偏好，科技股带领美股反弹，纳指涨1.3%，美债三连跌，加密货币大涨",
@@ -342,6 +342,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "供应链",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "中东冲突威胁，韩国警告：芯片供应链面临“中断”风险！",
+          "url": "https://wallstreetcn.com/articles/3766819",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时43分 ~ 15时44分]"
+        },
+        {
+          "title": "挪威国家天然气运营商Gassco：Oseberg气田发生意外停产，3月6日至7日期间日产量将减少620万立方米。 Oseberg气田是挪威输往欧洲天然气供应链的关键节点。",
+          "url": "https://wallstreetcn.com/livenews/3064941",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时44分"
+        },
+        {
+          "title": "五角大楼称已告知Anthropic其构成供应链风险。",
+          "url": "https://wallstreetcn.com/livenews/3064627",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时59分"
         }
       ]
     },
@@ -409,23 +448,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时56分 ~ 12时46分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "供应链",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "五角大楼称已告知Anthropic其构成供应链风险。",
-          "url": "https://wallstreetcn.com/livenews/3064627",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时59分"
         }
       ]
     }

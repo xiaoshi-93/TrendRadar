@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-09T14:03:33.619410+08:00",
-  "total_titles_processed": 1019,
+  "generated_at": "2026-03-09T15:53:22.292111+08:00",
+  "total_titles_processed": 1141,
   "failed_sources": [],
   "trends": [
     {
@@ -82,6 +82,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时38分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "具身智能",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "对话傅利叶顾捷：具身智能匹配康养刚需，上海成技术产业化最佳土壤",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32727149",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时53分"
         }
       ]
     }

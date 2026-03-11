@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-11T22:53:16.192683+08:00",
-  "total_titles_processed": 1889,
+  "generated_at": "2026-03-11T23:55:15.351634+08:00",
+  "total_titles_processed": 1983,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[07时33分 ~ 22时53分]"
+          "appearance_count": 17,
+          "time_info": "[07时33分 ~ 23时55分]"
         },
         {
           "title": "特朗普释放停战对话信号，美股开盘涨跌互现，美元持续下跌，现货黄金日内涨幅达1%，油价跳水",
@@ -66,6 +66,18 @@
           "time_info": "04时42分"
         },
         {
+          "title": "布油重回90美元上方 美股期指延续弱势表现 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2310036",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时13分 ~ 23时55分]"
+        },
+        {
           "title": "航空业ETF、能源业ETF收跌约1.3%，领跌美股行业ETF",
           "url": "https://wallstreetcn.com/livenews/3067560",
           "source": "华尔街见闻-快讯",
@@ -78,15 +90,15 @@
           "time_info": "[04时42分 ~ 05时43分]"
         },
         {
-          "title": "布油重回90美元上方 美股期指延续弱势表现 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2310036",
-          "source": "财联社热门",
+          "title": "通胀降温难敌油市恐慌，美股开盘涨跌互现，甲骨文涨超11%，现货白银日内跌幅扩大至3%，原油涨幅收窄",
+          "url": "https://wallstreetcn.com/articles/3767236",
+          "source": "华尔街见闻",
           "ranks": [
-            9
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时13分 ~ 22时53分]"
+          "appearance_count": 4,
+          "time_info": "[22时52分 ~ 23时55分]"
         },
         {
           "title": "甲骨文美股盘后涨幅扩大至9%。",
@@ -99,17 +111,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时43分 ~ 06时35分]"
-        },
-        {
-          "title": "通胀降温难敌油市恐慌，美股开盘涨跌互现，甲骨文涨超11%，现货白银日内跌幅扩大至3%，原油涨幅收窄",
-          "url": "https://wallstreetcn.com/articles/3767236",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时52分 ~ 22时53分]"
         },
         {
           "title": "美股七巨头收盘播报｜英伟达收涨超1.1%，Meta涨1%",

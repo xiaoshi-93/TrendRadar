@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-11T13:54:33.666513+08:00",
-  "total_titles_processed": 1121,
+  "generated_at": "2026-03-11T15:02:34.602699+08:00",
+  "total_titles_processed": 1229,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时33分 ~ 13时54分]"
+          "appearance_count": 5,
+          "time_info": "[07时33分 ~ 15时02分]"
         },
         {
           "title": "美股收盘：油价暴跌超11% 三大指数涨跌不一 标普500小幅下跌",
@@ -40,8 +40,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时33分 ~ 13时54分]"
+          "appearance_count": 5,
+          "time_info": "[07时33分 ~ 15时02分]"
         },
         {
           "title": "“护航”乌龙消息搅动市场，原油“过山车”行情，美股冲高回落，新兴市场外汇指数大涨",
@@ -278,7 +278,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
         }

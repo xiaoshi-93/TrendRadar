@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-12T07:32:46.580251+08:00",
-  "total_titles_processed": 728,
+  "generated_at": "2026-03-12T12:52:26.414390+08:00",
+  "total_titles_processed": 959,
   "failed_sources": [],
   "trends": [
     {
@@ -38,22 +38,24 @@
           "ranks": [
             10,
             8,
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时59分 ~ 07时32分]"
+          "appearance_count": 11,
+          "time_info": "[00时59分 ~ 12时52分]"
         },
         {
           "title": "美股收盘：美伊冲突扰动市场 三大指数涨跌互现 甲骨文绩后飙升9%",
           "url": "https://www.cls.cn/detail/2310241",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时32分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时32分 ~ 12时52分]"
         },
         {
           "title": "美股七巨头收盘播报｜特斯拉收涨超2.1%，亚马逊跌约0.8%",
@@ -200,7 +202,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
         },
@@ -211,7 +213,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
         }
@@ -268,9 +270,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时32分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时32分 ~ 12时52分]"
         },
         {
           "title": "30年期美债收益率涨7个基点，美国CPI数据带来瞬间的干扰",
@@ -286,6 +288,23 @@
       ]
     },
     {
+      "keyword_group": "供应链",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "据Politico记者：Anthropic就美国国防部的供应链风险指定一事，向哥伦比亚特区巡回上诉法院提交紧急停诉申请。",
+          "url": "https://flash.jin10.com/detail/20260312121752412800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时52分"
+        }
+      ]
+    },
+    {
       "keyword_group": "自动驾驶",
       "match_count": 1,
       "titles": [
@@ -296,7 +315,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
         }

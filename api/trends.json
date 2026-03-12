@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-12T16:53:02.301570+08:00",
-  "total_titles_processed": 1281,
+  "generated_at": "2026-03-12T17:52:23.797270+08:00",
+  "total_titles_processed": 1383,
   "failed_sources": [],
   "trends": [
     {
@@ -136,7 +136,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
         },
@@ -169,7 +169,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
         },
@@ -290,11 +290,12 @@
           "url": "https://wallstreetcn.com/livenews/3068766",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时53分 ~ 17时52分]"
         },
         {
           "title": "据Politico记者：Anthropic就美国国防部的供应链风险指定一事，向哥伦比亚特区巡回上诉法院提交紧急停诉申请。",
@@ -314,7 +315,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
         }
@@ -332,8 +333,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时32分 ~ 16时53分]"
+          "appearance_count": 8,
+          "time_info": "[07时32分 ~ 17时52分]"
         },
         {
           "title": "30年期美债收益率涨7个基点，美国CPI数据带来瞬间的干扰",

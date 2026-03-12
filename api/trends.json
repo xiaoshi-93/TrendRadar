@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-12T13:56:23.562549+08:00",
-  "total_titles_processed": 1035,
+  "generated_at": "2026-03-12T15:04:11.215216+08:00",
+  "total_titles_processed": 1148,
   "failed_sources": [],
   "trends": [
     {
@@ -54,8 +54,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时32分 ~ 13时56分]"
+          "appearance_count": 5,
+          "time_info": "[07时32分 ~ 15时04分]"
         },
         {
           "title": "美股七巨头收盘播报｜特斯拉收涨超2.1%，亚马逊跌约0.8%",
@@ -271,8 +271,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时32分 ~ 13时56分]"
+          "appearance_count": 5,
+          "time_info": "[07时32分 ~ 15时04分]"
         },
         {
           "title": "30年期美债收益率涨7个基点，美国CPI数据带来瞬间的干扰",
@@ -284,6 +284,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时40分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "自动驾驶",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美国自动驾驶初创公司Nuro在日本东京启动测试。",
+          "url": "https://wallstreetcn.com/livenews/3068377",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时32分"
+        },
+        {
+          "title": "吉利李传海将出席英伟达2026 GTC，极氪9X已具备L3级自动驾驶方案落地能力",
+          "url": "https://wallstreetcn.com/livenews/3068644",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时04分"
         }
       ]
     },
@@ -301,23 +329,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时52分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "自动驾驶",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美国自动驾驶初创公司Nuro在日本东京启动测试。",
-          "url": "https://wallstreetcn.com/livenews/3068377",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时32分"
         }
       ]
     }

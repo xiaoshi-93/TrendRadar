@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-14T14:56:27.478825+08:00",
-  "total_titles_processed": 1038,
+  "generated_at": "2026-03-14T15:39:47.894465+08:00",
+  "total_titles_processed": 1074,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时31分 ~ 14时56分]"
+          "appearance_count": 7,
+          "time_info": "[10时31分 ~ 15时39分]"
         },
         {
           "title": "美股收盘：伊朗战争升级加剧通胀担忧 标普500指数连续第三周下跌",
@@ -29,8 +29,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时35分 ~ 14时56分]"
+          "appearance_count": 8,
+          "time_info": "[07时35分 ~ 15时39分]"
         },
         {
           "title": "金十图示：2026年03月13日（周五）热门中概股行情一览（美股盘中）",
@@ -285,11 +285,12 @@
             8,
             15,
             22,
-            25
+            25,
+            30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时31分 ~ 14时56分]"
+          "appearance_count": 5,
+          "time_info": "[10时31分 ~ 15时39分]"
         }
       ]
     },
@@ -306,8 +307,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时40分 ~ 14时56分]"
+          "appearance_count": 15,
+          "time_info": "[01时40分 ~ 15时39分]"
         },
         {
           "title": "周五（3月13日），存储芯片与硬件供应链指数涨3.42%，报107.71点，本周劣迹上涨11.60%，周一显著上涨，随后持续高位震荡。 信息科技指数涨0.44%，本周累涨2.59%。 人工智能（AI）赢家指数跌0.14%，本周累涨3.39%，周一和周二持续上涨，随后高位震荡。 AI软件先驱指数跌1.66%，本周累跌4.78%，周四和周五加速下跌。",
@@ -325,6 +326,23 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "高金价下购买金银饰品怎样避雷",
+          "url": "https://www.toutiao.com/trending/7616975414958755374/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时39分"
+        }
+      ]
+    },
+    {
       "keyword_group": "具身智能",
       "match_count": 1,
       "titles": [
@@ -334,11 +352,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            7
+            7,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时52分 ~ 14时56分]"
+          "appearance_count": 3,
+          "time_info": "[13时52分 ~ 15时39分]"
         }
       ]
     }

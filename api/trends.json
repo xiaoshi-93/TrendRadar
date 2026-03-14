@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-14T15:39:47.894465+08:00",
-  "total_titles_processed": 1074,
+  "generated_at": "2026-03-14T16:43:02.851659+08:00",
+  "total_titles_processed": 1156,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时31分 ~ 15时39分]"
+          "appearance_count": 9,
+          "time_info": "[10时31分 ~ 16时43分]"
         },
         {
           "title": "美股收盘：伊朗战争升级加剧通胀担忧 标普500指数连续第三周下跌",
@@ -26,11 +26,12 @@
           "ranks": [
             7,
             3,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时35分 ~ 15时39分]"
+          "appearance_count": 10,
+          "time_info": "[07时35分 ~ 16时43分]"
         },
         {
           "title": "金十图示：2026年03月13日（周五）热门中概股行情一览（美股盘中）",
@@ -307,8 +308,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时40分 ~ 15时39分]"
+          "appearance_count": 17,
+          "time_info": "[01时40分 ~ 16时43分]"
         },
         {
           "title": "周五（3月13日），存储芯片与硬件供应链指数涨3.42%，报107.71点，本周劣迹上涨11.60%，周一显著上涨，随后持续高位震荡。 信息科技指数涨0.44%，本周累涨2.59%。 人工智能（AI）赢家指数跌0.14%，本周累涨3.39%，周一和周二持续上涨，随后高位震荡。 AI软件先驱指数跌1.66%，本周累跌4.78%，周四和周五加速下跌。",
@@ -336,7 +337,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时39分"
         }
@@ -353,11 +354,12 @@
           "ranks": [
             4,
             7,
-            12
+            12,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时52分 ~ 15时39分]"
+          "appearance_count": 4,
+          "time_info": "[13时52分 ~ 16时43分]"
         }
       ]
     }

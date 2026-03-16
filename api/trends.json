@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-16T13:22:12.155986+08:00",
-  "total_titles_processed": 881,
+  "generated_at": "2026-03-16T15:26:28.958888+08:00",
+  "total_titles_processed": 1001,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,24 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时39分 ~ 13时22分]"
+          "appearance_count": 16,
+          "time_info": "[00时39分 ~ 15时26分]"
+        },
+        {
+          "title": "国际油价高开后转跌，WTI日内跌超1%，韩股一度涨超1%，美股期货走高",
+          "url": "https://wallstreetcn.com/articles/3767567",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时21分 ~ 15时26分]"
         },
         {
           "title": "国际油价涨超3%，美股期货小幅下跌",
@@ -30,17 +43,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时35分 ~ 07时35分]"
-        },
-        {
-          "title": "国际油价高开后转跌，WTI日内跌超1%，韩股一度涨超1%，美股期货走高",
-          "url": "https://wallstreetcn.com/articles/3767567",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时21分 ~ 13时22分]"
         },
         {
           "title": "美股三大股指期货周一基本平开。",
@@ -65,11 +67,12 @@
           "source": "微博",
           "ranks": [
             14,
-            13
+            13,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时51分 ~ 13时22分]"
+          "appearance_count": 5,
+          "time_info": "[10时51分 ~ 15时26分]"
         },
         {
           "title": "金十图示：2026年03月16日（周一）上海金早盘价为1117元/克，较国际金价（1112.58元/克），高4.42元/克",

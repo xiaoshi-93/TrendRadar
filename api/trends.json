@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-18T16:58:18.918773+08:00",
-  "total_titles_processed": 1233,
+  "generated_at": "2026-03-18T18:04:35.864519+08:00",
+  "total_titles_processed": 1340,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "哈塞特安抚市场，美股指高开，科技股普涨，布油站上102美元，现货黄金涨0.2%",
@@ -68,6 +68,17 @@
           "time_info": "[04时55分 ~ 05时43分]"
         },
         {
+          "title": "微博美股盘前下跌3%，公司第四季度调整后每股收益不及预期。",
+          "url": "https://wallstreetcn.com/livenews/3072307",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时04分"
+        },
+        {
           "title": "金十图示：2026年03月17日（周二）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260318003210314800",
           "source": "金十数据",
@@ -101,11 +112,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时41分 ~ 16时58分]"
+          "appearance_count": 6,
+          "time_info": "[10时41分 ~ 18时04分]"
         },
         {
           "title": "OpenAI正筹备上市，有望于年底前实现。（CNBC）",
@@ -163,11 +175,12 @@
           "url": "https://www.toutiao.com/trending/7618482201037901355/",
           "source": "今日头条",
           "ranks": [
-            4
+            4,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时58分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时58分 ~ 18时04分]"
         },
         {
           "title": "金价银价下跌原因找到了",
@@ -251,6 +264,18 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "静待美联储决议，股油同涨，美债走强，美元两连跌，黄金连续两日持稳于5000关口",
+          "url": "https://wallstreetcn.com/articles/3767701",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时38分 ~ 18时04分]"
+        },
+        {
           "title": "霍尔木兹海峡受阻缓解，美股美债齐升，标普纳指涨超1%，美油下挫5%，以太坊大涨10%",
           "url": "https://wallstreetcn.com/articles/3767567",
           "source": "华尔街见闻",
@@ -260,18 +285,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时08分 ~ 06时39分]"
-        },
-        {
-          "title": "静待美联储决议，股油同涨，美债走强，美元两连跌，黄金连续两日持稳于5000关口",
-          "url": "https://wallstreetcn.com/articles/3767701",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时38分 ~ 16时58分]"
         },
         {
           "title": "周二（3月17日）纽约尾盘，美国10年期基准国债收益率跌1.75个基点，报4.2004%，北京时间14:01涨至4.2473%刷新日高，随后逐步走低，00:29刷新日低至4.1868%。 两年期美债收益率持平，报3.6715%，日内交投于3.6925%-3.6526%区间。",
@@ -328,6 +341,34 @@
       ]
     },
     {
+      "keyword_group": "供应链",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "腾讯控股(00700.HK)：腾讯云实现规模化盈利，受益于企业AI需求的上升，领先市场的PaaS及SaaS产品贡献的增长，以及供应链的优化。",
+          "url": "https://flash.jin10.com/detail/20260318163353614800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时58分"
+        },
+        {
+          "title": "富士康与SAP签署战略合作 加速AI驱动型制造与供应链转型",
+          "url": "https://flash.jin10.com/detail/20260318173048985800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时04分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
@@ -338,11 +379,12 @@
           "ranks": [
             3,
             6,
-            8
+            8,
+            11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时41分 ~ 16时58分]"
+          "appearance_count": 6,
+          "time_info": "[10时41分 ~ 18时04分]"
         }
       ]
     },
@@ -376,25 +418,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时02分 ~ 16时58分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "供应链",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "腾讯控股(00700.HK)：腾讯云实现规模化盈利，受益于企业AI需求的上升，领先市场的PaaS及SaaS产品贡献的增长，以及供应链的优化。",
-          "url": "https://flash.jin10.com/detail/20260318163353614800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时58分"
+          "appearance_count": 5,
+          "time_info": "[13时02分 ~ 18时04分]"
         }
       ]
     }

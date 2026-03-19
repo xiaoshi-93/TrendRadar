@@ -1,22 +1,34 @@
 {
-  "generated_at": "2026-03-19T07:35:48.515549+08:00",
-  "total_titles_processed": 626,
+  "generated_at": "2026-03-19T10:43:04.764318+08:00",
+  "total_titles_processed": 807,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "美股收盘：七巨头齐挫三大指数跌超1% 闪迪、美光逆市收新高",
           "url": "https://www.cls.cn/detail/2317455",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时35分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时35分 ~ 10时43分]"
+        },
+        {
+          "title": "美股三大指数全线下挫",
+          "url": "https://www.toutiao.com/trending/7618166160891199529/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时42分 ~ 10时43分]"
         },
         {
           "title": "美股延续跌势，纳斯达克指数下跌1.00%。",
@@ -75,7 +87,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
         },
@@ -86,7 +98,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
         },
@@ -201,8 +213,21 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "金价大跌失守4900美元关口 通胀担忧强化美联储鹰派预期",
+          "url": "https://www.cls.cn/detail/2317196",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[05时04分 ~ 10时43分]"
+        },
         {
           "title": "金价",
           "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=22&Refer=top",
@@ -229,16 +254,26 @@
           "time_info": "[03时15分 ~ 07时35分]"
         },
         {
-          "title": "金价大跌失守4900美元关口 通胀担忧强化美联储鹰派预期",
-          "url": "https://www.cls.cn/detail/2317196",
-          "source": "财联社热门",
+          "title": "金价银价又崩了",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E5%8F%88%E5%B4%A9%E4%BA%86%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
           "ranks": [
-            13,
-            12
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时04分 ~ 07时35分]"
+          "appearance_count": 2,
+          "time_info": "[10时42分 ~ 10时43分]"
+        },
+        {
+          "title": "金价大跌 有银行金条1秒售罄",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C+%E6%9C%89%E9%93%B6%E8%A1%8C%E9%87%91%E6%9D%A11%E7%A7%92%E5%94%AE%E7%BD%84",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时42分 ~ 10时43分]"
         }
       ]
     },
@@ -253,7 +288,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
         },
@@ -271,26 +306,20 @@
       ]
     },
     {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
+      "keyword_group": "美元",
+      "match_count": 2,
       "titles": [
         {
-          "title": "日本AI造假,套壳DeepSeek",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351991&amp;topic_name=%E6%97%A5%E6%9C%ACAI%E9%80%A0%E5%81%87%2C%E5%A5%97%E5%A3%B3DeepSeek",
-          "source": "贴吧",
+          "title": "美元指数DXY跌破100，日内跌0.29%。",
+          "url": "https://flash.jin10.com/detail/20260319102038346800",
+          "source": "金十数据",
           "ranks": [
-            16
+            20
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时08分 ~ 07时35分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时43分"
+        },
         {
           "title": "美元指数DXY在美联储决议日站上100，日内涨0.44%。",
           "url": "https://flash.jin10.com/detail/20260319024745270800",
@@ -305,27 +334,8 @@
       ]
     },
     {
-      "keyword_group": "具身智能",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "王兴兴谈具身智能的GPT时刻",
-          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E5%85%B4%E5%85%B4%E8%B0%88%E5%85%B7%E8%BA%AB%E6%99%BA%E8%83%BD%E7%9A%84GPT%E6%97%B6%E5%88%BB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            14,
-            12,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时08分 ~ 07时35分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "供应链",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "手机厂“扛得肉疼”！存储涨价低端机“多卖多亏”，供应链产能已战略调整|传真",
@@ -338,6 +348,55 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时08分 ~ 07时35分]"
+        },
+        {
+          "title": "外资企业为何“偏爱”上海？他们提到人工智能、供应链、市场……",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32789587",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时42分 ~ 10时43分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "日本AI造假,套壳DeepSeek",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351991&amp;topic_name=%E6%97%A5%E6%9C%ACAI%E9%80%A0%E5%81%87%2C%E5%A5%97%E5%A3%B3DeepSeek",
+          "source": "贴吧",
+          "ranks": [
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时08分 ~ 10时43分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "具身智能",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "王兴兴谈具身智能的GPT时刻",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E5%85%B4%E5%85%B4%E8%B0%88%E5%85%B7%E8%BA%AB%E6%99%BA%E8%83%BD%E7%9A%84GPT%E6%97%B6%E5%88%BB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14,
+            12,
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时08分 ~ 10时43分]"
         }
       ]
     }

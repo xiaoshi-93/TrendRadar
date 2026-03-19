@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-19T10:43:04.764318+08:00",
-  "total_titles_processed": 807,
+  "generated_at": "2026-03-19T12:59:07.300863+08:00",
+  "total_titles_processed": 948,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时35分 ~ 10时43分]"
+          "appearance_count": 5,
+          "time_info": "[07时35分 ~ 12时59分]"
         },
         {
           "title": "美股三大指数全线下挫",
@@ -278,6 +278,47 @@
       ]
     },
     {
+      "keyword_group": "供应链",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "手机厂“扛得肉疼”！存储涨价低端机“多卖多亏”，供应链产能已战略调整|传真",
+          "url": "https://www.cls.cn/detail/2317053",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时08分 ~ 07时35分]"
+        },
+        {
+          "title": "外资企业为何“偏爱”上海？他们提到人工智能、供应链、市场……",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32789587",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时42分 ~ 12时59分]"
+        },
+        {
+          "title": "中东冲突“卡喉”供应链 伦敦铝价近三周走强领跑工业金属",
+          "url": "https://www.cls.cn/detail/2317350",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时58分 ~ 12时59分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 2,
       "titles": [
@@ -316,7 +357,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时43分"
         },
@@ -334,35 +375,6 @@
       ]
     },
     {
-      "keyword_group": "供应链",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "手机厂“扛得肉疼”！存储涨价低端机“多卖多亏”，供应链产能已战略调整|传真",
-          "url": "https://www.cls.cn/detail/2317053",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时08分 ~ 07时35分]"
-        },
-        {
-          "title": "外资企业为何“偏爱”上海？他们提到人工智能、供应链、市场……",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32789587",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时42分 ~ 10时43分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
@@ -372,11 +384,12 @@
           "source": "贴吧",
           "ranks": [
             16,
-            18
+            18,
+            23
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时08分 ~ 10时43分]"
+          "appearance_count": 10,
+          "time_info": "[01时08分 ~ 12时59分]"
         }
       ]
     },
@@ -395,8 +408,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时08分 ~ 10时43分]"
+          "appearance_count": 10,
+          "time_info": "[01时08分 ~ 12时59分]"
         }
       ]
     }

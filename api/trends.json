@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-20T16:51:27.083180+08:00",
-  "total_titles_processed": 1328,
+  "generated_at": "2026-03-20T17:51:23.287638+08:00",
+  "total_titles_processed": 1442,
   "failed_sources": [],
   "trends": [
     {
@@ -128,7 +128,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时51分"
         },
@@ -139,7 +139,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时51分"
         }
@@ -164,6 +164,19 @@
           "time_info": "[00时00分 ~ 07时36分]"
         },
         {
+          "title": "金价暴跌 有金店一天狂卖3斤黄金",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%9A%B4%E8%B7%8C+%E6%9C%89%E9%87%91%E5%BA%97%E4%B8%80%E5%A4%A9%E7%8B%82%E5%8D%963%E6%96%A4%E9%BB%84%E9%87%91",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            13,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时51分 ~ 17时51分]"
+        },
+        {
           "title": "金价",
           "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=12&Refer=top",
           "source": "微博",
@@ -176,19 +189,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时33分 ~ 15时04分]"
-        },
-        {
-          "title": "金价暴跌 有金店一天狂卖3斤黄金",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%9A%B4%E8%B7%8C+%E6%9C%89%E9%87%91%E5%BA%97%E4%B8%80%E5%A4%A9%E7%8B%82%E5%8D%963%E6%96%A4%E9%BB%84%E9%87%91",
-          "source": "百度热搜",
-          "ranks": [
-            17,
-            13,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时51分 ~ 16时51分]"
         },
         {
           "title": "金价持续下跌",
@@ -374,8 +374,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时33分 ~ 16时51分]"
+          "appearance_count": 6,
+          "time_info": "[10时33分 ~ 17时51分]"
         },
         {
           "title": "霍尔木兹海峡现曙光，油价跳水！美股美债企稳，全球央行\"鹰派按兵不动\"，黄金一度暴跌6%",
@@ -521,7 +521,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时51分"
         }

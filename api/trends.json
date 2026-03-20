@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-20T13:56:56.932871+08:00",
-  "total_titles_processed": 1095,
+  "generated_at": "2026-03-20T15:04:51.237827+08:00",
+  "total_titles_processed": 1199,
   "failed_sources": [],
   "trends": [
     {
@@ -28,11 +28,12 @@
           "ranks": [
             12,
             21,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时33分 ~ 13时56分]"
+          "appearance_count": 4,
+          "time_info": "[10时33分 ~ 15时04分]"
         },
         {
           "title": "金价暴跌 有金店一天狂卖3斤黄金",
@@ -40,22 +41,24 @@
           "source": "百度热搜",
           "ranks": [
             17,
-            13
+            13,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时51分 ~ 13时56分]"
+          "appearance_count": 3,
+          "time_info": "[12时51分 ~ 15时04分]"
         },
         {
           "title": "金价持续下跌",
           "url": "https://www.douyin.com/hot/2436866",
           "source": "抖音",
           "ranks": [
-            25
+            25,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时51分 ~ 13时56分]"
+          "appearance_count": 3,
+          "time_info": "[12时51分 ~ 15时04分]"
         },
         {
           "title": "非洲股市收盘播报｜南非股市两天重挫超6.2%，金价同期已跌约8%",
@@ -138,8 +141,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时35分 ~ 13时56分]"
+          "appearance_count": 6,
+          "time_info": "[07时35分 ~ 15时04分]"
         },
         {
           "title": "油价继续飙升 欧美股市承压 黄金白银重挫 | 今夜看点",
@@ -348,8 +351,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时33分 ~ 13时56分]"
+          "appearance_count": 4,
+          "time_info": "[10时33分 ~ 15时04分]"
         },
         {
           "title": "霍尔木兹海峡现曙光，油价跳水！美股美债企稳，全球央行\"鹰派按兵不动\"，黄金一度暴跌6%",
@@ -454,7 +457,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时56分"
         },

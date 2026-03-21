@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-21T14:54:04.896516+08:00",
-  "total_titles_processed": 1020,
+  "generated_at": "2026-03-21T15:37:19.103242+08:00",
+  "total_titles_processed": 1072,
   "failed_sources": [],
   "trends": [
     {
@@ -20,8 +20,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时52分 ~ 14时54分]"
+          "appearance_count": 16,
+          "time_info": "[00时52分 ~ 15时37分]"
         },
         {
           "title": "美股收盘：七巨头齐挫纳指收低2% 三大指数连跌四周",
@@ -29,11 +29,23 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时35分 ~ 14时54分]"
+          "appearance_count": 8,
+          "time_info": "[07时35分 ~ 15时37分]"
+        },
+        {
+          "title": "中东局势叠加美联储加息预期，美股连跌四周，全球债市遭遇“血洗”，黄金创43年最大单周跌幅",
+          "url": "https://wallstreetcn.com/articles/3767994",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时28分 ~ 15时37分]"
         },
         {
           "title": "油价高位震荡 美股或连跌四周 逼近回调区间 | 今夜看点",
@@ -51,15 +63,17 @@
           "time_info": "[00时52分 ~ 10时28分]"
         },
         {
-          "title": "中东局势叠加美联储加息预期，美股连跌四周，全球债市遭遇“血洗”，黄金创43年最大单周跌幅",
-          "url": "https://wallstreetcn.com/articles/3767994",
+          "title": "周五从“升级到降级”，投资者“左右打脸”！特朗普夜间称“正逐步考虑减少对伊军事行动”，油价回落美股期货上涨",
+          "url": "https://wallstreetcn.com/articles/3768043",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            6,
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时28分 ~ 14时54分]"
+          "appearance_count": 6,
+          "time_info": "[12时42分 ~ 15时37分]"
         },
         {
           "title": "金十图示：2026年03月20日（周五）美股热门股票行情一览（美股收盘）",
@@ -71,18 +85,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时39分 ~ 07时35分]"
-        },
-        {
-          "title": "周五从“升级到降级”，投资者“左右打脸”！特朗普夜间称“正逐步考虑减少对伊军事行动”，油价回落美股期货上涨",
-          "url": "https://wallstreetcn.com/articles/3768043",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时42分 ~ 14时54分]"
         },
         {
           "title": "中东局势恶化叠加美联储加息预期，美股连跌四周，全球债市遭遇“血洗”，黄金创43年最大单周跌幅",
@@ -275,11 +277,24 @@
             25,
             12,
             22,
-            28
+            28,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时28分 ~ 15时37分]"
+        },
+        {
+          "title": "金价大跌 情侣火速买五金",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C+%E6%83%85%E4%BE%A3%E7%81%AB%E9%80%9F%E4%B9%B0%E4%BA%94%E9%87%91",
+          "source": "百度热搜",
+          "ranks": [
+            13,
+            12
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[10时28分 ~ 14时54分]"
+          "time_info": "[13时46分 ~ 15时37分]"
         },
         {
           "title": "金价大跌情侣火速买五金",
@@ -305,18 +320,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时42分 ~ 14时54分]"
-        },
-        {
-          "title": "金价大跌 情侣火速买五金",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C+%E6%83%85%E4%BE%A3%E7%81%AB%E9%80%9F%E4%B9%B0%E4%BA%94%E9%87%91",
-          "source": "百度热搜",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时46分 ~ 14时54分]"
         },
         {
           "title": "金价两天跌百元 新人纷纷抄底五金",
@@ -394,8 +397,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时46分 ~ 14时54分]"
+          "appearance_count": 5,
+          "time_info": "[13时46分 ~ 15时37分]"
         },
         {
           "title": "两年期美债收益率本周涨超18个基点",
@@ -557,8 +560,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时28分 ~ 14时54分]"
+          "appearance_count": 7,
+          "time_info": "[10时28分 ~ 15时37分]"
         }
       ]
     }

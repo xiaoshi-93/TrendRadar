@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-21T10:28:32.499784+08:00",
-  "total_titles_processed": 773,
+  "generated_at": "2026-03-21T12:42:21.751551+08:00",
+  "total_titles_processed": 894,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "美股期货跌幅扩大，报道：特朗普考虑占领或封锁伊朗哈尔克岛",
@@ -16,11 +16,12 @@
             8,
             5,
             4,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时52分 ~ 10时28分]"
+          "appearance_count": 11,
+          "time_info": "[00时52分 ~ 12时42分]"
         },
         {
           "title": "油价高位震荡 美股或连跌四周 逼近回调区间 | 今夜看点",
@@ -57,8 +58,19 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时35分 ~ 12时42分]"
+        },
+        {
+          "title": "中东局势叠加美联储加息预期，美股连跌四周，全球债市遭遇“血洗”，黄金创43年最大单周跌幅",
+          "url": "https://wallstreetcn.com/articles/3767994",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时35分 ~ 10时28分]"
+          "time_info": "[10时28分 ~ 12时42分]"
         },
         {
           "title": "中东局势恶化叠加美联储加息预期，美股连跌四周，全球债市遭遇“血洗”，黄金创43年最大单周跌幅",
@@ -70,17 +82,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
-        },
-        {
-          "title": "中东局势叠加美联储加息预期，美股连跌四周，全球债市遭遇“血洗”，黄金创43年最大单周跌幅",
-          "url": "https://wallstreetcn.com/articles/3767994",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时28分"
         },
         {
           "title": "金十图示：2026年03月20日（周五）热门中概股行情一览（美股收盘）",
@@ -178,13 +179,24 @@
           "time_info": "[05时36分 ~ 06时35分]"
         },
         {
+          "title": "周五从“升级到降级”，投资者“左右打脸”！特朗普夜间称“正逐步考虑减少对伊军事行动”，油价回落美股期货上涨",
+          "url": "https://wallstreetcn.com/articles/3768043",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时42分"
+        },
+        {
           "title": "特朗普称考虑逐步减少对伊朗的军事行动，美股ETF盘后转涨",
           "url": "https://wallstreetcn.com/articles/3768039",
           "source": "华尔街见闻",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时28分"
         },
@@ -231,6 +243,84 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时52分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "实探金价暴跌后的北京菜百商场",
+          "url": "https://www.toutiao.com/trending/7619189728911556644/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            30,
+            10,
+            4,
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时39分 ~ 07时35分]"
+        },
+        {
+          "title": "金价跌破4500美元 有人抄底后傻眼",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E8%B7%8C%E7%A0%B44500%E7%BE%8E%E5%85%83+%E6%9C%89%E4%BA%BA%E6%8A%84%E5%BA%95%E5%90%8E%E5%82%BB%E7%9C%BC",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时28分 ~ 12时42分]"
+        },
+        {
+          "title": "金价两天跌百元 新人纷纷抄底五金",
+          "url": "https://www.toutiao.com/trending/7618868448677380122/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时36分"
+        },
+        {
+          "title": "“你好通胀，再见降息”，值金价10%的跌幅？｜大师复盘",
+          "url": "https://flash.jin10.com/detail/20260321113654707800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时42分"
+        },
+        {
+          "title": "金价大跌情侣火速买五金",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C%E6%83%85%E4%BE%A3%E7%81%AB%E9%80%9F%E4%B9%B0%E4%BA%94%E9%87%91%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时42分"
+        },
+        {
+          "title": "强美元与增兵传闻双重夹击 现货金价失守4500大关",
+          "url": "https://flash.jin10.com/detail/20260321030422394800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时41分"
         }
       ]
     },
@@ -296,61 +386,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时39分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "实探金价暴跌后的北京菜百商场",
-          "url": "https://www.toutiao.com/trending/7619189728911556644/",
-          "source": "今日头条",
-          "ranks": [
-            28,
-            30,
-            10,
-            4,
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时39分 ~ 07时35分]"
-        },
-        {
-          "title": "金价两天跌百元 新人纷纷抄底五金",
-          "url": "https://www.toutiao.com/trending/7618868448677380122/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时36分"
-        },
-        {
-          "title": "金价跌破4500美元 有人抄底后傻眼",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E8%B7%8C%E7%A0%B44500%E7%BE%8E%E5%85%83+%E6%9C%89%E4%BA%BA%E6%8A%84%E5%BA%95%E5%90%8E%E5%82%BB%E7%9C%BC",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时28分"
-        },
-        {
-          "title": "强美元与增兵传闻双重夹击 现货金价失守4500大关",
-          "url": "https://flash.jin10.com/detail/20260321030422394800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时41分"
         }
       ]
     },
@@ -424,11 +459,12 @@
             19,
             16,
             8,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时52分 ~ 10时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时52分 ~ 12时42分]"
         },
         {
           "title": "OpenAI：我们为美国和加拿大的大学生提供100美元的Codex额度。",
@@ -473,8 +509,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时52分 ~ 10时28分]"
+          "appearance_count": 11,
+          "time_info": "[00时52分 ~ 12时42分]"
         }
       ]
     },
@@ -487,11 +523,12 @@
           "url": "https://news.ifeng.com/c/8relIClAQfm",
           "source": "凤凰网",
           "ranks": [
-            11
+            11,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时28分 ~ 12时42分]"
         }
       ]
     }

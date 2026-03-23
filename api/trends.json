@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-03-23T17:05:02.668958+08:00",
-  "total_titles_processed": 1161,
+  "generated_at": "2026-03-23T18:58:03.219068+08:00",
+  "total_titles_processed": 1311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "金价",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
+        {
+          "title": "国内金价跌破1000元",
+          "url": "https://www.toutiao.com/trending/7620270700237950500/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时08分 ~ 18时58分]"
+        },
         {
           "title": "金价高位回落跌破关口，专家分析：短期震荡难掩中长期上行逻辑",
           "url": "https://wallstreetcn.com/livenews/3074618",
@@ -22,15 +33,16 @@
           "time_info": "[03时31分 ~ 06时32分]"
         },
         {
-          "title": "国内金价跌破1000元",
-          "url": "https://www.toutiao.com/trending/7620270700237950500/",
-          "source": "今日头条",
+          "title": "金价九连跌 妈妈花10万给女儿买金饰",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E4%B9%9D%E8%BF%9E%E8%B7%8C+%E5%A6%88%E5%A6%88%E8%8A%B110%E4%B8%87%E7%BB%99%E5%A5%B3%E5%84%BF%E4%B9%B0%E9%87%91%E9%A5%B0",
+          "source": "百度热搜",
           "ranks": [
-            21
+            19,
+            22
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[13时08分 ~ 17时05分]"
+          "time_info": "[17时04分 ~ 18时58分]"
         },
         {
           "title": "金价下跌 30克金手镯能省约1万元",
@@ -57,15 +69,15 @@
           "time_info": "[15时19分 ~ 17时05分]"
         },
         {
-          "title": "金价九连跌 妈妈花10万给女儿买金饰",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E4%B9%9D%E8%BF%9E%E8%B7%8C+%E5%A6%88%E5%A6%88%E8%8A%B110%E4%B8%87%E7%BB%99%E5%A5%B3%E5%84%BF%E4%B9%B0%E9%87%91%E9%A5%B0",
-          "source": "百度热搜",
+          "title": "金价创下1983年3月以来最大单周跌幅",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%88%9B%E4%B8%8B1983%E5%B9%B43%E6%9C%88%E4%BB%A5%E6%9D%A5%E6%9C%80%E5%A4%A7%E5%8D%95%E5%91%A8%E8%B7%8C%E5%B9%85%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
           "ranks": [
-            19
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时04分 ~ 17时05分]"
+          "time_info": "[18时57分 ~ 18时58分]"
         },
         {
           "title": "金十图示：2026年03月23日（周一）上海金早盘价为982.63元/克，较国际金价(980.17元/克)，高2.46元/克",
@@ -239,6 +251,45 @@
       ]
     },
     {
+      "keyword_group": "供应链",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "国际能源署：中东超过40个能源资产遭重创 供应链中断时间恐延长",
+          "url": "https://www.cls.cn/detail/2321299",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时57分 ~ 18时58分]"
+        },
+        {
+          "title": "欧洲央行管委Kazimir：未来每一次会议都开放且具有决策可能性。 通胀存在明显上行风险，经济增长则面临下行风险。 能源之外的供应链也处于风险之中。 欧洲央行尚未离开当前的“良好状态”。 若出现长期通胀风险，将采取强有力的应对措施。",
+          "url": "https://wallstreetcn.com/livenews/3075071",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时58分"
+        },
+        {
+          "title": "库克称中国是苹果全球供应链最主要基地",
+          "url": "https://wallstreetcn.com/livenews/3074801",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时08分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
@@ -253,8 +304,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时43分 ~ 17时05分]"
+          "appearance_count": 7,
+          "time_info": "[10时43分 ~ 18时58分]"
         }
       ]
     },
@@ -269,9 +320,26 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时05分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美元指数升破100，日内上涨0.5%。",
+          "url": "https://wallstreetcn.com/livenews/3075075",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时58分"
         }
       ]
     },
@@ -289,23 +357,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时34分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "供应链",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "库克称中国是苹果全球供应链最主要基地",
-          "url": "https://wallstreetcn.com/livenews/3074801",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时08分"
         }
       ]
     },

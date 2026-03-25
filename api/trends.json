@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-03-25T12:59:52.925877+08:00",
-  "total_titles_processed": 1020,
+  "generated_at": "2026-03-25T14:09:08.192441+08:00",
+  "total_titles_processed": 1118,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
       "match_count": 24,
       "titles": [
+        {
+          "title": "OpenAI 将停止 Sora 视频生成服务，以精简产品线，这透露出哪些行业信号？",
+          "url": "https://www.zhihu.com/question/2020036375211157322",
+          "source": "知乎",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时59分 ~ 14时09分]"
+        },
         {
           "title": "消息人士称，OpenAI将终止与迪士尼的合作。",
           "url": "https://flash.jin10.com/detail/20260325043011532800",
@@ -19,15 +31,29 @@
           "time_info": "04时50分"
         },
         {
-          "title": "OpenAI 将停止 Sora 视频生成服务，以精简产品线，这透露出哪些行业信号？",
-          "url": "https://www.zhihu.com/question/2020036375211157322",
-          "source": "知乎",
+          "title": "OpenAI宣布关停Sora",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%AE%A3%E5%B8%83%E5%85%B3%E5%81%9CSora",
+          "source": "bilibili 热搜",
           "ranks": [
-            5
+            7,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时59分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时40分 ~ 14时09分]"
+        },
+        {
+          "title": "什么情况？OpenAI 重大逆转：旗下Sora AI视频应用将终止服务",
+          "url": "https://www.cls.cn/detail/2323711",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时40分 ~ 14时09分]"
         },
         {
           "title": "OpenAI旗下文生视频Sora确认，该部门将不会再得到公司的支持。（彭博）",
@@ -52,30 +78,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时50分 ~ 05时43分]"
-        },
-        {
-          "title": "OpenAI宣布关停Sora",
-          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%AE%A3%E5%B8%83%E5%85%B3%E5%81%9CSora",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时40分 ~ 12时59分]"
-        },
-        {
-          "title": "什么情况？OpenAI 重大逆转：旗下Sora AI视频应用将终止服务",
-          "url": "https://www.cls.cn/detail/2323711",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时40分 ~ 12时59分]"
         },
         {
           "title": "据The Information：OpenAI创始人奥尔特曼调整职责分工，并筹备推出SPUD新型人工智能模型。",
@@ -117,7 +119,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时59分"
         },
@@ -293,6 +295,29 @@
           "time_info": "[01时05分 ~ 06时38分]"
         },
         {
+          "title": "地缘信号反复切换，美股收跌、但盘后大涨，原油盘后抹平日内涨幅，美软件ETF日内跌超4%",
+          "url": "https://wallstreetcn.com/articles/3768212",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时37分 ~ 14时09分]"
+        },
+        {
+          "title": "美股收盘：中东增兵与谈判信号交错 三大指数再度回落",
+          "url": "https://www.cls.cn/detail/2323617",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时37分 ~ 14时09分]"
+        },
+        {
           "title": "国际油价涨势再起 美股期指小幅下跌 | 今夜看点",
           "url": "https://www.cls.cn/detail/2323371",
           "source": "财联社热门",
@@ -314,34 +339,12 @@
             13,
             15,
             14,
-            24
+            24,
+            17
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时05分 ~ 12时59分]"
-        },
-        {
-          "title": "地缘信号反复切换，美股收跌、但盘后大涨，原油盘后抹平日内涨幅，美软件ETF日内跌超4%",
-          "url": "https://wallstreetcn.com/articles/3768212",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时37分 ~ 12时59分]"
-        },
-        {
-          "title": "美股收盘：中东增兵与谈判信号交错 三大指数再度回落",
-          "url": "https://www.cls.cn/detail/2323617",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时37分 ~ 12时59分]"
+          "appearance_count": 14,
+          "time_info": "[01时05分 ~ 14时09分]"
         },
         {
           "title": "非美货币多数在美股盘后走高",
@@ -462,6 +465,18 @@
           "time_info": "[04时49分 ~ 06时38分]"
         },
         {
+          "title": "美伊传闻影响金价，中金称勿高估「全球央行购金」动力，黄金走势未来依然复杂，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2019711251106804428",
+          "source": "知乎",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时59分 ~ 14时09分]"
+        },
+        {
           "title": "金价大跌金饰店不再人山人海",
           "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C%E9%87%91%E9%A5%B0%E5%BA%97%E4%B8%8D%E5%86%8D%E4%BA%BA%E5%B1%B1%E4%BA%BA%E6%B5%B7%23&t=31&band_rank=17&Refer=top",
           "source": "微博",
@@ -504,17 +519,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时40分"
-        },
-        {
-          "title": "美伊传闻影响金价，中金称勿高估「全球央行购金」动力，黄金走势未来依然复杂，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/2019711251106804428",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时59分"
         }
       ]
     },
@@ -574,7 +578,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时59分"
         }

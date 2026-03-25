@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-25T17:02:16.083207+08:00",
-  "total_titles_processed": 1366,
+  "generated_at": "2026-03-25T18:04:06.807423+08:00",
+  "total_titles_processed": 1493,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时59分 ~ 17时02分]"
+          "appearance_count": 9,
+          "time_info": "[12时59分 ~ 18时04分]"
         },
         {
           "title": "什么情况？OpenAI 重大逆转：旗下Sora AI视频应用将终止服务",
@@ -31,8 +31,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时40分 ~ 17时02分]"
+          "appearance_count": 10,
+          "time_info": "[10时40分 ~ 18时04分]"
         },
         {
           "title": "OpenAI宣布关停Sora",
@@ -42,11 +42,12 @@
             7,
             19,
             20,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时40分 ~ 17时02分]"
+          "appearance_count": 10,
+          "time_info": "[10时40分 ~ 18时04分]"
         },
         {
           "title": "消息人士称，OpenAI将终止与迪士尼的合作。",
@@ -296,8 +297,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时37分 ~ 17时02分]"
+          "appearance_count": 12,
+          "time_info": "[07时37分 ~ 18时04分]"
         },
         {
           "title": "伊朗战火与信贷危机双重夹击，美股盘初走低，科技股下跌，现货黄金跌幅收窄，布油涨约2%",
@@ -350,8 +351,20 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[01时05分 ~ 17时02分]"
+          "appearance_count": 20,
+          "time_info": "[01时05分 ~ 18时04分]"
+        },
+        {
+          "title": "特朗普暗示美伊谈判推进，美股三大期指均涨超1%，现货黄金收复4500关口，布油大跌5%",
+          "url": "https://wallstreetcn.com/articles/3768319",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时01分 ~ 18时04分]"
         },
         {
           "title": "非美货币多数在美股盘后走高",
@@ -364,17 +377,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时43分 ~ 06时38分]"
-        },
-        {
-          "title": "特朗普暗示美伊谈判推进，美股三大期指均涨超1%，现货黄金收复4500关口，布油大跌5%",
-          "url": "https://wallstreetcn.com/articles/3768319",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时01分 ~ 17时02分]"
         },
         {
           "title": "Arm控股预计，新芯片部门未来五年的年度销售额将达到150亿美元。 Arm控股ADR美股盘后涨3.7%。",
@@ -406,7 +408,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时02分"
         },
@@ -472,7 +474,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时02分"
         },

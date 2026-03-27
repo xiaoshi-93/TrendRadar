@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-27T19:46:11.947005+08:00",
-  "total_titles_processed": 1552,
+  "generated_at": "2026-03-27T21:18:38.302176+08:00",
+  "total_titles_processed": 1678,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "谈判僵局推动油价重新走强，再通胀预期重挫全球债市，芯片股拖累美股，美元冲高回落",
@@ -17,8 +17,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时49分 ~ 19时46分]"
+          "appearance_count": 10,
+          "time_info": "[10时49分 ~ 21时18分]"
         },
         {
           "title": "收盘后11分钟发帖！美股遭遇伊朗战争以来“最惨一天”，特朗普“立刻”延长10天“谈判时间”",
@@ -32,8 +32,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时49分 ~ 19时46分]"
+          "appearance_count": 10,
+          "time_info": "[10时49分 ~ 21时18分]"
         },
         {
           "title": "美股收盘：标普、纳指创开战后最大单日跌幅 特朗普盘后发声",
@@ -70,6 +70,17 @@
           "time_info": "[10时49分 ~ 15时24分]"
         },
         {
+          "title": "美伊局势走向不明，美股期指跌幅扩大，美日债市承压，布油涨超2%，现货金银涨幅收窄",
+          "url": "https://wallstreetcn.com/articles/3768537",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时45分 ~ 21时18分]"
+        },
+        {
           "title": "美股标普纳指创开战后最大单日跌幅",
           "url": "https://www.toutiao.com/trending/7621704767055597083/",
           "source": "今日头条",
@@ -79,17 +90,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时49分 ~ 10时50分]"
-        },
-        {
-          "title": "美伊局势走向不明，美股期指跌幅扩大，美日债市承压，布油涨超2%，现货金银涨幅收窄",
-          "url": "https://wallstreetcn.com/articles/3768537",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时45分 ~ 19时46分]"
         },
         {
           "title": "油价重上100美元冲击市场 美股期指走低 金银下跌 | 今夜看点",
@@ -222,7 +222,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时46分"
         },
@@ -236,6 +236,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时09分"
+        },
+        {
+          "title": "市场谨慎情绪升温 美股期指延续跌势 原油黄金上涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2327400",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时18分"
+        },
+        {
+          "title": "周五美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3078265",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时18分"
         },
         {
           "title": "美股三大股指期货持续走低，纳指日内跌幅扩大至0.26%，标普500指数期货跌0.23%，道指期货跌0.24%； 国际原油走高，布伦特原油突破104美元/桶，日内涨超2%。 欧洲斯托克600指数跌幅扩大至1.1%，触及盘中新低。",
@@ -272,11 +294,27 @@
           "ranks": [
             2,
             3,
-            17
+            17,
+            12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时49分 ~ 19时46分]"
+          "appearance_count": 9,
+          "time_info": "[10时49分 ~ 21时18分]"
+        },
+        {
+          "title": "UP主实测谷歌压缩算法",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%AE%9E%E6%B5%8B%E8%B0%B7%E6%AD%8C%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            5,
+            8,
+            20,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时12分 ~ 21时18分]"
         },
         {
           "title": "谷歌发布KV缓存压缩技术，存储需求预期遭冲击，美股存储板块集体下挫",
@@ -290,20 +328,6 @@
           "time_info": "[01时09分 ~ 04时41分]"
         },
         {
-          "title": "UP主实测谷歌压缩算法",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%AE%9E%E6%B5%8B%E8%B0%B7%E6%AD%8C%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9,
-            5,
-            8,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时12分 ~ 19时46分]"
-        },
-        {
           "title": "谷歌TurboQuant论文解读",
           "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CTurboQuant%E8%AE%BA%E6%96%87%E8%A7%A3%E8%AF%BB",
           "source": "bilibili 热搜",
@@ -311,11 +335,12 @@
             13,
             9,
             10,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时24分 ~ 19时46分]"
+          "appearance_count": 6,
+          "time_info": "[15时24分 ~ 21时18分]"
         },
         {
           "title": "3月27日投资避雷针：谷歌推出压缩算法TurboQuant 美股存储板块遭重挫",
@@ -389,8 +414,23 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "金价为何反常下跌",
+          "url": "https://search.bilibili.com/all?keyword=%E9%87%91%E4%BB%B7%E4%B8%BA%E4%BD%95%E5%8F%8D%E5%B8%B8%E4%B8%8B%E8%B7%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10,
+            12,
+            7,
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时12分 ~ 21时18分]"
+        },
         {
           "title": "金价银价急跌",
           "url": "https://www.douyin.com/hot/2445095",
@@ -403,27 +443,13 @@
           "time_info": "[10时49分 ~ 10时50分]"
         },
         {
-          "title": "金价为何反常下跌",
-          "url": "https://search.bilibili.com/all?keyword=%E9%87%91%E4%BB%B7%E4%B8%BA%E4%BD%95%E5%8F%8D%E5%B8%B8%E4%B8%8B%E8%B7%8C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10,
-            12,
-            7,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时12分 ~ 19时46分]"
-        },
-        {
           "title": "德商银行：铂金价格预计到年中将达到每金衡盎司2,100美元，到年底将达到2,300美元。",
           "url": "https://flash.jin10.com/detail/20260327193219234800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时46分"
         },
@@ -434,7 +460,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时46分"
         },
@@ -448,6 +474,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
+        },
+        {
+          "title": "DeepTalk：金价重回4400，是牛市终结还是“黄金坑”？",
+          "url": "https://flash.jin10.com/detail/20260327204702206800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时18分"
         },
         {
           "title": "特朗普再度宣布推迟打击伊朗能源设施，油价短线大跌，金价大涨。",

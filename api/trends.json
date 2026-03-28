@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-28T19:34:08.154507+08:00",
-  "total_titles_processed": 1301,
+  "generated_at": "2026-03-28T21:06:31.874040+08:00",
+  "total_titles_processed": 1385,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/articles/3768537",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时38分 ~ 19时34分]"
+          "appearance_count": 14,
+          "time_info": "[07时38分 ~ 21时06分]"
         },
         {
           "title": "美股收盘：伊朗关键工业设施遭袭 纳指连续第二天跌超2%",
@@ -29,8 +30,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[06时38分 ~ 19时34分]"
+          "appearance_count": 16,
+          "time_info": "[06时38分 ~ 21时06分]"
         },
         {
           "title": "收盘后11分钟发帖！美股遭遇伊朗战争以来“最惨一天”，特朗普“立刻”延长10天“谈判时间”",
@@ -64,11 +65,12 @@
             9,
             8,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时03分 ~ 19时34分]"
+          "appearance_count": 10,
+          "time_info": "[14时03分 ~ 21时06分]"
         },
         {
           "title": "市场谨慎情绪升温 美股期指延续跌势 原油黄金上涨 | 今夜看点",
@@ -182,6 +184,18 @@
           "time_info": "[04时45分 ~ 05时41分]"
         },
         {
+          "title": "关键趋势线相继告破，美股“七姐妹”的技术性崩坏正在提速",
+          "url": "https://wallstreetcn.com/articles/3768602",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时39分 ~ 21时06分]"
+        },
+        {
           "title": "美股收盘：三大股指低开低走 明星科技股多数下跌",
           "url": "https://flash.jin10.com/detail/20260328040624554800",
           "source": "金十数据",
@@ -192,17 +206,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时45分 ~ 05时41分]"
-        },
-        {
-          "title": "关键趋势线相继告破，美股“七姐妹”的技术性崩坏正在提速",
-          "url": "https://wallstreetcn.com/articles/3768602",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时39分"
         },
         {
           "title": "美股延续跌势，纳斯达克综合指数跌幅扩大至2%，标普500指数现跌1.4%，道指跌1.44%。",
@@ -262,8 +265,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[01时03分 ~ 19时34分]"
+          "appearance_count": 21,
+          "time_info": "[01时03分 ~ 21时06分]"
         },
         {
           "title": "UP主实测谷歌压缩算法",
@@ -277,11 +280,12 @@
             22,
             13,
             16,
-            19
+            19,
+            23
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[01时03分 ~ 19时34分]"
+          "appearance_count": 21,
+          "time_info": "[01时03分 ~ 21时06分]"
         },
         {
           "title": "内存股大跌与谷歌论文有关吗",
@@ -296,11 +300,12 @@
             20,
             18,
             23,
-            21
+            21,
+            26
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[01时03分 ~ 19时34分]"
+          "appearance_count": 21,
+          "time_info": "[01时03分 ~ 21时06分]"
         },
         {
           "title": "谷歌推出压缩算法 TurboQuant，宣称实现约 6 倍内存节省，会成为大模型端侧落地的突破口吗？",
@@ -312,8 +317,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时43分 ~ 19时34分]"
+          "appearance_count": 5,
+          "time_info": "[17时43分 ~ 21时06分]"
         },
         {
           "title": "据英国金融时报：谷歌接近达成协议，为租予Anthropic的数十亿美元数据中心提供资金支持。",
@@ -365,28 +370,30 @@
           "source": "微博",
           "ranks": [
             10,
-            5
+            5,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时38分 ~ 19时34分]"
+          "appearance_count": 4,
+          "time_info": "[18时38分 ~ 21时06分]"
         },
         {
           "title": "金价大跌后迎抄底资金，分析师：结构性利好仍存",
           "url": "https://flash.jin10.com/detail/20260328184122077800",
           "source": "金十数据",
           "ranks": [
-            7
+            7,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时34分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时34分 ~ 21时06分]"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "周五的变化：原油继续大涨、美股再度大跌，但美债“不跟了”，市场开始“定价衰退”了吗？",
@@ -398,11 +405,12 @@
             5,
             4,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时58分 ~ 19时34分]"
+          "appearance_count": 11,
+          "time_info": "[12时58分 ~ 21时06分]"
         },
         {
           "title": "两年期美债收益率创逾一年新高，随后转而跌约7.4个基点",
@@ -416,6 +424,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时39分 ~ 10时39分]"
+        },
+        {
+          "title": "新债王：进入“保全资本”模式，风险仓位已砍到“历史最低”，“美联储加息、美国衰退、美债软违约”都有可能",
+          "url": "https://wallstreetcn.com/articles/3768639",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时06分"
         }
       ]
     },
@@ -467,8 +486,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时39分 ~ 19时34分]"
+          "appearance_count": 12,
+          "time_info": "[10时39分 ~ 21时06分]"
         }
       ]
     }

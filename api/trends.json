@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-28T17:43:21.296675+08:00",
-  "total_titles_processed": 1186,
+  "generated_at": "2026-03-28T18:38:30.704894+08:00",
+  "total_titles_processed": 1243,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时38分 ~ 17时43分]"
+          "appearance_count": 11,
+          "time_info": "[07时38分 ~ 18时38分]"
         },
         {
           "title": "美股收盘：伊朗关键工业设施遭袭 纳指连续第二天跌超2%",
@@ -25,11 +25,12 @@
           "ranks": [
             4,
             1,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[06时38分 ~ 17时43分]"
+          "appearance_count": 13,
+          "time_info": "[06时38分 ~ 18时38分]"
         },
         {
           "title": "收盘后11分钟发帖！美股遭遇伊朗战争以来“最惨一天”，特朗普“立刻”延长10天“谈判时间”",
@@ -82,6 +83,19 @@
           "time_info": "[03时03分 ~ 10时39分]"
         },
         {
+          "title": "特朗普“口头缓和”失效，原油“现货冲击”逼近，美股真的慌了！",
+          "url": "https://wallstreetcn.com/articles/3768633",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时03分 ~ 18时38分]"
+        },
+        {
           "title": "“口头干预”失效，美油重返百元关口，美股道指、纳指跌入修正区间，VIX突破30",
           "url": "https://wallstreetcn.com/articles/3768537",
           "source": "华尔街见闻",
@@ -93,19 +107,6 @@
           "time_info": "[06时38分 ~ 06时39分]"
         },
         {
-          "title": "特朗普“口头缓和”失效，原油“现货冲击”逼近，美股真的慌了！",
-          "url": "https://wallstreetcn.com/articles/3768633",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时03分 ~ 17时43分]"
-        },
-        {
           "title": "美股“七姐妹”技术性崩坏正在提速",
           "url": "https://www.toutiao.com/trending/7621931362551971883/",
           "source": "今日头条",
@@ -115,6 +116,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时39分"
+        },
+        {
+          "title": "美银Hartnett：美股还没“跌透”，特朗普或将被迫推出\"政策急救包\"",
+          "url": "https://wallstreetcn.com/articles/3768593",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时47分 ~ 18时38分]"
         },
         {
           "title": "美股大类资产类ETF涨跌各异，纳指100 ETF收跌超1.9%，布油基金涨超4.2%",
@@ -141,17 +153,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时45分 ~ 06时39分]"
-        },
-        {
-          "title": "美银Hartnett：美股还没“跌透”，特朗普或将被迫推出\"政策急救包\"",
-          "url": "https://wallstreetcn.com/articles/3768593",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时47分 ~ 17时43分]"
         },
         {
           "title": "金十图示：2026年03月27日（周五）热门中概股行情一览（美股收盘）",
@@ -254,11 +255,12 @@
             14,
             12,
             16,
-            17
+            17,
+            13
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[01时03分 ~ 17时43分]"
+          "appearance_count": 18,
+          "time_info": "[01时03分 ~ 18时38分]"
         },
         {
           "title": "UP主实测谷歌压缩算法",
@@ -275,8 +277,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[01时03分 ~ 17时43分]"
+          "appearance_count": 18,
+          "time_info": "[01时03分 ~ 18时38分]"
         },
         {
           "title": "内存股大跌与谷歌论文有关吗",
@@ -289,22 +291,24 @@
             16,
             19,
             20,
-            18
+            18,
+            23
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[01时03分 ~ 17时43分]"
+          "appearance_count": 18,
+          "time_info": "[01时03分 ~ 18时38分]"
         },
         {
           "title": "谷歌推出压缩算法 TurboQuant，宣称实现约 6 倍内存节省，会成为大模型端侧落地的突破口吗？",
           "url": "https://www.zhihu.com/question/2020455049218712383",
           "source": "知乎",
           "ranks": [
-            19
+            19,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时43分 ~ 18时38分]"
         },
         {
           "title": "据英国金融时报：谷歌接近达成协议，为租予Anthropic的数十亿美元数据中心提供资金支持。",
@@ -321,7 +325,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "金价为何反常下跌",
@@ -349,6 +353,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时03分 ~ 07时39分]"
+        },
+        {
+          "title": "金价急速飙涨",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%80%A5%E9%80%9F%E9%A3%99%E6%B6%A8%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
         }
       ]
     },
@@ -368,8 +383,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时58分 ~ 17时43分]"
+          "appearance_count": 8,
+          "time_info": "[12时58分 ~ 18时38分]"
         },
         {
           "title": "两年期美债收益率创逾一年新高，随后转而跌约7.4个基点",
@@ -417,8 +432,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时39分 ~ 17时43分]"
+          "appearance_count": 9,
+          "time_info": "[10时39分 ~ 18时38分]"
         }
       ]
     }

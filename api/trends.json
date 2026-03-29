@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-29T10:54:06.175246+08:00",
-  "total_titles_processed": 670,
+  "generated_at": "2026-03-29T13:17:03.075178+08:00",
+  "total_titles_processed": 801,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "谷歌TurboQuant论文解读",
@@ -59,17 +59,29 @@
           "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CAI%E5%86%85%E5%AD%98%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95%E9%81%AD%E8%B4%A8%E7%96%91",
           "source": "bilibili 热搜",
           "ranks": [
-            1
+            1,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时53分 ~ 13时17分]"
+        },
+        {
+          "title": "谷歌称可节省内存的刷屏论文 TurboQuant 被 RaBitQ 作者指出存在严重错误",
+          "url": "https://zhuanlan.zhihu.com/p/2020969476166808284",
+          "source": "知乎",
+          "ranks": [
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时53分 ~ 10时54分]"
+          "time_info": "[13时16分 ~ 13时17分]"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "通胀预期与实际收益率共振，金价剑指6600美元？",
@@ -78,7 +90,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时54分"
         },
@@ -106,6 +118,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时50分 ~ 03时35分]"
+        },
+        {
+          "title": "为何说土耳其抛黄金恰是黄金价值的反向确认？",
+          "url": "https://flash.jin10.com/detail/20260329120007037800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时17分"
         }
       ]
     },
@@ -132,11 +155,12 @@
           "source": "财联社热门",
           "ranks": [
             3,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时40分 ~ 10时54分]"
+          "appearance_count": 14,
+          "time_info": "[00时40分 ~ 13时17分]"
         },
         {
           "title": "局势升级担忧助推原油大涨，美股重挫、纳指再跌2%，VIX突破30，黄金涨近3%",
@@ -177,8 +201,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[03时34分 ~ 10时54分]"
+          "appearance_count": 10,
+          "time_info": "[03时34分 ~ 13时17分]"
         }
       ]
     },
@@ -196,8 +220,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时40分 ~ 10时54分]"
+          "appearance_count": 14,
+          "time_info": "[00时40分 ~ 13时17分]"
         }
       ]
     },

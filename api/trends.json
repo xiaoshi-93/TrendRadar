@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-29T21:07:30.703539+08:00",
-  "total_titles_processed": 1249,
+  "generated_at": "2026-03-29T22:39:00.800725+08:00",
+  "total_titles_processed": 1325,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://zhuanlan.zhihu.com/p/2020969476166808284",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时12分 ~ 21时07分]"
+          "appearance_count": 9,
+          "time_info": "[15时12分 ~ 22时39分]"
         },
         {
           "title": "谷歌AI内存压缩算法遭质疑",
@@ -31,8 +32,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时53分 ~ 21时07分]"
+          "appearance_count": 13,
+          "time_info": "[10时53分 ~ 22时39分]"
         },
         {
           "title": "谷歌TurboQuant论文解读",
@@ -89,8 +90,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时34分 ~ 21时07分]"
+          "appearance_count": 4,
+          "time_info": "[19时34分 ~ 22时39分]"
         },
         {
           "title": "谷歌称可节省内存的刷屏论文 TurboQuant 被 RaBitQ 作者指出存在严重错误",
@@ -113,6 +114,73 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时12分 ~ 16时50分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "特朗普“口头缓和”失效，原油“现货冲击”逼近，美股真的慌了！",
+          "url": "https://wallstreetcn.com/articles/3768633",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时40分 ~ 07时37分]"
+        },
+        {
+          "title": "美股收盘：伊朗关键工业设施遭袭 纳指连续第二天跌超2%",
+          "url": "https://www.cls.cn/detail/2327695",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 20,
+          "time_info": "[00时40分 ~ 19时34分]"
+        },
+        {
+          "title": "局势升级担忧助推原油大涨，美股重挫、纳指再跌2%，VIX突破30，黄金涨近3%",
+          "url": "https://wallstreetcn.com/articles/3768537",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时40分 ~ 06时35分]"
+        },
+        {
+          "title": "恐慌指数爆表、对冲基金狂抛！高盛交易台警告：“美股不容乐观”",
+          "url": "https://wallstreetcn.com/articles/3768658",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时12分 ~ 22时39分]"
+        },
+        {
+          "title": "金十整理：下周重要事件与数据预告——中国3月官方制造业PMI将公布；周五非农重磅来袭却碰上美股休市",
+          "url": "https://flash.jin10.com/detail/20260329214652557800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
         }
       ]
     },
@@ -166,62 +234,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时17分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "特朗普“口头缓和”失效，原油“现货冲击”逼近，美股真的慌了！",
-          "url": "https://wallstreetcn.com/articles/3768633",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时40分 ~ 07时37分]"
-        },
-        {
-          "title": "美股收盘：伊朗关键工业设施遭袭 纳指连续第二天跌超2%",
-          "url": "https://www.cls.cn/detail/2327695",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时40分 ~ 19时34分]"
-        },
-        {
-          "title": "局势升级担忧助推原油大涨，美股重挫、纳指再跌2%，VIX突破30，黄金涨近3%",
-          "url": "https://wallstreetcn.com/articles/3768537",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时40分 ~ 06时35分]"
-        },
-        {
-          "title": "恐慌指数爆表、对冲基金狂抛！高盛交易台警告：“美股不容乐观”",
-          "url": "https://wallstreetcn.com/articles/3768658",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时12分 ~ 21时07分]"
         }
       ]
     },
@@ -314,8 +326,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时50分 ~ 21时07分]"
+          "appearance_count": 8,
+          "time_info": "[16时50分 ~ 22时39分]"
         }
       ]
     },
@@ -344,6 +356,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时12分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DeepSeek崩了",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B4%A9%E4%BA%86&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时38分 ~ 22时39分]"
         }
       ]
     }

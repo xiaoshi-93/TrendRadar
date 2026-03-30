@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-30T15:51:23.270289+08:00",
-  "total_titles_processed": 1049,
+  "generated_at": "2026-03-30T17:19:49.919553+08:00",
+  "total_titles_processed": 1187,
   "failed_sources": [],
   "trends": [
     {
@@ -35,6 +35,18 @@
           "time_info": "[00时41分 ~ 07时39分]"
         },
         {
+          "title": "DeepSeek宕机12小时后恢复服务",
+          "url": "https://www.toutiao.com/trending/7622849000173178419/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时56分 ~ 17时19分]"
+        },
+        {
           "title": "豆包谈DeepSeek频繁崩溃",
           "url": "https://s.weibo.com/weibo?q=%23%E8%B1%86%E5%8C%85%E8%B0%88DeepSeek%E9%A2%91%E7%B9%81%E5%B4%A9%E6%BA%83%23&t=31&band_rank=5&Refer=top",
           "source": "微博",
@@ -46,28 +58,17 @@
           "time_info": "13时31分"
         },
         {
-          "title": "DeepSeek宕机12小时后恢复服务",
-          "url": "https://www.toutiao.com/trending/7622849000173178419/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时56分 ~ 15时51分]"
-        },
-        {
           "title": "DeepSeek“崩了”一夜，相关功能仍无法正常使用",
           "url": "https://m.thepaper.cn/newsDetail_forward_32860242",
           "source": "澎湃新闻",
           "ranks": [
             12,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时31分 ~ 15时51分]"
+          "appearance_count": 3,
+          "time_info": "[13时31分 ~ 17时19分]"
         },
         {
           "title": "3 月 29 日大量用户反映 DeepSeek 服务出现异常，在宕机 12 小时后恢复服务，怎么回事？",
@@ -78,8 +79,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时31分 ~ 15时51分]"
+          "appearance_count": 3,
+          "time_info": "[13时31分 ~ 17时19分]"
         },
         {
           "title": "DeepSeek已恢复服务",
@@ -152,7 +153,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "恐慌指数爆表、对冲基金狂抛！高盛交易台警告：“美股不容乐观”",
@@ -173,11 +174,23 @@
           "ranks": [
             9,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时56分 ~ 15时51分]"
+          "appearance_count": 4,
+          "time_info": "[10时56分 ~ 17时19分]"
+        },
+        {
+          "title": "中东局势升级，日经225收跌2.8%，韩国首尔综指收跌3%，美股期货小幅上涨，布油上涨2.67%、铝价上涨5%",
+          "url": "https://wallstreetcn.com/articles/3768684",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
         },
         {
           "title": "美股股指期货周一低开，三大股指期货跌超0.5%。",
@@ -241,11 +254,12 @@
             14,
             16,
             22,
-            24
+            24,
+            28
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 15时51分]"
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 17时19分]"
         },
         {
           "title": "谷歌AI内存压缩算法遭质疑",
@@ -257,11 +271,12 @@
             19,
             24,
             16,
-            25
+            25,
+            17
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 15时51分]"
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 17时19分]"
         }
       ]
     },
@@ -304,7 +319,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时51分"
         }

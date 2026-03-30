@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-30T17:19:49.919553+08:00",
-  "total_titles_processed": 1187,
+  "generated_at": "2026-03-30T19:08:41.829518+08:00",
+  "total_titles_processed": 1311,
   "failed_sources": [],
   "trends": [
     {
@@ -40,11 +40,12 @@
           "source": "今日头条",
           "ranks": [
             4,
-            13
+            13,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时56分 ~ 17时19分]"
+          "appearance_count": 5,
+          "time_info": "[10时56分 ~ 19时08分]"
         },
         {
           "title": "豆包谈DeepSeek频繁崩溃",
@@ -64,11 +65,12 @@
           "ranks": [
             12,
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时31分 ~ 17时19分]"
+          "appearance_count": 4,
+          "time_info": "[13时31分 ~ 19时08分]"
         },
         {
           "title": "3 月 29 日大量用户反映 DeepSeek 服务出现异常，在宕机 12 小时后恢复服务，怎么回事？",
@@ -153,7 +155,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "恐慌指数爆表、对冲基金狂抛！高盛交易台警告：“美股不容乐观”",
@@ -178,8 +180,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时56分 ~ 17时19分]"
+          "appearance_count": 5,
+          "time_info": "[10时56分 ~ 19时08分]"
+        },
+        {
+          "title": "中东局势升级，美股期货小幅上涨，布油上涨2.67%、铝价上涨5%",
+          "url": "https://wallstreetcn.com/articles/3768684",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
         },
         {
           "title": "中东局势升级，日经225收跌2.8%，韩国首尔综指收跌3%，美股期货小幅上涨，布油上涨2.67%、铝价上涨5%",
@@ -188,7 +201,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时19分"
         },
@@ -243,7 +256,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "新算法公布,谷歌干崩股市",
@@ -275,14 +288,25 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时41分 ~ 17时19分]"
+          "appearance_count": 15,
+          "time_info": "[00时41分 ~ 19时08分]"
+        },
+        {
+          "title": "带崩全球存储股的谷歌论文陷学术争议，中国学者指其“严重失实”且“知错不改”：使用了我们的方法，但刻意回避相似性",
+          "url": "https://wallstreetcn.com/livenews/3079231",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "金十图示：2026年03月30日（周一）上海金早盘价为999.56元/克，较国际金价(995.16元/克)，高4.4元/克",
@@ -294,6 +318,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时56分"
+        },
+        {
+          "title": "金价下跌刚需客户下手了",
+          "url": "https://www.toutiao.com/trending/7621876876252217380/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
         },
         {
           "title": "金价",

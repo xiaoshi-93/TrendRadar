@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-31T07:42:00.420028+08:00",
-  "total_titles_processed": 644,
+  "generated_at": "2026-03-31T10:49:27.447219+08:00",
+  "total_titles_processed": 840,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "特朗普美股盘前发声“可能很快与伊朗达成停火协议”，巴基斯坦力促数日内进行有效会谈",
@@ -49,11 +49,23 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时42分 ~ 07时42分]"
+          "appearance_count": 5,
+          "time_info": "[06时42分 ~ 10时49分]"
+        },
+        {
+          "title": "美股后续会怎么走",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%82%A1%E5%90%8E%E7%BB%AD%E4%BC%9A%E6%80%8E%E4%B9%88%E8%B5%B0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时49分"
         },
         {
           "title": "小盘股指ETF收跌超1.4%，领跌美股大类资产类ETF，布油基金涨超2.4%",
@@ -99,7 +111,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
         },
@@ -245,8 +257,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时41分 ~ 07时42分]"
+          "appearance_count": 3,
+          "time_info": "[07时41分 ~ 10时49分]"
         },
         {
           "title": "短端美债收益率跌超9个基点",
@@ -259,6 +271,36 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时53分 ~ 05时50分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金十图示：2026年03月31日（周二）上海金早盘价为1022.78元/克，较国际金价(1018.75元/克)，高4.03元/克",
+          "url": "https://flash.jin10.com/detail/20260331103946774800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时49分"
+        },
+        {
+          "title": "金价下跌刚需客户下手了",
+          "url": "https://www.toutiao.com/trending/7621876876252217380/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            10,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时53分 ~ 07时42分]"
         }
       ]
     },
@@ -332,25 +374,6 @@
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金价下跌刚需客户下手了",
-          "url": "https://www.toutiao.com/trending/7621876876252217380/",
-          "source": "今日头条",
-          "ranks": [
-            28,
-            10,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时53分 ~ 07时42分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "具身智能",
       "match_count": 1,
       "titles": [
@@ -362,8 +385,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[05时49分 ~ 07时42分]"
+          "appearance_count": 7,
+          "time_info": "[05时49分 ~ 10时49分]"
         }
       ]
     }

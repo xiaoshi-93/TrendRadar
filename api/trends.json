@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-02T18:57:33.123678+08:00",
-  "total_titles_processed": 1423,
+  "generated_at": "2026-04-02T20:02:16.223060+08:00",
+  "total_titles_processed": 1518,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "美伊均释放结束中东冲突意愿，美股大涨、纳指飙升近4%，原油重挫，金银大涨",
@@ -19,6 +19,18 @@
           "time_info": "[01时02分 ~ 07时02分]"
         },
         {
+          "title": "停火预期点燃FOMO情绪，美股指两连涨、存储股大涨，黄金四连涨，油价震荡于百元",
+          "url": "https://wallstreetcn.com/articles/3768936",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时41分 ~ 20时02分]"
+        },
+        {
           "title": "美股收盘：投资者聚焦特朗普重要讲话 三大指数集体收涨",
           "url": "https://www.cls.cn/detail/2332707",
           "source": "财联社热门",
@@ -29,18 +41,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[07时02分 ~ 15时21分]"
-        },
-        {
-          "title": "停火预期点燃FOMO情绪，美股指两连涨、存储股大涨，黄金四连涨，油价震荡于百元",
-          "url": "https://wallstreetcn.com/articles/3768936",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时41分 ~ 18时57分]"
         },
         {
           "title": "巴菲特：押注苹果赚了1000亿但卖早了，目前美股不便宜、不抄底，预警银行体系脆弱迹象",
@@ -65,6 +65,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时50分 ~ 07时02分]"
+        },
+        {
+          "title": "特朗普威胁升级对伊战事，布油涨9%，美股期货全线下跌，黄金跌破4600、白银日内跌超5%",
+          "url": "https://wallstreetcn.com/articles/3769052",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时01分 ~ 20时02分]"
         },
         {
           "title": "航空业ETF收涨2.6%，和半导体ETF领跑美股大类资产类ETF，能源业ETF跌超3.7%",
@@ -222,6 +233,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
+        },
+        {
+          "title": "美股期货扩大跌幅 纳指期货跌超2%",
+          "url": "https://flash.jin10.com/detail/20260402194216259800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
         }
       ]
     },
@@ -395,11 +417,12 @@
             7,
             9,
             26,
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时08分 ~ 18时57分]"
+          "appearance_count": 6,
+          "time_info": "[13时08分 ~ 20时02分]"
         },
         {
           "title": "周三（4月1日）纽约尾盘，美国10年期基准国债收益率涨0.20个基点，报4.3186%，日内交投于4.2574%-4.3324%区间，整体呈现出V形反转。 两年期美债收益率涨0.80个基点，报3.8010%，日内交投于3.7334%-3.8133%区间，北京时间20:00过后出现一波显著的拉升行情。",
@@ -420,7 +443,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时57分"
         }
@@ -476,7 +499,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时57分"
         }

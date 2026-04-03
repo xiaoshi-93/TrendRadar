@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-04T00:50:40.375798+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-04-04T01:39:52.499304+08:00",
+  "total_titles_processed": 378,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时50分"
+          "appearance_count": 2,
+          "time_info": "[00时50分 ~ 01时39分]"
         },
         {
           "title": "据日经新闻：日本首相寻求就加强稀土元素供应链及在霍尔木兹海峡开展安全航行合作与澳方进行讨论。",
@@ -40,11 +40,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E5%AE%98%E6%96%B9%E5%8F%91%E5%B8%83%E6%9C%80%E6%96%B0%E6%A8%A1%E5%9E%8BGemma4",
           "source": "bilibili 热搜",
           "ranks": [
-            24
+            24,
+            18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时50分"
+          "appearance_count": 2,
+          "time_info": "[00时50分 ~ 01时39分]"
         }
       ]
     },

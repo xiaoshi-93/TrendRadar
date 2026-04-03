@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-03T13:10:47.490786+08:00",
-  "total_titles_processed": 947,
+  "generated_at": "2026-04-03T15:18:20.955901+08:00",
+  "total_titles_processed": 1084,
   "failed_sources": [],
   "trends": [
     {
@@ -42,8 +42,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时38分 ~ 13时10分]"
+          "appearance_count": 5,
+          "time_info": "[06时38分 ~ 15时18分]"
         },
         {
           "title": "停火预期点燃FOMO情绪，美股指两连涨、存储股大涨，黄金四连涨，油价震荡于百元",
@@ -199,24 +199,25 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "如何评价 Google 发布的开源大模型 Gemma4？使用体验怎么样？",
+          "url": "https://www.zhihu.com/question/2023204569811828949",
+          "source": "知乎",
+          "ranks": [
+            10,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时48分 ~ 15时18分]"
+        },
+        {
           "title": "谷歌最新模型Gemma4发布",
           "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E6%9C%80%E6%96%B0%E6%A8%A1%E5%9E%8BGemma4%E5%8F%91%E5%B8%83",
           "source": "bilibili 热搜",
           "ranks": [
             2,
             6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时48分 ~ 13时10分]"
-        },
-        {
-          "title": "如何评价 Google 发布的开源大模型 Gemma4？使用体验怎么样？",
-          "url": "https://www.zhihu.com/question/2023204569811828949",
-          "source": "知乎",
-          "ranks": [
-            10,
-            3
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -361,6 +362,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "供应链",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金十期货4月3日讯，上期所发布关于同意中远海运物流供应链有限公司及下属子公司开展集团交割业务的公告。",
+          "url": "https://flash.jin10.com/detail/20260403151005990800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
         }
       ]
     }

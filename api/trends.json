@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-03T15:18:20.955901+08:00",
-  "total_titles_processed": 1084,
+  "generated_at": "2026-04-03T17:02:32.808189+08:00",
+  "total_titles_processed": 1230,
   "failed_sources": [],
   "trends": [
     {
@@ -196,7 +196,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "如何评价 Google 发布的开源大模型 Gemma4？使用体验怎么样？",
@@ -224,6 +224,17 @@
           "time_info": "[10时48分 ~ 13时10分]"
         },
         {
+          "title": "谷歌官方发布最新模型Gemma4",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E5%AE%98%E6%96%B9%E5%8F%91%E5%B8%83%E6%9C%80%E6%96%B0%E6%A8%A1%E5%9E%8BGemma4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
+        },
+        {
           "title": "谷歌公司推出Gemma 4开源模型，为高级推理打造Gemma 4。 英伟达与谷歌公司致力于为英伟达GPUs优化Gemma 4。 英伟达为本地智能体人工智能（Agentic AI）加速Gemma 4。",
           "url": "https://wallstreetcn.com/livenews/3081712",
           "source": "华尔街见闻-快讯",
@@ -233,6 +244,58 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "美元指数维持日内小幅上涨态势，现报100.05。特朗普针对伊朗发帖：下一步将摧毁桥梁，然后是发电厂；伊朗新政权领导层知道必须做什么，而且必须尽快做。",
+          "url": "https://wallstreetcn.com/livenews/3081923",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时48分"
+        },
+        {
+          "title": "美元指数2日上涨",
+          "url": "https://flash.jin10.com/detail/20260403043416469800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时43分 ~ 06时38分]"
+        },
+        {
+          "title": "周四（4月2日）纽约尾盘，ICE美元指数涨0.35%，报99.998点，日内交投区间为99.447-100.263点，亚太早盘，美国总统特朗普讲话之际陡峭地走高，日内大部分时间高位震荡、北京时间19:16刷新日高。 彭博美元指数涨0.26%，报1215.67点。 美元兑日元涨0.50%，报159.60日元，日内交投区间为158.55-159.74日元。",
+          "url": "https://wallstreetcn.com/livenews/3081774",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时42分 ~ 05时43分]"
+        },
+        {
+          "title": "美元指数短线波动不大，科威特一电力和海水淡化厂遇袭，部分设施受损",
+          "url": "https://wallstreetcn.com/livenews/3082069",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
         }
       ]
     },
@@ -276,47 +339,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时38分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "美元指数维持日内小幅上涨态势，现报100.05。特朗普针对伊朗发帖：下一步将摧毁桥梁，然后是发电厂；伊朗新政权领导层知道必须做什么，而且必须尽快做。",
-          "url": "https://wallstreetcn.com/livenews/3081923",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时48分"
-        },
-        {
-          "title": "美元指数2日上涨",
-          "url": "https://flash.jin10.com/detail/20260403043416469800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时43分 ~ 06时38分]"
-        },
-        {
-          "title": "周四（4月2日）纽约尾盘，ICE美元指数涨0.35%，报99.998点，日内交投区间为99.447-100.263点，亚太早盘，美国总统特朗普讲话之际陡峭地走高，日内大部分时间高位震荡、北京时间19:16刷新日高。 彭博美元指数涨0.26%，报1215.67点。 美元兑日元涨0.50%，报159.60日元，日内交投区间为158.55-159.74日元。",
-          "url": "https://wallstreetcn.com/livenews/3081774",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时42分 ~ 05时43分]"
         }
       ]
     },
@@ -376,7 +398,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
         }

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-04T10:38:06.948250+08:00",
-  "total_titles_processed": 713,
+  "generated_at": "2026-04-04T12:56:22.965718+08:00",
+  "total_titles_processed": 838,
   "failed_sources": [],
   "trends": [
     {
@@ -14,22 +14,24 @@
           "ranks": [
             2,
             1,
-            9
+            9,
+            15
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时50分 ~ 10时38分]"
+          "appearance_count": 13,
+          "time_info": "[00时50分 ~ 12时56分]"
         },
         {
           "title": "第四届链博会推介会暨中哈供应链合作研讨会在阿斯塔纳成功举办",
           "url": "https://wallstreetcn.com/livenews/3082365",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时38分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时38分 ~ 12时56分]"
         },
         {
           "title": "据日经新闻：日本首相寻求就加强稀土元素供应链及在霍尔木兹海峡开展安全航行合作与澳方进行讨论。",
@@ -62,8 +64,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时50分 ~ 10时38分]"
+          "appearance_count": 13,
+          "time_info": "[00时50分 ~ 12时56分]"
         },
         {
           "title": "谷歌推出Veo 3.1 Lite版本，并在VertexAI平台新增Veo超分辨率升级功能。",
@@ -90,11 +92,12 @@
           "url": "https://wallstreetcn.com/livenews/3082359",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时38分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时38分 ~ 12时56分]"
         },
         {
           "title": "中金：黄金投资需求和价格或均存向上修复空间",
@@ -103,7 +106,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时38分"
         }

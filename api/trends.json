@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-04T12:56:22.965718+08:00",
-  "total_titles_processed": 838,
+  "generated_at": "2026-04-04T14:02:03.060547+08:00",
+  "total_titles_processed": 893,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             2,
             1,
             9,
-            15
+            15,
+            12
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时50分 ~ 12时56分]"
+          "appearance_count": 15,
+          "time_info": "[00时50分 ~ 14时02分]"
         },
         {
           "title": "第四届链博会推介会暨中哈供应链合作研讨会在阿斯塔纳成功举办",
@@ -27,11 +28,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            20
+            20,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时38分 ~ 12时56分]"
+          "appearance_count": 3,
+          "time_info": "[10时38分 ~ 14时02分]"
         },
         {
           "title": "据日经新闻：日本首相寻求就加强稀土元素供应链及在霍尔木兹海峡开展安全航行合作与澳方进行讨论。",
@@ -64,8 +66,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时50分 ~ 12时56分]"
+          "appearance_count": 15,
+          "time_info": "[00时50分 ~ 14时02分]"
         },
         {
           "title": "谷歌推出Veo 3.1 Lite版本，并在VertexAI平台新增Veo超分辨率升级功能。",
@@ -93,11 +95,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             8,
-            25
+            25,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时38分 ~ 12时56分]"
+          "appearance_count": 3,
+          "time_info": "[10时38分 ~ 14时02分]"
         },
         {
           "title": "中金：黄金投资需求和价格或均存向上修复空间",

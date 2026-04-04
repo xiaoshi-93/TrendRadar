@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-04T14:02:03.060547+08:00",
-  "total_titles_processed": 893,
+  "generated_at": "2026-04-04T15:51:12.906608+08:00",
+  "total_titles_processed": 1004,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             1,
             9,
             15,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时50分 ~ 14时02分]"
+          "appearance_count": 17,
+          "time_info": "[00时50分 ~ 15时51分]"
         },
         {
           "title": "第四届链博会推介会暨中哈供应链合作研讨会在阿斯塔纳成功举办",
@@ -66,8 +67,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时50分 ~ 14时02分]"
+          "appearance_count": 17,
+          "time_info": "[00时50分 ~ 15时51分]"
         },
         {
           "title": "谷歌推出Veo 3.1 Lite版本，并在VertexAI平台新增Veo超分辨率升级功能。",

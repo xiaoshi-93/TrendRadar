@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-04-05T07:37:59.057090+08:00",
-  "total_titles_processed": 465,
+  "generated_at": "2026-04-05T10:56:04.923321+08:00",
+  "total_titles_processed": 643,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "网传OpenAI“股权结构表”：微软“130亿美元投资”已升至“2283亿美元”",
+          "url": "https://wallstreetcn.com/articles/3769250",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时55分 ~ 10时56分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }

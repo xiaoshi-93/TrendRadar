@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-09T17:16:05.208478+08:00",
-  "total_titles_processed": 1285,
+  "generated_at": "2026-04-09T19:04:44.610968+08:00",
+  "total_titles_processed": 1429,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时43分 ~ 17时16分]"
+          "appearance_count": 7,
+          "time_info": "[07时43分 ~ 19时04分]"
         },
         {
           "title": "报复性反弹！美伊“停火两周”，美股开盘集体上涨，美光涨超8%，现货钯金涨超9%，油价创近六年最大跌幅",
@@ -70,6 +70,20 @@
           "time_info": "[06时48分 ~ 13时15分]"
         },
         {
+          "title": "又现内幕交易？美伊停火前 神秘资金精准“空原油、多美股”",
+          "url": "https://www.cls.cn/detail/2338764",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时15分 ~ 19时04分]"
+        },
+        {
           "title": "美股三大指数大幅高开 纳指涨3.65%",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E5%A4%A7%E5%B9%85%E9%AB%98%E5%BC%80+%E7%BA%B3%E6%8C%87%E6%B6%A83.65%25",
           "source": "百度热搜",
@@ -90,19 +104,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时48分 ~ 06时49分]"
-        },
-        {
-          "title": "又现内幕交易？美伊停火前 神秘资金精准“空原油、多美股”",
-          "url": "https://www.cls.cn/detail/2338764",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时15分 ~ 17时16分]"
         },
         {
           "title": "周三（4月8日），美股行业ETF普遍收涨，半导体ETF涨5.76%，全球航空业ETF涨5.65%，全球科技股指数ETF、科技行业ETF、区域银行ETF、银行业ETF、可选消费ETF、金融业ETF、网络股指数ETF至少涨2.46%，能源业ETF则收跌3.51%。",
@@ -265,7 +266,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时16分"
         },
@@ -326,7 +327,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时16分"
         },
@@ -421,7 +422,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时16分"
         }

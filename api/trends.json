@@ -1,12 +1,36 @@
 {
-  "generated_at": "2026-04-10T06:50:13.995903+08:00",
-  "total_titles_processed": 583,
+  "generated_at": "2026-04-10T07:42:06.964730+08:00",
+  "total_titles_processed": 645,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
       "match_count": 15,
       "titles": [
+        {
+          "title": "美伊停火持续性存疑 油价反弹美股震荡走弱 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2339594",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时14分 ~ 07时42分]"
+        },
+        {
+          "title": "美股收盘：标普纳指连升七天 半导体股持续走强 闪迪涨超9%",
+          "url": "https://www.cls.cn/detail/2339795",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时49分 ~ 07时42分]"
+        },
         {
           "title": "美伊停火提振全球市场，美股指大涨2%，半导体指数新高，油价创疫情来最大日跌幅",
           "url": "https://wallstreetcn.com/articles/3769443",
@@ -18,28 +42,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时14分 ~ 06时50分]"
-        },
-        {
-          "title": "美伊停火持续性存疑 油价反弹美股震荡走弱 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2339594",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时14分 ~ 06时50分]"
-        },
-        {
-          "title": "美股收盘：标普纳指连升七天 半导体股持续走强 闪迪涨超9%",
-          "url": "https://www.cls.cn/detail/2339795",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时49分 ~ 06时50分]"
         },
         {
           "title": "周四（4月9日），美股降息赢家指数涨1.10%，报91.25点。 “特朗普关税输家”指数涨1.50%，“特朗普金融指数”涨0.95%。 散户抱团概念股指数/迷因股（meme stock）指数跌0.44%。",
@@ -141,7 +143,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时50分"
         },
@@ -227,7 +229,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时50分"
         },
@@ -341,7 +343,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时50分"
         }

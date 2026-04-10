@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-10T13:32:40.142596+08:00",
-  "total_titles_processed": 1023,
+  "generated_at": "2026-04-10T15:51:04.605911+08:00",
+  "total_titles_processed": 1177,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "美股收盘：标普纳指连升七天 半导体股持续走强 闪迪涨超9%",
@@ -67,6 +67,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时53分 ~ 06时50分]"
+        },
+        {
+          "title": "停火也拦不住美股散户卖出",
+          "url": "https://wallstreetcn.com/articles/3769606",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时50分 ~ 15时51分]"
         },
         {
           "title": "美股七巨头收盘播报｜英伟达收涨5.6%，Meta涨2.6%",
@@ -365,7 +376,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
         }
@@ -381,11 +392,12 @@
           "source": "知乎",
           "ranks": [
             8,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时58分 ~ 13时32分]"
+          "appearance_count": 4,
+          "time_info": "[10时58分 ~ 15时51分]"
         },
         {
           "title": "京东携手浙江启动“超级供应链伙伴计划”：2026年将服务超10000家专精特新企业",
@@ -394,7 +406,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
         },
@@ -422,7 +434,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
         },
@@ -433,7 +445,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
         }

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-10T21:22:47.661420+08:00",
-  "total_titles_processed": 1622,
+  "generated_at": "2026-04-10T23:15:08.667003+08:00",
+  "total_titles_processed": 1757,
   "failed_sources": [],
   "trends": [
     {
@@ -122,7 +122,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时22分"
         },
@@ -166,7 +166,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时22分"
         },
@@ -188,7 +188,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时22分"
         },
@@ -229,7 +229,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "OpenAI创始人奥尔特曼：很高兴看到Codex受到这么多人的喜爱。应广大用户的强烈要求，我们即将推出100美元的ChatGPT Pro会员等级。",
@@ -301,6 +301,28 @@
           "time_info": "10时58分"
         },
         {
+          "title": "据德国商报：消息人士称，OpenAI 将受欧盟《数字服务法》（DSA）监管，并被归类为超大型在线搜索引擎。",
+          "url": "https://flash.jin10.com/detail/20260410221958864800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
+        },
+        {
+          "title": "据德国商报：消息人士称，欧盟委员会计划未来对ChatGPT实施更严格的监管。",
+          "url": "https://flash.jin10.com/detail/20260410221739226800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
+        },
+        {
           "title": "OpenAI推出月租100美元的Pro档订阅服务。 可以比Plus档订阅获得多出五倍的Codex使用量。",
           "url": "https://wallstreetcn.com/livenews/3085269",
           "source": "华尔街见闻-快讯",
@@ -315,7 +337,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "霍尔木兹海峡前途未卜，标普七连涨，半导体指数再新高，美元四连跌",
@@ -363,6 +385,17 @@
           "time_info": "10时58分"
         },
         {
+          "title": "北美科技软件股指数ETF一度下跌3.47%，报73.98美元。",
+          "url": "https://wallstreetcn.com/livenews/3085988",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
+        },
+        {
           "title": "周四（4月9日）纽约尾盘，ICE美元指数跌0.33%，报98.810点，日内交投区间为99.157-98.625点。 彭博美元指数跌0.20%，报1199.05点，日内交投区间为1203.63-1197.69点。 美元兑日元涨0.27%，报159.01日元，日内交投区间为158.49-159.30日元。 欧元兑日元涨0.64%，英镑兑日元涨0.68%。",
           "url": "https://wallstreetcn.com/livenews/3085308",
           "source": "华尔街见闻-快讯",
@@ -386,7 +419,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时22分"
         },
@@ -509,8 +542,19 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "10年期美债收益率刷新日高，投资者关注美国短期通胀预期",
+          "url": "https://wallstreetcn.com/livenews/3085978",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
+        },
         {
           "title": "美债收益率于美股早盘显著下挫，两年期实际收益率飙涨31个基点",
           "url": "https://wallstreetcn.com/livenews/3085310",

@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-04-10T07:42:06.964730+08:00",
-  "total_titles_processed": 645,
+  "generated_at": "2026-04-10T10:58:28.787388+08:00",
+  "total_titles_processed": 850,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
       "match_count": 15,
       "titles": [
+        {
+          "title": "美股收盘：标普纳指连升七天 半导体股持续走强 闪迪涨超9%",
+          "url": "https://www.cls.cn/detail/2339795",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时49分 ~ 10时58分]"
+        },
         {
           "title": "美伊停火持续性存疑 油价反弹美股震荡走弱 | 今夜看点",
           "url": "https://www.cls.cn/detail/2339594",
@@ -18,18 +31,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时14分 ~ 07时42分]"
-        },
-        {
-          "title": "美股收盘：标普纳指连升七天 半导体股持续走强 闪迪涨超9%",
-          "url": "https://www.cls.cn/detail/2339795",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时49分 ~ 07时42分]"
         },
         {
           "title": "美伊停火提振全球市场，美股指大涨2%，半导体指数新高，油价创疫情来最大日跌幅",
@@ -184,7 +185,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "OpenAI创始人奥尔特曼：很高兴看到Codex受到这么多人的喜爱。应广大用户的强烈要求，我们即将推出100美元的ChatGPT Pro会员等级。",
@@ -245,6 +246,17 @@
           "time_info": "05时35分"
         },
         {
+          "title": "OpenAI“星际之门”（Stargate）项目执行官Peter Hoeschele已离开公司。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3085487",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时58分"
+        },
+        {
           "title": "OpenAI推出月租100美元的Pro档订阅服务。 可以比Plus档订阅获得多出五倍的Codex使用量。",
           "url": "https://wallstreetcn.com/livenews/3085269",
           "source": "华尔街见闻-快讯",
@@ -259,7 +271,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "霍尔木兹海峡前途未卜，标普七连涨，半导体指数再新高，美元四连跌",
@@ -273,6 +285,17 @@
           "time_info": "[06时49分 ~ 06时50分]"
         },
         {
+          "title": "韩国央行行长李昌镛：2025年底韩元兑美元汇率接近1,500关口，是因为散户投资者增加了海外股票投资。 最近几周韩元兑美元的波动是由外国投资者抛售国内股票所驱动的。 当前汇率水平是由外资获利了结以及中东风险所致。 被纳入世界政府债券指数（WGBI）将为韩国带来外资流入。 国民年金公团（NPS）正计划削减部分海外投资。 外汇储备将在市场波动时期被积极动用。",
+          "url": "https://wallstreetcn.com/livenews/3085510",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时58分"
+        },
+        {
           "title": "美元指数9日下跌",
           "url": "https://flash.jin10.com/detail/20260410043300021800",
           "source": "金十数据",
@@ -283,6 +306,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时35分 ~ 05时53分]"
+        },
+        {
+          "title": "韩国央行行长李昌镛：韩元兑美元汇率走势应与美元指数走势相比较。",
+          "url": "https://flash.jin10.com/detail/20260410104827584800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时58分"
         },
         {
           "title": "周四（4月9日）纽约尾盘，ICE美元指数跌0.33%，报98.810点，日内交投区间为99.157-98.625点。 彭博美元指数跌0.20%，报1199.05点，日内交投区间为1203.63-1197.69点。 美元兑日元涨0.27%，报159.01日元，日内交投区间为158.49-159.30日元。 欧元兑日元涨0.64%，英镑兑日元涨0.68%。",
@@ -299,7 +333,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "美伊停火协议难止冲突，纳指涨0.06%，标普跌0.05%，油价强势反弹，金价4720美元震荡",
@@ -312,6 +346,45 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时14分 ~ 05时53分]"
+        },
+        {
+          "title": "通胀今晚迎来大考，金价能否守住该中枢？",
+          "url": "https://flash.jin10.com/detail/20260410104150722800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "供应链",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "「内存一年涨四倍」，国产手机集体涨价，苹果至今按兵不动，是苹果供应链太强，还是在等一个更狠的涨价时机？",
+          "url": "https://www.zhihu.com/question/2023701784896520237",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时58分"
+        },
+        {
+          "title": "英国首相府：斯塔默与阿联酋总统就霍尔木兹海峡问题及推动恢复货物自由流通、支持全球供应链的必要性进行了讨论。",
+          "url": "https://flash.jin10.com/detail/20260410054720575800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时50分"
         }
       ]
     },
@@ -329,23 +402,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时35分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "供应链",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "英国首相府：斯塔默与阿联酋总统就霍尔木兹海峡问题及推动恢复货物自由流通、支持全球供应链的必要性进行了讨论。",
-          "url": "https://flash.jin10.com/detail/20260410054720575800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时50分"
         }
       ]
     }

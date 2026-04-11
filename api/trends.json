@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-11T19:36:42.199984+08:00",
-  "total_titles_processed": 1281,
+  "generated_at": "2026-04-11T21:10:29.904633+08:00",
+  "total_titles_processed": 1394,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时09分 ~ 19时36分]"
+          "appearance_count": 10,
+          "time_info": "[14时09分 ~ 21时10分]"
         },
         {
           "title": "OpenAI 创始人奥尔特曼住所遭燃烧瓶袭击，具体是怎么回事？",
@@ -29,8 +29,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时48分 ~ 19时36分]"
+          "appearance_count": 6,
+          "time_info": "[17时48分 ~ 21时10分]"
         },
         {
           "title": "据福克斯新闻：OpenAI的一位发言人证实，一名嫌疑人向OpenAI创始人奥尔特曼的住所投掷了一枚燃烧瓶，目前该嫌疑人已被警方拘留。",
@@ -143,11 +143,12 @@
             4,
             3,
             2,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时41分 ~ 19时36分]"
+          "appearance_count": 13,
+          "time_info": "[07时41分 ~ 21时10分]"
         },
         {
           "title": "金十图示：2026年04月10日（周五）美股热门股票行情一览（美股收盘）",
@@ -159,6 +160,20 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时46分 ~ 07时41分]"
+        },
+        {
+          "title": "李大霄解读美股单周表现",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%A7%A3%E8%AF%BB%E7%BE%8E%E8%82%A1%E5%8D%95%E5%91%A8%E8%A1%A8%E7%8E%B0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            5,
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时48分 ~ 21时10分]"
         },
         {
           "title": "金十图示：2026年04月10日（周五）热门中概股行情一览（美股收盘）",
@@ -183,19 +198,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[15时53分 ~ 18时41分]"
-        },
-        {
-          "title": "李大霄解读美股单周表现",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%A7%A3%E8%AF%BB%E7%BE%8E%E8%82%A1%E5%8D%95%E5%91%A8%E8%A1%A8%E7%8E%B0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9,
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时48分 ~ 19时36分]"
         },
         {
           "title": "美股收盘：三大股指涨跌不一 Coreweave涨超10%",

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-12T01:37:26.538538+08:00",
-  "total_titles_processed": 375,
+  "generated_at": "2026-04-12T02:54:29.648374+08:00",
+  "total_titles_processed": 432,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 01时37分]"
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 02时54分]"
         },
         {
           "title": "从华尔街到硅谷，Anthropic 抢走了OpenAI“所有的风头”",
           "url": "https://wallstreetcn.com/articles/3769740",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 01时37分]"
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 02时54分]"
         }
       ]
     },
@@ -40,11 +41,12 @@
           "url": "https://www.cls.cn/detail/2341126",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 01时37分]"
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 02时54分]"
         },
         {
           "title": "李大霄解读美股单周表现",
@@ -52,11 +54,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             15,
-            14
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 01时37分]"
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 02时54分]"
         }
       ]
     }

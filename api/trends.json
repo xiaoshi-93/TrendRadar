@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-12T06:38:53.106452+08:00",
-  "total_titles_processed": 503,
+  "generated_at": "2026-04-12T07:41:27.962622+08:00",
+  "total_titles_processed": 547,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时43分 ~ 06时38分]"
+          "appearance_count": 9,
+          "time_info": "[00时43分 ~ 07时41分]"
         },
         {
           "title": "从华尔街到硅谷，Anthropic 抢走了OpenAI“所有的风头”",
@@ -27,8 +27,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时43分 ~ 06时38分]"
+          "appearance_count": 9,
+          "time_info": "[00时43分 ~ 07时41分]"
         }
       ]
     },
@@ -45,8 +45,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时43分 ~ 06时38分]"
+          "appearance_count": 9,
+          "time_info": "[00时43分 ~ 07时41分]"
         },
         {
           "title": "李大霄解读美股单周表现",
@@ -60,8 +60,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时43分 ~ 06时38分]"
+          "appearance_count": 9,
+          "time_info": "[00时43分 ~ 07时41分]"
         }
       ]
     }

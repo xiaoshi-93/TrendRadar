@@ -1,117 +1,39 @@
 {
-  "generated_at": "2026-04-12T23:41:46.981851+08:00",
-  "total_titles_processed": 1521,
+  "generated_at": "2026-04-13T00:47:55.575530+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
         {
           "title": "突发！OpenAI掌门奥尔特曼家差点被烧 本人愤怒发长文回应",
           "url": "https://www.cls.cn/detail/2341199",
           "source": "财联社热门",
           "ranks": [
-            4,
-            6,
-            7,
-            8,
-            9,
             11
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时43分 ~ 23时41分]"
-        },
-        {
-          "title": "从华尔街到硅谷，Anthropic 抢走了OpenAI“所有的风头”",
-          "url": "https://wallstreetcn.com/articles/3769740",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时43分 ~ 11时20分]"
-        },
-        {
-          "title": "OpenAI CEO住所遭袭",
-          "url": "https://search.bilibili.com/all?keyword=OpenAI%20CEO%E4%BD%8F%E6%89%80%E9%81%AD%E8%A2%AD",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时57分"
+          "time_info": "00时47分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "美股收盘：芯片股走强纳指八连升 道指标普回落仍周涨超3%",
-          "url": "https://www.cls.cn/detail/2341126",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            8,
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时43分 ~ 15时26分]"
-        },
         {
           "title": "李大霄解读美股单周表现",
           "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%A7%A3%E8%AF%BB%E7%BE%8E%E8%82%A1%E5%8D%95%E5%91%A8%E8%A1%A8%E7%8E%B0",
           "source": "bilibili 热搜",
           "ranks": [
-            15,
-            14,
-            12,
-            16,
-            17,
-            13,
-            11
+            12
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时43分 ~ 23时41分]"
-        },
-        {
-          "title": "环球下周看点：中东两周停火暂稳市场 美股财报季检验盈利韧性",
-          "url": "https://www.cls.cn/detail/2341358",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时57分 ~ 21时12分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "具身智能",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "磁吸爬壁、多场景作业 我国特种机器人迈上具身智能新台阶",
-          "url": "https://wallstreetcn.com/livenews/3086377",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时44分 ~ 19时39分]"
+          "appearance_count": 1,
+          "time_info": "00时47分"
         }
       ]
     },
@@ -124,18 +46,11 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32952034",
           "source": "澎湃新闻",
           "ranks": [
-            18,
-            17,
-            15,
-            12,
-            10,
-            8,
-            6,
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时57分 ~ 23时41分]"
+          "appearance_count": 1,
+          "time_info": "00时47分"
         }
       ]
     }

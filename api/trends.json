@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-13T14:20:14.602429+08:00",
-  "total_titles_processed": 928,
+  "generated_at": "2026-04-13T17:04:03.345487+08:00",
+  "total_titles_processed": 1115,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "李大霄解读美股单周表现",
@@ -44,12 +44,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时41分 ~ 07时41分]"
+        },
+        {
+          "title": "美国“封锁”逼近，布油破百，美股盘前科技股普跌，黄金回调，铝价四年新高",
+          "url": "https://wallstreetcn.com/articles/3769784",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时03分 ~ 17时04分]"
         }
       ]
     },
     {
       "keyword_group": "供应链",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "圆桌｜供应链波动致使新款车型浪费数亿元，成本持续上涨将传导至终端",
@@ -70,7 +81,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         },
@@ -84,6 +95,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时41分"
+        },
+        {
+          "title": "豪赌还是误判？特朗普“封锁令”一出，全球供应链雪上加霜",
+          "url": "https://flash.jin10.com/detail/20260413162923548800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时04分"
         }
       ]
     },
@@ -134,8 +156,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时19分 ~ 14时20分]"
+          "appearance_count": 4,
+          "time_info": "[14时19分 ~ 17时04分]"
         }
       ]
     },

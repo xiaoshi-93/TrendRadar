@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-14T16:29:36.268553+08:00",
-  "total_titles_processed": 1161,
+  "generated_at": "2026-04-14T18:19:46.222932+08:00",
+  "total_titles_processed": 1312,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "美股收盘：标普纳指均涨超1% 高速互联、存储、CPU牛股领涨",
@@ -97,6 +97,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
+        },
+        {
+          "title": "贝莱德强势看多美股！地缘风险降温与盈利飙升成关键推手",
+          "url": "https://flash.jin10.com/detail/20260414174441223800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
         },
         {
           "title": "美股收盘：标普500指数收复本轮冲突以来的所有跌幅",
@@ -277,11 +288,12 @@
           "source": "澎湃新闻",
           "ranks": [
             16,
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时17分 ~ 16时29分]"
+          "appearance_count": 5,
+          "time_info": "[11时17分 ~ 18时19分]"
         }
       ]
     },

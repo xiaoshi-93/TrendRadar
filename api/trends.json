@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-15T19:06:00.268931+08:00",
-  "total_titles_processed": 1484,
+  "generated_at": "2026-04-15T21:50:52.466661+08:00",
+  "total_titles_processed": 1645,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 19,
       "titles": [
         {
           "title": "“市场已宣布胜利！”标普反弹10%、纳指十连涨：美股“不再关心”霍尔木兹，投资者“恐慌式买入”",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时30分 ~ 19时06分]"
+          "appearance_count": 8,
+          "time_info": "[13时30分 ~ 21时50分]"
         },
         {
           "title": "美国通胀低于预期，美股指高开，科技股、航空股上涨，WTI原油跌近95美元，黄金涨至4800美元",
@@ -62,6 +62,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时31分"
+        },
+        {
+          "title": "谈判曙光提振市场，美股高开，阿斯麦跌3%，黄金重回4800美元，布油转跌",
+          "url": "https://wallstreetcn.com/articles/3770007",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时50分"
         },
         {
           "title": "美股股指期货转跌，报道称美国向中东增兵",
@@ -110,6 +121,28 @@
           "time_info": "07时50分"
         },
         {
+          "title": "美股三大指数集体高开，量子计算概念股普涨",
+          "url": "https://wallstreetcn.com/livenews/3088564",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时50分"
+        },
+        {
+          "title": "美股期指基本持平 标普500指数冲击新高 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2345247",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时50分"
+        },
+        {
           "title": "博通美股盘前涨2.9%，公司与Meta延长定制芯片合作协议。",
           "url": "https://wallstreetcn.com/livenews/3088315",
           "source": "华尔街见闻-快讯",
@@ -121,13 +154,24 @@
           "time_info": "16时27分"
         },
         {
+          "title": "美股开盘，道指涨0.22%，标普500指数涨0.13%，纳指涨0.18%，博通(AVGO.O)股价上涨1.4%，因其与Meta公司延长了定制芯片协议，阿斯麦(ASML.O)开跌3%。",
+          "url": "https://flash.jin10.com/detail/20260415213245498800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时50分"
+        },
+        {
           "title": "美国银行第一季度净利息收入为157.5亿美元，预估为153.7亿美元。 第一季度不含DVA的FICC交易收入为35亿美元，预期37.8亿美元。 第一季度不含DVA的股票交易收入为28.3亿美元，预期25.1亿美元。 第一季度每股收益1.11美元。 美国银行美股盘前涨超1%。",
           "url": "https://wallstreetcn.com/livenews/3088445",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时06分"
         },
@@ -141,6 +185,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
+        },
+        {
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3088552",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时50分"
         },
         {
           "title": "美股七巨头收盘播报｜周二（4月14日），美国科技股七巨头（Magnificent 7）指数涨2.78%，报202.71点。 “超大”市值科技股指数涨2.73%，报391.92点。",
@@ -168,7 +223,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "软银贷款方邀请更多银行加入400亿美元OpenAI贷款项目。",
@@ -238,6 +293,17 @@
           "time_info": "05时56分"
         },
         {
+          "title": "OpenAI计划为ChatGPT广告推出新定价，并探索其他升级方案。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3088551",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时50分"
+        },
+        {
           "title": "微软将接管OpenAI在挪威数据中心的租约",
           "url": "https://wallstreetcn.com/livenews/3087885",
           "source": "华尔街见闻-快讯",
@@ -286,6 +352,38 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时56分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "月薪3万，去内蒙草原给DeepSeek守机房",
+          "url": "https://wallstreetcn.com/articles/3769935",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时12分 ~ 17时27分]"
+        },
+        {
+          "title": "DeepSeek招人去内蒙草原“守机房”",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E6%8B%9B%E4%BA%BA%E5%8E%BB%E5%86%85%E8%92%99%E8%8D%89%E5%8E%9F%E2%80%9C%E5%AE%88%E6%9C%BA%E6%88%BF%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时50分"
         }
       ]
     },
@@ -346,23 +444,30 @@
       ]
     },
     {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
+      "keyword_group": "供应链",
+      "match_count": 2,
       "titles": [
         {
-          "title": "月薪3万，去内蒙草原给DeepSeek守机房",
-          "url": "https://wallstreetcn.com/articles/3769935",
-          "source": "华尔街见闻",
+          "title": "据财政部长联合声明：我们承诺避免，并呼吁所有国家避免保护主义行为，包括不合理的出口管制、囤积以及在受危机影响的碳氢化合物和其他供应链中采取的其他贸易壁垒。",
+          "url": "https://flash.jin10.com/detail/20260415211714650800",
+          "source": "金十数据",
           "ranks": [
-            10,
-            9,
-            7,
-            8,
-            6
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时50分"
+        },
+        {
+          "title": "阿斯麦首席财务官：上调业绩指引是由于浸没式DUV（深紫外光刻机）需求增加。 公司有能力满足DUV需求，正与供应商蔡司合作以提升产能。 2026年销售预测区间的下限反映了供应链和出口限制可能带来的挑战。 担忧包括可能的出口限制和供应链瓶颈。",
+          "url": "https://wallstreetcn.com/livenews/3088301",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时12分 ~ 17时27分]"
+          "appearance_count": 1,
+          "time_info": "16时27分"
         }
       ]
     },
@@ -401,23 +506,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时12分 ~ 07时50分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "供应链",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "阿斯麦首席财务官：上调业绩指引是由于浸没式DUV（深紫外光刻机）需求增加。 公司有能力满足DUV需求，正与供应商蔡司合作以提升产能。 2026年销售预测区间的下限反映了供应链和出口限制可能带来的挑战。 担忧包括可能的出口限制和供应链瓶颈。",
-          "url": "https://wallstreetcn.com/livenews/3088301",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时27分"
         }
       ]
     },

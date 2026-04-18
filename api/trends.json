@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-19T06:41:25.473374+08:00",
-  "total_titles_processed": 448,
+  "generated_at": "2026-04-19T07:41:26.623901+08:00",
+  "total_titles_processed": 470,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时50分 ~ 06时41分]"
+          "appearance_count": 10,
+          "time_info": "[00时50分 ~ 07时41分]"
         },
         {
           "title": "DeepSeek百亿融资背后的两张王牌",
@@ -44,8 +44,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时50分 ~ 06时41分]"
+          "appearance_count": 10,
+          "time_info": "[00时50分 ~ 07时41分]"
         }
       ]
     },
@@ -58,11 +58,12 @@
           "url": "https://www.cls.cn/detail/2348129",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时50分 ~ 06时41分]"
+          "appearance_count": 10,
+          "time_info": "[00时50分 ~ 07时41分]"
         }
       ]
     },
@@ -79,8 +80,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时50分 ~ 06时41分]"
+          "appearance_count": 10,
+          "time_info": "[00时50分 ~ 07时41分]"
         }
       ]
     }

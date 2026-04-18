@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-18T07:45:02.683798+08:00",
-  "total_titles_processed": 628,
+  "generated_at": "2026-04-18T10:50:51.833981+08:00",
+  "total_titles_processed": 808,
   "failed_sources": [],
   "trends": [
     {
@@ -40,8 +40,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时10分 ~ 07时45分]"
+          "appearance_count": 12,
+          "time_info": "[00时10分 ~ 10时50分]"
+        },
+        {
+          "title": "美股收盘：纳指13连涨 追平1992年以来最长连涨纪录",
+          "url": "https://www.cls.cn/detail/2348129",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时44分 ~ 10时50分]"
         },
         {
           "title": "Cal-Maine美股盘后跌4%。",
@@ -124,17 +136,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时53分 ~ 05时50分]"
-        },
-        {
-          "title": "美股收盘：纳指13连涨 追平1992年以来最长连涨纪录",
-          "url": "https://www.cls.cn/detail/2348129",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时44分 ~ 07时45分]"
         },
         {
           "title": "周五（4月17日）纽约尾盘，ICE美元指数涨0.01%，报98.227点，北京时间16:00之前大致持平、之后呈现出V形反转，本周累计下跌0.43%，周二北京时间24:00之前持续下挫，随后持续交投于98.200点附近。 彭博美元指数跌0.06%，报1192.87点，20:00以来也呈现出V形走势，本周累跌0.49%。 美元兑日元跌0.34%，报158.63日元，本周累计下跌0.40%，整体交投区间为159.86-157.50日元，周五美股开盘前后显著下挫。",

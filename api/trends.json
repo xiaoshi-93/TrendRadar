@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-19T02:59:49.163762+08:00",
-  "total_titles_processed": 378,
+  "generated_at": "2026-04-19T03:48:12.002366+08:00",
+  "total_titles_processed": 401,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "梁文锋被曝史上首次融资！DeepSeek V4彻底摆脱英伟达",
@@ -15,8 +15,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时50分 ~ 02时59分]"
+          "appearance_count": 5,
+          "time_info": "[00时50分 ~ 03时48分]"
+        },
+        {
+          "title": "DeepSeek百亿融资背后的两张王牌",
+          "url": "https://www.toutiao.com/trending/7630034603113188906/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时47分 ~ 03时48分]"
         }
       ]
     },
@@ -29,11 +40,12 @@
           "url": "https://www.cls.cn/detail/2348169",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时50分 ~ 02时59分]"
+          "appearance_count": 5,
+          "time_info": "[00时50分 ~ 03时48分]"
         }
       ]
     },
@@ -49,8 +61,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时50分 ~ 02时59分]"
+          "appearance_count": 5,
+          "time_info": "[00时50分 ~ 03时48分]"
         }
       ]
     },
@@ -67,8 +79,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时50分 ~ 02时59分]"
+          "appearance_count": 5,
+          "time_info": "[00时50分 ~ 03时48分]"
         }
       ]
     }

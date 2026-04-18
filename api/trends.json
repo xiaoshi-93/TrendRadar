@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-18T17:55:45.923379+08:00",
-  "total_titles_processed": 1227,
+  "generated_at": "2026-04-18T18:48:47.380124+08:00",
+  "total_titles_processed": 1271,
   "failed_sources": [],
   "trends": [
     {
@@ -32,19 +32,6 @@
           "time_info": "[00时10分 ~ 06时49分]"
         },
         {
-          "title": "美股三大期指集体走高 奈飞盘前大跌近10% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2347815",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时10分 ~ 15时16分]"
-        },
-        {
           "title": "美股收盘：纳指13连涨 追平1992年以来最长连涨纪录",
           "url": "https://www.cls.cn/detail/2348129",
           "source": "财联社热门",
@@ -56,8 +43,21 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时44分 ~ 17时55分]"
+          "appearance_count": 9,
+          "time_info": "[07时44分 ~ 18时48分]"
+        },
+        {
+          "title": "美股三大期指集体走高 奈飞盘前大跌近10% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2347815",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时10分 ~ 15时16分]"
         },
         {
           "title": "Cal-Maine美股盘后跌4%。",
@@ -202,8 +202,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时12分 ~ 17时55分]"
+          "appearance_count": 6,
+          "time_info": "[13时12分 ~ 18时48分]"
         }
       ]
     },
@@ -238,8 +238,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时12分 ~ 17时55分]"
+          "appearance_count": 6,
+          "time_info": "[13时12分 ~ 18时48分]"
         }
       ]
     },

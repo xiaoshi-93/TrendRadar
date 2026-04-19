@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-19T14:02:26.919561+08:00",
-  "total_titles_processed": 788,
+  "generated_at": "2026-04-19T16:09:03.126426+08:00",
+  "total_titles_processed": 897,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "梁文锋被曝史上首次融资！DeepSeek V4彻底摆脱英伟达",
@@ -19,27 +19,29 @@
           "time_info": "[00时50分 ~ 07时41分]"
         },
         {
+          "title": "DeepSeek 拟首次启动融资，估值超百亿美元，有何战略意图？对国内 AI 大模型赛道带来哪些改变？",
+          "url": "https://www.zhihu.com/question/2028616808370849247",
+          "source": "知乎",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时02分 ~ 16时09分]"
+        },
+        {
           "title": "DeepSeek被曝融资20亿",
           "url": "https://www.douyin.com/hot/2470868",
           "source": "抖音",
           "ranks": [
             1,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时25分 ~ 14时02分]"
-        },
-        {
-          "title": "DeepSeek 拟首次启动融资，估值超百亿美元，有何战略意图？对国内 AI 大模型赛道带来哪些改变？",
-          "url": "https://www.zhihu.com/question/2028616808370849247",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时02分"
+          "appearance_count": 4,
+          "time_info": "[11时25分 ~ 16时09分]"
         },
         {
           "title": "多名核心人员流失，AGI梦想不敌商业化现实？DeepSeek开启首次外部融资",
@@ -47,11 +49,45 @@
           "source": "澎湃新闻",
           "ranks": [
             14,
-            12
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时25分 ~ 16时09分]"
+        },
+        {
+          "title": "DeepSeek被曝启动融资",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E8%A2%AB%E6%9B%9D%E5%90%AF%E5%8A%A8%E8%9E%8D%E8%B5%84",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时02分 ~ 16时09分]"
+        },
+        {
+          "title": "DeepSeek被曝融资20亿",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E8%A2%AB%E6%9B%9D%E8%9E%8D%E8%B5%8420%E4%BA%BF",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时02分 ~ 16时09分]"
+        },
+        {
+          "title": "DeepSeek被曝融资20亿",
+          "url": "https://www.toutiao.com/trending/7630341053001829938/",
+          "source": "今日头条",
+          "ranks": [
+            21
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时25分 ~ 14时02分]"
+          "time_info": "[16时08分 ~ 16时09分]"
         },
         {
           "title": "DeepSeek百亿融资背后的两张王牌",
@@ -63,28 +99,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时47分 ~ 03时48分]"
-        },
-        {
-          "title": "DeepSeek被曝启动融资",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E8%A2%AB%E6%9B%9D%E5%90%AF%E5%8A%A8%E8%9E%8D%E8%B5%84",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时02分"
-        },
-        {
-          "title": "DeepSeek被曝融资20亿",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E8%A2%AB%E6%9B%9D%E8%9E%8D%E8%B5%8420%E4%BA%BF",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时02分"
         }
       ]
     },
@@ -103,8 +117,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时50分 ~ 14时02分]"
+          "appearance_count": 14,
+          "time_info": "[00时50分 ~ 16时09分]"
         },
         {
           "title": "洪灏：黄金价格翻倍“没有悬念”",
@@ -113,9 +127,40 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美股收盘：纳指13连涨 追平1992年以来最长连涨纪录",
+          "url": "https://www.cls.cn/detail/2348129",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时50分 ~ 14时02分]"
+        },
+        {
+          "title": "创纪录美股背后的虚假地基：两大\"一次性\"因素能撑多久？",
+          "url": "https://wallstreetcn.com/articles/3770342",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时08分 ~ 16时09分]"
         }
       ]
     },
@@ -130,11 +175,12 @@
           "ranks": [
             6,
             3,
-            18
+            18,
+            28
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时50分 ~ 14时02分]"
+          "appearance_count": 13,
+          "time_info": "[00时50分 ~ 16时09分]"
         },
         {
           "title": "AI烧钱无底洞？高盛给出回本路径：自动驾驶将引爆万亿利润池",
@@ -151,26 +197,6 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美股收盘：纳指13连涨 追平1992年以来最长连涨纪录",
-          "url": "https://www.cls.cn/detail/2348129",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时50分 ~ 14时02分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "具身智能",
       "match_count": 1,
       "titles": [
@@ -181,7 +207,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时02分"
         }

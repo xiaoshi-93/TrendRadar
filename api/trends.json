@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-19T07:41:26.623901+08:00",
-  "total_titles_processed": 470,
+  "generated_at": "2026-04-19T11:25:58.321558+08:00",
+  "total_titles_processed": 656,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "梁文锋被曝史上首次融资！DeepSeek V4彻底摆脱英伟达",
@@ -19,6 +19,17 @@
           "time_info": "[00时50分 ~ 07时41分]"
         },
         {
+          "title": "DeepSeek被曝融资20亿",
+          "url": "https://www.douyin.com/hot/2470868",
+          "source": "抖音",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时25分"
+        },
+        {
           "title": "DeepSeek百亿融资背后的两张王牌",
           "url": "https://www.toutiao.com/trending/7630034603113188906/",
           "source": "今日头条",
@@ -28,6 +39,46 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时47分 ~ 03时48分]"
+        },
+        {
+          "title": "多名核心人员流失，AGI梦想不敌商业化现实？DeepSeek开启首次外部融资",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33002057",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "自动驾驶",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "何同学自制自动驾驶办公椅",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BD%95%E5%90%8C%E5%AD%A6%E8%87%AA%E5%88%B6%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E5%8A%9E%E5%85%AC%E6%A4%85",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时50分 ~ 07时41分]"
+        },
+        {
+          "title": "AI烧钱无底洞？高盛给出回本路径：自动驾驶将引爆万亿利润池",
+          "url": "https://wallstreetcn.com/articles/3770318",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时25分"
         }
       ]
     },
@@ -41,11 +92,12 @@
           "source": "财联社热门",
           "ranks": [
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时50分 ~ 07时41分]"
+          "appearance_count": 11,
+          "time_info": "[00时50分 ~ 11时25分]"
         }
       ]
     },
@@ -59,29 +111,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时50分 ~ 07时41分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "自动驾驶",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "何同学自制自动驾驶办公椅",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BD%95%E5%90%8C%E5%AD%A6%E8%87%AA%E5%88%B6%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E5%8A%9E%E5%85%AC%E6%A4%85",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时50分 ~ 07时41分]"
+          "appearance_count": 11,
+          "time_info": "[00时50分 ~ 11时25分]"
         }
       ]
     }

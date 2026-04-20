@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-20T19:22:35.665792+08:00",
-  "total_titles_processed": 1289,
+  "generated_at": "2026-04-20T21:54:29.884735+08:00",
+  "total_titles_processed": 1458,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 12,
       "titles": [
         {
           "title": "美银Hartnett：本轮美股反弹正演变为\"多头陷阱\"",
@@ -43,6 +43,28 @@
           "time_info": "[17时10分 ~ 19时22分]"
         },
         {
+          "title": "美伊谈判悬而未决，美股低开，油价涨幅收窄，黄金小幅走软",
+          "url": "https://wallstreetcn.com/articles/3770361",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时54分"
+        },
+        {
+          "title": "美股盘初：三大股指小幅下跌，热门中概股多数下跌",
+          "url": "https://wallstreetcn.com/livenews/3091170",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时54分"
+        },
+        {
           "title": "国际油价大幅高开，美股期货跌近1%",
           "url": "https://wallstreetcn.com/livenews/3090667",
           "source": "华尔街见闻-快讯",
@@ -66,6 +88,17 @@
           "time_info": "[14时20分 ~ 14时21分]"
         },
         {
+          "title": "美股三大期指盘前集体走低 伊朗商船遭袭谈判迷雾笼罩 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2349767",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时54分"
+        },
+        {
           "title": "国际原油大幅高开5% 美股指期货跌0.9%",
           "url": "https://flash.jin10.com/detail/20260420060034058800",
           "source": "金十数据",
@@ -75,6 +108,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时42分"
+        },
+        {
+          "title": "美股开盘，道指接近平开，标普500指数跌0.1%，纳指跌0.2%。油气股上涨，埃克森美孚石油(XOM.N)涨0.6%，英国石油(BP.N)涨0.9%。Adobe(ADBE.O)涨1.6%，公司发布面向企业的人工智能代理CX Enterprise。",
+          "url": "https://flash.jin10.com/detail/20260420213116032800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时54分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-04-20）",
+          "url": "https://flash.jin10.com/detail/20260420211707456800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时54分"
+        },
+        {
+          "title": "周一美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3091132",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时54分"
         }
       ]
     },
@@ -129,17 +195,18 @@
           "url": "https://www.zhihu.com/question/2029232145541980805",
           "source": "知乎",
           "ranks": [
-            13
+            13,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时22分 ~ 21时54分]"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "谷歌公司与迈威尔科技洽谈打造新款AI芯片。（The Information）",
@@ -151,6 +218,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时50分 ~ 02时59分]"
+        },
+        {
+          "title": "迈威尔科技集团(MRVL.O)上涨5%，消息称谷歌正与该公司洽谈合作开发新型人工智能芯片。",
+          "url": "https://flash.jin10.com/detail/20260420213202086800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时54分"
         }
       ]
     },

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-23T05:55:26.551298+08:00",
-  "total_titles_processed": 548,
+  "generated_at": "2026-04-23T06:53:28.378018+08:00",
+  "total_titles_processed": 614,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 21,
       "titles": [
         {
           "title": "伊朗停火谈判生变，美股收跌，芯片股指十五连涨，油价再涨，金银下挫",
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时12分 ~ 05时55分]"
+          "appearance_count": 5,
+          "time_info": "[00时12分 ~ 06时53分]"
         },
         {
           "title": "地缘缓和叠加强劲财报，美股指高开，费城半导体指数连续第16天上涨，布油重回100美元、黄金涨幅回落",
@@ -55,17 +55,6 @@
           "time_info": "04时08分"
         },
         {
-          "title": "德州仪器（TXN）美股盘后维持上涨大约11%的表现。",
-          "url": "https://wallstreetcn.com/livenews/3092864",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时55分"
-        },
-        {
           "title": "特朗普延长对伊朗停火 美股三大期指小幅上涨 | 今夜看点",
           "url": "https://www.cls.cn/detail/2352533",
           "source": "财联社热门",
@@ -74,8 +63,32 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时12分 ~ 05时55分]"
+          "appearance_count": 5,
+          "time_info": "[00时12分 ~ 06时53分]"
+        },
+        {
+          "title": "德州仪器（TXN）美股盘后维持上涨大约11%的表现。",
+          "url": "https://wallstreetcn.com/livenews/3092864",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时55分 ~ 06时53分]"
+        },
+        {
+          "title": "美股收盘：纳指涨1.64%创历史新高 中东停火延长及稳健财报提振市场情绪",
+          "url": "https://www.cls.cn/detail/2352859",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时55分 ~ 06时53分]"
         },
         {
           "title": "IBM(IBM.N)美股盘后跌8%。",
@@ -84,20 +97,42 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时55分"
         },
         {
-          "title": "美股收盘：纳指涨1.64%创历史新高 中东停火延长及稳健财报提振市场情绪",
-          "url": "https://www.cls.cn/detail/2352859",
-          "source": "财联社热门",
+          "title": "特斯拉(TSLA.O)美股盘后涨幅被抹平，此前一度涨超4.5%。",
+          "url": "https://flash.jin10.com/detail/20260423060230487800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时53分"
+        },
+        {
+          "title": "特斯拉美股盘后跌幅扩大至1.2%，业绩报告发布后曾一度上涨4.5%。",
+          "url": "https://wallstreetcn.com/livenews/3092880",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时53分"
+        },
+        {
+          "title": "英特尔美股盘后涨1.8%。",
+          "url": "https://wallstreetcn.com/livenews/3092878",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时55分"
+          "time_info": "06时53分"
         },
         {
           "title": "金十图示：2026年04月22日（周三）美股热门股票行情一览（美股收盘）",
@@ -106,7 +141,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时55分"
         },
@@ -117,7 +152,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时55分"
         },
@@ -139,9 +174,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时55分"
+        },
+        {
+          "title": "特斯拉CFO在电话会上预计，今年资本开支超过250亿美元，（公司）之前预计会超过200亿美元。 尚未从美国最高法院关于关税的最新裁决中获得任何实际利益。 今年剩余时间内，预计将出现自由现金流（FCF）为负的情况。 特斯拉美股盘后转而下跌0.63%。",
+          "url": "https://wallstreetcn.com/livenews/3092868",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时53分"
         },
         {
           "title": "周三（4月22日），美股行业ETF多数收涨，半导体ETF涨2.62%，全球科技股指数ETF、科技行业ETF至少涨2.20%，能源业ETF涨1.20%，银行业ETF跌0.59%，全球航空业ETF跌3.25%。",
@@ -150,7 +196,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时55分"
         },
@@ -161,7 +207,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时55分"
         },
@@ -177,15 +223,98 @@
           "time_info": "00时12分"
         },
         {
+          "title": "特斯拉美股盘后涨幅迅速收窄至1.6%。",
+          "url": "https://wallstreetcn.com/livenews/3092865",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时53分"
+        },
+        {
           "title": "IBM（国际商业机器公司）一季度营收159.2亿美元，分析师预期156.7亿美元。 一季度软件营收70.5亿美元，同比增长11%，分析师预期70.4亿美元。 一季度咨询营收52.7亿美元，分析师预期52.9亿美元。 一季度运营每股收益（EPS）为1.91美元，分析师预期1.81美元。 一季度自由现金流（FCF）为22.2亿美元，分析师预期21.7亿美元。 一季度业绩报告不含商业预定（企业订单）。 维持全年营收预期（按恒定汇率）在增超5%不变，分析师预计增长5.1%。 IBM美股盘后跌5%。",
           "url": "https://wallstreetcn.com/livenews/3092832",
           "source": "华尔街见闻-快讯",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时55分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "自动驾驶",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "特斯拉CEO马斯克表示，我们长期的产量中大部分将是Cybercab（自动驾驶出租车）。 长远来看，唯一保留人工驾驶的车型将是新款Roadster。 新款Roadster或许能在一个月左右首次亮相。",
+          "url": "https://wallstreetcn.com/livenews/3092884",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时53分"
+        },
+        {
+          "title": "Zacks Investment Research分析师Andrew Rocco在一份报告中指出：特斯拉业绩报告证实，虽然传统的电动汽车业务不再快速增长，但它已足够稳定，可以为特斯拉在机器人和自动驾驶技术上的巨额投资提供资金。",
+          "url": "https://wallstreetcn.com/livenews/3092850",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时55分"
+        },
+        {
+          "title": "马斯克如今对FSD（全自动驾驶）在欧洲快速扩张的可能性却流露出罕见的悲观情绪。 此前，马斯克曾多次质疑欧盟监管机构的时间表。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3092874",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时53分"
+        },
+        {
+          "title": "特斯拉高管表示，从架构角度来看，欧洲版FSD（全自动驾驶）与美版相同，只是欧洲版包含了更多的欧洲地区数据。",
+          "url": "https://wallstreetcn.com/livenews/3092873",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时53分"
+        },
+        {
+          "title": "马斯克表示，预计到今年年底，将在大约十几个州实现无人监管的FSD（完全自动驾驶）或Robotaxi服务。 搭载Hardware 3的旧款车型不具备实现无人监管FSD的能力。",
+          "url": "https://wallstreetcn.com/livenews/3092871",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时53分"
+        },
+        {
+          "title": "马斯克表示，预计Cybercab（自动驾驶出租车）和Semi（电动卡车）的初期产量将会比较缓慢。",
+          "url": "https://wallstreetcn.com/livenews/3092870",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时53分"
         }
       ]
     },
@@ -222,7 +351,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时55分"
         }
@@ -242,8 +371,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时03分 ~ 05时55分]"
+          "appearance_count": 4,
+          "time_info": "[02时03分 ~ 06时53分]"
         },
         {
           "title": "阿里等巨头洽谈投资DeepSeek",
@@ -315,19 +444,19 @@
       ]
     },
     {
-      "keyword_group": "自动驾驶",
+      "keyword_group": "供应链",
       "match_count": 1,
       "titles": [
         {
-          "title": "Zacks Investment Research分析师Andrew Rocco在一份报告中指出：特斯拉业绩报告证实，虽然传统的电动汽车业务不再快速增长，但它已足够稳定，可以为特斯拉在机器人和自动驾驶技术上的巨额投资提供资金。",
-          "url": "https://wallstreetcn.com/livenews/3092850",
-          "source": "华尔街见闻-快讯",
+          "title": "特斯拉CEO埃隆·马斯克：公司正在全面加强供应链，以增加生产。",
+          "url": "https://flash.jin10.com/detail/20260423053845657800",
+          "source": "金十数据",
           "ranks": [
-            13
+            28
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时55分"
+          "time_info": "06时53分"
         }
       ]
     }

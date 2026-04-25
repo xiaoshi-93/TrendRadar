@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-25T21:16:19.425169+08:00",
-  "total_titles_processed": 1294,
+  "generated_at": "2026-04-25T22:50:30.827414+08:00",
+  "total_titles_processed": 1388,
   "failed_sources": [],
   "trends": [
     {
@@ -113,8 +113,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时18分 ~ 21时16分]"
+          "appearance_count": 13,
+          "time_info": "[13时18分 ~ 22时50分]"
         },
         {
           "title": "DeepSeek-V4 已公布，如何评价 DeepSeek-V4 的价格？",
@@ -254,7 +254,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时16分"
         },
@@ -319,6 +319,18 @@
           "time_info": "[17时02分 ~ 18时58分]"
         },
         {
+          "title": "DeepSeek V4换芯片的背后",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%E6%8D%A2%E8%8A%AF%E7%89%87%E7%9A%84%E8%83%8C%E5%90%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时16分 ~ 22时50分]"
+        },
+        {
           "title": "DeepSeek V4：一次注意力机制的结构性颠覆",
           "url": "https://wallstreetcn.com/articles/3770791",
           "source": "华尔街见闻",
@@ -341,17 +353,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时04分 ~ 10时52分]"
-        },
-        {
-          "title": "DeepSeek V4换芯片的背后",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%E6%8D%A2%E8%8A%AF%E7%89%87%E7%9A%84%E8%83%8C%E5%90%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时16分"
         },
         {
           "title": "DeepSeek-V4“解锁”国产芯片",
@@ -403,8 +404,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[06时49分 ~ 21时16分]"
+          "appearance_count": 17,
+          "time_info": "[06时49分 ~ 22时50分]"
         },
         {
           "title": "伊朗局势搅动市场，美股震荡收跌，芯片连涨17日，英特尔盘后飙升20%，原油四连涨",
@@ -566,8 +567,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时18分 ~ 21时16分]"
+          "appearance_count": 13,
+          "time_info": "[13时18分 ~ 22时50分]"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：就Coinbase与Gemini的行为起诉美国纽约。 （纽约）对“合约市场”监管过多。 纽约在预测市场领域的执法走得太远。（彭博法律Blaw）",
@@ -740,8 +741,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时52分 ~ 21时16分]"
+          "appearance_count": 14,
+          "time_info": "[10时52分 ~ 22时50分]"
         },
         {
           "title": "两年期美债收益率周五跌超5个基点，特朗普政府“暂停”司法调查改善投资者对宽松前景的预期",

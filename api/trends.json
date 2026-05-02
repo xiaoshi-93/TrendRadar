@@ -1,24 +1,12 @@
 {
-  "generated_at": "2026-05-03T05:50:34.939886+08:00",
-  "total_titles_processed": 447,
+  "generated_at": "2026-05-03T06:51:34.538205+08:00",
+  "total_titles_processed": 466,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
       "match_count": 3,
       "titles": [
-        {
-          "title": "OpenAI创始人阿尔特曼：我一直在想，相比于让模型变得更聪明，我更希望它们更便宜、更快速。但看来，让模型更聪明一点似乎仍然是最重要的事情。",
-          "url": "https://flash.jin10.com/detail/20260503042107626800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时51分 ~ 05时50分]"
-        },
         {
           "title": "“我真是个傻瓜”，马斯克大战OpenAI索赔1500亿美元",
           "url": "https://news.ifeng.com/c/8snnwdxDs8v",
@@ -27,8 +15,21 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时56分 ~ 05时50分]"
+          "appearance_count": 7,
+          "time_info": "[00时56分 ~ 06时51分]"
+        },
+        {
+          "title": "OpenAI创始人阿尔特曼：我一直在想，相比于让模型变得更聪明，我更希望它们更便宜、更快速。但看来，让模型更聪明一点似乎仍然是最重要的事情。",
+          "url": "https://flash.jin10.com/detail/20260503042107626800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            3,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时51分 ~ 06时51分]"
         },
         {
           "title": "马斯克手撕OpenAI为哪般",
@@ -57,8 +58,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时56分 ~ 05时50分]"
+          "appearance_count": 7,
+          "time_info": "[00时56分 ~ 06时51分]"
         },
         {
           "title": "美股股指创新高，下跌个股却远超上涨？高盛：动量拥挤，逆转将引发剧烈回撤",
@@ -68,8 +69,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时51分 ~ 05时50分]"
+          "appearance_count": 6,
+          "time_info": "[01时51分 ~ 06时51分]"
         }
       ]
     },
@@ -85,11 +86,12 @@
             10,
             14,
             13,
-            15
+            15,
+            18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时56分 ~ 05时50分]"
+          "appearance_count": 7,
+          "time_info": "[00时56分 ~ 06时51分]"
         }
       ]
     },

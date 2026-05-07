@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-07T17:38:44.154926+08:00",
-  "total_titles_processed": 1176,
+  "generated_at": "2026-05-07T19:53:01.437904+08:00",
+  "total_titles_processed": 1330,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时01分 ~ 17时38分]"
+          "appearance_count": 9,
+          "time_info": "[06时01分 ~ 19时53分]"
         },
         {
           "title": "美伊前景未明，美股高开，半导体股走强，康宁大涨17%，油价跌幅收窄至6%",
@@ -67,6 +67,18 @@
           "time_info": "[04时27分 ~ 06时01分]"
         },
         {
+          "title": "重温泡沫巅峰的感觉？当前的美股涨的比1999年还快！",
+          "url": "https://wallstreetcn.com/articles/3771706",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时38分 ~ 19时53分]"
+        },
+        {
           "title": "为什么美股在大涨特涨，巴菲特等金融专家却在持续减持？",
           "url": "https://www.zhihu.com/question/2034453660378382744",
           "source": "知乎",
@@ -111,17 +123,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
-        },
-        {
-          "title": "重温泡沫巅峰的感觉？当前的美股涨的比1999年还快！",
-          "url": "https://wallstreetcn.com/articles/3771706",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时38分"
         },
         {
           "title": "金十图示：2026年05月06日（周三）美股热门股票行情一览（美股收盘）",
@@ -185,7 +186,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时38分"
         },
@@ -235,7 +236,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时38分"
         },
@@ -367,11 +368,12 @@
           "url": "https://wallstreetcn.com/articles/3771684",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时37分 ~ 17时38分]"
+          "appearance_count": 4,
+          "time_info": "[11时37分 ~ 19时53分]"
         },
         {
           "title": "2/10年期美债收益率跌超7个基点，追随国际油价下跌的表现",
@@ -468,11 +470,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33105217",
           "source": "澎湃新闻",
           "ranks": [
-            18
+            18,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时38分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时38分 ~ 19时53分]"
         }
       ]
     },

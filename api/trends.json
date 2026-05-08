@@ -1,8 +1,81 @@
 {
-  "generated_at": "2026-05-09T04:09:29.682955+08:00",
-  "total_titles_processed": 468,
+  "generated_at": "2026-05-09T06:02:43.483743+08:00",
+  "total_titles_processed": 535,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "美股",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "美伊和谈疑云压制风险情绪，美股指收跌，油价走V，离岸人民币盘中创四年新高",
+          "url": "https://wallstreetcn.com/articles/3771708",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时19分 ~ 06时02分]"
+        },
+        {
+          "title": "美股收盘：三大股指收涨 英特尔涨近14%",
+          "url": "https://flash.jin10.com/detail/20260509040234696800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时09分"
+        },
+        {
+          "title": "美股大类资产类ETF普遍收涨，纳指ETF涨超2.3%，布油基金今年迄今涨超87%",
+          "url": "https://wallstreetcn.com/livenews/3100919",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        },
+        {
+          "title": "美股行业ETF多数收跌，网络股ETF跌超0.8%，半导体指数涨4.9%",
+          "url": "https://wallstreetcn.com/livenews/3100917",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        },
+        {
+          "title": "金十图示：2026年05月08日（周五）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260509040608974800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        },
+        {
+          "title": "金十图示：2026年05月08日（周五）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260509040559474800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        }
+      ]
+    },
     {
       "keyword_group": "谷歌 google gemini",
       "match_count": 2,
@@ -14,7 +87,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时09分"
         },
@@ -25,35 +98,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时09分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美伊和谈疑云压制风险情绪，美股指收跌，油价走V，离岸人民币盘中创四年新高",
-          "url": "https://wallstreetcn.com/articles/3771708",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时19分 ~ 04时09分]"
-        },
-        {
-          "title": "美股收盘：三大股指收涨 英特尔涨近14%",
-          "url": "https://flash.jin10.com/detail/20260509040234696800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "04时09分"
         }
@@ -77,6 +122,23 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "周五（5月8日）纽约尾盘，美国10年期基准国债收益率跌3.19个基点，报4.3541%，本周累计下跌1.57个基点，整体持续走低，交投于4.4624%-4.3140%区间。 两年期美债收益率跌2.66个基点，报3.8846%，北京时间20:30发布美国非农就业报告时拉升至3.9262%刷新日高、随后快速转跌，本周累涨0.71个基点，整体交投于3.8220%-3.9913%区间。",
+          "url": "https://wallstreetcn.com/livenews/3100929",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 1,
       "titles": [
@@ -87,7 +149,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时09分"
         }

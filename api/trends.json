@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-08T11:45:29.709596+08:00",
-  "total_titles_processed": 837,
+  "generated_at": "2026-05-08T14:02:44.300059+08:00",
+  "total_titles_processed": 965,
   "failed_sources": [],
   "trends": [
     {
@@ -30,6 +30,29 @@
           "time_info": "[00时56分 ~ 06时05分]"
         },
         {
+          "title": "美股收盘：三大指数集体收跌 AI应用和软件板块逆势走强",
+          "url": "https://www.cls.cn/detail/2365503",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时57分 ~ 14时02分]"
+        },
+        {
+          "title": "美伊和谈疑云压制风险情绪，美股指收跌，油价走V，离岸人民币盘中创四年新高",
+          "url": "https://wallstreetcn.com/articles/3771708",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时45分 ~ 14时02分]"
+        },
+        {
           "title": "重温泡沫巅峰的感觉？当前的美股涨的比1999年还快！",
           "url": "https://wallstreetcn.com/articles/3771706",
           "source": "华尔街见闻",
@@ -43,18 +66,6 @@
           "time_info": "[00时56分 ~ 07时57分]"
         },
         {
-          "title": "美股收盘：三大指数集体收跌 AI应用和软件板块逆势走强",
-          "url": "https://www.cls.cn/detail/2365503",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时57分 ~ 11时45分]"
-        },
-        {
           "title": "美伊和谈疑云压制风险情绪，美股指收跌，油价走V，金银冲高回落",
           "url": "https://wallstreetcn.com/articles/3771708",
           "source": "华尔街见闻",
@@ -64,17 +75,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
-        },
-        {
-          "title": "美伊和谈疑云压制风险情绪，美股指收跌，油价走V，离岸人民币盘中创四年新高",
-          "url": "https://wallstreetcn.com/articles/3771708",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时45分"
         },
         {
           "title": "金十图示：2026年05月07日（周四）美股热门股票行情一览（美股收盘）",
@@ -146,11 +146,12 @@
             10,
             9,
             8,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时53分 ~ 11时45分]"
+          "appearance_count": 6,
+          "time_info": "[02时53分 ~ 14时02分]"
         },
         {
           "title": "博通(AVGO.O)股价小幅走低，下跌3.6%，报410美元。有报道称博通与OpenAI的交易因融资问题受阻。",
@@ -175,6 +176,18 @@
           "time_info": "02时53分"
         },
         {
+          "title": "存储超级周期重塑韩国婚恋市场 OpenAI芯片项目据传陷入融资困境 | 环球市场",
+          "url": "https://www.cls.cn/detail/2365554",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时45分 ~ 14时02分]"
+        },
+        {
           "title": "OpenAI推出新模型，以供网络安全团队使用",
           "url": "https://flash.jin10.com/detail/20260508065544953800",
           "source": "金十数据",
@@ -184,17 +197,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
-        },
-        {
-          "title": "存储超级周期重塑韩国婚恋市场 OpenAI芯片项目据传陷入融资困境 | 环球市场",
-          "url": "https://www.cls.cn/detail/2365554",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时45分"
         },
         {
           "title": "据The Information：OpenAI与博通(AVGO.O)的AI芯片交易遭遇180亿美元融资障碍。",
@@ -214,7 +216,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时45分"
         },
@@ -244,8 +246,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时57分 ~ 11时45分]"
+          "appearance_count": 3,
+          "time_info": "[07时57分 ~ 14时02分]"
         },
         {
           "title": "金十图示：2026年05月08日（周五）上海金早盘价为1036.12元/克，较国际金价(1030.95元/克)高5.17元/克",
@@ -254,7 +256,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时45分"
         },
@@ -276,7 +278,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时45分"
         }
@@ -315,9 +317,37 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时45分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "DeepSeek估值450亿美元",
+          "url": "https://www.toutiao.com/trending/7637337504823119387/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        },
+        {
+          "title": "DeepSeek-TUI是如何火起来的",
+          "url": "https://www.toutiao.com/trending/7637338304165187078/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
         }
       ]
     },
@@ -330,11 +360,12 @@
           "url": "https://wallstreetcn.com/livenews/3100390",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时45分 ~ 14时02分]"
         },
         {
           "title": "周四（5月7日）纽约尾盘，ICE美元指数涨0.08%，报98.10点，日内交投区间为97.82-98.17点，北京时间22:30以来持续走高。",
@@ -380,8 +411,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时56分 ~ 11时45分]"
+          "appearance_count": 7,
+          "time_info": "[00时56分 ~ 14时02分]"
         }
       ]
     }

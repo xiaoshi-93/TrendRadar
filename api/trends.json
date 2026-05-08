@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-08T16:24:08.664741+08:00",
-  "total_titles_processed": 1123,
+  "generated_at": "2026-05-08T18:32:06.525051+08:00",
+  "total_titles_processed": 1274,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时45分 ~ 16时24分]"
+          "appearance_count": 6,
+          "time_info": "[11时45分 ~ 18时32分]"
         },
         {
           "title": "美伊和谈预期升温，欧美股市大涨，标普纳指再新高，中概股指跑赢大盘，原油重挫，黄金大涨",
@@ -162,8 +162,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时53分 ~ 16时24分]"
+          "appearance_count": 10,
+          "time_info": "[02时53分 ~ 18时32分]"
         },
         {
           "title": "博通(AVGO.O)股价小幅走低，下跌3.6%，报410美元。有报道称博通与OpenAI的交易因融资问题受阻。",
@@ -247,8 +247,69 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "DeepSeek崩了",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%B4%A9%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时31分 ~ 18时32分]"
+        },
+        {
+          "title": "DeepSeek崩了",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B4%A9%E4%BA%86&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时31分 ~ 18时32分]"
+        },
+        {
+          "title": "DeepSeek网页及API服务出现异常，官方称正在实施修复",
+          "url": "https://wallstreetcn.com/livenews/3100615",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时32分"
+        },
+        {
+          "title": "DeepSeek估值450亿美元",
+          "url": "https://www.toutiao.com/trending/7637337504823119387/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        },
+        {
+          "title": "DeepSeek-TUI是如何火起来的",
+          "url": "https://www.toutiao.com/trending/7637338304165187078/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "全球最大黄金买家之一波兰央行：计划增持105吨黄金，金价短线拉升",
@@ -260,8 +321,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时57分 ~ 16时24分]"
+          "appearance_count": 7,
+          "time_info": "[07时57分 ~ 18时32分]"
+        },
+        {
+          "title": "中国央行连续第18个月增持黄金，国际金价升破4700美元后贵不贵？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33109633",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时31分 ~ 18时32分]"
         },
         {
           "title": "金十图示：2026年05月08日（周五）上海金早盘价为1036.12元/克，较国际金价(1030.95元/克)高5.17元/克",
@@ -300,8 +372,19 @@
     },
     {
       "keyword_group": "供应链",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "三部门：加强供应链安全，探索建立智能体供应链安全信息共享和预警机制",
+          "url": "https://wallstreetcn.com/livenews/3100622",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时32分"
+        },
         {
           "title": "美国纽约联储主席威廉姆斯：中东冲突正在加剧供应链的紧张局势。 由于美国作为主要能源生产国的地位，在一定程度上“受到了保护”，但亚洲和欧洲正面临困境， 警告现状可能会产生“溢出效应”。 、",
           "url": "https://wallstreetcn.com/livenews/3100220",
@@ -325,6 +408,17 @@
           "time_info": "00时56分"
         },
         {
+          "title": "三部门：加强供应链安全，探索建立智能体供应链安全信息共享和预警机制",
+          "url": "https://flash.jin10.com/detail/20260508180811370800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时32分"
+        },
+        {
           "title": "钱江摩托：从未以任何形式针对张雪机车及行业友商实施供应链封锁、经销商围剿等不正当竞争行为",
           "url": "https://wallstreetcn.com/livenews/3100336",
           "source": "华尔街见闻-快讯",
@@ -338,30 +432,30 @@
       ]
     },
     {
-      "keyword_group": "DeepSeek 梁文锋",
+      "keyword_group": "美债",
       "match_count": 2,
       "titles": [
         {
-          "title": "DeepSeek估值450亿美元",
-          "url": "https://www.toutiao.com/trending/7637337504823119387/",
-          "source": "今日头条",
+          "title": "分析师：中东局势缓和预期打压美元与美债收益率",
+          "url": "https://flash.jin10.com/detail/20260508181748199800",
+          "source": "金十数据",
           "ranks": [
-            20
+            1
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时02分"
+          "time_info": "18时32分"
         },
         {
-          "title": "DeepSeek-TUI是如何火起来的",
-          "url": "https://www.toutiao.com/trending/7637338304165187078/",
-          "source": "今日头条",
+          "title": "周四（5月7日）纽约尾盘，美国10年期国债收益率涨4.1个基点，报4.393%，北京时间20:55前后刷新日低至4.316%，随后显著回升。 两年期美债收益率涨4.6个基点，报3.916%；30年期美债收益率涨2.9个基点，报4.972%。",
+          "url": "https://wallstreetcn.com/livenews/3100167",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            26
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时02分"
+          "time_info": "04时18分"
         }
       ]
     },
@@ -387,23 +481,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时18分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "周四（5月7日）纽约尾盘，美国10年期国债收益率涨4.1个基点，报4.393%，北京时间20:55前后刷新日低至4.316%，随后显著回升。 两年期美债收益率涨4.6个基点，报3.916%；30年期美债收益率涨2.9个基点，报4.972%。",
-          "url": "https://wallstreetcn.com/livenews/3100167",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
           ],
           "is_new": false,
           "appearance_count": 1,

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-10T19:57:04.762329+08:00",
-  "total_titles_processed": 1111,
+  "generated_at": "2026-05-10T21:42:20.491985+08:00",
+  "total_titles_processed": 1200,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "DeepSeek睁眼,开放识图模式",
@@ -19,8 +19,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时06分 ~ 19时57分]"
+          "appearance_count": 13,
+          "time_info": "[01时06分 ~ 21时42分]"
         },
         {
           "title": "deepseek 首轮融资估值近 450 亿美元，将对 AI 领域产生哪些影响？",
@@ -58,12 +58,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时37分 ~ 16时58分]"
+        },
+        {
+          "title": "DeepSeek 被曝融资 500 亿美元，将对 AI 领域产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2035400318624733173",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时42分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "24岁掌管55亿美元！从被OpenAI扫地出门到华尔街投资新王：Leopold的“开挂人生”",
@@ -118,6 +129,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时52分 ~ 11时46分]"
+        },
+        {
+          "title": "当OpenAI和Anthropic下场“抢生意”，Palantir的真对手来了",
+          "url": "https://wallstreetcn.com/articles/3771914",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时42分"
         }
       ]
     },
@@ -148,8 +170,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时37分 ~ 19时57分]"
+          "appearance_count": 6,
+          "time_info": "[14时37分 ~ 21时42分]"
         },
         {
           "title": "美股收盘：标普纳指周线6连阳 存储、CPU四大牛股均涨超10%",

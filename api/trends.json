@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-10T18:22:38.257974+08:00",
-  "total_titles_processed": 1014,
+  "generated_at": "2026-05-10T19:57:04.762329+08:00",
+  "total_titles_processed": 1111,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             11,
             15,
             16,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时06分 ~ 18时22分]"
+          "appearance_count": 12,
+          "time_info": "[01时06分 ~ 19时57分]"
         },
         {
           "title": "deepseek 首轮融资估值近 450 亿美元，将对 AI 领域产生哪些影响？",
@@ -137,6 +138,20 @@
           "time_info": "[01时06分 ~ 06时53分]"
         },
         {
+          "title": "远超预期！刚刚过去的财报季，美股“强得惊人”",
+          "url": "https://wallstreetcn.com/articles/3771916",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            4,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时37分 ~ 19时57分]"
+        },
+        {
           "title": "美股收盘：标普纳指周线6连阳 存储、CPU四大牛股均涨超10%",
           "url": "https://www.cls.cn/detail/2366633",
           "source": "财联社热门",
@@ -146,19 +161,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时06分 ~ 04时52分]"
-        },
-        {
-          "title": "远超预期！刚刚过去的财报季，美股“强得惊人”",
-          "url": "https://wallstreetcn.com/articles/3771916",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时37分 ~ 18时22分]"
         },
         {
           "title": "沙特阿美股价在早盘交易中上涨1.1%。",

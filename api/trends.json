@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-11T03:12:44.857895+08:00",
-  "total_titles_processed": 445,
+  "generated_at": "2026-05-11T04:55:35.674097+08:00",
+  "total_titles_processed": 493,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             7,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 03时12分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 04时55分]"
         },
         {
           "title": "DeepSeek睁眼,开放识图模式",
@@ -28,8 +29,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 03时12分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 04时55分]"
         },
         {
           "title": "周末要闻汇总：DeepSeek据悉拟募资最高500亿元人民币；证监会查处2起财务造假案件",
@@ -39,8 +40,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时55分 ~ 03时12分]"
+          "appearance_count": 3,
+          "time_info": "[01时55分 ~ 04时55分]"
         },
         {
           "title": "Kimi与DeepSeek到底谁更值钱",
@@ -84,8 +85,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 03时12分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 04时55分]"
         }
       ]
     },
@@ -99,11 +100,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            10
+            10,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时55分 ~ 03时12分]"
+          "appearance_count": 3,
+          "time_info": "[01时55分 ~ 04时55分]"
         }
       ]
     },
@@ -117,11 +119,12 @@
           "source": "今日头条",
           "ranks": [
             14,
-            22
+            22,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 01时55分]"
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 04时55分]"
         }
       ]
     }

@@ -1,8 +1,104 @@
 {
-  "generated_at": "2026-05-11T20:15:57.163028+08:00",
-  "total_titles_processed": 1234,
+  "generated_at": "2026-05-11T23:59:11.290415+08:00",
+  "total_titles_processed": 1406,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "美股",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "远超预期！刚刚过去的财报季，美股“强得惊人”",
+          "url": "https://wallstreetcn.com/articles/3771916",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时02分 ~ 07时58分]"
+        },
+        {
+          "title": "美伊局势僵持，美股盘初涨跌互现，英特尔、美光、高通、AMD股价齐创历史新高，现货白银涨7%站上85美元，布油再回100美元上方",
+          "url": "https://wallstreetcn.com/articles/3771942",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时58分 ~ 23时59分]"
+        },
+        {
+          "title": "特朗普拒绝伊朗和平提案 美股期指集体走低 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2368275",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时58分 ~ 23时59分]"
+        },
+        {
+          "title": "美股三大股指期货周一开盘微跌。",
+          "url": "https://flash.jin10.com/detail/20260511060044695800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时54分 ~ 07时58分]"
+        },
+        {
+          "title": "高通(QCOM.O)美股盘前涨超7%。",
+          "url": "https://flash.jin10.com/detail/20260511200023611800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时15分"
+        },
+        {
+          "title": "美股光通信概念股集体大涨，Applied Optoelectronics大涨逾24%，poet technologies大涨逾23%，Lumentum大涨逾17%，credo technology涨逾9%，Ciena涨逾5%。",
+          "url": "https://wallstreetcn.com/livenews/3101752",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时59分"
+        },
+        {
+          "title": "花旗：少数科技巨头推动美股跑赢的格局料将延续",
+          "url": "https://wallstreetcn.com/livenews/3101613",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时15分"
+        },
+        {
+          "title": "巴里克矿业ADR美股盘初一度收涨9.18%，报47.09美元，创3月份以来盘中新高。 该公司第一季度黄金产量71.9万盎司，超过了64万-68万盎司的指导区间，这主要得益于内华达金矿（NGM）和Veladero矿山的强劲表现，以及Loulo-Gounkoto矿山的产能提升；铜产量为4.9万吨，符合计划。",
+          "url": "https://wallstreetcn.com/livenews/3101731",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时59分"
+        }
+      ]
+    },
     {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 4,
@@ -62,61 +158,31 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 4,
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
       "titles": [
         {
-          "title": "远超预期！刚刚过去的财报季，美股“强得惊人”",
-          "url": "https://wallstreetcn.com/articles/3771916",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时02分 ~ 07时58分]"
-        },
-        {
-          "title": "美股三大股指期货周一开盘微跌。",
-          "url": "https://flash.jin10.com/detail/20260511060044695800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时54分 ~ 07时58分]"
-        },
-        {
-          "title": "高通(QCOM.O)美股盘前涨超7%。",
-          "url": "https://flash.jin10.com/detail/20260511200023611800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时15分"
-        },
-        {
-          "title": "花旗：少数科技巨头推动美股跑赢的格局料将延续",
-          "url": "https://wallstreetcn.com/livenews/3101613",
+          "title": "英国审慎监管局（PRA）的伍兹表示，有理由预期 ChatGPT 和 Mythos 将给英国金融服务行业带来“相当严重的 disruption（冲击/扰乱）”。 英国金融行为监管局（FCA）的拉蒂表示，对私募市场中的诚信问题及金融犯罪风险感到“担忧”。",
+          "url": "https://wallstreetcn.com/livenews/3101759",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时15分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
+          "time_info": "23时59分"
+        },
+        {
+          "title": "英国审慎监管局局长伍兹：合理预期ChatGPT和Mythos将对英国金融服务造成相当显著的干扰。",
+          "url": "https://flash.jin10.com/detail/20260511233650428800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时59分"
+        },
         {
           "title": "当OpenAI和Anthropic下场“抢生意”，Palantir的真对手来了",
           "url": "https://wallstreetcn.com/articles/3771914",
@@ -141,7 +207,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时15分"
         }

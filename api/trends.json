@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-16T19:06:16.333544+08:00",
-  "total_titles_processed": 1130,
+  "generated_at": "2026-05-16T21:42:55.417155+08:00",
+  "total_titles_processed": 1254,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时00分 ~ 19时06分]"
+          "appearance_count": 10,
+          "time_info": "[07时00分 ~ 21时42分]"
         },
         {
           "title": "全球长债收益率飙升，美股走低，纳指跌2%，英伟达跌4%，白银大跌9%，黄金跌3%",
@@ -222,11 +222,12 @@
           "ranks": [
             8,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时32分 ~ 19时06分]"
+          "appearance_count": 6,
+          "time_info": "[12时32分 ~ 21时42分]"
         },
         {
           "title": "阿克曼：出售谷歌股票并非做空公司。我们长期非常看好Alphabet。",
@@ -372,11 +373,12 @@
           "ranks": [
             8,
             3,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时00分 ~ 19时06分]"
+          "appearance_count": 10,
+          "time_info": "[07时00分 ~ 21时42分]"
         },
         {
           "title": "黑色星期五！全球股债双杀：韩股暴跌6%，美债收益率飙升，这次市场在怕什么？",
@@ -392,6 +394,19 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[01时44分 ~ 19时06分]"
+        },
+        {
+          "title": "美债技术性破位，日债抛售恐慌，全球利率风暴正在形成",
+          "url": "https://wallstreetcn.com/articles/3772386",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时32分 ~ 21时42分]"
         },
         {
           "title": "油价与美债收益率齐升 美股期指集体走低 芯片股盘前普跌 | 今夜看点",
@@ -418,18 +433,6 @@
           "time_info": "[05时09分 ~ 08时03分]"
         },
         {
-          "title": "美债技术性破位，日债抛售恐慌，全球利率风暴正在形成",
-          "url": "https://wallstreetcn.com/articles/3772386",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时32分 ~ 19时06分]"
-        },
-        {
           "title": "美债价格连跌五周",
           "url": "https://wallstreetcn.com/livenews/3104665",
           "source": "华尔街见闻-快讯",
@@ -445,18 +448,30 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "市场消息：OpenAI与马耳他达成合作，向所有公民提供ChatGPT Plus服务。",
           "url": "https://flash.jin10.com/detail/20260516184026768800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时06分 ~ 21时42分]"
+        },
+        {
+          "title": "OpenAI与马耳他达成协议，所有马耳他民众都能使用ChatGPT Plus",
+          "url": "https://wallstreetcn.com/livenews/3104794",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时06分"
+          "time_info": "21时42分"
         },
         {
           "title": "OpenAI联手Plaid，为大众提供量身定制的财务咨询",
@@ -484,7 +499,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "Deepseek不语 只是一味跟团",
@@ -510,6 +525,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时45分 ~ 19时06分]"
+        },
+        {
+          "title": "为什么 Deepseek 在输入 <think 后会匹配到疑似其他对话?",
+          "url": "https://www.zhihu.com/question/2038402853274915914",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时42分"
         }
       ]
     },

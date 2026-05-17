@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-17T19:13:15.637387+08:00",
-  "total_titles_processed": 988,
+  "generated_at": "2026-05-17T21:42:14.781685+08:00",
+  "total_titles_processed": 1108,
   "failed_sources": [],
   "trends": [
     {
@@ -57,8 +57,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时13分 ~ 19时13分]"
+          "appearance_count": 7,
+          "time_info": "[12时13分 ~ 21时42分]"
         },
         {
           "title": "“商品老将”：美股就像“冲向沙滩的孩子”，看不到“远方游弋的鲨鱼鳍”，AI算力的本质是石油",
@@ -77,7 +77,7 @@
     },
     {
       "keyword_group": "具身智能",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "国家人工智能应用中试基地（具身智能）揭牌，18家企业集中签约",
@@ -85,11 +85,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            11
+            11,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时51分 ~ 19时13分]"
+          "appearance_count": 3,
+          "time_info": "[17时51分 ~ 21时42分]"
         },
         {
           "title": "摩尔线程与国家具身智能应用中试基地签署战略合作协议",
@@ -106,6 +107,17 @@
           "time_info": "[12时13分 ~ 19时13分]"
         },
         {
+          "title": "国家人工智能应用中试基地（具身智能）揭牌 18家企业集中签约",
+          "url": "https://flash.jin10.com/detail/20260517194359233800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时42分"
+        },
+        {
           "title": "摩尔线程与国家具身智能应用中试基地签署战略合作协议",
           "url": "https://flash.jin10.com/detail/20260517103109985800",
           "source": "金十数据",
@@ -115,6 +127,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "伯克希尔“新王新气象”：Q1减仓零售、油气，加仓谷歌，还建仓了航空",
+          "url": "https://wallstreetcn.com/articles/3772402",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时03分 ~ 07时58分]"
+        },
+        {
+          "title": "下周重磅日程：普京访华、英伟达财报、谷歌I/O大会、中国经济数据",
+          "url": "https://wallstreetcn.com/articles/3772335",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时41分 ~ 21时42分]"
         }
       ]
     },
@@ -130,11 +171,12 @@
             5,
             8,
             9,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时03分 ~ 19时13分]"
+          "appearance_count": 15,
+          "time_info": "[01时03分 ~ 21时42分]"
         },
         {
           "title": "30年美债没守住5%“生死线”！美银Hartnett：“地狱之门”已打开，6月初是“卖出窗口”",
@@ -142,11 +184,12 @@
           "source": "华尔街见闻",
           "ranks": [
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时35分 ~ 19时13分]"
+          "appearance_count": 6,
+          "time_info": "[15时35分 ~ 21时42分]"
         }
       ]
     },
@@ -162,24 +205,6 @@
             11,
             10,
             8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时03分 ~ 07时58分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "伯克希尔“新王新气象”：Q1减仓零售、油气，加仓谷歌，还建仓了航空",
-          "url": "https://wallstreetcn.com/articles/3772402",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            4
           ],
           "is_new": false,
           "appearance_count": 8,

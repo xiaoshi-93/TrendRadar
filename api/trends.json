@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-17T21:42:14.781685+08:00",
-  "total_titles_processed": 1108,
+  "generated_at": "2026-05-17T23:02:34.569738+08:00",
+  "total_titles_processed": 1209,
   "failed_sources": [],
   "trends": [
     {
@@ -57,8 +57,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时13分 ~ 21时42分]"
+          "appearance_count": 8,
+          "time_info": "[12时13分 ~ 23时02分]"
         },
         {
           "title": "“商品老将”：美股就像“冲向沙滩的孩子”，看不到“远方游弋的鲨鱼鳍”，AI算力的本质是石油",
@@ -113,7 +113,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时42分"
         },
@@ -151,11 +151,12 @@
           "url": "https://wallstreetcn.com/articles/3772335",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时41分 ~ 21时42分]"
+          "appearance_count": 3,
+          "time_info": "[21时41分 ~ 23时02分]"
         }
       ]
     },
@@ -163,6 +164,19 @@
       "keyword_group": "美债",
       "match_count": 2,
       "titles": [
+        {
+          "title": "30年美债没守住5%“生死线”！美银Hartnett：“地狱之门”已打开，6月初是“卖出窗口”",
+          "url": "https://wallstreetcn.com/articles/3772363",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时35分 ~ 23时02分]"
+        },
         {
           "title": "美股收盘：通胀忧虑升温压制AI行情 美债收益率飙升 三大指数均跌超1%",
           "url": "https://www.cls.cn/detail/2373036",
@@ -177,19 +191,6 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[01时03分 ~ 21时42分]"
-        },
-        {
-          "title": "30年美债没守住5%“生死线”！美银Hartnett：“地狱之门”已打开，6月初是“卖出窗口”",
-          "url": "https://wallstreetcn.com/articles/3772363",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时35分 ~ 21时42分]"
         }
       ]
     },

@@ -1,253 +1,56 @@
 {
-  "generated_at": "2026-05-17T23:02:34.569738+08:00",
-  "total_titles_processed": 1209,
+  "generated_at": "2026-05-18T01:03:01.790837+08:00",
+  "total_titles_processed": 320,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美股",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "原油大涨掀债市抛售潮，美股回落，英伟达跌超4%，长债收益率创数年新高，金属重挫",
-          "url": "https://wallstreetcn.com/articles/3772341",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时03分 ~ 06时53分]"
-        },
-        {
-          "title": "凯文·沃什上任美联储主席首日，美股全线走低，金银大幅下挫，国际油价拉升，沃什的新政预期有多悲观？",
-          "url": "https://www.zhihu.com/question/2038931746901710643",
-          "source": "知乎",
-          "ranks": [
-            14,
-            11,
-            9,
-            8,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时03分 ~ 12时13分]"
-        },
-        {
-          "title": "史上最大IPO来袭！SpaceX据传最早6月12日登陆美股 目标估值高达1.75万亿美元",
-          "url": "https://www.cls.cn/detail/2373172",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            10,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时03分 ~ 15时35分]"
-        },
-        {
-          "title": "环球下周看点：英伟达财报与美联储会议纪要来袭 美股行情迎关键考验",
-          "url": "https://www.cls.cn/detail/2373249",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时13分 ~ 23时02分]"
-        },
-        {
-          "title": "“商品老将”：美股就像“冲向沙滩的孩子”，看不到“远方游弋的鲨鱼鳍”，AI算力的本质是石油",
-          "url": "https://wallstreetcn.com/articles/3772431",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时13分 ~ 17时51分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "具身智能",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "国家人工智能应用中试基地（具身智能）揭牌，18家企业集中签约",
-          "url": "https://wallstreetcn.com/livenews/3104861",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            11,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时51分 ~ 21时42分]"
-        },
-        {
-          "title": "摩尔线程与国家具身智能应用中试基地签署战略合作协议",
-          "url": "https://wallstreetcn.com/livenews/3104831",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            14,
-            22,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时13分 ~ 19时13分]"
-        },
-        {
-          "title": "国家人工智能应用中试基地（具身智能）揭牌 18家企业集中签约",
-          "url": "https://flash.jin10.com/detail/20260517194359233800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时42分"
-        },
-        {
-          "title": "摩尔线程与国家具身智能应用中试基地签署战略合作协议",
-          "url": "https://flash.jin10.com/detail/20260517103109985800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时13分"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "伯克希尔“新王新气象”：Q1减仓零售、油气，加仓谷歌，还建仓了航空",
-          "url": "https://wallstreetcn.com/articles/3772402",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时03分 ~ 07时58分]"
-        },
         {
           "title": "下周重磅日程：普京访华、英伟达财报、谷歌I/O大会、中国经济数据",
           "url": "https://wallstreetcn.com/articles/3772335",
           "source": "华尔街见闻",
           "ranks": [
-            5,
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时41分 ~ 23时02分]"
+          "appearance_count": 2,
+          "time_info": "[01时02分 ~ 01时03分]"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "30年美债没守住5%“生死线”！美银Hartnett：“地狱之门”已打开，6月初是“卖出窗口”",
           "url": "https://wallstreetcn.com/articles/3772363",
           "source": "华尔街见闻",
           "ranks": [
-            3,
-            2,
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时35分 ~ 23时02分]"
-        },
-        {
-          "title": "美股收盘：通胀忧虑升温压制AI行情 美债收益率飙升 三大指数均跌超1%",
-          "url": "https://www.cls.cn/detail/2373036",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            8,
-            9,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时03分 ~ 21时42分]"
+          "appearance_count": 2,
+          "time_info": "[01时02分 ~ 01时03分]"
         }
       ]
     },
     {
-      "keyword_group": "DeepSeek 梁文锋",
+      "keyword_group": "美股",
       "match_count": 1,
       "titles": [
         {
-          "title": "为什么 Deepseek 在输入 <think 后会匹配到疑似其他对话?",
-          "url": "https://www.zhihu.com/question/2038402853274915914",
-          "source": "知乎",
+          "title": "环球下周看点：英伟达财报与美联储会议纪要来袭 美股行情迎关键考验",
+          "url": "https://www.cls.cn/detail/2373249",
+          "source": "财联社热门",
           "ranks": [
-            11,
-            10,
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时03分 ~ 07时58分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "OpenAI与马耳他达成协议，所有马耳他民众都能使用ChatGPT Plus",
-          "url": "https://wallstreetcn.com/livenews/3104794",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17,
-            22,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 07时58分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "专家建议金价大跌多买小跌少买",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E5%BB%BA%E8%AE%AE%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C%E5%A4%9A%E4%B9%B0%E5%B0%8F%E8%B7%8C%E5%B0%91%E4%B9%B0%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30,
-            23,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时03分 ~ 07时58分]"
+          "appearance_count": 2,
+          "time_info": "[01时02分 ~ 01时03分]"
         }
       ]
     }

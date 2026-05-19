@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-20T02:10:25.951106+08:00",
-  "total_titles_processed": 308,
+  "generated_at": "2026-05-20T04:47:55.913943+08:00",
+  "total_titles_processed": 390,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 15,
+      "match_count": 19,
       "titles": [
         {
           "title": "谷歌新增Android Vibe编程支持到Google AI Studio。",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时10分"
+        },
+        {
+          "title": "英伟达：与谷歌云助力下一波人工智能开发者。",
+          "url": "https://wallstreetcn.com/livenews/3106251",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
         },
         {
           "title": "谷歌(GOOG.O)： 推出谷歌图片图像创作与编辑应用程序。",
@@ -41,6 +52,17 @@
           "time_info": "02时10分"
         },
         {
+          "title": "谷歌年度开发者大会揭幕 半导体板块不振美股持续调整 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2375879",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时10分 ~ 04时47分]"
+        },
+        {
           "title": "Gemini Omni亮相 谷歌强化视频生成与编辑能力",
           "url": "https://flash.jin10.com/detail/20260520015749647800",
           "source": "金十数据",
@@ -63,17 +85,6 @@
           "time_info": "02时10分"
         },
         {
-          "title": "谷歌年度开发者大会揭幕 半导体板块不振美股持续调整 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2375879",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时10分"
-        },
-        {
           "title": "谷歌发布Gemini 3.5系列模型",
           "url": "https://wallstreetcn.com/livenews/3106192",
           "source": "华尔街见闻-快讯",
@@ -83,6 +94,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时10分"
+        },
+        {
+          "title": "谷歌I/O大会今夜揭幕： Gemini 4.0悬念、全栈智能体与AI购物",
+          "url": "https://wallstreetcn.com/articles/3772609",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
         },
         {
           "title": "谷歌Gemini：Gemini Spark本周将向受信任的测试者推出，下周将作为Beta版本面向美国的Google AI Ultra订阅用户；还将通过 Google Workspace和Gemini Enterprise向企业推出Gemini Spark的版本。",
@@ -118,6 +140,17 @@
           "time_info": "02时10分"
         },
         {
+          "title": "标普500指数初步收跌0.7%，原材料板块跌2.3%，电信、可选消费、金融板块至多跌1.7%，科技板块跌0.9%，能源板块涨1.2%。 纳斯达克100指数初步收跌0.6%，成分股中，Doordash初步收跌4.9%，高通、思科、AppLovin、派拓网络PANW、汤森路透、博通、谷歌A、铿腾电子至多跌3.5%，拼多多涨2.5%，闪迪涨3.4%，Arm控股涨3.8%，迈威尔科技涨4%。 思科初步收跌3%，波音、3M、亚马逊跌超2%，领跌道指成分股，雪佛龙涨1.5%。 半导体指数跌0.1%，银行指数跌0.9%。",
+          "url": "https://wallstreetcn.com/livenews/3106235",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
+        },
+        {
           "title": "谷歌推出全天候AI代理Gemini Spark 可后台执行任务",
           "url": "https://flash.jin10.com/detail/20260520014351759800",
           "source": "金十数据",
@@ -151,6 +184,17 @@
           "time_info": "02时10分"
         },
         {
+          "title": "谷歌I/O大会要点总结",
+          "url": "https://wallstreetcn.com/livenews/3106229",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
+        },
+        {
           "title": "谷歌首席执行官：Gemini 3.5 PRO 将于下个月发布。",
           "url": "https://flash.jin10.com/detail/20260520013735470800",
           "source": "金十数据",
@@ -176,7 +220,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 12,
       "titles": [
         {
           "title": "谈判前景反复无常，油价先跌后涨，美股承压，科技股领跌",
@@ -186,8 +230,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时10分"
+          "appearance_count": 2,
+          "time_info": "[02时10分 ~ 04时47分]"
         },
         {
           "title": "金十图示：2026年05月19日（周二）美股热门股票行情一览（美股盘中）",
@@ -212,6 +256,28 @@
           "time_info": "02时10分"
         },
         {
+          "title": "黄金ETF收跌超1.6%，领跌美股大类资产类ETF，布油基金涨2%",
+          "url": "https://wallstreetcn.com/livenews/3106248",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
+        },
+        {
+          "title": "周二（5月19日），美股行业ETF多数收跌，航空业ETF收跌2.90%，金融业ETF、网络股指数ETF、可选消费ETF跌1.11%，半导体ETF跌0.4%，医疗业ETF涨1.1%，能源业ETF涨1.17%。",
+          "url": "https://wallstreetcn.com/livenews/3106247",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
+        },
+        {
           "title": "美银基金经理调查：美股超配程度接近“卖出信号”，30年期收益率恐升破6%",
           "url": "https://wallstreetcn.com/articles/3772622",
           "source": "华尔街见闻",
@@ -223,6 +289,39 @@
           "time_info": "02时10分"
         },
         {
+          "title": "周二（5月19日），彭博电动汽车价格回报指数跌1.94%，报3843.70点。 北京时间09:45开始一波加速下跌的行情，美股开盘再次加速下跌。",
+          "url": "https://wallstreetcn.com/livenews/3106240",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
+        },
+        {
+          "title": "金十图示：2026年05月19日（周二）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260520040952291800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
+        },
+        {
+          "title": "金十图示：2026年05月19日（周二）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260520040951743800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
+        },
+        {
           "title": "美股开盘：西部数据、闪迪跌超3%",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%BC%80%E7%9B%98%EF%BC%9A%E8%A5%BF%E9%83%A8%E6%95%B0%E6%8D%AE%E3%80%81%E9%97%AA%E8%BF%AA%E8%B7%8C%E8%B6%853%25",
           "source": "百度热搜",
@@ -232,6 +331,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时10分"
+        },
+        {
+          "title": "美股收盘：三大股指收跌 高通跌近4%",
+          "url": "https://flash.jin10.com/detail/20260520040118773800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
         },
         {
           "title": "华尔街警告：美股“黄金时代”结束",
@@ -247,6 +357,45 @@
       ]
     },
     {
+      "keyword_group": "美元",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨1.40%，暂报2677.96点。 MarketVectorTM数字资产100中盘指数涨1.57%，报2929.74点。 MarketVector数字资产100指数涨0.59%，报15072.38点。 目前，Solana跌0.07%，狗狗币跌0.43%，XRP跌1.10%。 比特币跌0.02%，暂报76725.93美元；以太坊涨0.13%，暂报2116.42美元。",
+          "url": "https://wallstreetcn.com/livenews/3106183",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时10分"
+        },
+        {
+          "title": "彭博美元指数涨超0.3%",
+          "url": "https://wallstreetcn.com/livenews/3106228",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
+        },
+        {
+          "title": "周二（5月19日）纽约尾盘，彭博谷物分类指数跌0.14%，报32.8808点，北京时间14:45涨至33.3410点刷新日高，随后逐步下挫。 CBOT玉米期货跌0.37%，CBOT小麦期货涨0.53%。 CBOT大豆期货跌0.23%，报12.1025美元/蒲式耳，豆粕期货跌0.66%，豆油期货跌0.34%。",
+          "url": "https://wallstreetcn.com/livenews/3106221",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 2,
       "titles": [
@@ -255,22 +404,41 @@
           "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E6%9C%80%E6%96%B0%E5%9B%9E%E5%BA%94%23&t=31&band_rank=5&Refer=top",
           "source": "微博",
           "ranks": [
-            5
+            5,
+            16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时10分"
+          "appearance_count": 2,
+          "time_info": "[02时10分 ~ 04时47分]"
         },
         {
           "title": "DeepSeek：特殊字符引发模型幻觉，不涉及安全问题或隐私泄露",
           "url": "https://www.cls.cn/detail/2375756",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时10分 ~ 04时47分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI 推出“保证算力容量”服务，打响锁定长期客户续约战",
+          "url": "https://wallstreetcn.com/livenews/3106231",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时10分"
+          "time_info": "04时47分"
         }
       ]
     },
@@ -286,25 +454,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时10分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨1.40%，暂报2677.96点。 MarketVectorTM数字资产100中盘指数涨1.57%，报2929.74点。 MarketVector数字资产100指数涨0.59%，报15072.38点。 目前，Solana跌0.07%，狗狗币跌0.43%，XRP跌1.10%。 比特币跌0.02%，暂报76725.93美元；以太坊涨0.13%，暂报2116.42美元。",
-          "url": "https://wallstreetcn.com/livenews/3106183",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时10分"
+          "appearance_count": 2,
+          "time_info": "[02时10分 ~ 04时47分]"
         }
       ]
     }

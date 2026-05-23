@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-23T17:05:27.664312+08:00",
-  "total_titles_processed": 976,
+  "generated_at": "2026-05-23T19:18:18.338370+08:00",
+  "total_titles_processed": 1092,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时42分 ~ 17时05分]"
+          "appearance_count": 4,
+          "time_info": "[11时42分 ~ 19时18分]"
+        },
+        {
+          "title": "“华尔街最准分析师”警告：巨型IPO恐令美股重蹈百年泡沫史覆辙",
+          "url": "https://www.cls.cn/detail/2379735",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时05分 ~ 19时18分]"
         },
         {
           "title": "金十图示：2026年05月22日（周五）美股热门股票行情一览（美股收盘）",
@@ -63,17 +75,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时21分 ~ 07时07分]"
-        },
-        {
-          "title": "“华尔街最准分析师”警告：巨型IPO恐令美股重蹈百年泡沫史覆辙",
-          "url": "https://www.cls.cn/detail/2379735",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时05分"
         },
         {
           "title": "本周美股存储芯片指数涨超3.3%，希捷股价八周超过翻倍",
@@ -133,11 +134,12 @@
           "source": "贴吧",
           "ranks": [
             2,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时42分 ~ 17时05分]"
+          "appearance_count": 4,
+          "time_info": "[11时42分 ~ 19时18分]"
         },
         {
           "title": "曝 DeepSeek 推进 700 亿元融资，梁文锋称坚持开源 AI 模型，此举意味着什么？",
@@ -145,11 +147,12 @@
           "source": "知乎",
           "ranks": [
             10,
-            3
+            3,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时38分 ~ 17时05分]"
+          "appearance_count": 3,
+          "time_info": "[14时38分 ~ 19时18分]"
         },
         {
           "title": "DeepSeek-V4-Pro API价格永久下调至原价25%",
@@ -158,7 +161,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时05分"
         }
@@ -166,18 +169,19 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "科技股力撑美股走强，道指新高，标普连涨八周，沃勒鹰派措辞打压美债，原油宽幅震荡",
           "url": "https://wallstreetcn.com/articles/3772907",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时42分 ~ 17时05分]"
+          "appearance_count": 4,
+          "time_info": "[11时42分 ~ 19时18分]"
         },
         {
           "title": "伊朗局势主导市场，纳指惊险收涨，道指收创新高，原油冲高转跌，美债走势分化",
@@ -189,6 +193,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时57分 ~ 07时07分]"
+        },
+        {
+          "title": "华尔街最新观点称，美股下跌就能抑制商品通胀，并阶段结束美债高收益率现状，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2041150006099501503",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
         },
         {
           "title": "两年期美债收益率在沃什就任美联储主席当天涨约3.8个基点，本周两年期实际收益率狂飙将近30个基点",
@@ -243,8 +258,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时42分 ~ 17时05分]"
+          "appearance_count": 4,
+          "time_info": "[11时42分 ~ 19时18分]"
         },
         {
           "title": "一周热榜精选：沃什履新之际加息呼声渐高！SpaceX和OpenAI即将IPO",

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-27T05:50:24.329776+08:00",
-  "total_titles_processed": 483,
+  "generated_at": "2026-05-27T07:14:12.343617+08:00",
+  "total_titles_processed": 541,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "美伊谈判前景提振市场 美股三大期指集体上涨 美光盘前大涨超8% | 今夜看点",
@@ -16,8 +16,30 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时44分 ~ 05时50分]"
+          "appearance_count": 6,
+          "time_info": "[00时44分 ~ 07时14分]"
+        },
+        {
+          "title": "美股收盘：标普纳指再创新高 美光科技暴涨19%",
+          "url": "https://www.cls.cn/detail/2382288",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时13分 ~ 07时14分]"
+        },
+        {
+          "title": "美股收盘：标普500和纳指再创新高",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E6%A0%87%E6%99%AE500%E5%92%8C%E7%BA%B3%E6%8C%87%E5%86%8D%E5%88%9B%E6%96%B0%E9%AB%98",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时13分 ~ 07时14分]"
         },
         {
           "title": "新兴市场ETF收涨超3.8%，领跑美股大类资产类ETF，布油基金跌超3.4%",
@@ -26,7 +48,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时50分"
         },
@@ -37,7 +59,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时50分"
         },
@@ -48,7 +70,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时50分"
         },
@@ -96,8 +118,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时44分 ~ 05时50分]"
+          "appearance_count": 6,
+          "time_info": "[00时44分 ~ 07时14分]"
         }
       ]
     },
@@ -129,7 +151,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时50分"
         }

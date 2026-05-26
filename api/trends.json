@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-27T00:44:29.401962+08:00",
-  "total_titles_processed": 307,
+  "generated_at": "2026-05-27T03:23:05.240902+08:00",
+  "total_titles_processed": 403,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2382097",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时44分"
+          "appearance_count": 3,
+          "time_info": "[00时44分 ~ 03时23分]"
         },
         {
           "title": "美股芯片股盘前集体上涨",
@@ -60,8 +61,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时44分"
+          "appearance_count": 3,
+          "time_info": "[00时44分 ~ 03时23分]"
         }
       ]
     },
@@ -77,8 +78,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时44分"
+          "appearance_count": 3,
+          "time_info": "[00时44分 ~ 03时23分]"
         }
       ]
     }

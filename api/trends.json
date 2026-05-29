@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-29T16:45:13.532347+08:00",
-  "total_titles_processed": 996,
+  "generated_at": "2026-05-29T20:19:42.413683+08:00",
+  "total_titles_processed": 1186,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/articles/3773313",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时05分 ~ 16时45分]"
+          "appearance_count": 5,
+          "time_info": "[12时05分 ~ 20时19分]"
         },
         {
           "title": "美伊谈判信号相互矛盾，美股高位震荡，原油收跌超5%，黄金一度跌超2%",
@@ -127,7 +128,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时45分"
         },
@@ -204,7 +205,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时45分"
         },
@@ -244,8 +245,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时44分 ~ 16时45分]"
+          "appearance_count": 3,
+          "time_info": "[16时44分 ~ 20时19分]"
         },
         {
           "title": "日本财务大臣片山皋月：已会晤OpenAI的策略长。 一些日本金融公司将获得OPENAI模型的使用权。",
@@ -254,7 +255,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时45分"
         },
@@ -394,6 +395,45 @@
       ]
     },
     {
+      "keyword_group": "具身智能",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "宇树具身智能体验馆亚洲首店将于5月31 日在上海开业",
+          "url": "https://flash.jin10.com/detail/20260529195333963800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时19分"
+        },
+        {
+          "title": "宇树具身智能体验馆亚洲首店将于5月31日在上海开业",
+          "url": "https://wallstreetcn.com/livenews/3111425",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时19分"
+        },
+        {
+          "title": "理想再调基座模型组织，新增3个具身智能部门",
+          "url": "https://wallstreetcn.com/livenews/3111400",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时19分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 2,
       "titles": [
@@ -417,8 +457,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时44分 ~ 16时45分]"
+          "appearance_count": 3,
+          "time_info": "[16时44分 ~ 20时19分]"
         }
       ]
     },

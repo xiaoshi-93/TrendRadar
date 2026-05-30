@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-31T05:05:05.847805+08:00",
-  "total_titles_processed": 407,
+  "generated_at": "2026-05-31T07:03:55.177906+08:00",
+  "total_titles_processed": 448,
   "failed_sources": [],
   "trends": [
     {
@@ -16,19 +16,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时14分 ~ 05时05分]"
+          "appearance_count": 6,
+          "time_info": "[01时14分 ~ 07时03分]"
         },
         {
           "title": "美股收盘：三大股指续创新高 戴尔领衔科技股狂欢",
           "url": "https://www.cls.cn/detail/2385964",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时14分 ~ 05时05分]"
+          "appearance_count": 6,
+          "time_info": "[01时14分 ~ 07时03分]"
         }
       ]
     },
@@ -42,11 +43,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            8
+            8,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时14分 ~ 05时05分]"
+          "appearance_count": 4,
+          "time_info": "[01时14分 ~ 07时03分]"
         },
         {
           "title": "20亿小参数赶超英伟达旗舰模型 上海世界模型“裸考”登顶国际权威榜单",
@@ -70,11 +72,12 @@
           "url": "https://www.zhihu.com/question/2040472846393161206",
           "source": "知乎",
           "ranks": [
-            18
+            18,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时24分 ~ 05时05分]"
+          "appearance_count": 5,
+          "time_info": "[03时24分 ~ 07时03分]"
         }
       ]
     },
@@ -105,11 +108,12 @@
           "url": "https://www.cls.cn/detail/2386131",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时14分 ~ 05时05分]"
+          "appearance_count": 6,
+          "time_info": "[01时14分 ~ 07时03分]"
         }
       ]
     }

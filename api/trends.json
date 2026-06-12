@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-13T00:26:02.858783+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-06-13T03:10:34.213628+08:00",
+  "total_titles_processed": 422,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 00时26分]"
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 03时10分]"
         },
         {
           "title": "SpaceX开盘狂飙29%，美股指转跌，太空概念股跳水，布油跌幅收窄",
@@ -26,8 +26,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 00时26分]"
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 03时10分]"
         }
       ]
     },
@@ -40,11 +40,12 @@
           "url": "https://www.zhihu.com/question/2031303606524186735",
           "source": "知乎",
           "ranks": [
-            11
+            11,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 00时26分]"
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 03时10分]"
         }
       ]
     },
@@ -57,11 +58,12 @@
           "url": "https://www.toutiao.com/trending/7649567619948822578/",
           "source": "今日头条",
           "ranks": [
-            25
+            25,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 00时26分]"
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 03时10分]"
         }
       ]
     },
@@ -76,7 +78,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时26分"
         }

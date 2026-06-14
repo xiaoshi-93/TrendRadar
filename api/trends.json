@@ -1,154 +1,8 @@
 {
-  "generated_at": "2026-06-14T23:09:51.297668+08:00",
-  "total_titles_processed": 1167,
+  "generated_at": "2026-06-15T01:24:49.756772+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
-    {
-      "keyword_group": "金价",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "金价跌至900元关口 大妈又来抄底了",
-          "url": "https://www.toutiao.com/trending/7650548712628944938/",
-          "source": "今日头条",
-          "ranks": [
-            16,
-            18,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时54分 ~ 20时02分]"
-        },
-        {
-          "title": "金价跌至900元关口 大妈又来抄底了",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E8%B7%8C%E8%87%B3900%E5%85%83%E5%85%B3%E5%8F%A3+%E5%A4%A7%E5%A6%88%E5%8F%88%E6%9D%A5%E6%8A%84%E5%BA%95%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            12,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时43分 ~ 20时02分]"
-        },
-        {
-          "title": "金价飙升 豪华表成“炼金”原料",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E9%A3%99%E5%8D%87+%E8%B1%AA%E5%8D%8E%E8%A1%A8%E6%88%90%E2%80%9C%E7%82%BC%E9%87%91%E2%80%9D%E5%8E%9F%E6%96%99",
-          "source": "百度热搜",
-          "ranks": [
-            18,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时54分 ~ 17时43分]"
-        },
-        {
-          "title": "金价跌至900元关口，大妈又来抄底了",
-          "url": "https://finance.ifeng.com/c/8twgIbNI5vX",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时54分"
-        },
-        {
-          "title": "金价大跌 小克重金条几乎卖光",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C+%E5%B0%8F%E5%85%8B%E9%87%8D%E9%87%91%E6%9D%A1%E5%87%A0%E4%B9%8E%E5%8D%96%E5%85%89",
-          "source": "百度热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时09分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "美股收盘：SpaceX首秀升19%市值破2万亿 三大指数集体上涨",
-          "url": "https://www.cls.cn/detail/2398916",
-          "source": "财联社热门",
-          "ranks": [
-            1,
-            2,
-            3,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时18分 ~ 20时02分]"
-        },
-        {
-          "title": "美伊协议曙光重燃，原油两连跌，美股指全线收涨、债汇承压，SpaceX首日大涨19%",
-          "url": "https://wallstreetcn.com/articles/3774481",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时18分 ~ 06时09分]"
-        },
-        {
-          "title": "SpaceX上市引发“虹吸效应” 美股太空概念集体跳水",
-          "url": "https://www.cls.cn/detail/2398893",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10,
-            11,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时18分 ~ 08时13分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "SpaceX上市幕后大戏：抢跑OpenAI、疯狂并购装资产，华尔街全程被牵着鼻子走",
-          "url": "https://wallstreetcn.com/articles/3774577",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            5,
-            4,
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时18分 ~ 13时54分]"
-        },
-        {
-          "title": "【早报】美将部分中企列入“中国军事企业清单”，商务部回应；OpenAI被查",
-          "url": "https://www.cls.cn/detail/2399163",
-          "source": "财联社热门",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时54分 ~ 23时09分]"
-        }
-      ]
-    },
     {
       "keyword_group": "谷歌 google gemini",
       "match_count": 1,
@@ -161,8 +15,25 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时02分 ~ 23时09分]"
+          "appearance_count": 1,
+          "time_info": "01时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "【早报】美将部分中企列入“中国军事企业清单”，商务部回应；OpenAI被查",
+          "url": "https://www.cls.cn/detail/2399163",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时24分"
         }
       ]
     }

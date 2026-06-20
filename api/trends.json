@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-20T20:02:45.819123+08:00",
-  "total_titles_processed": 1094,
+  "generated_at": "2026-06-20T22:26:51.898060+08:00",
+  "total_titles_processed": 1242,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "金价",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "国际金价再跳水失守4200美元，国内金饰克价破1300元",
@@ -60,6 +60,18 @@
         },
         {
           "title": "金价下跌买30克镯子差价有一万多",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E4%B8%8B%E8%B7%8C%E4%B9%B030%E5%85%8B%E9%95%AF%E5%AD%90%E5%B7%AE%E4%BB%B7%E6%9C%89%E4%B8%80%E4%B8%87%E5%A4%9A%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时02分 ~ 22时26分]"
+        },
+        {
+          "title": "金价下跌买30克镯子差价有一万多",
           "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E4%B8%8B%E8%B7%8C%E4%B9%B030%E5%85%8B%E9%95%AF%E5%AD%90%E5%B7%AE%E4%BB%B7%E6%9C%89%E4%B8%80%E4%B8%87%E5%A4%9A",
           "source": "百度热搜",
           "ranks": [
@@ -71,15 +83,15 @@
           "time_info": "[17时25分 ~ 20时02分]"
         },
         {
-          "title": "金价下跌买30克镯子差价有一万多",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E4%B8%8B%E8%B7%8C%E4%B9%B030%E5%85%8B%E9%95%AF%E5%AD%90%E5%B7%AE%E4%BB%B7%E6%9C%89%E4%B8%80%E4%B8%87%E5%A4%9A%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
+          "title": "金价年内涨幅尽数回吐，高盛下调目标价，4000美元关口面临考验？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33420304",
+          "source": "澎湃新闻",
           "ranks": [
-            28
+            17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时02分"
+          "time_info": "22时26分"
         }
       ]
     },
@@ -99,8 +111,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时09分 ~ 20时02分]"
+          "appearance_count": 10,
+          "time_info": "[00时09分 ~ 22时26分]"
         },
         {
           "title": "科技牛市又推动一项美股新纪录 莫斯科再遭乌大规模无人机袭击 | 环球市场",
@@ -112,8 +124,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时14分 ~ 20时02分]"
+          "appearance_count": 5,
+          "time_info": "[08时14分 ~ 22时26分]"
         },
         {
           "title": "1192亿美元！本周美股吸引创纪录资金，投资者涌向科技股",
@@ -124,8 +136,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时25分 ~ 20时02分]"
+          "appearance_count": 3,
+          "time_info": "[17时25分 ~ 22时26分]"
         },
         {
           "title": "欧洲STOXX 600个人护理、药品及食品杂货店指数跌超0.8%，刷新日低至155.50点下方。 在美国针对德国药品定价发起关税调查后，德国总理默茨预计，美国将继续遵守与欧洲的贸易承诺。 药品报销决定属于德国国内事务，如有需要，其政府将向美国提供相关信息。 6月18日美股盘后，美国对德国降低药品价格的努力提出批评，美国贸易代表格里尔指责德国“长期低价采购创新药品”。",
@@ -223,6 +235,17 @@
           "time_info": "[00时09分 ~ 04时43分]"
         },
         {
+          "title": "学习英伟达“好榜样”，谷歌和博通都开始“有样学样”，开启“AI芯片闭环”",
+          "url": "https://wallstreetcn.com/articles/3775105",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时02分 ~ 22时26分]"
+        },
+        {
           "title": "谷歌旗下Deepmind高级研究科学家John Jumper决定离开公司，加入Anthropic。",
           "url": "https://flash.jin10.com/detail/20260620030401727800",
           "source": "金十数据",
@@ -232,17 +255,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时43分 ~ 06时09分]"
-        },
-        {
-          "title": "学习英伟达“好榜样”，谷歌和博通都开始“有样学样”，开启“AI芯片闭环”",
-          "url": "https://wallstreetcn.com/articles/3775105",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时02分"
         }
       ]
     },

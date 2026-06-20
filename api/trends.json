@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-21T02:17:11.852752+08:00",
-  "total_titles_processed": 379,
+  "generated_at": "2026-06-21T04:19:48.090266+08:00",
+  "total_titles_processed": 425,
   "failed_sources": [],
   "trends": [
     {
@@ -12,22 +12,24 @@
           "url": "https://wallstreetcn.com/articles/3775107",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 02时17分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 04时19分]"
         },
         {
           "title": "科技牛市又推动一项美股新纪录 莫斯科再遭乌大规模无人机袭击 | 环球市场",
           "url": "https://www.cls.cn/detail/2404523",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 02时17分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 04时19分]"
         },
         {
           "title": "美股收盘：科技题材迎新高浪潮 存储、半导体设备牛股带头冲锋",
@@ -38,8 +40,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 02时17分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 04时19分]"
         }
       ]
     },
@@ -52,11 +54,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33420304",
           "source": "澎湃新闻",
           "ranks": [
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 02时17分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 04时19分]"
         },
         {
           "title": "金价下跌买30克镯子差价有一万多",

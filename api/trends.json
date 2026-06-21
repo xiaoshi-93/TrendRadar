@@ -1,177 +1,39 @@
 {
-  "generated_at": "2026-06-21T23:58:15.598072+08:00",
-  "total_titles_processed": 1195,
+  "generated_at": "2026-06-22T01:47:00.906322+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "金价",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "金价年内涨幅尽数回吐，高盛下调目标价，4000美元关口面临考验？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33420304",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            18,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时24分 ~ 14时08分]"
-        },
-        {
-          "title": "金价大跌消费者涌入柜台",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C%E6%B6%88%E8%B4%B9%E8%80%85%E6%B6%8C%E5%85%A5%E6%9F%9C%E5%8F%B0%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时34分 ~ 21时11分]"
-        },
-        {
-          "title": "金价下跌买30克镯子差价有一万多",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E4%B8%8B%E8%B7%8C%E4%B9%B030%E5%85%8B%E9%95%AF%E5%AD%90%E5%B7%AE%E4%BB%B7%E6%9C%89%E4%B8%80%E4%B8%87%E5%A4%9A%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
-        },
-        {
-          "title": "金价仍可能重返5000美元",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E4%BB%8D%E5%8F%AF%E8%83%BD%E9%87%8D%E8%BF%945000%E7%BE%8E%E5%85%83%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时08分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "1192亿美元！本周美股吸引创纪录资金，投资者涌向科技股",
-          "url": "https://wallstreetcn.com/articles/3775107",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时24分 ~ 08时13分]"
-        },
-        {
-          "title": "科技牛市又推动一项美股新纪录 莫斯科再遭乌大规模无人机袭击 | 环球市场",
-          "url": "https://www.cls.cn/detail/2404523",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时24分 ~ 23时58分]"
-        },
-        {
-          "title": "美股收盘：科技题材迎新高浪潮 存储、半导体设备牛股带头冲锋",
-          "url": "https://www.cls.cn/detail/2404196",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时24分 ~ 08时13分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "谷歌 Gemini 负责人 NoamShazeer 赴 OpenAI，对两家公司有何影响？",
-          "url": "https://www.zhihu.com/question/2050866813181994242",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时13分"
-        },
-        {
-          "title": "学习英伟达“好榜样”，谷歌和博通都开始“有样学样”，开启“AI芯片闭环”",
-          "url": "https://wallstreetcn.com/articles/3775105",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 08时13分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "下周重磅日程：“美联储最爱通胀指标”、英伟达股东大会、OpenAI或发新模型、美光财报",
           "url": "https://wallstreetcn.com/articles/3775117",
           "source": "华尔街见闻",
           "ranks": [
-            8,
-            9,
-            5,
-            3
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时08分 ~ 23时58分]"
-        },
-        {
-          "title": "OpenAI被查、Anthropic被限，AI炒作漏算了什么？",
-          "url": "https://flash.jin10.com/detail/20260621120212050800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时08分"
+          "appearance_count": 2,
+          "time_info": "[01时46分 ~ 01时47分]"
         }
       ]
     },
     {
-      "keyword_group": "DeepSeek 梁文锋",
+      "keyword_group": "美股",
       "match_count": 1,
       "titles": [
         {
-          "title": "DeepSeek估值接近4000亿元",
-          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E4%BC%B0%E5%80%BC%E6%8E%A5%E8%BF%914000%E4%BA%BF%E5%85%83%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
+          "title": "科技牛市又推动一项美股新纪录 莫斯科再遭乌大规模无人机袭击 | 环球市场",
+          "url": "https://www.cls.cn/detail/2404523",
+          "source": "财联社热门",
           "ranks": [
-            29
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
+          "appearance_count": 2,
+          "time_info": "[01时46分 ~ 01时47分]"
         }
       ]
     },
@@ -184,12 +46,11 @@
           "url": "https://wallstreetcn.com/livenews/3122346",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5,
             22
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时11分 ~ 23时58分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时47分"
         }
       ]
     }

@@ -1,429 +1,72 @@
 {
-  "generated_at": "2026-06-25T23:42:17.848632+08:00",
-  "total_titles_processed": 1483,
+  "generated_at": "2026-06-26T02:15:20.753223+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美股",
-      "match_count": 15,
-      "titles": [
-        {
-          "title": "全球 AI 交易降温，美股半导体相关 ETF 暴跌，闪迪、美光科技跌超 10%，发生了什么？",
-          "url": "https://www.zhihu.com/question/2052869201178652833",
-          "source": "知乎",
-          "ranks": [
-            6,
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时25分 ~ 08时18分]"
-        },
-        {
-          "title": "静待美光财报，美股半导体股普涨，黄金股普跌，现货黄金跌破4000美元，布油跌4%",
-          "url": "https://wallstreetcn.com/articles/3775351",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 05时08分]"
-        },
-        {
-          "title": "美股收盘：科技股回调拖累纳指跌0.4% AI估值与资本开支担忧持续发酵",
-          "url": "https://www.cls.cn/detail/2408510",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时22分 ~ 13时09分]"
-        },
-        {
-          "title": "【早报】美股芯片股盘后逆袭，美光、高通大涨16%；多资产集体跳水！黄金跌破4000美元、原油暴跌、比特币下探59000美元",
-          "url": "https://www.cls.cn/detail/2408547",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时18分 ~ 13时09分]"
-        },
-        {
-          "title": "温蒂汉堡（WEN）维持超过24%的涨幅，报7.777美元，美股盘初曾涨42.24%至8.89美元。 美股散户抱团概念股（meme概念股）指数涨1.13%，暂报13.42点，此前一度涨超2.03%。",
-          "url": "https://wallstreetcn.com/livenews/3124140",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
-        },
-        {
-          "title": "美股期指小幅上涨 科技股反弹迎接美光财报“大考” | 今夜看点",
-          "url": "https://www.cls.cn/detail/2408279",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 06时22分]"
-        },
-        {
-          "title": "美股大类资产类ETF涨跌各异",
-          "url": "https://wallstreetcn.com/livenews/3124233",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时08分 ~ 06时22分]"
-        },
-        {
-          "title": "周三（6月24日），美股行业ETF多数收涨，全球航空业ETF涨4.17%，生物科技指数ETF、区域银行ETF、可选消费ETF、公用事业ETF至多涨1.93%，半导体ETF则收跌0.35%，科技行业ETF跌0.62%，能源业ETF跌1.63%。",
-          "url": "https://wallstreetcn.com/livenews/3124226",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时08分 ~ 06时22分]"
-        },
-        {
-          "title": "在美股时段交易的费城金银指数收跌4.10%，报313.41点。 在全球市场全天交易的纽约证交所ARCA金矿开采商指数跌3.91%，报2152.67点，北京时间21:30美股开盘之前维持微幅下跌状态、持稳于2228点附近，之后持续扩大跌幅、03:21曾跌至2129.28点。 在美股时段交易的原材料指数收跌0.80%，金属与矿业指数收跌2.22%。",
-          "url": "https://wallstreetcn.com/livenews/3124250",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时22分"
-        },
-        {
-          "title": "iShares MSCI韩国ETF在美股盘后涨6.4%。",
-          "url": "https://flash.jin10.com/detail/20260625042919511800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时08分"
-        },
-        {
-          "title": "美股",
-          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=14&Refer=top",
-          "source": "微博",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时42分"
-        },
-        {
-          "title": "美光科技盘后大涨近14%，带飞美股芯片股",
-          "url": "https://flash.jin10.com/detail/20260625042822342800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时08分"
-        },
-        {
-          "title": "美光科技第三财季调整后营收414.6亿美元，分析师预期356.9亿美元。 第三财季核心数据中心营收115.2亿美元，分析师预期68亿美元。 第三财季云存储营收137.7亿美元，分析师预期106.9亿美元。 第三财季移动与客户营收115.2亿美元，分析师预期97.3亿美元。 第三财季调整后每股收益（EPS）为25.11美元，分析师预期20.49美元。 第三财季调整后运营利润336.8亿美元，分析师预期278.6亿美元。 第三财季调整后毛利润率84.9%，分析师预期81.9%。 预计第四财季资本支出约为100亿美元，预计2026财年全年资本支出约为270亿美元；2027财年各季度的资本支出将高于2026第四财季的水平。 预计第四财季调整后营收490亿-510亿美元，分析师预期432.4亿美元。 预计第四财季调整后EPS为30-32美元，分析师预期25.31美元。 美光（MU）美股盘后涨11%，闪迪、西部数据、希捷科技跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3124222",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时08分"
-        },
-        {
-          "title": "黑莓第一财季营收1.529亿美元，预估1.368亿美元。 第一财季经调整基本每股收益0.040美元，预估0.03美元。 第一财季经调整毛利率78.6％，预估76.9％。 黑莓预计全年营收5.94亿美元至6.21亿美元，市场预估6.019亿美元。 黑莓预计全年调整后EBITDA 1.19亿美元至1.39亿美元。 黑莓预计全年经调整基本每股收益0.16美元至0.20美元，市场预估0.18美元。 黑莓美股盘前涨超8%。",
-          "url": "https://wallstreetcn.com/livenews/3124628",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时26分"
-        },
-        {
-          "title": "美股盘前：存储板块大涨，美光科技涨约18%",
-          "url": "https://wallstreetcn.com/livenews/3124530",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时32分"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 6,
+      "match_count": 3,
       "titles": [
-        {
-          "title": "报道：谷歌另外两名主要的AI员工恐将跳槽至Anthropic",
-          "url": "https://wallstreetcn.com/livenews/3124193",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时54分"
-        },
         {
           "title": "SpaceX 暴跌 16% 股份逼近挂牌价，谷歌狂跌 5%，为何科技股开始下跌？未来走向可能如何？",
           "url": "https://www.zhihu.com/question/2053015352347293676",
           "source": "知乎",
           "ranks": [
-            15,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时25分 ~ 23时42分]"
-        },
-        {
-          "title": "谷歌前CEO批中国AI开源",
-          "url": "https://s.weibo.com/weibo?q=%E8%B0%B7%E6%AD%8C%E5%89%8DCEO%E6%89%B9%E4%B8%AD%E5%9B%BDAI%E5%BC%80%E6%BA%90&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时31分 ~ 17时32分]"
-        },
-        {
-          "title": "谷歌又有两名重量级AI人才即将转投Anthropic",
-          "url": "https://flash.jin10.com/detail/20260625022949974800",
-          "source": "金十数据",
-          "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时54分"
+          "time_info": "02时15分"
         },
         {
-          "title": "谷歌(GOOG.O)短线下挫，消息称谷歌再有两名人工智能员工或将跳槽至Anthropic公司。",
-          "url": "https://flash.jin10.com/detail/20260625021946400800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时54分"
-        },
-        {
-          "title": "STT与塔塔通信德里数据中心起火：客户担忧数十年数据丢失，谷歌云受波及",
-          "url": "https://wallstreetcn.com/livenews/3124168",
+          "title": "纳斯达克100指数涨幅扩大至1%，美股早盘呈现出V形反转，成分股闪迪目前涨18.1%，美光涨16.1%，应用材料涨10.1%，西部数据涨8.1%，高通涨7.9%，阿斯麦ADR涨4.5%，谷歌A跌0.8%，英伟达跌幅收窄至1.1%，Meta跌1.7%，亚马逊跌2.2%，微软跌3.4%，苹果仍然重挫超5.6%，Strategy跌6.9%。 半导体指数涨超4.1%。",
+          "url": "https://wallstreetcn.com/livenews/3124781",
           "source": "华尔街见闻-快讯",
           "ranks": [
             25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时54分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "受美元走强及加息预期影响，金价收于4000美元下方",
-          "url": "https://flash.jin10.com/detail/20260625023404741800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时54分"
+          "time_info": "02时15分"
         },
         {
-          "title": "现货黄金价格跌破4000美元大关",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33446112",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            20,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时09分 ~ 20时26分]"
-        },
-        {
-          "title": "现货黄金价格跌破4000美元大关",
-          "url": "https://www.douyin.com/hot/2546511",
-          "source": "抖音",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 02时54分]"
-        },
-        {
-          "title": "贵金属全线暴跌金价失守4000美元关口 日本大举押注AI与半导体 | 环球市场",
-          "url": "https://www.cls.cn/detail/2408544",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时18分 ~ 13时09分]"
-        },
-        {
-          "title": "跌破4000美元！现货黄金价格创去年11月初以来新低",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33446231",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时25分 ~ 20时26分]"
-        },
-        {
-          "title": "金价跌至去年10月水平",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E8%B7%8C%E8%87%B3%E5%8E%BB%E5%B9%B410%E6%9C%88%E6%B0%B4%E5%B9%B3%23&t=31&band_rank=13&Refer=top",
-          "source": "微博",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时09分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "科技热潮降温 ，纳指跌超2%，芯片指数跌近8%，美债美元齐涨，金银下挫",
-          "url": "https://wallstreetcn.com/articles/3775262",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 06时22分]"
-        },
-        {
-          "title": "科技股承压，美股指涨跌互现，美债美元齐涨，黄金暴跌，美光盘后暴涨12%",
-          "url": "https://wallstreetcn.com/articles/3775351",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时22分"
-        },
-        {
-          "title": "瑞穗经济学家：若要有效利用外储，意味着日本要抛售美债",
-          "url": "https://wallstreetcn.com/livenews/3124111",
+          "title": "谷歌公司为安卓系统推出新款谷歌理财（Google Finance）APP。",
+          "url": "https://wallstreetcn.com/livenews/3124775",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            27
+            29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时25分"
+          "time_info": "02时15分"
         }
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
+      "keyword_group": "美股",
       "match_count": 2,
       "titles": [
         {
-          "title": "商汤科技正研发新图像模型：代号U1 Pro，内部称将对标OpenAI",
-          "url": "https://wallstreetcn.com/livenews/3124540",
+          "title": "数字货币市场在美股盘初跳水",
+          "url": "https://wallstreetcn.com/livenews/3124793",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时32分"
+          "time_info": "02时15分"
         },
         {
-          "title": "OpenAI：推出新版GPT-5.5 Instant，今日面向付费用户开放，明日面向免费用户开放。",
-          "url": "https://flash.jin10.com/detail/20260625020749576800",
-          "source": "金十数据",
+          "title": "美股",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=20&Refer=top",
+          "source": "微博",
           "ranks": [
             20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时54分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "供应链",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "商务部公布《产业链供应链安全调查工作办法》",
-          "url": "https://www.cls.cn/detail/2408005",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 05时08分]"
-        },
-        {
-          "title": "美国寻求与欧盟在监管、供应链问题上构建合作伙伴关系。",
-          "url": "https://wallstreetcn.com/livenews/3124739",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时42分"
+          "time_info": "02时15分"
         }
       ]
     },
@@ -432,49 +75,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "周三（6月24日）纽约尾盘，ICE美元指数张0.18%，报101.592点，日内交投区间为101.356-101.800点，亚太盘初以来持续走高，北京时间21:09逼近2025年5月12日顶部101.977点、当年3月26日顶部104.683点。 彭博美元指数涨0.27%，报1226.97点，日内交投区间为1223.32-1228.36点，21:12也曾逼近2025年11月21日顶部1228.98点。",
-          "url": "https://wallstreetcn.com/livenews/3124210",
+          "title": "新兴市场外汇指数回吐涨幅，报道称伊朗袭击霍尔木兹海峡的船只。 布伦特原油日内涨幅达2.0%，报75.38美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3124812",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            27
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时08分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "具身智能",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "我国具身智能市场规模将突破万亿元",
-          "url": "https://wallstreetcn.com/livenews/3124748",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时42分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "自动驾驶",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美国国家运输安全委员会（NTSB）：将在30天内初步形成特斯拉撞车事故的初步（调查）报告。 将调查驾驶员（对于驾车）的参与程度和（特斯拉的）自动驾驶技术。",
-          "url": "https://wallstreetcn.com/livenews/3124187",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时54分"
+          "time_info": "02时15分"
         }
       ]
     }

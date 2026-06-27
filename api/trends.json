@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-28T05:10:54.782794+08:00",
-  "total_titles_processed": 406,
+  "generated_at": "2026-06-28T07:08:56.825618+08:00",
+  "total_titles_processed": 439,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时16分 ~ 05时10分]"
+          "appearance_count": 5,
+          "time_info": "[01时16分 ~ 07时08分]"
         },
         {
           "title": "【早报】美军再次对伊朗发动打击；美股半导体指数重挫5.29%；油价走低、黄金收涨；法国4-1击败挪威小组第一出线",
@@ -26,19 +26,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时16分 ~ 05时10分]"
+          "appearance_count": 5,
+          "time_info": "[01时16分 ~ 07时08分]"
         },
         {
           "title": "美股连跌的“核心逻辑”:“最大权重”Mag 7陨落",
           "url": "https://wallstreetcn.com/articles/3775664",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时16分 ~ 05时10分]"
+          "appearance_count": 5,
+          "time_info": "[01时16分 ~ 07时08分]"
         },
         {
           "title": "美股收盘：三大指数小幅收跌 存储概念股全线重挫",
@@ -49,8 +50,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时16分 ~ 05时10分]"
+          "appearance_count": 5,
+          "time_info": "[01时16分 ~ 07时08分]"
         }
       ]
     },
@@ -64,22 +65,24 @@
           "source": "知乎",
           "ranks": [
             3,
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时16分 ~ 05时10分]"
+          "appearance_count": 5,
+          "time_info": "[01时16分 ~ 07时08分]"
         },
         {
           "title": "刚刚，DeepSeek V4更新DSpark，推理速度提升80%",
           "url": "https://wallstreetcn.com/articles/3775676",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时16分 ~ 05时10分]"
+          "appearance_count": 5,
+          "time_info": "[01时16分 ~ 07时08分]"
         },
         {
           "title": "如何评价 DeepSeek 与智谱均声明将在下半年大规模使用华为昇腾 950 超节点？",
@@ -87,11 +90,12 @@
           "source": "知乎",
           "ranks": [
             8,
-            13
+            13,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时16分 ~ 03时28分]"
+          "appearance_count": 4,
+          "time_info": "[01时16分 ~ 07时08分]"
         }
       ]
     },
@@ -104,22 +108,24 @@
           "url": "https://wallstreetcn.com/articles/3775650",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时16分 ~ 05时10分]"
+          "appearance_count": 5,
+          "time_info": "[01时16分 ~ 07时08分]"
         },
         {
           "title": "“OpenAI推迟上市”之下：甲骨文、Nebius带头硬件股下跌，ServiceNow和Workday领衔软件股全线大涨",
           "url": "https://wallstreetcn.com/articles/3775663",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时16分 ~ 05时10分]"
+          "appearance_count": 5,
+          "time_info": "[01时16分 ~ 07时08分]"
         }
       ]
     },
@@ -134,11 +140,12 @@
           "ranks": [
             24,
             9,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时16分 ~ 05时10分]"
+          "appearance_count": 5,
+          "time_info": "[01时16分 ~ 07时08分]"
         }
       ]
     },
@@ -154,8 +161,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时17分 ~ 05时10分]"
+          "appearance_count": 4,
+          "time_info": "[01时17分 ~ 07时08分]"
         }
       ]
     }

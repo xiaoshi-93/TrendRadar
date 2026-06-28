@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-29T01:19:19.277414+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-06-29T03:37:21.268399+08:00",
+  "total_titles_processed": 368,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时19分"
+          "appearance_count": 2,
+          "time_info": "[01时19分 ~ 03时37分]"
         },
         {
           "title": "豆包和DeepSeek的博弈",
@@ -43,8 +43,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时19分"
+          "appearance_count": 2,
+          "time_info": "[01时19分 ~ 03时37分]"
         }
       ]
     },
@@ -57,11 +57,12 @@
           "url": "https://wallstreetcn.com/articles/3775701",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时19分"
+          "appearance_count": 2,
+          "time_info": "[01时19分 ~ 03时37分]"
         }
       ]
     },
@@ -74,11 +75,12 @@
           "url": "https://wallstreetcn.com/livenews/3125681",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            19,
+            23
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时19分"
+          "appearance_count": 2,
+          "time_info": "[01时19分 ~ 03时37分]"
         }
       ]
     }

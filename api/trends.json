@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-29T07:09:43.818745+08:00",
-  "total_titles_processed": 473,
+  "generated_at": "2026-06-29T12:23:03.925968+08:00",
+  "total_titles_processed": 715,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时19分 ~ 07时09分]"
+          "appearance_count": 6,
+          "time_info": "[01时19分 ~ 12时23分]"
         },
         {
           "title": "美股三大股指期货盘初小幅拉升，纳指期货现涨0.4%。",
@@ -26,7 +26,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时09分"
         },
@@ -37,7 +37,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时09分"
         }
@@ -74,6 +74,34 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "PCE只带来喘息，金价修复仍等就业验证",
+          "url": "https://flash.jin10.com/detail/20260629120148011800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时23分"
+        },
+        {
+          "title": "金价银价下跌 油价上涨",
+          "url": "https://www.toutiao.com/trending/7656224620856623114/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时22分 ~ 12时23分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "titles": [
@@ -82,11 +110,12 @@
           "url": "https://wallstreetcn.com/articles/3775694",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时19分 ~ 07时09分]"
+          "appearance_count": 6,
+          "time_info": "[01时19分 ~ 12时23分]"
         }
       ]
     },

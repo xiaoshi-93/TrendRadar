@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-04T05:13:26.506119+08:00",
-  "total_titles_processed": 422,
+  "generated_at": "2026-07-04T07:09:56.964602+08:00",
+  "total_titles_processed": 475,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            17
+            17,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时36分 ~ 05时13分]"
+          "appearance_count": 3,
+          "time_info": "[03时36分 ~ 07时09分]"
+        },
+        {
+          "title": "推动金价上涨的“神秘央行”存在吗",
+          "url": "https://www.toutiao.com/trending/7658284084967247369/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时38分 ~ 07时09分]"
         },
         {
           "title": "摩根大通：预计黄金价格将在近期区间震荡，然后才会出现复苏。 预计2026年三季度均价4300美元/盎司，四季度料位4500美元。 维持长期看涨金价的立场不变，预计将在2027年进一步复苏。",
@@ -30,18 +43,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时36分 ~ 05时13分]"
-        },
-        {
-          "title": "推动金价上涨的“神秘央行”存在吗",
-          "url": "https://www.toutiao.com/trending/7658284084967247369/",
-          "source": "今日头条",
-          "ranks": [
-            28,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时38分 ~ 03时36分]"
         },
         {
           "title": "摩根大通维持对黄金的长期看涨展望，并预计金价将在2027年进一步回升。",
@@ -69,8 +70,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时38分 ~ 05时13分]"
+          "appearance_count": 4,
+          "time_info": "[01时38分 ~ 07时09分]"
         },
         {
           "title": "Anthropic自研AI芯片计划引发美股半导体大跌！闪迪大跌14%，费城半导体指数两日重挫12%",

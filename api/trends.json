@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-04T21:44:10.789598+08:00",
-  "total_titles_processed": 1196,
+  "generated_at": "2026-07-04T23:10:17.807953+08:00",
+  "total_titles_processed": 1272,
   "failed_sources": [],
   "trends": [
     {
@@ -83,8 +83,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时35分 ~ 21时44分]"
+          "appearance_count": 7,
+          "time_info": "[11时35分 ~ 23时10分]"
         },
         {
           "title": "“大空头”Burry：周三在1051.87狙空美光！美股半导体面临30%回调",
@@ -100,6 +100,18 @@
           "time_info": "[01时38分 ~ 11时35分]"
         },
         {
+          "title": "高盛：美股AI上涨力竭，下半年布局防御板块，看好医疗、欧洲防务",
+          "url": "https://wallstreetcn.com/articles/3776200",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时43分 ~ 23时10分]"
+        },
+        {
           "title": "Anthropic自研AI芯片计划引发美股半导体大跌！闪迪大跌14%，费城半导体指数两日重挫12%",
           "url": "https://wallstreetcn.com/articles/3776091",
           "source": "华尔街见闻",
@@ -110,17 +122,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时38分 ~ 05时13分]"
-        },
-        {
-          "title": "高盛：美股AI上涨力竭，下半年布局防御板块，看好医疗、欧洲防务",
-          "url": "https://wallstreetcn.com/articles/3776200",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时43分 ~ 21时44分]"
         },
         {
           "title": "美股遭遇近四个月最大单周资金流出，美银Hartnett：\"卖出信号\"仍在闪烁",

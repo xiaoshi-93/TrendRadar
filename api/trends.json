@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-11T19:10:08.423354+08:00",
-  "total_titles_processed": 1177,
+  "generated_at": "2026-07-11T21:37:26.160701+08:00",
+  "total_titles_processed": 1311,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[06时10分 ~ 19时10分]"
+          "appearance_count": 11,
+          "time_info": "[06时10分 ~ 21时37分]"
         },
         {
           "title": "万众瞩目！SK海力士今晚美股首秀 首日表现牵动全球存储板块走向",
@@ -30,11 +30,12 @@
             5,
             4,
             6,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时01分 ~ 19时10分]"
+          "appearance_count": 15,
+          "time_info": "[01时01分 ~ 21时37分]"
         },
         {
           "title": "市场暂时搁置地缘风险，油价下跌，芯片股再撑美股，黄金加密货币反弹",
@@ -47,6 +48,20 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时01分 ~ 08时03分]"
+        },
+        {
+          "title": "美股收盘：Meta、英伟达推动指数小幅收高 SK海力士闪耀纳斯达克",
+          "url": "https://www.cls.cn/detail/2423438",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            5,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[08时02分 ~ 21时37分]"
         },
         {
           "title": "华尔街还愿意给AI存储多少溢价？今夜，SK海力士美股首秀或揭晓答案",
@@ -64,19 +79,6 @@
           "time_info": "[01时01分 ~ 15时15分]"
         },
         {
-          "title": "美股收盘：Meta、英伟达推动指数小幅收高 SK海力士闪耀纳斯达克",
-          "url": "https://www.cls.cn/detail/2423438",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时02分 ~ 19时10分]"
-        },
-        {
           "title": "SK海力士创纪录赴美上市 美股期指涨跌不一 芯片股盘前普遍下跌 | 今夜看点",
           "url": "https://www.cls.cn/detail/2423243",
           "source": "财联社热门",
@@ -87,8 +89,22 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时01分 ~ 19时10分]"
+          "appearance_count": 15,
+          "time_info": "[01时01分 ~ 21时37分]"
+        },
+        {
+          "title": "美股处于“极度脆弱”的时候，财报季开启了",
+          "url": "https://wallstreetcn.com/articles/3776694",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时14分 ~ 21时37分]"
         },
         {
           "title": "SK海力士首日开盘价170美元，美股指盘中涨跌互现，英伟达涨超3%，布油跌超1%",
@@ -101,19 +117,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时01分 ~ 04时27分]"
-        },
-        {
-          "title": "美股处于“极度脆弱”的时候，财报季开启了",
-          "url": "https://wallstreetcn.com/articles/3776694",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时14分 ~ 19时10分]"
         },
         {
           "title": "AI叙事助美股三连阳，SK海力士ADR首日大涨13%，布油冲高转跌，黄金走V仍收跌",

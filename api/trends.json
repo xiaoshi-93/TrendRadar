@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-11T21:37:26.160701+08:00",
-  "total_titles_processed": 1311,
+  "generated_at": "2026-07-11T22:59:45.047460+08:00",
+  "total_titles_processed": 1391,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[06时10分 ~ 21时37分]"
+          "appearance_count": 12,
+          "time_info": "[06时10分 ~ 22时59分]"
         },
         {
           "title": "万众瞩目！SK海力士今晚美股首秀 首日表现牵动全球存储板块走向",
@@ -60,8 +60,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时02分 ~ 21时37分]"
+          "appearance_count": 11,
+          "time_info": "[08时02分 ~ 22时59分]"
         },
         {
           "title": "华尔街还愿意给AI存储多少溢价？今夜，SK海力士美股首秀或揭晓答案",
@@ -79,20 +79,6 @@
           "time_info": "[01时01分 ~ 15时15分]"
         },
         {
-          "title": "SK海力士创纪录赴美上市 美股期指涨跌不一 芯片股盘前普遍下跌 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2423243",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时01分 ~ 21时37分]"
-        },
-        {
           "title": "美股处于“极度脆弱”的时候，财报季开启了",
           "url": "https://wallstreetcn.com/articles/3776694",
           "source": "华尔街见闻",
@@ -103,8 +89,22 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时14分 ~ 21时37分]"
+          "appearance_count": 7,
+          "time_info": "[15时14分 ~ 22时59分]"
+        },
+        {
+          "title": "SK海力士创纪录赴美上市 美股期指涨跌不一 芯片股盘前普遍下跌 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2423243",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[01时01分 ~ 22时59分]"
         },
         {
           "title": "SK海力士首日开盘价170美元，美股指盘中涨跌互现，英伟达涨超3%，布油跌超1%",

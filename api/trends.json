@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-12T21:37:30.247729+08:00",
-  "total_titles_processed": 1211,
+  "generated_at": "2026-07-12T23:02:56.255387+08:00",
+  "total_titles_processed": 1295,
   "failed_sources": [],
   "trends": [
     {
@@ -95,11 +95,12 @@
           "ranks": [
             10,
             9,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时07分 ~ 21时37分]"
+          "appearance_count": 4,
+          "time_info": "[17时07分 ~ 23时02分]"
         },
         {
           "title": "苹果起诉OpenAI及两名员工窃取产品机密：曾要求带着“零部件”去面试",
@@ -143,6 +144,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时07分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金价震荡科技回调 资金寻找新均衡",
+          "url": "https://www.toutiao.com/trending/7661411388552085513/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         }
       ]
     },

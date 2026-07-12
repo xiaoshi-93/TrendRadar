@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-12T19:15:30.001927+08:00",
-  "total_titles_processed": 1079,
+  "generated_at": "2026-07-12T21:37:30.247729+08:00",
+  "total_titles_processed": 1211,
   "failed_sources": [],
   "trends": [
     {
@@ -94,11 +94,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时07分 ~ 19时15分]"
+          "appearance_count": 3,
+          "time_info": "[17时07分 ~ 21时37分]"
         },
         {
           "title": "苹果起诉OpenAI及两名员工窃取产品机密：曾要求带着“零部件”去面试",

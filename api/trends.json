@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-12T14:39:16.929341+08:00",
-  "total_titles_processed": 845,
+  "generated_at": "2026-07-12T17:07:18.513099+08:00",
+  "total_titles_processed": 970,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时03分 ~ 14时39分]"
+          "appearance_count": 13,
+          "time_info": "[00时03分 ~ 17时07分]"
         },
         {
           "title": "AI狂欢持续！SK海力士创海外赴美最大IPO，美股首秀收涨13%",
@@ -72,7 +72,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "OpenAI创始人奥尔特曼：至少到目前为止，我相当确信，AI总体上是在创造就业岗位，而不是减少就业。这与我此前的预期并不一致。虽然我没有其他人那么悲观，但我原本认为，当AI发展到如今这样的能力水平时，应该已经对就业市场产生一定影响了。当然，这一趋势可能会继续下去。",
@@ -92,17 +92,29 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33566535",
           "source": "澎湃新闻",
           "ranks": [
-            19
+            19,
+            20
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时49分 ~ 17时07分]"
+        },
+        {
+          "title": "苹果起诉OpenAI引骂战，马斯克炮轰Altman欺诈，Altman反讽其吹嘘“太空数据中心”",
+          "url": "https://wallstreetcn.com/articles/3776720",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时49分"
+          "time_info": "17时07分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "DeepSeek V4 正式版将于 7 月中旬上线，你有什么期待？",
@@ -117,6 +129,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[03时17分 ~ 08时02分]"
+        },
+        {
+          "title": "商业航天“DeepSeek时刻”到了吗",
+          "url": "https://www.baidu.com/s?wd=%E5%95%86%E4%B8%9A%E8%88%AA%E5%A4%A9%E2%80%9CDeepSeek%E6%97%B6%E5%88%BB%E2%80%9D%E5%88%B0%E4%BA%86%E5%90%97",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时07分"
         }
       ]
     },

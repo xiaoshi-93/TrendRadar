@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-12T08:02:06.263118+08:00",
-  "total_titles_processed": 506,
+  "generated_at": "2026-07-12T11:49:18.413067+08:00",
+  "total_titles_processed": 696,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时03分 ~ 08时02分]"
+          "appearance_count": 10,
+          "time_info": "[00时03分 ~ 11时49分]"
         },
         {
           "title": "AI狂欢持续！SK海力士创海外赴美最大IPO，美股首秀收涨13%",
@@ -70,6 +70,36 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "OpenAI创始人奥尔特曼：至少到目前为止，我相当确信，AI总体上是在创造就业岗位，而不是减少就业。这与我此前的预期并不一致。虽然我没有其他人那么悲观，但我原本认为，当AI发展到如今这样的能力水平时，应该已经对就业市场产生一定影响了。当然，这一趋势可能会继续下去。",
+          "url": "https://flash.jin10.com/detail/20260712043502920800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时56分 ~ 08时02分]"
+        },
+        {
+          "title": "苹果起诉OpenAI及两名员工窃取产品机密：曾要求带着“零部件”去面试",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33566535",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时49分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
@@ -90,21 +120,19 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
+      "keyword_group": "供应链",
       "match_count": 1,
       "titles": [
         {
-          "title": "OpenAI创始人奥尔特曼：至少到目前为止，我相当确信，AI总体上是在创造就业岗位，而不是减少就业。这与我此前的预期并不一致。虽然我没有其他人那么悲观，但我原本认为，当AI发展到如今这样的能力水平时，应该已经对就业市场产生一定影响了。当然，这一趋势可能会继续下去。",
-          "url": "https://flash.jin10.com/detail/20260712043502920800",
-          "source": "金十数据",
+          "title": "粮价、电价、海运成本全线抬升，厄尔尼诺冲击全球供应链",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33556382",
+          "source": "澎湃新闻",
           "ranks": [
-            1,
-            6,
-            8
+            20
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时56分 ~ 08时02分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时49分"
         }
       ]
     }

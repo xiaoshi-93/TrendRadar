@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-14T01:17:41.812532+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-07-14T03:28:52.641219+08:00",
+  "total_titles_processed": 396,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时17分"
+          "appearance_count": 2,
+          "time_info": "[01时17分 ~ 03时28分]"
         },
         {
           "title": "金十图示：2026年07月13日（周一）美股热门股票行情一览（美股盘中）",
@@ -37,8 +37,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时17分"
+          "appearance_count": 2,
+          "time_info": "[01时17分 ~ 03时28分]"
         },
         {
           "title": "美股半导体大跌！闪迪跌超10%",
@@ -48,8 +48,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时17分"
+          "appearance_count": 2,
+          "time_info": "[01时17分 ~ 03时28分]"
         },
         {
           "title": "金十图示：2026年07月13日（周一）热门中概股行情一览（美股盘中）",

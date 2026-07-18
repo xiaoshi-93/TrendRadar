@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-19T03:17:57.836331+08:00",
-  "total_titles_processed": 439,
+  "generated_at": "2026-07-19T04:55:54.931241+08:00",
+  "total_titles_processed": 475,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             7,
             10,
-            5
+            5,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时04分 ~ 03时17分]"
+          "appearance_count": 4,
+          "time_info": "[00时04分 ~ 04时55分]"
         },
         {
           "title": "国际金价险守4000美元关口 美伊冲突升级双方扩大打击范围 | 环球市场",
@@ -28,8 +29,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时04分 ~ 03时17分]"
+          "appearance_count": 4,
+          "time_info": "[00时04分 ~ 04时55分]"
         }
       ]
     },
@@ -45,8 +46,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时04分 ~ 03时17分]"
+          "appearance_count": 4,
+          "time_info": "[00时04分 ~ 04时55分]"
         },
         {
           "title": "美股半导体指数跌入熊市，芯片股溃败时苹果盘中夺回市值第一，AI牛市迎来“换锚”时刻？",
@@ -57,8 +58,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时04分 ~ 03时17分]"
+          "appearance_count": 4,
+          "time_info": "[00时04分 ~ 04时55分]"
         }
       ]
     },
@@ -72,11 +73,12 @@
           "source": "知乎",
           "ranks": [
             17,
-            16
+            16,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时59分 ~ 03时17分]"
+          "appearance_count": 3,
+          "time_info": "[01时59分 ~ 04时55分]"
         }
       ]
     },
@@ -93,8 +95,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时04分 ~ 03时17分]"
+          "appearance_count": 4,
+          "time_info": "[00时04分 ~ 04时55分]"
         }
       ]
     },
@@ -107,11 +109,12 @@
           "url": "https://www.cls.cn/detail/2430120",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时04分 ~ 03时17分]"
+          "appearance_count": 4,
+          "time_info": "[00时04分 ~ 04时55分]"
         }
       ]
     },
@@ -126,9 +129,9 @@
           "ranks": [
             20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时17分 ~ 04时55分]"
         }
       ]
     },

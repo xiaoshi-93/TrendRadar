@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-19T01:59:23.732734+08:00",
-  "total_titles_processed": 401,
+  "generated_at": "2026-07-19T03:17:57.836331+08:00",
+  "total_titles_processed": 439,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "今日头条",
           "ranks": [
             7,
-            10
+            10,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时04分 ~ 01时59分]"
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 03时17分]"
         },
         {
           "title": "国际金价险守4000美元关口 美伊冲突升级双方扩大打击范围 | 环球市场",
@@ -27,8 +28,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时04分 ~ 01时59分]"
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 03时17分]"
         }
       ]
     },
@@ -44,19 +45,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时04分 ~ 01时59分]"
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 03时17分]"
         },
         {
           "title": "美股半导体指数跌入熊市，芯片股溃败时苹果盘中夺回市值第一，AI牛市迎来“换锚”时刻？",
           "url": "https://wallstreetcn.com/articles/3777263",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时04分 ~ 01时59分]"
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 03时17分]"
         }
       ]
     },
@@ -69,11 +71,12 @@
           "url": "https://www.zhihu.com/question/2061407401308152796",
           "source": "知乎",
           "ranks": [
-            17
+            17,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时59分 ~ 03时17分]"
         }
       ]
     },
@@ -90,8 +93,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时04分 ~ 01时59分]"
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 03时17分]"
         }
       ]
     },
@@ -107,8 +110,25 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时04分 ~ 01时59分]"
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 03时17分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "供应链",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "国产AI算力迈入万卡集群时代：超节点市场刚起步，供应链依旧紧张",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33609877",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时17分"
         }
       ]
     },

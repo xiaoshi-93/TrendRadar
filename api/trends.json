@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-19T04:55:54.931241+08:00",
-  "total_titles_processed": 475,
+  "generated_at": "2026-07-19T05:56:17.401915+08:00",
+  "total_titles_processed": 505,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             7,
             10,
             5,
-            30
+            30,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时04分 ~ 04时55分]"
+          "appearance_count": 6,
+          "time_info": "[00时04分 ~ 05时56分]"
         },
         {
           "title": "国际金价险守4000美元关口 美伊冲突升级双方扩大打击范围 | 环球市场",
@@ -29,8 +30,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时04分 ~ 04时55分]"
+          "appearance_count": 6,
+          "time_info": "[00时04分 ~ 05时56分]"
         }
       ]
     },
@@ -46,8 +47,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时04分 ~ 04时55分]"
+          "appearance_count": 6,
+          "time_info": "[00时04分 ~ 05时56分]"
         },
         {
           "title": "美股半导体指数跌入熊市，芯片股溃败时苹果盘中夺回市值第一，AI牛市迎来“换锚”时刻？",
@@ -74,11 +75,12 @@
           "ranks": [
             17,
             16,
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时59分 ~ 04时55分]"
+          "appearance_count": 5,
+          "time_info": "[01时59分 ~ 05时56分]"
         }
       ]
     },
@@ -95,8 +97,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时04分 ~ 04时55分]"
+          "appearance_count": 5,
+          "time_info": "[00时04分 ~ 05时56分]"
         }
       ]
     },
@@ -113,8 +115,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时04分 ~ 04时55分]"
+          "appearance_count": 6,
+          "time_info": "[00时04分 ~ 05时56分]"
         }
       ]
     },
@@ -130,8 +132,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时17分 ~ 04时55分]"
+          "appearance_count": 4,
+          "time_info": "[03时17分 ~ 05时56分]"
         }
       ]
     },

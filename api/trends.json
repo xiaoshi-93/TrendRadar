@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-18T21:25:56.408113+08:00",
-  "total_titles_processed": 1411,
+  "generated_at": "2026-07-18T22:59:29.919609+08:00",
+  "total_titles_processed": 1508,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             5,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[06时57分 ~ 21时25分]"
+          "appearance_count": 12,
+          "time_info": "[06时57分 ~ 22时59分]"
         },
         {
           "title": "半导体抛售潮拖累美股，纳指100一度跌2%，中概再逆市涨，黄金大跌破4000",
@@ -120,6 +121,18 @@
           "time_info": "[05时58分 ~ 07时58分]"
         },
         {
+          "title": "美股半导体指数跌入熊市，芯片股溃败时苹果盘中夺回市值第一，AI牛市迎来“换锚”时刻？",
+          "url": "https://wallstreetcn.com/articles/3777263",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时25分 ~ 22时59分]"
+        },
+        {
           "title": "美股芯片股，距熊市仅一步之遥",
           "url": "https://wallstreetcn.com/articles/3777197",
           "source": "华尔街见闻",
@@ -129,17 +142,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时09分 ~ 14时10分]"
-        },
-        {
-          "title": "美股半导体指数跌入熊市，芯片股溃败时苹果盘中夺回市值第一，AI牛市迎来“换锚”时刻？",
-          "url": "https://wallstreetcn.com/articles/3777263",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时25分"
         },
         {
           "title": "美股半导体指数跌入熊市",
@@ -208,11 +210,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时09分 ~ 21时25分]"
+          "appearance_count": 8,
+          "time_info": "[14时09分 ~ 22时59分]"
         },
         {
           "title": "中兴通讯星系列人形机器人及具身智能解决方案亮相WAIC 2026",
@@ -318,19 +321,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时58分 ~ 21时25分]"
+          "appearance_count": 10,
+          "time_info": "[07时58分 ~ 22时59分]"
         },
         {
           "title": "这周金价发生了什么",
           "url": "https://www.toutiao.com/trending/7663819778364345910/",
           "source": "今日头条",
           "ranks": [
-            23
+            23,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时25分 ~ 22时59分]"
         }
       ]
     },
@@ -430,7 +434,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时25分"
         }
@@ -445,11 +449,12 @@
           "url": "https://wallstreetcn.com/livenews/3136040",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时25分 ~ 22时59分]"
         }
       ]
     }

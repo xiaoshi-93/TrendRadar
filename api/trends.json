@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-07-19T05:56:17.401915+08:00",
-  "total_titles_processed": 505,
+  "generated_at": "2026-07-19T06:56:17.826905+08:00",
+  "total_titles_processed": 536,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "金价",
       "match_count": 2,
       "titles": [
+        {
+          "title": "国际金价险守4000美元关口 美伊冲突升级双方扩大打击范围 | 环球市场",
+          "url": "https://www.cls.cn/detail/2430073",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时04分 ~ 06时56分]"
+        },
         {
           "title": "这周金价发生了什么",
           "url": "https://www.toutiao.com/trending/7663819778364345910/",
@@ -17,17 +28,6 @@
             5,
             30,
             24
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时04分 ~ 05时56分]"
-        },
-        {
-          "title": "国际金价险守4000美元关口 美伊冲突升级双方扩大打击范围 | 环球市场",
-          "url": "https://www.cls.cn/detail/2430073",
-          "source": "财联社热门",
-          "ranks": [
-            10
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -47,8 +47,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时04分 ~ 05时56分]"
+          "appearance_count": 7,
+          "time_info": "[00时04分 ~ 06时56分]"
         },
         {
           "title": "美股半导体指数跌入熊市，芯片股溃败时苹果盘中夺回市值第一，AI牛市迎来“换锚”时刻？",
@@ -76,11 +76,12 @@
             17,
             16,
             12,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时59分 ~ 05时56分]"
+          "appearance_count": 6,
+          "time_info": "[01时59分 ~ 06时56分]"
         }
       ]
     },
@@ -97,8 +98,25 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时04分 ~ 05时56分]"
+          "appearance_count": 6,
+          "time_info": "[00时04分 ~ 06时56分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "白宫前AI政策官员、 OpenAI战略未来主管迪恩·鲍尔：Kimi K3是一个非常优秀的模型！我不认为它的表现可以简单归因于蒸馏或类似技术。在智能体编程场景中，它的表现似乎基本可以与2026年第一季度最优秀的公开模型相媲美。",
+          "url": "https://flash.jin10.com/detail/20260719055403527800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时56分"
         }
       ]
     },
@@ -115,8 +133,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时04分 ~ 05时56分]"
+          "appearance_count": 7,
+          "time_info": "[00时04分 ~ 06时56分]"
         }
       ]
     },

@@ -1,127 +1,8 @@
 {
-  "generated_at": "2026-07-19T23:02:36.444460+08:00",
-  "total_titles_processed": 1505,
+  "generated_at": "2026-07-20T00:06:33.247410+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
-    {
-      "keyword_group": "美股",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "美股收盘：三大指数集体收跌 费城半导体指数进入熊市 存储板块冲高回落",
-          "url": "https://www.cls.cn/detail/2430055",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时04分 ~ 17时08分]"
-        },
-        {
-          "title": "美股半导体指数跌入熊市，芯片股溃败时苹果盘中夺回市值第一，AI牛市迎来“换锚”时刻？",
-          "url": "https://wallstreetcn.com/articles/3777263",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时04分 ~ 04时55分]"
-        },
-        {
-          "title": "Kimi K3把美股半导体干崩了",
-          "url": "https://www.baidu.com/s?wd=Kimi+K3%E6%8A%8A%E7%BE%8E%E8%82%A1%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%B9%B2%E5%B4%A9%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            14,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时34分 ~ 17时08分]"
-        },
-        {
-          "title": "Kimi K3重创美股半导体",
-          "url": "https://search.bilibili.com/all?keyword=Kimi%20K3%E9%87%8D%E5%88%9B%E7%BE%8E%E8%82%A1%E5%8D%8A%E5%AF%BC%E4%BD%93",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时12分 ~ 19时13分]"
-        },
-        {
-          "title": "Kimi K3把美股半导体干崩了",
-          "url": "https://s.weibo.com/weibo?q=Kimi%20K3%E6%8A%8A%E7%BE%8E%E8%82%A1%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%B9%B2%E5%B4%A9%E4%BA%86&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时34分 ~ 14时35分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "提醒：下周二（7月21日），通用汽车等将发布业绩报告； 下周三，谷歌母公司Alphabet、特斯拉、德州仪器、IBM等将发布业绩报告； 下周四，英特尔、德国思爱普Sap等将发布业绩报告。",
-          "url": "https://wallstreetcn.com/livenews/3136067",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时04分 ~ 07时58分]"
-        },
-        {
-          "title": "下周重磅日程：欧央行利率决议；谷歌、特斯拉、IBM、英特尔与宁德时代财报",
-          "url": "https://wallstreetcn.com/articles/3777171",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时34分 ~ 23时02分]"
-        },
-        {
-          "title": "TCL华星星智X-Intelligence大模型在显示领域超越Gemini 3.1 Pro与GPT-5.5 high",
-          "url": "https://wallstreetcn.com/livenews/3136253",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时13分 ~ 21时27分]"
-        },
-        {
-          "title": "金十数据整理：下周重要事件与数据预告——欧央行利率决议，谷歌、英特尔、特斯拉等科技股财报密集来袭",
-          "url": "https://flash.jin10.com/detail/20260719211602664800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时27分"
-        }
-      ]
-    },
     {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 3,
@@ -131,132 +12,50 @@
           "url": "https://wallstreetcn.com/articles/3777339",
           "source": "华尔街见闻",
           "ranks": [
-            5,
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时34分 ~ 23时02分]"
-        },
-        {
-          "title": "DeepSeek V4 正式版即将发布，有哪些值得关注的亮点？",
-          "url": "https://www.zhihu.com/question/2061407401308152796",
-          "source": "知乎",
-          "ranks": [
-            17,
-            16,
-            12,
-            10,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时59分 ~ 07时58分]"
+          "appearance_count": 1,
+          "time_info": "00时06分"
         },
         {
           "title": "如何看待部分社区认为 DeepSeek-V4 的灰度测试是路由 Claude Fable 、 Opus 等模型？",
           "url": "https://www.zhihu.com/question/2062188301013071138",
           "source": "知乎",
           "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "国际金价险守4000美元关口 美伊冲突升级双方扩大打击范围 | 环球市场",
-          "url": "https://www.cls.cn/detail/2430073",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时04分 ~ 07时58分]"
-        },
-        {
-          "title": "这周金价发生了什么",
-          "url": "https://www.toutiao.com/trending/7663819778364345910/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            10,
-            5,
-            30,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时04分 ~ 05时56分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "具身智能",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "直击2026WAIC：超300台真机扎堆，具身智能离GPT时刻还差海量物理数据",
-          "url": "https://www.cls.cn/detail/2430120",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时04分 ~ 21时27分]"
-        },
-        {
-          "title": "创通联达具身智能产品TurboX IRB10全球首发落地",
-          "url": "https://wallstreetcn.com/livenews/3136277",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时27分 ~ 23时02分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "世界模型",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "阿里云百炼上线开放式世界模型HappyOyster 1.0",
-          "url": "https://wallstreetcn.com/livenews/3136125",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时40分 ~ 14时35分]"
-        },
-        {
-          "title": "大晓机器人WAIC发布开悟世界模型3.1，具身物理智能统一评测基准平台同步亮相",
-          "url": "https://wallstreetcn.com/livenews/3136237",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时13分"
+          "time_info": "00时06分"
+        },
+        {
+          "title": "用Deepseek生成战地游戏",
+          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8Deepseek%E7%94%9F%E6%88%90%E6%88%98%E5%9C%B0%E6%B8%B8%E6%88%8F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时06分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "下周重磅日程：欧央行利率决议；谷歌、特斯拉、IBM、英特尔与宁德时代财报",
+          "url": "https://wallstreetcn.com/articles/3777171",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时06分"
         }
       ]
     },
@@ -265,49 +64,32 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "白宫前AI政策官员、 OpenAI战略未来主管迪恩·鲍尔：Kimi K3是一个非常优秀的模型！我不认为它的表现可以简单归因于蒸馏或类似技术。在智能体编程场景中，它的表现似乎基本可以与2026年第一季度最优秀的公开模型相媲美。",
-          "url": "https://flash.jin10.com/detail/20260719055403527800",
-          "source": "金十数据",
+          "title": "如何看待 OpenAI 战略未来负责人对 kimi k3 开源的公开发言？",
+          "url": "https://www.zhihu.com/question/2062166923002090163",
+          "source": "知乎",
           "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时56分 ~ 07时58分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "供应链",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "国产AI算力迈入万卡集群时代：超节点市场刚起步，供应链依旧紧张",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33609877",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时17分 ~ 05时56分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "VLA",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "魔法原子Magic-VLA K02亮相WAIC，叠盒封胶长程任务成功率超90%",
-          "url": "https://wallstreetcn.com/livenews/3136040",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时04分"
+          "time_info": "00时06分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "具身智能",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "创通联达具身智能产品TurboX IRB10全球首发落地",
+          "url": "https://wallstreetcn.com/livenews/3136277",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时06分"
         }
       ]
     }

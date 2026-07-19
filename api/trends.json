@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-19T14:35:09.060451+08:00",
-  "total_titles_processed": 928,
+  "generated_at": "2026-07-19T17:08:07.560921+08:00",
+  "total_titles_processed": 1077,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时04分 ~ 14时35分]"
+          "appearance_count": 13,
+          "time_info": "[00时04分 ~ 17时08分]"
         },
         {
           "title": "美股半导体指数跌入熊市，芯片股溃败时苹果盘中夺回市值第一，AI牛市迎来“换锚”时刻？",
@@ -36,11 +36,12 @@
           "url": "https://www.baidu.com/s?wd=Kimi+K3%E6%8A%8A%E7%BE%8E%E8%82%A1%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%B9%B2%E5%B4%A9%E4%BA%86",
           "source": "百度热搜",
           "ranks": [
-            14
+            14,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时34分 ~ 14时35分]"
+          "appearance_count": 4,
+          "time_info": "[14时34分 ~ 17时08分]"
         },
         {
           "title": "Kimi K3把美股半导体干崩了",
@@ -60,6 +61,18 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "DeepSeek V4「满血版」曝光了！最快明天发布",
+          "url": "https://wallstreetcn.com/articles/3777339",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时34分 ~ 17时08分]"
+        },
+        {
           "title": "DeepSeek V4 正式版即将发布，有哪些值得关注的亮点？",
           "url": "https://www.zhihu.com/question/2061407401308152796",
           "source": "知乎",
@@ -74,17 +87,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时59分 ~ 07时58分]"
-        },
-        {
-          "title": "DeepSeek V4「满血版」曝光了！最快明天发布",
-          "url": "https://wallstreetcn.com/articles/3777339",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时34分 ~ 14时35分]"
         }
       ]
     },
@@ -181,8 +183,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时04分 ~ 14时35分]"
+          "appearance_count": 13,
+          "time_info": "[00时04分 ~ 17时08分]"
         }
       ]
     },

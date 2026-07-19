@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-19T19:13:00.580447+08:00",
-  "total_titles_processed": 1238,
+  "generated_at": "2026-07-19T21:27:51.773363+08:00",
+  "total_titles_processed": 1385,
   "failed_sources": [],
   "trends": [
     {
@@ -69,7 +69,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "提醒：下周二（7月21日），通用汽车等将发布业绩报告； 下周三，谷歌母公司Alphabet、特斯拉、德州仪器、IBM等将发布业绩报告； 下周四，英特尔、德国思爱普Sap等将发布业绩报告。",
@@ -84,27 +84,40 @@
           "time_info": "[00时04分 ~ 07时58分]"
         },
         {
-          "title": "TCL华星星智X-Intelligence大模型在显示领域超越Gemini 3.1 Pro与GPT-5.5 high",
-          "url": "https://wallstreetcn.com/livenews/3136253",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时13分"
-        },
-        {
           "title": "下周重磅日程：欧央行利率决议；谷歌、特斯拉、IBM、英特尔与宁德时代财报",
           "url": "https://wallstreetcn.com/articles/3777171",
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时34分 ~ 19时13分]"
+          "appearance_count": 5,
+          "time_info": "[14时34分 ~ 21时27分]"
+        },
+        {
+          "title": "TCL华星星智X-Intelligence大模型在显示领域超越Gemini 3.1 Pro与GPT-5.5 high",
+          "url": "https://wallstreetcn.com/livenews/3136253",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时13分 ~ 21时27分]"
+        },
+        {
+          "title": "金十数据整理：下周重要事件与数据预告——欧央行利率决议，谷歌、英特尔、特斯拉等科技股财报密集来袭",
+          "url": "https://flash.jin10.com/detail/20260719211602664800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
         }
       ]
     },
@@ -121,8 +134,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时34分 ~ 19时13分]"
+          "appearance_count": 7,
+          "time_info": "[14时34分 ~ 21时27分]"
         },
         {
           "title": "DeepSeek V4 正式版即将发布，有哪些值得关注的亮点？",
@@ -176,6 +189,36 @@
       ]
     },
     {
+      "keyword_group": "具身智能",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "直击2026WAIC：超300台真机扎堆，具身智能离GPT时刻还差海量物理数据",
+          "url": "https://www.cls.cn/detail/2430120",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[00时04分 ~ 21时27分]"
+        },
+        {
+          "title": "创通联达具身智能产品TurboX IRB10全球首发落地",
+          "url": "https://wallstreetcn.com/livenews/3136277",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
+        }
+      ]
+    },
+    {
       "keyword_group": "世界模型",
       "match_count": 2,
       "titles": [
@@ -198,7 +241,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时13分"
         }
@@ -218,25 +261,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时56分 ~ 07时58分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "具身智能",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "直击2026WAIC：超300台真机扎堆，具身智能离GPT时刻还差海量物理数据",
-          "url": "https://www.cls.cn/detail/2430120",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时04分 ~ 19时13分]"
         }
       ]
     },

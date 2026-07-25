@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-25T19:16:02.474211+08:00",
-  "total_titles_processed": 1163,
+  "generated_at": "2026-07-25T21:45:18.264357+08:00",
+  "total_titles_processed": 1301,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,21 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时08分 ~ 19时16分]"
+          "appearance_count": 8,
+          "time_info": "[08时08分 ~ 21时45分]"
+        },
+        {
+          "title": "【早报】美股芯片股重挫；油价跳水、黄金微涨；视网膜芯片获准在欧上市；宁德时代抛出A股史上最大规模回购方案",
+          "url": "https://www.cls.cn/detail/2436884",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[08时08分 ~ 21时45分]"
         },
         {
           "title": "“关税战”来最惨的1天！美股“科技龙头”Mag 7单日市值蒸发近8000亿美元",
@@ -43,19 +56,6 @@
           "time_info": "[00时52分 ~ 06时10分]"
         },
         {
-          "title": "【早报】美股芯片股重挫；油价跳水、黄金微涨；视网膜芯片获准在欧上市；宁德时代抛出A股史上最大规模回购方案",
-          "url": "https://www.cls.cn/detail/2436884",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时08分 ~ 19时16分]"
-        },
-        {
           "title": "美股收盘：三大指数走势分化 存储&光通信重挫 闪迪跌超10%",
           "url": "https://www.cls.cn/detail/2436875",
           "source": "财联社热门",
@@ -64,11 +64,12 @@
             6,
             9,
             10,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时08分 ~ 19时16分]"
+          "appearance_count": 8,
+          "time_info": "[08时08分 ~ 21时45分]"
         },
         {
           "title": "周五（7月24日），美股存储芯片与硬件供应链指数跌7.29%，报200.25点，本周累计上涨5.74%，整体处于上涨状态，7月23-24日持续回撤。",
@@ -232,11 +233,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            5
+            5,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时54分 ~ 19时16分]"
+          "appearance_count": 3,
+          "time_info": "[17时54分 ~ 21时45分]"
         },
         {
           "title": "如何看待新晋菲尔兹奖得主 Jacob Tsimerman 颁奖当天宣布加入 OpenAI？",

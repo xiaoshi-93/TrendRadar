@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-26T04:58:39.954376+08:00",
-  "total_titles_processed": 398,
+  "generated_at": "2026-07-26T06:03:13.304420+08:00",
+  "total_titles_processed": 424,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时04分 ~ 04时58分]"
+          "appearance_count": 6,
+          "time_info": "[01时04分 ~ 06时03分]"
         },
         {
           "title": "【早报】美股芯片股重挫；油价跳水、黄金微涨；视网膜芯片获准在欧上市；宁德时代抛出A股史上最大规模回购方案",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时04分 ~ 04时58分]"
+          "appearance_count": 6,
+          "time_info": "[01时04分 ~ 06时03分]"
         },
         {
           "title": "美股收盘：三大指数走势分化 存储&光通信重挫 闪迪跌超10%",
@@ -37,8 +37,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时04分 ~ 04时58分]"
+          "appearance_count": 6,
+          "time_info": "[01时04分 ~ 06时03分]"
         },
         {
           "title": "美股已经有人在提前跑路了",
@@ -56,18 +56,30 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "OpenAI Codex产品负责人Tibo：我们已经为所有Codex和ChatGPT Work用户重置了使用额度。昨夜凌晨2点至4点左右，我们遭遇了一次几乎全球范围的服务中断。目前所有服务均已恢复正常。",
           "url": "https://flash.jin10.com/detail/20260726031905539800",
           "source": "金十数据",
           "ranks": [
-            9
+            9,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时58分 ~ 06时03分]"
+        },
+        {
+          "title": "OpenAI Codex开发人员Thomas Ricouard：我让5.6 Sol稍微提升几何精度和材质细节，效果令人惊喜。这是一个完全在Blender中构建的场景，可以自由操控和漫游，而且它还能持续从中生成颇有格调的静态画面。",
+          "url": "https://flash.jin10.com/detail/20260726044659225800",
+          "source": "金十数据",
+          "ranks": [
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时58分"
+          "time_info": "06时03分"
         }
       ]
     }

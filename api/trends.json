@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-27T16:35:28.883947+08:00",
-  "total_titles_processed": 988,
+  "generated_at": "2026-07-27T20:29:15.537724+08:00",
+  "total_titles_processed": 1196,
   "failed_sources": [],
   "trends": [
     {
@@ -36,11 +36,12 @@
           "source": "贴吧",
           "ranks": [
             4,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时40分 ~ 16时35分]"
+          "appearance_count": 4,
+          "time_info": "[12时40分 ~ 20时29分]"
         },
         {
           "title": "OpenAI失控AI内幕曝光：越狱一周才被发现 还有智能体曾留下“逃脱秘籍”",
@@ -113,7 +114,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "【早报】美股芯片股重挫；油价跳水、黄金微涨；视网膜芯片获准在欧上市；宁德时代抛出A股史上最大规模回购方案",
@@ -157,7 +158,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时35分"
         },
@@ -173,13 +174,24 @@
           "time_info": "[08时04分 ~ 08时05分]"
         },
         {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-07-27）",
+          "url": "https://flash.jin10.com/detail/20260727202205552800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
+        },
+        {
           "title": "美股存储概念股盘前走高，SK海力士(SKHY.O)上涨6%，美光科技(MU.O)涨3.6%，闪迪(SNDK.O)上涨5%，希捷科技(STX.O)上涨3.9%。英伟达(NVDA.O)盘前上涨1%，英特尔(INTC.O)涨3%，博通(AVGO.O)涨2%。",
           "url": "https://flash.jin10.com/detail/20260727160453496800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时35分"
         },
@@ -190,7 +202,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时35分"
         }
@@ -198,7 +210,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "梁文锋打新长鑫浮盈8.27亿",
@@ -207,9 +219,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时35分"
+        },
+        {
+          "title": "梁文锋打新长鑫浮盈8.27亿",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%A2%81%E6%96%87%E9%94%8B%E6%89%93%E6%96%B0%E9%95%BF%E9%91%AB%E6%B5%AE%E7%9B%888.27%E4%BA%BF%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时28分 ~ 20时29分]"
         },
         {
           "title": "梁文锋打新长鑫科技浮盈8.27亿",
@@ -218,7 +241,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时35分"
         }
@@ -226,8 +249,19 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "油价暴跌 金价飙升",
+          "url": "https://www.douyin.com/hot/2587376",
+          "source": "抖音",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时28分 ~ 20时29分]"
+        },
         {
           "title": "停火先砸油价再救金价，多空争夺战移交美联储｜黄金头条",
           "url": "https://flash.jin10.com/detail/20260727115631436800",

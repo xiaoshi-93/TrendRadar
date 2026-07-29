@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-07-29T18:44:10.183792+08:00",
-  "total_titles_processed": 1191,
+  "generated_at": "2026-07-29T21:05:15.705097+08:00",
+  "total_titles_processed": 1345,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
+        {
+          "title": "美股涨跌不一，半导体连续两日遭抛售，苹果市值首次突破5万亿美元，金银油齐跌",
+          "url": "https://wallstreetcn.com/articles/3778080",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[08时02分 ~ 21时05分]"
+        },
         {
           "title": "康宁美股盘前暴跌15%！Q2营收利润双超预期，但Q3收入指引不够“惊喜”| 财报见闻",
           "url": "https://wallstreetcn.com/articles/3778135",
@@ -37,18 +50,6 @@
           "time_info": "[00时44分 ~ 18时44分]"
         },
         {
-          "title": "美股涨跌不一，半导体连续两日遭抛售，苹果市值首次突破5万亿美元，金银油齐跌",
-          "url": "https://wallstreetcn.com/articles/3778080",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时02分 ~ 18时44分]"
-        },
-        {
           "title": "美股期指走势分化 芯片股继续下挫 道指期货涨近1% | 今夜看点",
           "url": "https://www.cls.cn/detail/2439316",
           "source": "财联社热门",
@@ -60,6 +61,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时44分 ~ 08时02分]"
+        },
+        {
+          "title": "FOMC和巨头财报在即，市场严阵以待！美股存储股盘前续跌，韩股连续两日暴跌熔断，油价涨超3%",
+          "url": "https://wallstreetcn.com/articles/3778176",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时43分 ~ 21时05分]"
         },
         {
           "title": "美股收盘：AI概念延续“血色一夜” 另一场狂欢由此开启",
@@ -83,17 +96,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时44分 ~ 04时19分]"
-        },
-        {
-          "title": "FOMC和巨头财报在即，市场严阵以待！美股存储股盘前续跌，韩股连续两日暴跌熔断，油价涨超3%",
-          "url": "https://wallstreetcn.com/articles/3778176",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时43分 ~ 18时44分]"
         },
         {
           "title": "希捷科技(STX.O)美股盘后涨超8%，其营收指引高于预期。",
@@ -152,6 +154,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时15分 ~ 12时16分]"
+        },
+        {
+          "title": "美联储决议前市场情绪谨慎 美股期指走弱 油价飙升近6% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2440482",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时04分 ~ 21时05分]"
         },
         {
           "title": "金十图示：2026年07月28日（周二）美股热门股票行情一览（美股收盘）",

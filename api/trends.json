@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-30T15:37:52.276821+08:00",
-  "total_titles_processed": 1019,
+  "generated_at": "2026-07-30T18:30:43.206815+08:00",
+  "total_titles_processed": 1196,
   "failed_sources": [],
   "trends": [
     {
@@ -139,7 +139,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时37分"
         },
@@ -216,6 +216,19 @@
       "match_count": 6,
       "titles": [
         {
+          "title": "为什么 ChatGPT 已经发布 4 年了，社会总生产力纹丝不动？",
+          "url": "https://www.zhihu.com/question/2065583157664018461",
+          "source": "知乎",
+          "ranks": [
+            7,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时09分 ~ 18时30分]"
+        },
+        {
           "title": "OpenAI针对学术研究员推出ChatGPT。",
           "url": "https://wallstreetcn.com/livenews/3141809",
           "source": "华尔街见闻-快讯",
@@ -225,18 +238,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
-        },
-        {
-          "title": "为什么 ChatGPT 已经发布 4 年了，社会总生产力纹丝不动？",
-          "url": "https://www.zhihu.com/question/2065583157664018461",
-          "source": "知乎",
-          "ranks": [
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时09分 ~ 15时37分]"
         },
         {
           "title": "OpenAI 、 Anthropic 等上千员工联名请愿美政府控制 AI 发展速度，反映了什么？有何影响？",
@@ -295,11 +296,12 @@
           "source": "华尔街见闻",
           "ranks": [
             2,
-            1
+            1,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时05分 ~ 15时37分]"
+          "appearance_count": 6,
+          "time_info": "[08时05分 ~ 18时30分]"
         },
         {
           "title": "沃什拒绝给方向，美债市场怒了！冈拉克警告：想回2%就必须加息",

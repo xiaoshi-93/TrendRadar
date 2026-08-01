@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-01T21:37:57.452911+08:00",
-  "total_titles_processed": 1295,
+  "generated_at": "2026-08-01T23:05:28.832817+08:00",
+  "total_titles_processed": 1387,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             2,
-            3
+            3,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时09分 ~ 21时37分]"
+          "appearance_count": 5,
+          "time_info": "[17时09分 ~ 23时05分]"
         },
         {
           "title": "DeepSeek（官方 API 接入 Agent）居然会对用户说「我去吃饭了」、「我去睡了」，为啥会这样？",
@@ -129,8 +130,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时21分 ~ 21时37分]"
+          "appearance_count": 3,
+          "time_info": "[19时21分 ~ 23时05分]"
         },
         {
           "title": "DeepSeekV4Flash正式版跑分出炉",
@@ -202,11 +203,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时06分 ~ 21时37分]"
+          "appearance_count": 9,
+          "time_info": "[07时06分 ~ 23时05分]"
         },
         {
           "title": "亚马逊财报提振AI信心 美股期指走高 苹果盘前跌近8% | 今夜看点",
@@ -246,6 +248,19 @@
           "time_info": "05时12分"
         },
         {
+          "title": "美股财报季AI赛道赢家显现：云计算三巨头本周市值暴增10万亿",
+          "url": "https://www.cls.cn/detail/2443270",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时09分 ~ 23时05分]"
+        },
+        {
           "title": "日元偷袭，美元盘中跌破 100 且兑日元急挫超 3%，美股 SOX 指数盘内涨超 8%，大宗商品异动，发生了什么？",
           "url": "https://www.zhihu.com/question/2066288437683032785",
           "source": "知乎",
@@ -257,19 +272,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时44分 ~ 07时06分]"
-        },
-        {
-          "title": "美股财报季AI赛道赢家显现：云计算三巨头本周市值暴增10万亿",
-          "url": "https://www.cls.cn/detail/2443270",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时09分 ~ 21时37分]"
         },
         {
           "title": "美股三大股指全线收涨",
@@ -352,7 +354,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "OpenAI：我们黑了不止一家公司，Anthropic：我也是",
@@ -456,6 +458,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
+        },
+        {
+          "title": "OpenAI 价格战",
+          "url": "https://s.weibo.com/weibo?q=OpenAI%20%E4%BB%B7%E6%A0%BC%E6%88%98&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时05分"
         },
         {
           "title": "专家：Anthropic与OpenAI入侵事件预示美国安全风险",
@@ -582,8 +595,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时06分 ~ 21时37分]"
+          "appearance_count": 9,
+          "time_info": "[07时06分 ~ 23时05分]"
         },
         {
           "title": "美联储没加息，30年期美债为何先“破防”？｜大师复盘",
@@ -661,7 +674,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时37分"
         }

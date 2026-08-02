@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-02T19:20:34.825977+08:00",
-  "total_titles_processed": 1011,
+  "generated_at": "2026-08-02T21:38:17.893525+08:00",
+  "total_titles_processed": 1146,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "为什么 DeepSeek-V4-Flash-0731 的后训练如此有效？",
@@ -25,11 +25,12 @@
           "source": "微博",
           "ranks": [
             8,
-            9
+            9,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时12分 ~ 19时20分]"
+          "appearance_count": 4,
+          "time_info": "[17时12分 ~ 21时38分]"
         },
         {
           "title": "马斯克关注DeepSeek账号",
@@ -41,6 +42,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时01分"
+        },
+        {
+          "title": "DeepSeek又发重磅更新",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%8F%88%E5%8F%91%E9%87%8D%E7%A3%85%E6%9B%B4%E6%96%B0",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时37分"
         }
       ]
     },
@@ -60,8 +72,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时05分 ~ 19时20分]"
+          "appearance_count": 13,
+          "time_info": "[01时05分 ~ 21时38分]"
         },
         {
           "title": "OpenAI确认下一代模型Astra存在，以2000美元算力成本破解十项数学未解难题，正向监管层展示",
@@ -112,11 +124,12 @@
           "ranks": [
             6,
             7,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时05分 ~ 19时20分]"
+          "appearance_count": 13,
+          "time_info": "[01时05分 ~ 21时38分]"
         },
         {
           "title": "高盛：7月砸穿拥挤交易，美股牛市没断但更难做了",
@@ -143,7 +156,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时20分"
         }

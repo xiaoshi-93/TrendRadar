@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-02T21:38:17.893525+08:00",
-  "total_titles_processed": 1146,
+  "generated_at": "2026-08-02T23:07:09.123274+08:00",
+  "total_titles_processed": 1231,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
           "ranks": [
             8,
             9,
-            18
+            18,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时12分 ~ 21时38分]"
+          "appearance_count": 6,
+          "time_info": "[17时12分 ~ 23时07分]"
         },
         {
           "title": "马斯克关注DeepSeek账号",
@@ -69,11 +70,12 @@
             6,
             10,
             13,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时05分 ~ 21时38分]"
+          "appearance_count": 15,
+          "time_info": "[01时05分 ~ 23时07分]"
         },
         {
           "title": "OpenAI确认下一代模型Astra存在，以2000美元算力成本破解十项数学未解难题，正向监管层展示",
@@ -128,8 +130,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时05分 ~ 21时38分]"
+          "appearance_count": 15,
+          "time_info": "[01时05分 ~ 23时07分]"
         },
         {
           "title": "高盛：7月砸穿拥挤交易，美股牛市没断但更难做了",

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-04T19:30:02.709744+08:00",
-  "total_titles_processed": 1250,
+  "generated_at": "2026-08-04T22:26:19.577246+08:00",
+  "total_titles_processed": 1425,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "美股8月开门红，道指新高，亚马逊市值首破三万亿，阿里涨超4%，原油重挫",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时54分 ~ 19时30分]"
+          "appearance_count": 6,
+          "time_info": "[10时54分 ~ 22时26分]"
         },
         {
           "title": "美伊谈判乐观情绪升温，美股指高开，亚马逊涨近5%，市值突破3万亿美元，WTI油价跌7%",
@@ -160,6 +160,17 @@
           "time_info": "10时54分"
         },
         {
+          "title": "美股期指全线上涨 卡特彼勒大涨逾10%领涨道指期货 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2445568",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
+        {
           "title": "周一（8月3日），美股行业ETF多数收涨，全球航空业ETF涨4.44%，网络股指数ETF涨2.93%，可选消费ETF、科技行业ETF、全球科技股指数ETF至少涨1.36%，能源业ETF跌1.28%。",
           "url": "https://wallstreetcn.com/livenews/3144351",
           "source": "华尔街见闻-快讯",
@@ -188,7 +199,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时30分"
         },
@@ -232,7 +243,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时30分"
         },
@@ -287,7 +298,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时30分"
         },
@@ -298,7 +309,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时30分"
         }
@@ -306,7 +317,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "DeepSeek 斩杀线",
@@ -368,8 +379,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时53分 ~ 19时30分]"
+          "appearance_count": 5,
+          "time_info": "[13时53分 ~ 22时26分]"
         },
         {
           "title": "DeepSeek斩杀线",
@@ -432,8 +443,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时45分 ~ 19时30分]"
+          "appearance_count": 4,
+          "time_info": "[16时45分 ~ 22时26分]"
         },
         {
           "title": "DeepSeek低价风暴打服硅谷",
@@ -458,6 +469,17 @@
           "time_info": "10时54分"
         },
         {
+          "title": "疑似梁文锋早期微博被扒",
+          "url": "https://www.baidu.com/s?wd=%E7%96%91%E4%BC%BC%E6%A2%81%E6%96%87%E9%94%8B%E6%97%A9%E6%9C%9F%E5%BE%AE%E5%8D%9A%E8%A2%AB%E6%89%92",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
+        {
           "title": "华为半导体首席科学家大赞梁文锋",
           "url": "https://www.toutiao.com/trending/7669025220200546330/",
           "source": "今日头条",
@@ -467,6 +489,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时44分"
+        },
+        {
+          "title": "疑似梁文锋早期微博被扒",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%96%91%E4%BC%BC%E6%A2%81%E6%96%87%E9%94%8B%E6%97%A9%E6%9C%9F%E5%BE%AE%E5%8D%9A%E8%A2%AB%E6%89%92%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
         }
       ]
     },
@@ -482,11 +515,12 @@
             9,
             13,
             18,
-            21
+            21,
+            24
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时56分 ~ 19时30分]"
+          "appearance_count": 10,
+          "time_info": "[01时56分 ~ 22时26分]"
         },
         {
           "title": "OpenAI的CEO Altman被要求就AI安全事故向美国众议院介绍情况。",
@@ -551,7 +585,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时30分"
         },
@@ -591,8 +625,69 @@
       ]
     },
     {
+      "keyword_group": "自动驾驶",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "L3、L4级自动驾驶“强标”明年7月实施 明确安全主体责任、接管机制",
+          "url": "https://www.cls.cn/detail/2445436",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
+        {
+          "title": "工信部：自动驾驶系统安全水平应至少达到正在承担动态驾驶任务的合格且专注驾驶人的水平",
+          "url": "https://flash.jin10.com/detail/20260804163341821800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时45分"
+        },
+        {
+          "title": "工信部：规范人机交互与用户告知要求 对于L3级自动驾驶系统还应具备驾驶人接管能力监测功能",
+          "url": "https://flash.jin10.com/detail/20260804163202725800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时45分"
+        },
+        {
+          "title": "《智能网联汽车 自动驾驶系统安全要求》强制性国家标准正式发布，拟于2027年7月1日起正式实施。",
+          "url": "https://flash.jin10.com/detail/20260804162948779800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时45分"
+        },
+        {
+          "title": "《智能网联汽车 自动驾驶系统安全要求》强制性国家标准正式发布",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33713556",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "周一（8月3日）纽约尾盘，ICE美元指数大致持平，报99.906点，日内交投区间为99.418-100.017点，亚太早盘低开低走、北京时间08:45刷新日低，之后持续震荡上扬。 彭博美元指数跌0.06%，报1206.06点，日内交投区间为1201.22-1207.21点。",
@@ -628,45 +723,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "自动驾驶",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "工信部：自动驾驶系统安全水平应至少达到正在承担动态驾驶任务的合格且专注驾驶人的水平",
-          "url": "https://flash.jin10.com/detail/20260804163341821800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时45分"
         },
         {
-          "title": "工信部：规范人机交互与用户告知要求 对于L3级自动驾驶系统还应具备驾驶人接管能力监测功能",
-          "url": "https://flash.jin10.com/detail/20260804163202725800",
-          "source": "金十数据",
+          "title": "北美科技软件股指数ETF涨2.9%，刷新6月4日以来盘中高位至100.23美元，7月24日以来持续反弹。",
+          "url": "https://wallstreetcn.com/livenews/3144798",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            27
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时45分"
-        },
-        {
-          "title": "《智能网联汽车 自动驾驶系统安全要求》强制性国家标准正式发布，拟于2027年7月1日起正式实施。",
-          "url": "https://flash.jin10.com/detail/20260804162948779800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时45分"
+          "time_info": "22时26分"
         }
       ]
     },
@@ -711,8 +778,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时53分 ~ 19时30分]"
+          "appearance_count": 5,
+          "time_info": "[13时53分 ~ 22时26分]"
         },
         {
           "title": "花旗：日本捍卫日元不必抛售逾1.1万亿美元的美债持仓",

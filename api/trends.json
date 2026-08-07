@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-07T11:53:11.398623+08:00",
-  "total_titles_processed": 519,
+  "generated_at": "2026-08-07T13:44:46.190824+08:00",
+  "total_titles_processed": 660,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "宇树科技IPO定价150.8元，DeepSeek、腾讯等获战略配售",
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时43分 ~ 11时53分]"
+          "appearance_count": 4,
+          "time_info": "[08时43分 ~ 13时44分]"
         },
         {
           "title": "如何看待梁文锋旗下幻方量化多只产品收益转负，单月跌幅超 20%？",
@@ -27,8 +27,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时52分 ~ 11时53分]"
+          "appearance_count": 3,
+          "time_info": "[11时52分 ~ 13时44分]"
         },
         {
           "title": "梁文锋旗下幻方量化多只产品收益转负，单月跌幅超 20%，你怎么看？",
@@ -53,24 +53,25 @@
           "time_info": "08时43分"
         },
         {
+          "title": "DeepSeek拟上调API服务价格",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356822&amp;topic_name=DeepSeek%E6%8B%9F%E4%B8%8A%E8%B0%83API%E6%9C%8D%E5%8A%A1%E4%BB%B7%E6%A0%BC",
+          "source": "贴吧",
+          "ranks": [
+            12,
+            14,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时43分 ~ 13时44分]"
+        },
+        {
           "title": "DeepSeek官宣涨价，且“幅度较大”！",
           "url": "https://wallstreetcn.com/articles/3778814",
           "source": "华尔街见闻",
           "ranks": [
             8,
             6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时43分 ~ 11时53分]"
-        },
-        {
-          "title": "DeepSeek拟上调API服务价格",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356822&amp;topic_name=DeepSeek%E6%8B%9F%E4%B8%8A%E8%B0%83API%E6%9C%8D%E5%8A%A1%E4%BB%B7%E6%A0%BC",
-          "source": "贴吧",
-          "ranks": [
-            12,
-            14
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -86,6 +87,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时43分"
+        },
+        {
+          "title": "DeepSeek豪掷1.4亿护航宇树IPO",
+          "url": "https://www.toutiao.com/trending/7671088097861307923/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时44分"
         },
         {
           "title": "梁文锋投了宇树",
@@ -162,8 +174,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时43分 ~ 11时53分]"
+          "appearance_count": 4,
+          "time_info": "[08时43分 ~ 13时44分]"
         },
         {
           "title": "美股收盘：三大股指小幅收跌 投资者关注中东谈判与企业财报",
@@ -174,8 +186,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时43分 ~ 11时53分]"
+          "appearance_count": 4,
+          "time_info": "[08时43分 ~ 13时44分]"
         },
         {
           "title": "美股三大指数集体收跌 西数跌超13%",
@@ -233,6 +245,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时52分 ~ 11时53分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "供应链",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "日本石油公司ENEOS首席财务官：伊朗战争结束后，我们需要中长期内扩大石油储备，并实现原油采购来源多元化。将与政府紧密协调，加强石油供应链的韧性。",
+          "url": "https://flash.jin10.com/detail/20260807132544810800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时44分"
         }
       ]
     },

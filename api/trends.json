@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T15:01:44.745990+08:00",
-  "total_titles_processed": 1000,
+  "generated_at": "2026-08-08T15:56:05.842573+08:00",
+  "total_titles_processed": 1049,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时01分 ~ 15时01分]"
+          "appearance_count": 15,
+          "time_info": "[00时01分 ~ 15时56分]"
         },
         {
           "title": "非农与美伊协议落地前市场谨慎，存储芯片股领跌美股，西部数据跌13%，原油走强",
@@ -50,11 +50,25 @@
           "ranks": [
             10,
             4,
-            3
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[06时41分 ~ 15时56分]"
+        },
+        {
+          "title": "【早报】美股创4月份以来最大单周涨幅；存储板块普跌；原油、黄金双双上涨；北京购房政策调整",
+          "url": "https://www.cls.cn/detail/2448991",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2,
+            1
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[06时41分 ~ 15时01分]"
+          "time_info": "[09时55分 ~ 15时56分]"
         },
         {
           "title": "美股存储板块集体大跌",
@@ -82,19 +96,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时01分 ~ 07时38分]"
-        },
-        {
-          "title": "【早报】美股创4月份以来最大单周涨幅；存储板块普跌；原油、黄金双双上涨；北京购房政策调整",
-          "url": "https://www.cls.cn/detail/2448991",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时55分 ~ 15时01分]"
         },
         {
           "title": "美股光模块黑马计划大幅扩产 全力押注800G、1.6T产品",
@@ -316,6 +317,33 @@
       "match_count": 5,
       "titles": [
         {
+          "title": "业绩如何支撑高估值？与DeepSeek如何合作？如何看待股价炒作？王兴兴回应多个热点",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33739348",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            14,
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[04时47分 ~ 15时56分]"
+        },
+        {
+          "title": "网传 DeepSeek V4 Flash 完成任务后写了个游戏玩一上午，是真的吗？为什么会出现这样的现象？",
+          "url": "https://www.zhihu.com/question/2068108635620774765",
+          "source": "知乎",
+          "ranks": [
+            7,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时55分 ~ 15时56分]"
+        },
+        {
           "title": "梁文锋 只想用座机",
           "url": "https://www.baidu.com/s?wd=%E6%A2%81%E6%96%87%E9%94%8B+%E5%8F%AA%E6%83%B3%E7%94%A8%E5%BA%A7%E6%9C%BA",
           "source": "百度热搜",
@@ -333,20 +361,6 @@
           "time_info": "[00时01分 ~ 07时38分]"
         },
         {
-          "title": "业绩如何支撑高估值？与DeepSeek如何合作？如何看待股价炒作？王兴兴回应多个热点",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33739348",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            14,
-            13,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[04时47分 ~ 15时01分]"
-        },
-        {
           "title": "怎么看 OpenCode 创始人说「DeepSeek 涨价不是因为亏钱，而是为了劝退用户」？",
           "url": "https://www.zhihu.com/question/2069015264461579129",
           "source": "知乎",
@@ -356,18 +370,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时01分 ~ 07时38分]"
-        },
-        {
-          "title": "网传 DeepSeek V4 Flash 完成任务后写了个游戏玩一上午，是真的吗？为什么会出现这样的现象？",
-          "url": "https://www.zhihu.com/question/2068108635620774765",
-          "source": "知乎",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时55分 ~ 15时01分]"
         },
         {
           "title": "梁文锋为何重仓宇树科技",
@@ -452,11 +454,12 @@
             17,
             21,
             23,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时01分 ~ 15时01分]"
+          "appearance_count": 15,
+          "time_info": "[00时01分 ~ 15时56分]"
         },
         {
           "title": "奥士康：与AMD合作尚处送样阶段，未与英伟达、谷歌开展订单合作",
@@ -482,7 +485,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时01分"
         }

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T20:57:20.813876+08:00",
-  "total_titles_processed": 1430,
+  "generated_at": "2026-08-08T21:51:02.268081+08:00",
+  "total_titles_processed": 1485,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时55分 ~ 20时57分]"
+          "appearance_count": 13,
+          "time_info": "[09时55分 ~ 21时51分]"
         },
         {
           "title": "美国7月非农意外减少 美股期指走高 加息预期降温 | 今夜看点",
@@ -32,8 +32,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时01分 ~ 20时57分]"
+          "appearance_count": 22,
+          "time_info": "[00时01分 ~ 21时51分]"
         },
         {
           "title": "美股收盘：标普500指数再创新高 疲软非农缓解加息担忧",
@@ -47,8 +47,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[06时41分 ~ 20时57分]"
+          "appearance_count": 15,
+          "time_info": "[06时41分 ~ 21时51分]"
         },
         {
           "title": "非农与美伊协议落地前市场谨慎，存储芯片股领跌美股，西部数据跌13%，原油走强",
@@ -220,7 +220,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "OpenAI：为高性能模型及相关业务落实更严格的安全管控，其中包括隔离测试环境",
@@ -247,6 +247,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[07时38分 ~ 15时01分]"
+        },
+        {
+          "title": "英伟达盯上OpenAI“星际之门”背后的电力商，30亿美元直接入股",
+          "url": "https://wallstreetcn.com/articles/3778988",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时50分 ~ 21时51分]"
         },
         {
           "title": "OpenAI：已在Astra的所有智能体应用中实施针对高风险行为和失配问题的全面监控。根据目前针对Astra模型的准备框架评估结果，无法排除其具备关键网络能力的可能性。将与相关政府机构及选定的人工智能安全组织合作，对Astra的能力进行测试。",
@@ -498,11 +509,12 @@
           "url": "https://wallstreetcn.com/livenews/3147006",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时57分 ~ 21时51分]"
         },
         {
           "title": "奥士康：与AMD合作尚处送样阶段，未与英伟达、谷歌开展订单合作",
@@ -537,11 +549,12 @@
           "url": "https://flash.jin10.com/detail/20260808201231128800",
           "source": "金十数据",
           "ranks": [
-            14
+            14,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时57分 ~ 21时51分]"
         }
       ]
     },

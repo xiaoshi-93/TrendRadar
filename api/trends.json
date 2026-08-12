@@ -1,12 +1,196 @@
 {
-  "generated_at": "2026-08-13T06:46:47.901851+08:00",
-  "total_titles_processed": 523,
+  "generated_at": "2026-08-13T07:48:14.501782+08:00",
+  "total_titles_processed": 600,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美股",
-      "match_count": 12,
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 13,
       "titles": [
+        {
+          "title": "DeepSeek V4 Pro正式版上线",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%20Pro%E6%AD%A3%E5%BC%8F%E7%89%88%E4%B8%8A%E7%BA%BF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 07时48分]"
+        },
+        {
+          "title": "DeepSeek Pro 正式版已经发布，如何评价该模型？",
+          "url": "https://www.zhihu.com/question/2071014727606703118",
+          "source": "知乎",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时01分 ~ 06时46分]"
+        },
+        {
+          "title": "135家私募打新宇树科技获配：头部量化扎堆入围 ，梁文锋旗下幻方、九章拿下私募最大份额",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33764096",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 07时48分]"
+        },
+        {
+          "title": "梁文锋财富一年暴涨 3850% ，跻身全球亿万富豪榜，他是如何做到的？",
+          "url": "https://www.zhihu.com/question/2070810807168980648",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 07时48分]"
+        },
+        {
+          "title": "DeepSeek V4 Pro 正式版发布，如何评价该模型？",
+          "url": "https://www.zhihu.com/question/2071014727606703118",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时47分 ~ 07时48分]"
+        },
+        {
+          "title": "DeepSeek重磅更新 V4Pro正式版上线",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E9%87%8D%E7%A3%85%E6%9B%B4%E6%96%B0+V4Pro%E6%AD%A3%E5%BC%8F%E7%89%88%E4%B8%8A%E7%BA%BF",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时47分 ~ 07时48分]"
+        },
+        {
+          "title": "DeepSeek发布V4Pro正式版",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E5%8F%91%E5%B8%83V4Pro%E6%AD%A3%E5%BC%8F%E7%89%88%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13,
+            16,
+            19,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时02分 ~ 07时48分]"
+        },
+        {
+          "title": "DeepSeek V4 Pro正式版API更新：多项测试性能接近Fable 5",
+          "url": "https://wallstreetcn.com/livenews/3148768",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            9,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时52分 ~ 07时48分]"
+        },
+        {
+          "title": "DeepSeek V4 Pro正式版API更新：多项测试性能接近Fable 5",
+          "url": "https://flash.jin10.com/detail/20260813050715033800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时52分 ~ 06时46分]"
+        },
+        {
+          "title": "如何评价 Deepseek V4Pro 正式版（Deepseek-V4-Pro-0813）？",
+          "url": "https://www.zhihu.com/question/2071019389479023642",
+          "source": "知乎",
+          "ranks": [
+            7,
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时02分 ~ 06时46分]"
+        },
+        {
+          "title": "梁文锋打新宇树科技有望浮盈超7亿",
+          "url": "https://www.toutiao.com/trending/7673280015613627950/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时47分 ~ 07时48分]"
+        },
+        {
+          "title": "DeepSeek V4 Pro正式版API上线",
+          "url": "https://www.toutiao.com/trending/7673284418319945259/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时47分 ~ 07时48分]"
+        },
+        {
+          "title": "DeepSeek官网API文档新增“DeepSeek-V4-Pro-0813”模型",
+          "url": "https://wallstreetcn.com/livenews/3148708",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时01分 ~ 02时03分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 13,
+      "titles": [
+        {
+          "title": "美温和CPI缓解加息压力，光通信领涨美股，Nebius暴涨超34%，美元、黄金齐涨",
+          "url": "https://wallstreetcn.com/articles/3779257",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时46分 ~ 07时48分]"
+        },
+        {
+          "title": "美股收盘：CPI如期放缓削弱加息预期 存储、光通信、新云板块齐飞",
+          "url": "https://www.cls.cn/detail/2452897",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时46分 ~ 07时48分]"
+        },
         {
           "title": "美通胀温和缓解加息压力，美股高开，光通信、存储芯片股领涨，Nebius涨15%，油价震荡",
           "url": "https://wallstreetcn.com/articles/3779257",
@@ -53,6 +237,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时52分 ~ 06时46分]"
+        },
+        {
+          "title": "美股AI算力和存储芯片爆发",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1AI%E7%AE%97%E5%8A%9B%E5%92%8C%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87%E7%88%86%E5%8F%91",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时47分 ~ 07时48分]"
         },
         {
           "title": "美银对冲基金客户继续大买美股 单周规模创出2008年以来之最",
@@ -102,28 +297,6 @@
           "time_info": "01时01分"
         },
         {
-          "title": "美温和CPI缓解加息压力，光通信领涨美股，Nebius暴涨超34%，美元、黄金齐涨",
-          "url": "https://wallstreetcn.com/articles/3779257",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时46分"
-        },
-        {
-          "title": "美股收盘：CPI如期放缓削弱加息预期 存储、光通信、新云板块齐飞",
-          "url": "https://www.cls.cn/detail/2452897",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时46分"
-        },
-        {
           "title": "美股收盘：三大股指涨跌不一，海力士涨9%",
           "url": "https://flash.jin10.com/detail/20260813040109673800",
           "source": "金十数据",
@@ -141,123 +314,9 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时46分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "DeepSeek Pro 正式版已经发布，如何评价该模型？",
-          "url": "https://www.zhihu.com/question/2071014727606703118",
-          "source": "知乎",
-          "ranks": [
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时01分 ~ 06时46分]"
-        },
-        {
-          "title": "DeepSeek V4 Pro正式版上线",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%20Pro%E6%AD%A3%E5%BC%8F%E7%89%88%E4%B8%8A%E7%BA%BF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时01分 ~ 06时46分]"
-        },
-        {
-          "title": "135家私募打新宇树科技获配：头部量化扎堆入围 ，梁文锋旗下幻方、九章拿下私募最大份额",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33764096",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时01分 ~ 06时46分]"
-        },
-        {
-          "title": "梁文锋财富一年暴涨 3850% ，跻身全球亿万富豪榜，他是如何做到的？",
-          "url": "https://www.zhihu.com/question/2070810807168980648",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时01分 ~ 06时46分]"
-        },
-        {
-          "title": "DeepSeek V4 Pro正式版API更新：多项测试性能接近Fable 5",
-          "url": "https://wallstreetcn.com/livenews/3148768",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时52分 ~ 06时46分]"
-        },
-        {
-          "title": "DeepSeek V4 Pro正式版API更新：多项测试性能接近Fable 5",
-          "url": "https://flash.jin10.com/detail/20260813050715033800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时52分 ~ 06时46分]"
-        },
-        {
-          "title": "DeepSeek发布V4Pro正式版",
-          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E5%8F%91%E5%B8%83V4Pro%E6%AD%A3%E5%BC%8F%E7%89%88%23&t=31&band_rank=13&Refer=top",
-          "source": "微博",
-          "ranks": [
-            13,
-            16,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时02分 ~ 05时52分]"
-        },
-        {
-          "title": "如何评价 Deepseek V4Pro 正式版（Deepseek-V4-Pro-0813）？",
-          "url": "https://www.zhihu.com/question/2071019389479023642",
-          "source": "知乎",
-          "ranks": [
-            7,
-            18,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时02分 ~ 06时46分]"
-        },
-        {
-          "title": "DeepSeek官网API文档新增“DeepSeek-V4-Pro-0813”模型",
-          "url": "https://wallstreetcn.com/livenews/3148708",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 02时03分]"
         }
       ]
     },
@@ -300,6 +359,18 @@
           "time_info": "[02时03分 ~ 04时02分]"
         },
         {
+          "title": "但斌美股持仓“大换血”：清仓苹果、特斯拉，减仓谷歌，新进英特尔成第二大持仓、闪迪第四大持仓......",
+          "url": "https://wallstreetcn.com/articles/3779285",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时46分 ~ 07时48分]"
+        },
+        {
           "title": "谷歌：Pixel 11 Pro Fold今日开启预购，将于8月20日上市开售。",
           "url": "https://wallstreetcn.com/livenews/3148713",
           "source": "华尔街见闻-快讯",
@@ -321,17 +392,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时01分"
-        },
-        {
-          "title": "但斌美股持仓“大换血”：清仓苹果、特斯拉，减仓谷歌，新进英特尔成第二大持仓、闪迪第四大持仓......",
-          "url": "https://wallstreetcn.com/articles/3779285",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时46分"
         },
         {
           "title": "谷歌：推出谷歌Pixel Tag。",
@@ -417,8 +477,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时01分 ~ 06时46分]"
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 07时48分]"
         }
       ]
     }

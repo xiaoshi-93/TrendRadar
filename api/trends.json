@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-14T12:52:47.886399+08:00",
-  "total_titles_processed": 941,
+  "generated_at": "2026-08-14T14:19:12.872659+08:00",
+  "total_titles_processed": 1047,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 21,
+      "match_count": 24,
       "titles": [
         {
           "title": "俱往矣!DeepSeek大幅涨价",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时02分 ~ 12时52分]"
+          "appearance_count": 11,
+          "time_info": "[02时02分 ~ 14时19分]"
         },
         {
           "title": "DeepSeek宣布API涨价，8月17日起峰值价格最高涨至27元，新版V4 Pro正式上线",
@@ -28,8 +28,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时02分 ~ 12时52分]"
+          "appearance_count": 11,
+          "time_info": "[02时02分 ~ 14时19分]"
         },
         {
           "title": "怎么看 DeepSeek 8 月 17 日涨价后的价格，这个峰谷定价你接受吗？",
@@ -67,8 +67,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时02分 ~ 12时52分]"
+          "appearance_count": 8,
+          "time_info": "[02时02分 ~ 14时19分]"
         },
         {
           "title": "DeepSeek官方Agent发布",
@@ -77,11 +77,12 @@
           "ranks": [
             5,
             2,
-            21
+            21,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时49分 ~ 10时19分]"
+          "appearance_count": 6,
+          "time_info": "[06时49分 ~ 14时19分]"
         },
         {
           "title": "DeepSeek Harness发布",
@@ -135,6 +136,29 @@
           "time_info": "[02时02分 ~ 07时47分]"
         },
         {
+          "title": "深度解读DeepSeek Harness",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E8%AF%BBDeepSeek%20Harness",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时18分 ~ 14时19分]"
+        },
+        {
+          "title": "DeepSeek Harness 开发者预览版：一切皆插件",
+          "url": "https://wallstreetcn.com/articles/3779385",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时47分 ~ 14时19分]"
+        },
+        {
           "title": "为什么DeepSeek越涨价越是价格屠夫",
           "url": "https://www.toutiao.com/trending/7673637537293798953/",
           "source": "今日头条",
@@ -144,6 +168,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时18分 ~ 10时19分]"
+        },
+        {
+          "title": "DeepSeek V4 大幅涨价后，现在谁才是你心中的大模型性价比之选？",
+          "url": "https://www.zhihu.com/question/2071361705183899939",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时18分 ~ 14时19分]"
         },
         {
           "title": "梁文锋打新宇树科技 1.8 亿获配 120 万股，账面浮盈或超 7.04 亿元，怎样解读他的这一布局？",
@@ -166,9 +201,21 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时52分"
+        },
+        {
+          "title": "DeepSeek Harness 来了，它不想做下一个Codex",
+          "url": "https://wallstreetcn.com/articles/3779390",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时18分 ~ 14时19分]"
         },
         {
           "title": "怎么看 DeepSeek Harness 正式开源，采用一切皆插件的架构？",
@@ -184,18 +231,6 @@
           "time_info": "[02时02分 ~ 06时49分]"
         },
         {
-          "title": "DeepSeek Harness 开发者预览版：一切皆插件",
-          "url": "https://wallstreetcn.com/articles/3779385",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时47分 ~ 12时52分]"
-        },
-        {
           "title": "如何看待 Deepseek Harness 发布？",
           "url": "https://www.zhihu.com/question/2071331484284220938",
           "source": "知乎",
@@ -209,16 +244,15 @@
           "time_info": "[02时02分 ~ 04时53分]"
         },
         {
-          "title": "DeepSeek Harness 来了，它不想做下一个Codex",
-          "url": "https://wallstreetcn.com/articles/3779390",
-          "source": "华尔街见闻",
+          "title": "一个视频看懂DeepSeek Harness",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness",
+          "source": "bilibili 热搜",
           "ranks": [
-            10,
-            8
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时18分 ~ 12时52分]"
+          "appearance_count": 2,
+          "time_info": "[14时18分 ~ 14时19分]"
         },
         {
           "title": "如何看待 DeepSeek 撤回 v4Pro 正式版的公告？",
@@ -238,7 +272,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时52分"
         },
@@ -260,7 +294,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时52分"
         }
@@ -492,8 +526,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时49分 ~ 12时52分]"
+          "appearance_count": 7,
+          "time_info": "[06时49分 ~ 14时19分]"
         },
         {
           "title": "周四（8月13日），美股行业ETF普遍收涨，房地产ETF涨1.42%，日常消费ETF涨1.07%，半导体ETF涨0.76%，金融精选ETF涨0.56%，太阳能ETF、可选消费ETF、地区银行、公用事业ETF涨0.42%-0.48%不等。医疗保健ETF则微跌0.04%。",
@@ -587,11 +621,12 @@
           "url": "https://wallstreetcn.com/articles/3779403",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时52分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时52分 ~ 14时19分]"
         },
         {
           "title": "美国PPI数据公布日，美债收益率普遍下挫",
@@ -657,7 +692,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时52分"
         }
@@ -691,7 +726,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时52分"
         }

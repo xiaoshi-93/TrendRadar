@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-15T02:12:04.950289+08:00",
-  "total_titles_processed": 363,
+  "generated_at": "2026-08-15T03:06:58.916972+08:00",
+  "total_titles_processed": 403,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/articles/3779437",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时00分 ~ 02时12分]"
+          "appearance_count": 5,
+          "time_info": "[01时00分 ~ 03时06分]"
         },
         {
           "title": "沙特主权基金PIF披露美股持仓，SpaceX、艺电等为主要投资标的",
@@ -36,7 +37,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时12分"
         },
@@ -47,7 +48,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时12分"
         }
@@ -65,8 +66,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时00分 ~ 02时12分]"
+          "appearance_count": 5,
+          "time_info": "[01时00分 ~ 03时06分]"
         },
         {
           "title": "网友热议DeepSeek Harness：“自进化软件”的雏形",
@@ -76,8 +77,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时00分 ~ 02时12分]"
+          "appearance_count": 5,
+          "time_info": "[01时00分 ~ 03时06分]"
         },
         {
           "title": "俱往矣!DeepSeek大幅涨价",
@@ -88,8 +89,49 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时00分 ~ 02时12分]"
+          "appearance_count": 4,
+          "time_info": "[01时00分 ~ 03时06分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "自动驾驶",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "自动驾驶都用激光雷达等以后自动驾驶车多起来了，路上的激光雷达会不会相互干扰？",
+          "url": "https://www.zhihu.com/question/455107544",
+          "source": "知乎",
+          "ranks": [
+            19,
+            18,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时00分 ~ 03时06分]"
+        },
+        {
+          "title": "Alphabet旗下自动驾驶公司Waymo：加州公共事业委员会也批准在萨克拉门托和圣地亚哥的服务。",
+          "url": "https://flash.jin10.com/detail/20260815023820986800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时06分"
+        },
+        {
+          "title": "Alphabet旗下自动驾驶公司Waymo：加州公共事业委员会批准在旧金山和洛杉矶扩大自动驾驶网约车服务。",
+          "url": "https://flash.jin10.com/detail/20260815023744873800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时06分"
         }
       ]
     },
@@ -105,8 +147,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时00分 ~ 02时12分]"
+          "appearance_count": 5,
+          "time_info": "[01时00分 ~ 03时06分]"
         },
         {
           "title": "OpenAI首席财务官Friar将于今日举行投资者会议。（CNBC）",
@@ -122,6 +164,23 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "老虎环球Q2建仓SpaceX和AMD 减持谷歌、台积电、英伟达等",
+          "url": "https://flash.jin10.com/detail/20260815024758590800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时06分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 1,
       "titles": [
@@ -130,29 +189,12 @@
           "url": "https://wallstreetcn.com/articles/3779403",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时00分 ~ 02时12分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "自动驾驶",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "自动驾驶都用激光雷达等以后自动驾驶车多起来了，路上的激光雷达会不会相互干扰？",
-          "url": "https://www.zhihu.com/question/455107544",
-          "source": "知乎",
-          "ranks": [
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时00分 ~ 02时12分]"
+          "appearance_count": 5,
+          "time_info": "[01时00分 ~ 03时06分]"
         }
       ]
     }

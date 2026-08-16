@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-17T05:25:24.088338+08:00",
-  "total_titles_processed": 402,
+  "generated_at": "2026-08-17T06:27:05.977303+08:00",
+  "total_titles_processed": 425,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时35分 ~ 05时25分]"
+          "appearance_count": 7,
+          "time_info": "[02时35分 ~ 06时27分]"
         },
         {
           "title": "降幅超50%！英伟达缩减对OpenAI数据中心担保规模",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时35分 ~ 05时25分]"
+          "appearance_count": 7,
+          "time_info": "[02时35分 ~ 06时27分]"
         },
         {
           "title": "英伟达悄然缩减OpenAI数据中心担保规模，从2500亿美元降至1200亿美元以下",
@@ -37,8 +37,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时35分 ~ 05时25分]"
+          "appearance_count": 7,
+          "time_info": "[02时35分 ~ 06时27分]"
         },
         {
           "title": "周末要闻汇总：英伟达缩减对OpenAI数据中心项目担保计划；全国首个算力“Token贷”落地",
@@ -48,8 +48,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时35分 ~ 05时25分]"
+          "appearance_count": 7,
+          "time_info": "[02时35分 ~ 06时27分]"
         }
       ]
     },
@@ -65,8 +65,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时35分 ~ 05时25分]"
+          "appearance_count": 7,
+          "time_info": "[02时35分 ~ 06时27分]"
         },
         {
           "title": "伯克希尔二季度13F持仓变阵：增持谷歌、达美航空，连续两季减持美银",
@@ -76,8 +76,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时35分 ~ 05时25分]"
+          "appearance_count": 7,
+          "time_info": "[02时35分 ~ 06时27分]"
         }
       ]
     },
@@ -91,11 +91,12 @@
           "source": "今日头条",
           "ranks": [
             25,
-            30
+            30,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时24分 ~ 05时25分]"
+          "appearance_count": 6,
+          "time_info": "[03时24分 ~ 06时27分]"
         }
       ]
     }
